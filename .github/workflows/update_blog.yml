@@ -1,0 +1,38 @@
+name: Mise à jour des articles du blog
+
+on:
+  schedule:
+    - cron: "0 8 * * *"   # tous les jours à 8h UTC
+  push:
+    branches: ["main"]
+  workflow_dispatch:       # déclenchement manuel possible
+
+jobs:
+  update:
+    name: Fetch & update blog posts
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Installer les dépendances
+        run: pip install requests
+
+      - name: Mettre à jour le README
+        run: python update_blog.py
+
+      - name: Commit si changements
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "chore: mise à jour des articles du blog"
+          git push
