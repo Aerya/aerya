@@ -40,17 +40,11 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aerya&show_icons=true&hide_border=true&hide_title=true&hide_rank=true&theme=catppuccin_mocha" />
-</div>
-
----
-
 ### 🐳 Selfhosting & Docker
 
 | | |
 |---|---|
-| [**Dockge-Enhanced**](https://github.com/aerya/Dockge-Enhanced) | Fork de Dockge — surveillance d'images, scan Trivy, sauvegardes Restic et monitoring des ressources Docker |
+| [**Dockge-Enhanced**](https://github.com/aerya/Dockge-Enhanced) | Greffon pour Dockge — surveillance d'images, scan Trivy, sauvegardes Restic et monitoring des ressources Docker |
 | [**Stremio-Stack**](https://github.com/aerya/Stremio-Stack) | Stack de base d'addons Stremio pour contenu francophone (plus à jour) |
 | [**PHPSysInfo-Docker**](https://github.com/aerya/PHPSysInfo-Docker) | PHPSysInfo packagé en Docker |
 | [**Docker-MOHAA-server**](https://github.com/aerya/Docker-MOHAA-server) | Serveur Medal of Honor Allied Assault en Docker |
@@ -61,8 +55,8 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 
 | | |
 |---|---|
-| [**Stremio-Seerr-Catalog**](https://github.com/aerya/Stremio-Seerr-Catalog) | Intègre Overseerr / Jellyseerr / Radarr dans Stremio |
-| [**UseFlow-FR**](https://github.com/aerya/UseFlow-FR) | Addon Stremio — catalog RSS |
+| [**Stremio-Seerr-Catalog**](https://github.com/aerya/Stremio-Seerr-Catalog) | Intègre Seerr / Radarr / Sonarr dans Stremio |
+| [**UseFlow-FR**](https://github.com/aerya/UseFlow-FR) | Addon Stremio — Création de catalogues à partir de RSS |
 
 ---
 
@@ -70,8 +64,8 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 
 | | |
 |---|---|
-| [**DecypharrSeed**](https://github.com/aerya/DecypharrSeed) | Seeder automatique des torrents gérés par Decypharr |
-| [**yggtorrent-bulk-downloader**](https://github.com/aerya/yggtorrent-bulk-downloader) | Userscript pour télécharger tous les .torrent d'une page YGG |
+| [**DecypharrSeed**](https://github.com/aerya/DecypharrSeed) | Seeder automatiquement des torrents traités par Decypharr (build 1.1.3 max) |
+| [**[HS] yggtorrent-bulk-downloader**](https://github.com/aerya/yggtorrent-bulk-downloader) | Userscript pour télécharger tous les .torrent d'une page YGG |
 | [**ruTorrent-vs-local-storage-cleaner**](https://github.com/aerya/ruTorrent-vs-local-storage-cleaner) | Nettoie les fichiers présents localement mais absents de ruTorrent |
 
 ---
@@ -80,7 +74,7 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 
 | | |
 |---|---|
-| [**correzeboostemploi**](https://github.com/aerya/correzeboostemploi) | Scraper d'offres CDI/CDD en Corrèze avec alertes Discord |
+| [**correzeboostemploi**](https://github.com/aerya/correzeboostemploi) | Scraper d'offres d'emplois en Corrèze avec alertes Discord |
 | [**ProxySpin**](https://github.com/aerya/ProxySpin) | Proxy HTTP rotatif et anonymisant basé sur Tor, avec panneau de contrôle et extension navigateur |
 | [**MiniVid**](https://github.com/aerya/MiniVid) | Indexation, lecture, tags et favoris pour vos vidéos locales |
 | [**AdGuardFilters-pour-iOS**](https://github.com/aerya/AdGuardFilters-pour-iOS) | Filtres AdGuard optimisés pour iOS |
@@ -91,4 +85,4 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 
 | | |
 |---|---|
-| [**Planet-Warez-Markdown-menu**](https://github.com/aerya/Planet-Warez-Markdown-menu) | Menu Markdown rapide pour Planet-Warez |
+| [**Planet-Warez-Markdown-menu**](https://github.com/aerya/Planet-Warez-Markdown-menu) | Menu Markdown pour la réponse rapide sur Planet-Warez |
