@@ -74,11 +74,11 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 
 | | |
 |---|---|
+| [**HomeGuard**](https://github.com/Aerya/HomeGuard) | Serveur WireGuard pour utiliser son propre serveur DNS depuis un smartphone |
 | [**correzeboostemploi**](https://github.com/aerya/correzeboostemploi) | Scraper d'offres d'emplois en Corrèze avec alertes Discord |
 | [**ProxySpin**](https://github.com/aerya/ProxySpin) | Proxy HTTP rotatif et anonymisant basé sur Tor, avec panneau de contrôle et extension navigateur |
 | [**MiniVid**](https://github.com/aerya/MiniVid) | Indexation, lecture, tags et favoris pour vos vidéos locales |
 | [**AdGuardFilters-pour-iOS**](https://github.com/aerya/AdGuardFilters-pour-iOS) | Filtres AdGuard optimisés pour iOS |
-| [**HomeGuard**](https://github.com/Aerya/HomeGuard) | Serveur WireGuard pour utiliser son propre serveur DNS depuis un smartphone |
 
 ---
 
