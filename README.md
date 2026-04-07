@@ -65,7 +65,7 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 | | |
 |---|---|
 | [**DecypharrSeed**](https://github.com/aerya/DecypharrSeed) | Seeder automatiquement des torrents traités par Decypharr (build 1.1.3 max) |
-| [**[HS] yggtorrent-bulk-downloader**](https://github.com/aerya/yggtorrent-bulk-downloader) | Userscript pour télécharger tous les .torrent d'une page YGG |
+| [**yggtorrent-bulk-downloader**](https://github.com/aerya/yggtorrent-bulk-downloader) | Userscript pour télécharger tous les .torrent d'une page YGG |
 | [**ruTorrent-vs-local-storage-cleaner**](https://github.com/aerya/ruTorrent-vs-local-storage-cleaner) | Nettoie les fichiers présents localement mais absents de ruTorrent |
 
 ---
@@ -78,6 +78,7 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 | [**ProxySpin**](https://github.com/aerya/ProxySpin) | Proxy HTTP rotatif et anonymisant basé sur Tor, avec panneau de contrôle et extension navigateur |
 | [**MiniVid**](https://github.com/aerya/MiniVid) | Indexation, lecture, tags et favoris pour vos vidéos locales |
 | [**AdGuardFilters-pour-iOS**](https://github.com/aerya/AdGuardFilters-pour-iOS) | Filtres AdGuard optimisés pour iOS |
+| [**HomeGuard**](https://github.com/Aerya/HomeGuard) | Serveur WireGuard pour utiliser son propre serveur DNS depuis un smartphone |
 
 ---
 
