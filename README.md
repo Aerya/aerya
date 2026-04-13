@@ -67,6 +67,7 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 | [**DecypharrSeed**](https://github.com/aerya/DecypharrSeed) | Seeder automatiquement des torrents traités par Decypharr (build 1.1.3 max) |
 | [**yggtorrent-bulk-downloader**](https://github.com/aerya/yggtorrent-bulk-downloader) | Userscript pour télécharger tous les .torrent d'une page YGG |
 | [**ruTorrent-vs-local-storage-cleaner**](https://github.com/aerya/ruTorrent-vs-local-storage-cleaner) | Nettoie les fichiers présents localement mais absents de ruTorrent |
+| [**LaCaleNormale**](https://github.com/Aerya/LaCaleNormale) | Userscript remplaçant les menus pirates de LaCale par des intitulés standard |
 
 ---
 
