@@ -14,24 +14,24 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
+      <a href="https://upandclear.org/2026/05/08/jellyfin-100-streaming-via-gelato-et-aiostreams-addon-stremio/">
+        <img src="https://upandclear.org/wp-content/uploads/2026/05/2026-05-08_14-40-59_8479-300x300.jpg" width="240" alt="Jellyfin : 100% streaming via Gelato et AIOStreams (addon Stremio)" /><br/>
+        <b>Jellyfin : 100% streaming via Gelato et AIOStreams (addon Stremio)</b><br/>
+        <sub>8 mai 2026</sub>
+      </a>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <a href="https://upandclear.org/2026/04/22/reparation-switch-double-clic-logitech-g903-lightspeed/">
+        <img src="https://upandclear.org/wp-content/uploads/2026/04/brown-rodent-on-brown-wooden-surface-stockpack-unsplash-300x300.jpg" width="240" alt="Réparation switch double-clic Logitech G903 Lightspeed" /><br/>
+        <b>Réparation switch double-clic Logitech G903 Lightspeed</b><br/>
+        <sub>22 avr 2026</sub>
+      </a>
+    </td>
+    <td align="center" valign="top" width="33%">
       <a href="https://upandclear.org/2026/04/06/indexarr-un-bitmagnet-modernise-et-decouverte-dun-indexeur-usenet/">
         <img src="https://upandclear.org/wp-content/uploads/2026/04/indexarr1-300x300.jpg" width="240" alt="Indexarr : un BitMagnet modernisé. Et découverte d&rsquo;un indexeur Usenet." /><br/>
         <b>Indexarr : un BitMagnet modernisé. Et découverte d&rsquo;un indexeur Usenet.</b><br/>
         <sub>6 avr 2026</sub>
-      </a>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <a href="https://upandclear.org/2026/04/05/bye-bye-stremio-sur-androidtv-et-bienvenue-a-arvio-wuplay-et-nuvio-sur-ios/">
-        <img src="https://upandclear.org/wp-content/uploads/2026/04/wuplay9-300x300.jpg" width="240" alt="Bye bye Stremio sur AndroidTV ! Et bienvenue à Arvio, WuPlay (et Nuvio sur iOS) !" /><br/>
-        <b>Bye bye Stremio sur AndroidTV ! Et bienvenue à Arvio, WuPlay (et Nuvio sur iOS) !</b><br/>
-        <sub>5 avr 2026</sub>
-      </a>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <a href="https://upandclear.org/2026/04/04/stremio-tres-grosse-refonte-de-streamfusion/">
-        <img src="https://upandclear.org/wp-content/uploads/2026/04/sf7-300x300.jpg" width="240" alt="Stremio : très grosse refonte de StreamFusion" /><br/>
-        <b>Stremio : très grosse refonte de StreamFusion</b><br/>
-        <sub>4 avr 2026</sub>
       </a>
     </td>
   </tr>
