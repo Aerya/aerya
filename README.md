@@ -56,7 +56,7 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 | | |
 |---|---|
 | [**Stremio-Seerr-Catalog**](https://github.com/aerya/Stremio-Seerr-Catalog) | Intègre Seerr / Radarr / Sonarr dans Stremio |
-| [**UseFlow-FR**](https://github.com/aerya/UseFlow-FR) | Addon Stremio — Création de catalogues à partir de RSS |
+| [**Stremio RSS Catalog**](https://github.com/Aerya/stremio-rss-catalog) | Addon Stremio — Création de catalogues à partir de RSS/Prowlarr/NZBHydra2 |
 
 ---
 
