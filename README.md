@@ -64,6 +64,7 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 
 | | |
 |---|---|
+| [**Tracker Dashboard**](https://github.com/Aerya/tracker-dashboard) | Regroupement des principales statistiques de vos comptes de trackers BitTorrent |
 | [**DecypharrSeed**](https://github.com/aerya/DecypharrSeed) | Seeder automatiquement des torrents traités par Decypharr (build 1.1.3 max) |
 | [**yggtorrent-bulk-downloader**](https://github.com/aerya/yggtorrent-bulk-downloader) | Userscript pour télécharger tous les .torrent d'une page YGG |
 | [**ruTorrent-vs-local-storage-cleaner**](https://github.com/aerya/ruTorrent-vs-local-storage-cleaner) | Nettoie les fichiers présents localement mais absents de ruTorrent |
