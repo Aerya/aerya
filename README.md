@@ -14,6 +14,13 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
+      <a href="https://upandclear.org/2026/05/21/trakt-enhanced-monitoring-trakt-tv-auto-heberge/">
+        <img src="https://upandclear.org/wp-content/uploads/2026/05/screenshot-300x300.webp" width="240" alt="Trakt Enhanced : monitoring Trakt.tv auto-hébergé" /><br/>
+        <b>Trakt Enhanced : monitoring Trakt.tv auto-hébergé</b><br/>
+        <sub>21 mai 2026</sub>
+      </a>
+    </td>
+    <td align="center" valign="top" width="33%">
       <a href="https://upandclear.org/2026/05/11/syswarden-orchestrateur-de-securite-pour-linux-script-de-mise-a-jour/">
         <img src="https://upandclear.org/wp-content/uploads/2026/05/back-system-desktop-pc-intel-nuc-9-extreme-kit-world-map-background-stockpack-unsplash-300x300.jpg" width="240" alt="SysWarden : orchestrateur de sécurité pour Linux + script de mise à jour" /><br/>
         <b>SysWarden : orchestrateur de sécurité pour Linux + script de mise à jour</b><br/>
@@ -25,13 +32,6 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
         <img src="https://upandclear.org/wp-content/uploads/2026/05/2026-05-08_14-40-59_8479-300x300.jpg" width="240" alt="Jellyfin : 100% streaming via Gelato et AIOStreams (addon Stremio)" /><br/>
         <b>Jellyfin : 100% streaming via Gelato et AIOStreams (addon Stremio)</b><br/>
         <sub>8 mai 2026</sub>
-      </a>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <a href="https://upandclear.org/2026/04/22/reparation-switch-double-clic-logitech-g903-lightspeed/">
-        <img src="https://upandclear.org/wp-content/uploads/2026/04/brown-rodent-on-brown-wooden-surface-stockpack-unsplash-300x300.jpg" width="240" alt="Réparation switch double-clic Logitech G903 Lightspeed" /><br/>
-        <b>Réparation switch double-clic Logitech G903 Lightspeed</b><br/>
-        <sub>22 avr 2026</sub>
       </a>
     </td>
   </tr>
