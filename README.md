@@ -14,24 +14,24 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
-      <a href="https://upandclear.org/2026/05/21/trakt-enhanced-monitoring-trakt-tv-auto-heberge/">
-        <img src="https://upandclear.org/wp-content/uploads/2026/05/screenshot-300x300.webp" width="240" alt="Trakt Enhanced : monitoring Trakt.tv auto-hébergé" /><br/>
-        <b>Trakt Enhanced : monitoring Trakt.tv auto-hébergé</b><br/>
-        <sub>21 mai 2026</sub>
+      <a href="https://upandclear.org/2026/05/28/stremio-postersplus-pour-embellir-ses-catalogues/">
+        <img src="https://upandclear.org/wp-content/uploads/2026/05/showcase-kai-300x300.jpg" width="240" alt="Stremio : PostersPlus, pour embellir ses catalogues" /><br/>
+        <b>Stremio : PostersPlus, pour embellir ses catalogues</b><br/>
+        <sub>28 mai 2026</sub>
       </a>
     </td>
     <td align="center" valign="top" width="33%">
-      <a href="https://upandclear.org/2026/05/11/syswarden-orchestrateur-de-securite-pour-linux-script-de-mise-a-jour/">
-        <img src="https://upandclear.org/wp-content/uploads/2026/05/back-system-desktop-pc-intel-nuc-9-extreme-kit-world-map-background-stockpack-unsplash-300x300.jpg" width="240" alt="SysWarden : orchestrateur de sécurité pour Linux + script de mise à jour" /><br/>
-        <b>SysWarden : orchestrateur de sécurité pour Linux + script de mise à jour</b><br/>
-        <sub>11 mai 2026</sub>
+      <a href="https://upandclear.org/2026/05/28/french-stream-public-stremio-addon/">
+        <img src="https://upandclear.org/wp-content/uploads/2026/05/friends-watching-a-show-stockpack-pexels-300x300.jpg" width="240" alt="French Stream Public Stremio Addon" /><br/>
+        <b>French Stream Public Stremio Addon</b><br/>
+        <sub>28 mai 2026</sub>
       </a>
     </td>
     <td align="center" valign="top" width="33%">
-      <a href="https://upandclear.org/2026/05/08/jellyfin-100-streaming-via-gelato-et-aiostreams-addon-stremio/">
-        <img src="https://upandclear.org/wp-content/uploads/2026/05/2026-05-08_14-40-59_8479-300x300.jpg" width="240" alt="Jellyfin : 100% streaming via Gelato et AIOStreams (addon Stremio)" /><br/>
-        <b>Jellyfin : 100% streaming via Gelato et AIOStreams (addon Stremio)</b><br/>
-        <sub>8 mai 2026</sub>
+      <a href="https://upandclear.org/2026/05/27/claude-code-ui-webui-pour-claude-code-et-codex-notamment-puis-jen-ai-fait-un-docker-avec-traduction-fr/">
+        <img src="https://upandclear.org/wp-content/uploads/2026/05/a-computer-with-a-keyboard-and-mouse-stockpack-unsplash-300x300.jpg" width="240" alt="Claude Code UI : WebUI pour Claude Code et Codex notamment. Puis j&rsquo;en ai fait un Docker avec traduction FR" /><br/>
+        <b>Claude Code UI : WebUI pour Claude Code et Codex notamment. Puis j&rsquo;en ai fait un Docker avec traduction FR</b><br/>
+        <sub>27 mai 2026</sub>
       </a>
     </td>
   </tr>
