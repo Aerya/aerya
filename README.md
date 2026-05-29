@@ -14,6 +14,13 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
+      <a href="https://upandclear.org/2026/05/29/steamtools-et-luatools-steam-sans-passer-par-le-panier-fix-erreur-no-internet-connexion/">
+        <img src="https://upandclear.org/wp-content/uploads/2026/05/rgb-keyboard-stockpack-unsplash-300x300.jpg" width="240" alt="Steamtools et LuaTools : Steam sans passer par le panier. + fix erreur No Internet connexion" /><br/>
+        <b>Steamtools et LuaTools : Steam sans passer par le panier. + fix erreur No Internet connexion</b><br/>
+        <sub>29 mai 2026</sub>
+      </a>
+    </td>
+    <td align="center" valign="top" width="33%">
       <a href="https://upandclear.org/2026/05/28/stremio-postersplus-pour-embellir-ses-catalogues/">
         <img src="https://upandclear.org/wp-content/uploads/2026/05/showcase-kai-300x300.jpg" width="240" alt="Stremio : PostersPlus, pour embellir ses catalogues" /><br/>
         <b>Stremio : PostersPlus, pour embellir ses catalogues</b><br/>
@@ -25,13 +32,6 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
         <img src="https://upandclear.org/wp-content/uploads/2026/05/friends-watching-a-show-stockpack-pexels-300x300.jpg" width="240" alt="French Stream Public Stremio Addon" /><br/>
         <b>French Stream Public Stremio Addon</b><br/>
         <sub>28 mai 2026</sub>
-      </a>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <a href="https://upandclear.org/2026/05/27/claude-code-ui-webui-pour-claude-code-et-codex-notamment-puis-jen-ai-fait-un-docker-avec-traduction-fr/">
-        <img src="https://upandclear.org/wp-content/uploads/2026/05/a-computer-with-a-keyboard-and-mouse-stockpack-unsplash-300x300.jpg" width="240" alt="Claude Code UI : WebUI pour Claude Code et Codex notamment. Puis j&rsquo;en ai fait un Docker avec traduction FR" /><br/>
-        <b>Claude Code UI : WebUI pour Claude Code et Codex notamment. Puis j&rsquo;en ai fait un Docker avec traduction FR</b><br/>
-        <sub>27 mai 2026</sub>
       </a>
     </td>
   </tr>
