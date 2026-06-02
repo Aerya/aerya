@@ -249,8 +249,10 @@ def append_repo_list(lines: list[str], repos: list[dict[str, Any]], cache: dict[
     for repo in repos:
         readme_sha, download_url = fetch_readme_meta(repo)
         summary = get_summary(repo, cache, readme_sha, download_url)
+        stars = repo.get("stargazers_count") or 0
+        stars_prefix = f"★ {stars} · " if stars > 0 else ""
         lines.extend([
-            f"- [**{repo['name']}**]({repo['html_url']})",
+            f"- {stars_prefix}[**{repo['name']}**]({repo['html_url']})",
             f"  {summary}",
             "",
         ])
@@ -266,19 +268,15 @@ def build_markdown(repos: list[dict[str, Any]], cache: dict[str, Any]) -> str:
     lines.extend([
         "---",
         "",
-        "### Stats GitHub",
-        "",
-        '<p align="center">',
-        '  <img src="https://github-readme-stats.vercel.app/api?username=Aerya&show_icons=false&hide_border=true&theme=transparent&locale=fr" alt="Statistiques GitHub" />',
-        '  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aerya&layout=compact&hide_border=true&theme=transparent&locale=fr" alt="Langages les plus utilisés" />',
-        "</p>",
-        "",
-        "---",
-        "",
-        "### Autres repos",
+        "<details>",
+        "<summary>Autres repos</summary>",
         "",
     ])
     append_repo_list(lines, other_repos, cache)
+    lines.extend([
+        "",
+        "</details>",
+    ])
 
     return "\n".join(lines).rstrip()
 

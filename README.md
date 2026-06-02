@@ -43,10 +43,10 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Derniers repos
 
-- [**tracker-dashboard**](https://github.com/Aerya/tracker-dashboard)
+- ★ 6 · [**tracker-dashboard**](https://github.com/Aerya/tracker-dashboard)
   Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
 
-- [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+- ★ 24 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
 - [**MiniVid**](https://github.com/Aerya/MiniVid)
@@ -60,16 +60,8 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 
 ---
 
-### Stats GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aerya&show_icons=false&hide_border=true&theme=transparent&locale=fr" alt="Statistiques GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aerya&layout=compact&hide_border=true&theme=transparent&locale=fr" alt="Langages les plus utilisés" />
-</p>
-
----
-
-### Autres repos
+<details>
+<summary>Autres repos</summary>
 
 - [**Stremio-French-Stream-Docker**](https://github.com/Aerya/Stremio-French-Stream-Docker)
   Packaging Docker autour de Stremio French Stream pour simplifier son déploiement. Le dépôt sert à lancer le service dans un environnement conteneurisé.
@@ -77,22 +69,22 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - [**cronitor-cli-docker**](https://github.com/Aerya/cronitor-cli-docker)
   Image Docker non officielle pour cronitorio/cronitor-cli, construite automatiquement. Pratique pour utiliser le CLI Cronitor dans des stacks conteneurisées.
 
-- [**Stremio-Seerr-Catalog**](https://github.com/Aerya/Stremio-Seerr-Catalog)
+- ★ 2 · [**Stremio-Seerr-Catalog**](https://github.com/Aerya/Stremio-Seerr-Catalog)
   Addon Stremio qui expose les requêtes Over, Jelly ou Seerr sous forme de catalogues. Il fait le lien entre l'écosystème Seerr/Radarr/Sonarr et Stremio.
 
-- [**stremio-rss-catalog**](https://github.com/Aerya/stremio-rss-catalog)
+- ★ 2 · [**stremio-rss-catalog**](https://github.com/Aerya/stremio-rss-catalog)
   Addon Stremio qui génère des catalogues depuis des flux RSS, Prowlarr ou NZBHydra2. Il permet d'intégrer des sources personnalisées directement dans Stremio.
 
-- [**ProxySpin**](https://github.com/Aerya/ProxySpin)
+- ★ 1 · [**ProxySpin**](https://github.com/Aerya/ProxySpin)
   Proxy HTTP rotatif et anonymisant basé sur Tor et des proxys publics. Il fournit aussi un panneau de contrôle web et une extension navigateur.
 
-- [**UseFlow-FR**](https://github.com/Aerya/UseFlow-FR)
+- ★ 1 · [**UseFlow-FR**](https://github.com/Aerya/UseFlow-FR)
   Ancien addon Stremio pour catalogues francophones. Le projet a évolué vers stremio-rss-catalog, qui le remplace pour les usages actuels.
 
 - [**correzeboostemploi**](https://github.com/Aerya/correzeboostemploi)
   Surveillance automatiquement des offres selon critères + alertes Discord
 
-- [**LaCaleNormale**](https://github.com/Aerya/LaCaleNormale)
+- ★ 5 · [**LaCaleNormale**](https://github.com/Aerya/LaCaleNormale)
   Menus "normaux" pour LaCale
 
 - [**HomeGuard**](https://github.com/Aerya/HomeGuard)
@@ -116,10 +108,10 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - [**PHPSysInfo-Docker**](https://github.com/Aerya/PHPSysInfo-Docker)
   Projet public GitHub maintenu dans le cadre de mes outils et expérimentations personnelles.
 
-- [**yggtorrent-bulk-downloader**](https://github.com/Aerya/yggtorrent-bulk-downloader)
+- ★ 1 · [**yggtorrent-bulk-downloader**](https://github.com/Aerya/yggtorrent-bulk-downloader)
   UserScript pour télécharger les .torrent d'une page
 
-- [**Mode-Affiches**](https://github.com/Aerya/Mode-Affiches)
+- ★ 1 · [**Mode-Affiches**](https://github.com/Aerya/Mode-Affiches)
   Mode Affiches pour un indexeur privé
 
 - [**Recpitulatif-Discord-post-installation-pour-SSDv2**](https://github.com/Aerya/Recpitulatif-Discord-post-installation-pour-SSDv2)
@@ -130,4 +122,6 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 
 - [**Docker-MOHAA-server**](https://github.com/Aerya/Docker-MOHAA-server)
   Docker MOHAA server including volume to add contents
+
+</details>
 <!-- REPOS:END -->
