@@ -42,12 +42,12 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <br clear="left"/>
 
 
-#### Au hasard
+#### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2025/07/27/portracker-listing-et-identification-des-ports-utilises-par-docker-et-le-system/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/07/portracker-listing-et-identification-des-ports-u-1753637604-300x300.jpg" width="120" alt="Portracker : listing et identification des ports utilisés par Docker et le System" /></a>
-  <a href="https://upandclear.org/2025/07/27/portracker-listing-et-identification-des-ports-utilises-par-docker-et-le-system/"><b>Portracker : listing et identification des ports utilisés par Docker et le System</b></a><br/>
-  <sub>27 juil 2025</sub>
+  <a href="https://upandclear.org/2024/10/10/quelle-solution-de-serveur-basse-consommation-pour-unraid-pour-ma-part-le-lincstation-n1/"><img align="left" src="https://upandclear.org/wp-content/uploads/2024/10/low-energy-home-server-300x300.png" width="120" alt="Quelle solution de serveur basse consommation pour UNRAID ? Pour ma part : le LincStation N1 !" /></a>
+  <a href="https://upandclear.org/2024/10/10/quelle-solution-de-serveur-basse-consommation-pour-unraid-pour-ma-part-le-lincstation-n1/"><b>Quelle solution de serveur basse consommation pour UNRAID ? Pour ma part : le LincStation N1 !</b></a><br/>
+  <sub>10 oct 2024</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,6 +57,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
+- [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
+  Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
+
 - ★ 6 · [**tracker-dashboard**](https://github.com/Aerya/tracker-dashboard)
   Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
 
@@ -65,9 +68,6 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 
 - [**MiniVid**](https://github.com/Aerya/MiniVid)
   Application pour indexer, lire, taguer et mettre en favoris des vidéos locales. Elle vise une gestion simple d'une bibliothèque vidéo personnelle.
-
-- [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
-  Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
 - [**claudecodeui-docker**](https://github.com/Aerya/claudecodeui-docker)
   Image Docker GHCR personnelle pour CloudCLI et Claude Code UI. Le dépôt automatise le packaging afin de déployer l'interface plus facilement.
