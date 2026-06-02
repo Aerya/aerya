@@ -8,7 +8,7 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 
 ---
 
-### Derniers articles
+### Articles du blog
 
 <!-- BLOG:START -->
 #### Les derniers
@@ -57,9 +57,6 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
-- [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
-  Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
-
 - ★ 6 · [**tracker-dashboard**](https://github.com/Aerya/tracker-dashboard)
   Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
 
@@ -68,6 +65,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 
 - [**MiniVid**](https://github.com/Aerya/MiniVid)
   Application pour indexer, lire, taguer et mettre en favoris des vidéos locales. Elle vise une gestion simple d'une bibliothèque vidéo personnelle.
+
+- [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
+  Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
 - [**claudecodeui-docker**](https://github.com/Aerya/claudecodeui-docker)
   Image Docker GHCR personnelle pour CloudCLI et Claude Code UI. Le dépôt automatise le packaging afin de déployer l'interface plus facilement.
