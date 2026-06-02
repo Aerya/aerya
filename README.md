@@ -82,46 +82,47 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
   Ancien addon Stremio pour catalogues francophones. Le projet a évolué vers stremio-rss-catalog, qui le remplace pour les usages actuels.
 
 - [**correzeboostemploi**](https://github.com/Aerya/correzeboostemploi)
-  Surveillance automatiquement des offres selon critères + alertes Discord
+  Ce script Python surveille les offres d'emploi sur correzeboostemploi.fr, filtre les doublons et les mots-clés indésirables, puis envoie les nouvelles offres via un webhook Discord. Il est configurable via Docker Compose pour les horaires de scraping et les mots à bannir.
 
 - ★ 5 · [**LaCaleNormale**](https://github.com/Aerya/LaCaleNormale)
-  Menus "normaux" pour LaCale
+  Ce dépôt contient un userscript JavaScript pour LaCale, remplaçant le vocabulaire thématique par des termes plus standards et corrigeant des fautes. Il modifie les menus et les options du profil utilisateur.
 
 - [**HomeGuard**](https://github.com/Aerya/HomeGuard)
-  Serveur WireGuard en Docker pour utiliser son propre serveur DNS (AdGuard Home, Pi-hole…) depuis un smartphone, même en dehors du réseau local.
+  Ce dépôt propose un serveur WireGuard sous Docker pour utiliser un serveur DNS personnalisé (AdGuard Home, Pi-hole) depuis un smartphone, même hors du réseau local. Il permet une activation automatique du VPN sauf sur le réseau Wi-Fi domestique.
 
-- [**Stremio-Stack**](https://github.com/Aerya/Stremio-Stack)
-  Stack de base d'addons Stremio pour contenu francophone. Le projet n'est plus maintenu ni à jour.
+- ★ 9 · [**Stremio-Stack**](https://github.com/Aerya/Stremio-Stack)
+  Ce dépôt propose une stack Stremio auto-hébergée, incluant des images Docker multi-architectures pour des sources BitTorrent/débrideurs et IPTV. La configuration requiert des connaissances Linux, Docker, un nom de domaine et des clés API pour les services connexes.
 
-- [**DecypharrSeed**](https://github.com/Aerya/DecypharrSeed)
+- ★ 6 · [**DecypharrSeed**](https://github.com/Aerya/DecypharrSeed)
   Seeder automatique pour des torrents traités par Decypharr. Le projet n'est plus compatible avec les dernières versions de Decypharr.
 
-- [**0xConstant1-stremio-addon-manager**](https://github.com/Aerya/0xConstant1-stremio-addon-manager)
-  Projet public GitHub maintenu dans le cadre de mes outils et expérimentations personnelles.
+- ★ 1 · [**0xConstant1-stremio-addon-manager**](https://github.com/Aerya/0xConstant1-stremio-addon-manager)
+  Ce dépôt est un fork du gestionnaire d'add-ons Stremio, intégrant une construction Docker automatique sur GitHub pour un déploiement simplifié.
 
 - [**ruTorrent-vs-local-storage-cleaner**](https://github.com/Aerya/ruTorrent-vs-local-storage-cleaner)
-  Projet public GitHub maintenu dans le cadre de mes outils et expérimentations personnelles.
+  Ce script Shell nettoie les fichiers et dossiers orphelins dans le répertoire de téléchargement de ruTorrent, en se basant sur les fichiers .torrent actifs. Il offre des options de configuration pour les chemins, les logs, un mode test, le débogage et l'exclusion des fichiers cachés.
 
-- [**BitTorrent-trackers-minimal-rules**](https://github.com/Aerya/BitTorrent-trackers-minimal-rules)
-  Minimal ratio/seedtime rules for some P2P trackers
+- ★ 2 · [**BitTorrent-trackers-minimal-rules**](https://github.com/Aerya/BitTorrent-trackers-minimal-rules)
+  Ce dépôt liste les règles minimales de ratio et de temps de partage (seedtime) pour divers trackers BitTorrent, en se concentrant sur les rangs d'utilisateurs de base. Les noms des trackers sont normalisés selon la convention du wiki Servarr.
 
 - [**PHPSysInfo-Docker**](https://github.com/Aerya/PHPSysInfo-Docker)
-  Projet public GitHub maintenu dans le cadre de mes outils et expérimentations personnelles.
+  Stack de base d'addons Stremio pour contenu francophone. Le projet n'est plus maintenu ni à jour.
 
-- ★ 1 · [**yggtorrent-bulk-downloader**](https://github.com/Aerya/yggtorrent-bulk-downloader)
-  UserScript pour télécharger les .torrent d'une page
+- [**yggtorrent-bulk-downloader**](https://github.com/Aerya/yggtorrent-bulk-downloader)
+  Ce userscript pour YggTorrent permet de télécharger en masse des fichiers `.torrent` depuis une page, avec des options de délai, retries et un mode fallback pour contourner les protections. Il nécessite une extension de userscript et d'être connecté au site.
 
 - ★ 1 · [**Mode-Affiches**](https://github.com/Aerya/Mode-Affiches)
-  Mode Affiches pour un indexeur privé
+  Ce script JavaScript transforme un indexeur privé en une galerie d'affiches responsive avec des informations détaillées et des actions directes pour Radarr/Sonarr. Il inclut des badges de notes, un regroupement intelligent des releases et des mises à jour automatiques.
 
 - [**Recpitulatif-Discord-post-installation-pour-SSDv2**](https://github.com/Aerya/Recpitulatif-Discord-post-installation-pour-SSDv2)
-  Projet public GitHub maintenu dans le cadre de mes outils et expérimentations personnelles.
+  Ce script Shell génère un récapitulatif Discord des containers Docker, incluant leurs images et sous-domaines Traefik, tout en gérant les messages longs et les rate-limits. Il peut être automatisé via un service systemd qui surveille les événements Docker.
 
 - [**Planet-Warez-Markdown-menu**](https://github.com/Aerya/Planet-Warez-Markdown-menu)
-  Menu Markdown rapide pour Plaanet-Warez
+  Ce script JavaScript ajoute une barre d'outils Markdown avec prévisualisation en direct aux zones de texte, particulièrement utile pour Planet-Warez, et s'installe facilement via des gestionnaires de scripts.
 
 - [**Docker-MOHAA-server**](https://github.com/Aerya/Docker-MOHAA-server)
-  Docker MOHAA server including volume to add contents
+  Ce dépôt Docker permet de déployer un serveur de jeu MOHAA 1.12 Reborn. Il inclut un volume dédié pour ajouter facilement du contenu comme des cartes ou des skins.
+
 
 </details>
 <!-- REPOS:END -->
