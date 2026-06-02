@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2024/10/10/quelle-solution-de-serveur-basse-consommation-pour-unraid-pour-ma-part-le-lincstation-n1/"><img align="left" src="https://upandclear.org/wp-content/uploads/2024/10/low-energy-home-server-300x300.png" width="120" alt="Quelle solution de serveur basse consommation pour UNRAID ? Pour ma part : le LincStation N1 !" /></a>
-  <a href="https://upandclear.org/2024/10/10/quelle-solution-de-serveur-basse-consommation-pour-unraid-pour-ma-part-le-lincstation-n1/"><b>Quelle solution de serveur basse consommation pour UNRAID ? Pour ma part : le LincStation N1 !</b></a><br/>
-  <sub>10 oct 2024</sub>
+  <a href="https://upandclear.org/2025/07/06/reiverr-centralisation-jellyfin-sonarr-radarr-tmdb/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/07/reiverr-centralisation-jellyfin-sonarr-radarr-tmdb-300x300.jpg" width="120" alt="Reiverr : centralisation Jellyfin, Sonarr, Radarr, TMDB" /></a>
+  <a href="https://upandclear.org/2025/07/06/reiverr-centralisation-jellyfin-sonarr-radarr-tmdb/"><b>Reiverr : centralisation Jellyfin, Sonarr, Radarr, TMDB</b></a><br/>
+  <sub>6 juil 2025</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,14 +57,17 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
+- ★ 24 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+  Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
+
+- ★ 1 · [**ProxySpin**](https://github.com/Aerya/ProxySpin)
+  Proxy HTTP rotatif et anonymisant basé sur Tor et des proxys publics. Il fournit aussi un panneau de contrôle web et une extension navigateur.
+
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
-- ★ 6 · [**tracker-dashboard**](https://github.com/Aerya/tracker-dashboard)
+- ★ 7 · [**tracker-dashboard**](https://github.com/Aerya/tracker-dashboard)
   Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
-
-- ★ 24 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
-  Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
 - [**MiniVid**](https://github.com/Aerya/MiniVid)
   Application pour indexer, lire, taguer et mettre en favoris des vidéos locales. Elle vise une gestion simple d'une bibliothèque vidéo personnelle.
@@ -78,19 +81,16 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - [**cronitor-cli-docker**](https://github.com/Aerya/cronitor-cli-docker)
   Image Docker non officielle pour cronitorio/cronitor-cli, construite automatiquement. Pratique pour utiliser le CLI Cronitor dans des stacks conteneurisées.
 
-- ★ 2 · [**Stremio-Seerr-Catalog**](https://github.com/Aerya/Stremio-Seerr-Catalog)
-  Addon Stremio qui expose les requêtes Over, Jelly ou Seerr sous forme de catalogues. Il fait le lien entre l'écosystème Seerr/Radarr/Sonarr et Stremio.
-
 ---
 
 <details>
 <summary>Autres repos</summary>
 
+- ★ 2 · [**Stremio-Seerr-Catalog**](https://github.com/Aerya/Stremio-Seerr-Catalog)
+  Addon Stremio qui expose les requêtes Over, Jelly ou Seerr sous forme de catalogues. Il fait le lien entre l'écosystème Seerr/Radarr/Sonarr et Stremio.
+
 - ★ 2 · [**stremio-rss-catalog**](https://github.com/Aerya/stremio-rss-catalog)
   Addon Stremio qui génère des catalogues depuis des flux RSS, Prowlarr ou NZBHydra2. Il permet d'intégrer des sources personnalisées directement dans Stremio.
-
-- ★ 1 · [**ProxySpin**](https://github.com/Aerya/ProxySpin)
-  Proxy HTTP rotatif et anonymisant basé sur Tor et des proxys publics. Il fournit aussi un panneau de contrôle web et une extension navigateur.
 
 - ★ 1 · [**UseFlow-FR**](https://github.com/Aerya/UseFlow-FR)
   Ancien addon Stremio pour catalogues francophones. Le projet a évolué vers stremio-rss-catalog, qui le remplace pour les usages actuels.
