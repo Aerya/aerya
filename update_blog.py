@@ -5,6 +5,7 @@ Utilise l'API WordPress REST pour récupérer titre, lien, date et image feature
 """
 
 import html
+import random
 import re
 import sys
 from datetime import datetime
@@ -15,7 +16,8 @@ import requests
 API_URL = "https://upandclear.org/wp-json/wp/v2/posts"
 README = Path(__file__).parent / "README.md"
 NB_POSTS = 4
-IMAGE_WIDTH = 140
+LATEST_IMAGE_WIDTH = 72
+RANDOM_IMAGE_WIDTH = 120
 
 MONTHS_FR = {
     1: "jan", 2: "fév", 3: "mar", 4: "avr",
@@ -44,6 +46,49 @@ def fetch_posts() -> list[dict]:
     return resp.json()
 
 
+def fetch_random_post(excluded_ids: set[int]) -> dict | None:
+    count_resp = requests.get(
+        API_URL,
+        params={"per_page": 1},
+        headers={
+            "User-Agent": (
+                "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                "AppleWebKit/537.36 (KHTML, like Gecko) "
+                "Chrome/124.0.0.0 Safari/537.36"
+            ),
+        },
+        timeout=15,
+    )
+    count_resp.raise_for_status()
+    total = int(count_resp.headers.get("X-WP-Total", "0"))
+    if total <= NB_POSTS:
+        return None
+
+    for _ in range(8):
+        page = random.randint(1, total)
+        resp = requests.get(
+            API_URL,
+            params={
+                "per_page": 1,
+                "page": page,
+                "_embed": "wp:featuredmedia",
+            },
+            headers={
+                "User-Agent": (
+                    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                    "AppleWebKit/537.36 (KHTML, like Gecko) "
+                    "Chrome/124.0.0.0 Safari/537.36"
+                ),
+            },
+            timeout=15,
+        )
+        resp.raise_for_status()
+        posts = resp.json()
+        if posts and posts[0].get("id") not in excluded_ids:
+            return posts[0]
+    return None
+
+
 def get_image(post: dict) -> str:
     """Retourne l'URL de l'image featured (taille medium si dispo, sinon full)."""
     try:
@@ -62,32 +107,61 @@ def format_date(iso: str) -> str:
     return f"{dt.day} {MONTHS_FR[dt.month]} {dt.year}"
 
 
-def build_html(posts: list[dict]) -> str:
-    rows = []
-    for index, post in enumerate(posts):
-        title = html.unescape(post["title"]["rendered"])
-        title_attr = html.escape(title, quote=True)
-        link = post["link"]
-        date = format_date(post["date"])
-        img = get_image(post)
+def format_latest_post(post: dict) -> str:
+    title = html.unescape(post["title"]["rendered"])
+    title_attr = html.escape(title, quote=True)
+    link = post["link"]
+    date = format_date(post["date"])
+    img = get_image(post)
+    img_tag = (
+        f'<a href="{link}"><img align="left" src="{img}" width="{LATEST_IMAGE_WIDTH}" alt="{title_attr}" /></a>'
+        if img else ""
+    )
+    return (
+        '<p>\n'
+        f'  {img_tag}\n'
+        f'  <a href="{link}"><b>{html.escape(title)}</b></a><br/>\n'
+        f'  <sub>{date}</sub>\n'
+        '</p>\n'
+        '<br clear="left"/>'
+    )
 
-        image_cell = (
-            f'    <td align="center" valign="middle" width="30%">\n'
-            f'      <a href="{link}"><img src="{img}" width="{IMAGE_WIDTH}" alt="{title_attr}" /></a>\n'
-            f'    </td>\n'
-            if img else
-            '    <td width="30%"></td>\n'
-        )
-        text_cell = (
-            f'    <td align="left" valign="middle" width="70%">\n'
-            f'      <a href="{link}"><b>{html.escape(title)}</b></a><br/>\n'
-            f'      <sub>{date}</sub>\n'
-            f'    </td>\n'
-        )
-        cells = image_cell + text_cell if index % 2 == 0 else text_cell + image_cell
-        rows.append(f"  <tr>\n{cells}  </tr>")
 
-    return '<table width="100%">\n' + "\n".join(rows) + '\n</table>'
+def format_random_post(post: dict) -> str:
+    title = html.unescape(post["title"]["rendered"])
+    title_attr = html.escape(title, quote=True)
+    link = post["link"]
+    date = format_date(post["date"])
+    img = get_image(post)
+    img_tag = (
+        f'<a href="{link}"><img align="left" src="{img}" width="{RANDOM_IMAGE_WIDTH}" alt="{title_attr}" /></a>'
+        if img else ""
+    )
+    return (
+        '<p>\n'
+        f'  {img_tag}\n'
+        f'  <a href="{link}"><b>{html.escape(title)}</b></a><br/>\n'
+        f'  <sub>{date}</sub>\n'
+        '</p>\n'
+        '<br clear="left"/>'
+    )
+
+
+def build_html(posts: list[dict], random_post: dict | None) -> str:
+    lines = ["#### Les derniers", ""]
+    for post in posts:
+        lines.append(format_latest_post(post))
+        lines.append("")
+
+    if random_post:
+        lines.extend([
+            "",
+            "#### Au hasard du blog",
+            "",
+            format_random_post(random_post),
+        ])
+
+    return "\n".join(lines)
 
 
 def update_readme(html_block: str) -> None:
@@ -109,7 +183,8 @@ def update_readme(html_block: str) -> None:
 if __name__ == "__main__":
     try:
         posts = fetch_posts()
-        html_block = build_html(posts)
+        random_post = fetch_random_post({post["id"] for post in posts})
+        html_block = build_html(posts, random_post)
         update_readme(html_block)
     except requests.RequestException as e:
         print(f"Erreur API : {e}", file=sys.stderr)
