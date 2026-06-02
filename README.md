@@ -42,7 +42,7 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <br clear="left"/>
 
 
-#### Au hasard du blog
+#### Au hasard
 
 <p>
   <a href="https://upandclear.org/2026/03/28/gerer-ses-conteneurs-docker-autrement-le-fork-dockge-enhanced-surveillance-dimages-scan-cve-backup-automatique-gestion-des-ressources/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/03/enhanced11-300x300.png" width="120" alt="Gérer ses conteneurs Docker autrement : le fork Dockge Enhanced (surveillance d’images, scan CVE, backup automatique, gestion des ressources)" /></a>
