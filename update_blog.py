@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
 """
-Met à jour la section blog du README.md avec les 3 derniers articles d'upandclear.org.
+Met à jour la section blog du README.md avec les derniers articles d'upandclear.org.
 Utilise l'API WordPress REST pour récupérer titre, lien, date et image featured.
 """
 
+import html
 import re
 import sys
 from datetime import datetime
@@ -11,8 +12,8 @@ from pathlib import Path
 
 import requests
 
-API_URL  = "https://upandclear.org/wp-json/wp/v2/posts"
-README   = Path(__file__).parent / "README.md"
+API_URL = "https://upandclear.org/wp-json/wp/v2/posts"
+README = Path(__file__).parent / "README.md"
 NB_POSTS = 3
 
 MONTHS_FR = {
@@ -27,10 +28,14 @@ def fetch_posts() -> list[dict]:
         API_URL,
         params={
             "per_page": NB_POSTS,
-            "_embed":   "wp:featuredmedia",
+            "_embed": "wp:featuredmedia",
         },
         headers={
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+            "User-Agent": (
+                "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                "AppleWebKit/537.36 (KHTML, like Gecko) "
+                "Chrome/124.0.0.0 Safari/537.36"
+            ),
         },
         timeout=15,
     )
@@ -57,39 +62,37 @@ def format_date(iso: str) -> str:
 
 
 def build_html(posts: list[dict]) -> str:
-    cells = ""
-    for post in posts:
-        title = post["title"]["rendered"]
-        link  = post["link"]
-        date  = format_date(post["date"])
-        img   = get_image(post)
+    rows = []
+    for row_start in range(0, len(posts), 3):
+        cells = ""
+        for post in posts[row_start:row_start + 3]:
+            title = html.unescape(post["title"]["rendered"])
+            title_attr = html.escape(title, quote=True)
+            link = post["link"]
+            date = format_date(post["date"])
+            img = get_image(post)
 
-        img_tag = (
-            f'<img src="{img}" width="240" alt="{title}" /><br/>'
-            if img else ""
-        )
-        cells += (
-            f'    <td align="center" valign="top" width="33%">\n'
-            f'      <a href="{link}">\n'
-            f'        {img_tag}\n'
-            f'        <b>{title}</b><br/>\n'
-            f'        <sub>{date}</sub>\n'
-            f'      </a>\n'
-            f'    </td>\n'
-        )
+            img_tag = (
+                f'<img src="{img}" width="240" alt="{title_attr}" /><br/>'
+                if img else ""
+            )
+            cells += (
+                f'    <td align="center" valign="top" width="33%">\n'
+                f'      <a href="{link}">\n'
+                f'        {img_tag}\n'
+                f'        <b>{html.escape(title)}</b><br/>\n'
+                f'        <sub>{date}</sub>\n'
+                f'      </a>\n'
+                f'    </td>\n'
+            )
+        rows.append(f"  <tr>\n{cells}  </tr>")
 
-    return (
-        '<table>\n'
-        '  <tr>\n'
-        f'{cells}'
-        '  </tr>\n'
-        '</table>'
-    )
+    return '<table>\n' + "\n".join(rows) + '\n</table>'
 
 
-def update_readme(html: str) -> None:
+def update_readme(html_block: str) -> None:
     content = README.read_text(encoding="utf-8")
-    new_block = f"<!-- BLOG:START -->\n{html}\n<!-- BLOG:END -->"
+    new_block = f"<!-- BLOG:START -->\n{html_block}\n<!-- BLOG:END -->"
     updated = re.sub(
         r"<!-- BLOG:START -->.*?<!-- BLOG:END -->",
         new_block,
@@ -106,8 +109,8 @@ def update_readme(html: str) -> None:
 if __name__ == "__main__":
     try:
         posts = fetch_posts()
-        html  = build_html(posts)
-        update_readme(html)
+        html_block = build_html(posts)
+        update_readme(html_block)
     except requests.RequestException as e:
         print(f"Erreur API : {e}", file=sys.stderr)
         sys.exit(1)

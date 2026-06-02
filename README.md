@@ -2,36 +2,36 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=89B4FA&center=true&vCenter=true&width=600&lines=Geek+corr%C3%A9zien.;Je+selfhoste%2C+je+bidouille.;J%27%C3%A9vite+les+GAFAM+autant+que+possible." alt="Typing animation" />
 </div>
 
-La plupart de mes repos sont des outils dont j'avais besoin et qui n'existaient pas — ou pas comme je les voulais.
+La plupart de mes repos sont des outils dont j'avais besoin et qui n'existaient pas, ou pas comme je les voulais.
 
 J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 
 ---
 
-### 📝 Derniers articles
+### Derniers articles
 
 <!-- BLOG:START -->
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
-      <a href="https://upandclear.org/2026/05/11/syswarden-orchestrateur-de-securite-pour-linux-script-de-mise-a-jour/">
-        <img src="https://upandclear.org/wp-content/uploads/2026/05/back-system-desktop-pc-intel-nuc-9-extreme-kit-world-map-background-stockpack-unsplash-300x300.jpg" width="240" alt="SysWarden : orchestrateur de sécurité pour Linux + script de mise à jour" /><br/>
-        <b>SysWarden : orchestrateur de sécurité pour Linux + script de mise à jour</b><br/>
-        <sub>11 mai 2026</sub>
+      <a href="https://upandclear.org/2026/05/29/steamtools-et-luatools-steam-sans-passer-par-le-panier-fix-erreur-no-internet-connexion/">
+        <img src="https://upandclear.org/wp-content/uploads/2026/05/rgb-keyboard-stockpack-unsplash-300x300.jpg" width="240" alt="Steamtools et LuaTools : Steam sans passer par le panier. + fix erreur No Internet connexion" /><br/>
+        <b>Steamtools et LuaTools : Steam sans passer par le panier. + fix erreur No Internet connexion</b><br/>
+        <sub>29 mai 2026</sub>
       </a>
     </td>
     <td align="center" valign="top" width="33%">
-      <a href="https://upandclear.org/2026/05/08/jellyfin-100-streaming-via-gelato-et-aiostreams-addon-stremio/">
-        <img src="https://upandclear.org/wp-content/uploads/2026/05/2026-05-08_14-40-59_8479-300x300.jpg" width="240" alt="Jellyfin : 100% streaming via Gelato et AIOStreams (addon Stremio)" /><br/>
-        <b>Jellyfin : 100% streaming via Gelato et AIOStreams (addon Stremio)</b><br/>
-        <sub>8 mai 2026</sub>
+      <a href="https://upandclear.org/2026/05/28/stremio-postersplus-pour-embellir-ses-catalogues/">
+        <img src="https://upandclear.org/wp-content/uploads/2026/05/showcase-kai-300x300.jpg" width="240" alt="Stremio : PostersPlus, pour embellir ses catalogues" /><br/>
+        <b>Stremio : PostersPlus, pour embellir ses catalogues</b><br/>
+        <sub>28 mai 2026</sub>
       </a>
     </td>
     <td align="center" valign="top" width="33%">
-      <a href="https://upandclear.org/2026/04/22/reparation-switch-double-clic-logitech-g903-lightspeed/">
-        <img src="https://upandclear.org/wp-content/uploads/2026/04/brown-rodent-on-brown-wooden-surface-stockpack-unsplash-300x300.jpg" width="240" alt="Réparation switch double-clic Logitech G903 Lightspeed" /><br/>
-        <b>Réparation switch double-clic Logitech G903 Lightspeed</b><br/>
-        <sub>22 avr 2026</sub>
+      <a href="https://upandclear.org/2026/05/28/french-stream-public-stremio-addon/">
+        <img src="https://upandclear.org/wp-content/uploads/2026/05/friends-watching-a-show-stockpack-pexels-300x300.jpg" width="240" alt="French Stream Public Stremio Addon" /><br/>
+        <b>French Stream Public Stremio Addon</b><br/>
+        <sub>28 mai 2026</sub>
       </a>
     </td>
   </tr>
@@ -40,52 +40,94 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 
 ---
 
-### 🐳 Selfhosting & Docker
+<!-- REPOS:START -->
+### Derniers repos
 
-| | |
-|---|---|
-| [**Dockge-Enhanced**](https://github.com/aerya/Dockge-Enhanced) | Greffon pour Dockge — surveillance d'images, scan Trivy, sauvegardes Restic et monitoring des ressources Docker |
-| [**Stremio-Stack**](https://github.com/aerya/Stremio-Stack) | Stack de base d'addons Stremio pour contenu francophone (plus à jour) |
-| [**PHPSysInfo-Docker**](https://github.com/aerya/PHPSysInfo-Docker) | PHPSysInfo packagé en Docker |
-| [**Docker-MOHAA-server**](https://github.com/aerya/Docker-MOHAA-server) | Serveur Medal of Honor Allied Assault en Docker |
+- [**tracker-dashboard**](https://github.com/Aerya/tracker-dashboard)
+  Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
 
----
+- [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+  Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
-### 🎬 Stremio
+- [**MiniVid**](https://github.com/Aerya/MiniVid)
+  Application pour indexer, lire, taguer et mettre en favoris des vidéos locales. Elle vise une gestion simple d'une bibliothèque vidéo personnelle.
 
-| | |
-|---|---|
-| [**Stremio-Seerr-Catalog**](https://github.com/aerya/Stremio-Seerr-Catalog) | Intègre Seerr / Radarr / Sonarr dans Stremio |
-| [**Stremio RSS Catalog**](https://github.com/Aerya/stremio-rss-catalog) | Addon Stremio — Création de catalogues à partir de RSS/Prowlarr/NZBHydra2 |
+- [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
+  Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
----
-
-### 🌀 Torrent & P2P
-
-| | |
-|---|---|
-| [**Tracker Dashboard**](https://github.com/Aerya/tracker-dashboard) | Regroupement des principales statistiques de vos trackers BitTorrent |
-| [**DecypharrSeed**](https://github.com/aerya/DecypharrSeed) | Seeder automatiquement des torrents traités par Decypharr (build 1.1.3 max) |
-| [**yggtorrent-bulk-downloader**](https://github.com/aerya/yggtorrent-bulk-downloader) | Userscript pour télécharger tous les .torrent d'une page YGG |
-| [**ruTorrent-vs-local-storage-cleaner**](https://github.com/aerya/ruTorrent-vs-local-storage-cleaner) | Nettoie les fichiers présents localement mais absents de ruTorrent |
-| [**LaCaleNormale**](https://github.com/Aerya/LaCaleNormale) | Userscript remplaçant les menus pirates de LaCale par des intitulés standard |
+- [**claudecodeui-docker**](https://github.com/Aerya/claudecodeui-docker)
+  Image Docker GHCR personnelle pour CloudCLI et Claude Code UI. Le dépôt automatise le packaging afin de déployer l'interface plus facilement.
 
 ---
 
-### 🛠️ Outils
+### Stats GitHub
 
-| | |
-|---|---|
-| [**HomeGuard**](https://github.com/Aerya/HomeGuard) | Serveur WireGuard pour utiliser son propre serveur DNS depuis un smartphone |
-| [**correzeboostemploi**](https://github.com/aerya/correzeboostemploi) | Scraper d'offres d'emplois en Corrèze avec alertes Discord |
-| [**ProxySpin**](https://github.com/aerya/ProxySpin) | Proxy HTTP rotatif et anonymisant basé sur Tor, avec panneau de contrôle et extension navigateur |
-| [**MiniVid**](https://github.com/aerya/MiniVid) | Indexation, lecture, tags et favoris pour vos vidéos locales |
-| [**AdGuardFilters-pour-iOS**](https://github.com/aerya/AdGuardFilters-pour-iOS) | Filtres AdGuard optimisés pour iOS |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aerya&show_icons=false&hide_border=true&theme=transparent&locale=fr" alt="Statistiques GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aerya&layout=compact&hide_border=true&theme=transparent&locale=fr" alt="Langages les plus utilisés" />
+</p>
 
 ---
 
-### 📄 Divers
+### Autres repos
 
-| | |
-|---|---|
-| [**Planet-Warez-Markdown-menu**](https://github.com/aerya/Planet-Warez-Markdown-menu) | Menu Markdown pour la réponse rapide sur Planet-Warez |
+- [**Stremio-French-Stream-Docker**](https://github.com/Aerya/Stremio-French-Stream-Docker)
+  Packaging Docker autour de Stremio French Stream pour simplifier son déploiement. Le dépôt sert à lancer le service dans un environnement conteneurisé.
+
+- [**cronitor-cli-docker**](https://github.com/Aerya/cronitor-cli-docker)
+  Image Docker non officielle pour cronitorio/cronitor-cli, construite automatiquement. Pratique pour utiliser le CLI Cronitor dans des stacks conteneurisées.
+
+- [**Stremio-Seerr-Catalog**](https://github.com/Aerya/Stremio-Seerr-Catalog)
+  Addon Stremio qui expose les requêtes Over, Jelly ou Seerr sous forme de catalogues. Il fait le lien entre l'écosystème Seerr/Radarr/Sonarr et Stremio.
+
+- [**stremio-rss-catalog**](https://github.com/Aerya/stremio-rss-catalog)
+  Addon Stremio qui génère des catalogues depuis des flux RSS, Prowlarr ou NZBHydra2. Il permet d'intégrer des sources personnalisées directement dans Stremio.
+
+- [**ProxySpin**](https://github.com/Aerya/ProxySpin)
+  Proxy HTTP rotatif et anonymisant basé sur Tor et des proxys publics. Il fournit aussi un panneau de contrôle web et une extension navigateur.
+
+- [**UseFlow-FR**](https://github.com/Aerya/UseFlow-FR)
+  Ancien addon Stremio pour catalogues francophones. Le projet a évolué vers stremio-rss-catalog, qui le remplace pour les usages actuels.
+
+- [**correzeboostemploi**](https://github.com/Aerya/correzeboostemploi)
+  Surveillance automatiquement des offres selon critères + alertes Discord
+
+- [**LaCaleNormale**](https://github.com/Aerya/LaCaleNormale)
+  Menus "normaux" pour LaCale
+
+- [**HomeGuard**](https://github.com/Aerya/HomeGuard)
+  Serveur WireGuard en Docker pour utiliser son propre serveur DNS (AdGuard Home, Pi-hole…) depuis un smartphone, même en dehors du réseau local.
+
+- [**Stremio-Stack**](https://github.com/Aerya/Stremio-Stack)
+  Stack de base d'addons Stremio pour contenu francophone. Le projet n'est plus maintenu ni à jour.
+
+- [**DecypharrSeed**](https://github.com/Aerya/DecypharrSeed)
+  Seeder automatique pour des torrents traités par Decypharr. Le projet n'est plus compatible avec les dernières versions de Decypharr.
+
+- [**0xConstant1-stremio-addon-manager**](https://github.com/Aerya/0xConstant1-stremio-addon-manager)
+  Projet public GitHub maintenu dans le cadre de mes outils et expérimentations personnelles.
+
+- [**ruTorrent-vs-local-storage-cleaner**](https://github.com/Aerya/ruTorrent-vs-local-storage-cleaner)
+  Projet public GitHub maintenu dans le cadre de mes outils et expérimentations personnelles.
+
+- [**BitTorrent-trackers-minimal-rules**](https://github.com/Aerya/BitTorrent-trackers-minimal-rules)
+  Minimal ratio/seedtime rules for some P2P trackers
+
+- [**PHPSysInfo-Docker**](https://github.com/Aerya/PHPSysInfo-Docker)
+  Projet public GitHub maintenu dans le cadre de mes outils et expérimentations personnelles.
+
+- [**yggtorrent-bulk-downloader**](https://github.com/Aerya/yggtorrent-bulk-downloader)
+  UserScript pour télécharger les .torrent d'une page
+
+- [**Mode-Affiches**](https://github.com/Aerya/Mode-Affiches)
+  Mode Affiches pour un indexeur privé
+
+- [**Recpitulatif-Discord-post-installation-pour-SSDv2**](https://github.com/Aerya/Recpitulatif-Discord-post-installation-pour-SSDv2)
+  Projet public GitHub maintenu dans le cadre de mes outils et expérimentations personnelles.
+
+- [**Planet-Warez-Markdown-menu**](https://github.com/Aerya/Planet-Warez-Markdown-menu)
+  Menu Markdown rapide pour Plaanet-Warez
+
+- [**Docker-MOHAA-server**](https://github.com/Aerya/Docker-MOHAA-server)
+  Docker MOHAA server including volume to add contents
+<!-- REPOS:END -->

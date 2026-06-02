@@ -1,0 +1,155 @@
+{
+  "repos": {
+    "Aerya/0xConstant1-stremio-addon-manager": {
+      "fingerprint": "a8c0a318c01afeb0e409fb2b4da15770841b32822e3da529e3e08dceb56382d3",
+      "source": "github-description",
+      "summary": "Projet public GitHub maintenu dans le cadre de mes outils et expérimentations personnelles.",
+      "updated_at": "2026-06-02T08:23:20+00:00"
+    },
+    "Aerya/AdGuardFilters-pour-iOS": {
+      "fingerprint": "3d7aaee2c8e3ff5927369b1ccb89c13e368ec0adbf527d6fca4ef32b6359b659",
+      "source": "manual",
+      "summary": "Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.",
+      "updated_at": "2026-06-02T07:09:35+00:00"
+    },
+    "Aerya/BitTorrent-trackers-minimal-rules": {
+      "fingerprint": "cc96cfea34627eedfd59044d6e61277871605a20c25c04a3fa25b992ba4c1b90",
+      "source": "github-description",
+      "summary": "Minimal ratio/seedtime rules for some P2P trackers",
+      "updated_at": "2026-06-02T08:23:21+00:00"
+    },
+    "Aerya/DecypharrSeed": {
+      "fingerprint": "c151455a8b05a7d071708c2f70bb3fc0148d1597d26ff64bd5d2339636d8d011",
+      "source": "manual",
+      "summary": "Seeder automatique pour des torrents traités par Decypharr. Le projet n'est plus compatible avec les dernières versions de Decypharr.",
+      "updated_at": "2026-06-02T08:23:19+00:00"
+    },
+    "Aerya/Docker-MOHAA-server": {
+      "fingerprint": "52b95a0b9ee226032b4e79eb2e3e95423e9f580749781e7523660c0c0f540d45",
+      "source": "github-description",
+      "summary": "Docker MOHAA server including volume to add contents",
+      "updated_at": "2026-06-02T08:23:23+00:00"
+    },
+    "Aerya/Dockge-Enhanced": {
+      "fingerprint": "f421698a30d1178cd26b9a3802f3341b60768ffc2d98f26b53ad76a8264d866c",
+      "source": "manual",
+      "summary": "Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.",
+      "updated_at": "2026-06-02T07:09:34+00:00"
+    },
+    "Aerya/HomeGuard": {
+      "fingerprint": "af093c48af58cbc34325c85e45f7445725db52fe05391d3d3427d62f79467924",
+      "source": "github-description",
+      "summary": "Serveur WireGuard en Docker pour utiliser son propre serveur DNS (AdGuard Home, Pi-hole…) depuis un smartphone, même en dehors du réseau local.",
+      "updated_at": "2026-06-02T08:23:19+00:00"
+    },
+    "Aerya/LaCaleNormale": {
+      "fingerprint": "0b59da8a7c10944b09632ddefeaef461f3f39ca85b5ce0ecb86e1862ed67ea26",
+      "source": "github-description",
+      "summary": "Menus \"normaux\" pour LaCale",
+      "updated_at": "2026-06-02T08:23:18+00:00"
+    },
+    "Aerya/MiniVid": {
+      "fingerprint": "f03b5537550d47dcf125294d39a4f179be1ea4af12433346b665b4e9ef7a629f",
+      "source": "manual",
+      "summary": "Application pour indexer, lire, taguer et mettre en favoris des vidéos locales. Elle vise une gestion simple d'une bibliothèque vidéo personnelle.",
+      "updated_at": "2026-06-02T07:09:35+00:00"
+    },
+    "Aerya/Mode-Affiches": {
+      "fingerprint": "58d90c881e6dec9c8a3929cc30a5990cf37be127ea382aa7dac767bfa06d9603",
+      "source": "github-description",
+      "summary": "Mode Affiches pour un indexeur privé",
+      "updated_at": "2026-06-02T08:23:22+00:00"
+    },
+    "Aerya/PHPSysInfo-Docker": {
+      "fingerprint": "520ac2de628b2a93df9e1a2e6a9aab38c9e683ed5a01fc770b8c654b7781dfa6",
+      "source": "manual",
+      "summary": "Stack de base d'addons Stremio pour contenu francophone. Le projet n'est plus maintenu ni à jour.",
+      "updated_at": "2026-06-02T08:23:21+00:00"
+    },
+    "Aerya/Planet-Warez-Markdown-menu": {
+      "fingerprint": "1e73f487ef8bd68743520c6695df01ef600a5a45022b3e47a4f929c4a7bdb289",
+      "source": "github-description",
+      "summary": "Menu Markdown rapide pour Plaanet-Warez",
+      "updated_at": "2026-06-02T08:23:22+00:00"
+    },
+    "Aerya/ProxySpin": {
+      "fingerprint": "c872712ce9f675cb76599f4b044b3ca2913fa466a9aaa650fddd5138f6d514b8",
+      "source": "manual",
+      "summary": "Proxy HTTP rotatif et anonymisant basé sur Tor et des proxys publics. Il fournit aussi un panneau de contrôle web et une extension navigateur.",
+      "updated_at": "2026-06-02T07:09:40+00:00"
+    },
+    "Aerya/Recpitulatif-Discord-post-installation-pour-SSDv2": {
+      "fingerprint": "6026442553e89d354298a4aeabae17b716aa9b3f4c0bf890754c363beb459fcd",
+      "source": "github-description",
+      "summary": "Projet public GitHub maintenu dans le cadre de mes outils et expérimentations personnelles.",
+      "updated_at": "2026-06-02T08:23:22+00:00"
+    },
+    "Aerya/Stremio-French-Stream-Docker": {
+      "fingerprint": "4fda12f9ff3f98116dea013dbe730de2cba6a5bc2498311edaf533f01af5f53f",
+      "source": "manual",
+      "summary": "Packaging Docker autour de Stremio French Stream pour simplifier son déploiement. Le dépôt sert à lancer le service dans un environnement conteneurisé.",
+      "updated_at": "2026-06-02T07:09:37+00:00"
+    },
+    "Aerya/Stremio-Seerr-Catalog": {
+      "fingerprint": "6c038568778a45b6738cf8b831e29516943efeb5efd2250b932b5adcdf9e6da9",
+      "source": "manual",
+      "summary": "Addon Stremio qui expose les requêtes Over, Jelly ou Seerr sous forme de catalogues. Il fait le lien entre l'écosystème Seerr/Radarr/Sonarr et Stremio.",
+      "updated_at": "2026-06-02T07:09:38+00:00"
+    },
+    "Aerya/Stremio-Stack": {
+      "fingerprint": "f116fbe1eea7f94ee914f5ce65b312abaa9a4ae049aff718ce5f73f95cdf0a4b",
+      "source": "github-description",
+      "summary": "Projet public GitHub maintenu dans le cadre de mes outils et expérimentations personnelles.",
+      "updated_at": "2026-06-02T08:23:19+00:00"
+    },
+    "Aerya/UseFlow-FR": {
+      "fingerprint": "0af10dd758dd7e0577f2703e2cb2d78bd0a824643fec1ea859980c644eb787ff",
+      "source": "manual",
+      "summary": "Ancien addon Stremio pour catalogues francophones. Le projet a évolué vers stremio-rss-catalog, qui le remplace pour les usages actuels.",
+      "updated_at": "2026-06-02T08:23:18+00:00"
+    },
+    "Aerya/claudecodeui-docker": {
+      "fingerprint": "10ad91339461425287788d4608b271940505a784e4d4ef7e45dd90b4f3d6e183",
+      "source": "manual",
+      "summary": "Image Docker GHCR personnelle pour CloudCLI et Claude Code UI. Le dépôt automatise le packaging afin de déployer l'interface plus facilement.",
+      "updated_at": "2026-06-02T07:09:36+00:00"
+    },
+    "Aerya/correzeboostemploi": {
+      "fingerprint": "3ead8bd12b22a05c5fa4bab5146c935bed431b0e4c941a0ac7480fc1c7a887dd",
+      "source": "github-description",
+      "summary": "Surveillance automatiquement des offres selon critères + alertes Discord",
+      "updated_at": "2026-06-02T08:23:18+00:00"
+    },
+    "Aerya/cronitor-cli-docker": {
+      "fingerprint": "ec7ada65d168d84bb82782f20e34ce52e1f892e4582878946b93ab73c3cec514",
+      "source": "manual",
+      "summary": "Image Docker non officielle pour cronitorio/cronitor-cli, construite automatiquement. Pratique pour utiliser le CLI Cronitor dans des stacks conteneurisées.",
+      "updated_at": "2026-06-02T07:09:37+00:00"
+    },
+    "Aerya/ruTorrent-vs-local-storage-cleaner": {
+      "fingerprint": "063ef7862364aa132d14775f90edae05934ded12f548d139dd44cbd9271092f1",
+      "source": "github-description",
+      "summary": "Projet public GitHub maintenu dans le cadre de mes outils et expérimentations personnelles.",
+      "updated_at": "2026-06-02T08:23:20+00:00"
+    },
+    "Aerya/stremio-rss-catalog": {
+      "fingerprint": "e3e690df0a05e319fd35db9c86ee749a96a3d816553c377892c787706b0ea0a1",
+      "source": "manual",
+      "summary": "Addon Stremio qui génère des catalogues depuis des flux RSS, Prowlarr ou NZBHydra2. Il permet d'intégrer des sources personnalisées directement dans Stremio.",
+      "updated_at": "2026-06-02T07:09:39+00:00"
+    },
+    "Aerya/tracker-dashboard": {
+      "fingerprint": "c72b58eae40c30701917a70628bde13033239f539009a224c4fe9753a78c6c96",
+      "source": "manual",
+      "summary": "Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.",
+      "updated_at": "2026-06-02T07:09:33+00:00"
+    },
+    "Aerya/yggtorrent-bulk-downloader": {
+      "fingerprint": "785f804d061b602f8c8f5754693d4f6107eb9d47b78f4ca2480e7babcc2f2942",
+      "source": "github-description",
+      "summary": "UserScript pour télécharger les .torrent d'une page",
+      "updated_at": "2026-06-02T08:23:21+00:00"
+    }
+  },
+  "version": 1
+}
