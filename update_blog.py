@@ -14,7 +14,8 @@ import requests
 
 API_URL = "https://upandclear.org/wp-json/wp/v2/posts"
 README = Path(__file__).parent / "README.md"
-NB_POSTS = 3
+NB_POSTS = 4
+IMAGE_WIDTH = 140
 
 MONTHS_FR = {
     1: "jan", 2: "fév", 3: "mar", 4: "avr",
@@ -63,31 +64,30 @@ def format_date(iso: str) -> str:
 
 def build_html(posts: list[dict]) -> str:
     rows = []
-    for row_start in range(0, len(posts), 3):
-        cells = ""
-        for post in posts[row_start:row_start + 3]:
-            title = html.unescape(post["title"]["rendered"])
-            title_attr = html.escape(title, quote=True)
-            link = post["link"]
-            date = format_date(post["date"])
-            img = get_image(post)
+    for index, post in enumerate(posts):
+        title = html.unescape(post["title"]["rendered"])
+        title_attr = html.escape(title, quote=True)
+        link = post["link"]
+        date = format_date(post["date"])
+        img = get_image(post)
 
-            img_tag = (
-                f'<img src="{img}" width="240" alt="{title_attr}" /><br/>'
-                if img else ""
-            )
-            cells += (
-                f'    <td align="center" valign="top" width="33%">\n'
-                f'      <a href="{link}">\n'
-                f'        {img_tag}\n'
-                f'        <b>{html.escape(title)}</b><br/>\n'
-                f'        <sub>{date}</sub>\n'
-                f'      </a>\n'
-                f'    </td>\n'
-            )
+        image_cell = (
+            f'    <td align="center" valign="middle" width="30%">\n'
+            f'      <a href="{link}"><img src="{img}" width="{IMAGE_WIDTH}" alt="{title_attr}" /></a>\n'
+            f'    </td>\n'
+            if img else
+            '    <td width="30%"></td>\n'
+        )
+        text_cell = (
+            f'    <td align="left" valign="middle" width="70%">\n'
+            f'      <a href="{link}"><b>{html.escape(title)}</b></a><br/>\n'
+            f'      <sub>{date}</sub>\n'
+            f'    </td>\n'
+        )
+        cells = image_cell + text_cell if index % 2 == 0 else text_cell + image_cell
         rows.append(f"  <tr>\n{cells}  </tr>")
 
-    return '<table>\n' + "\n".join(rows) + '\n</table>'
+    return '<table width="100%">\n' + "\n".join(rows) + '\n</table>'
 
 
 def update_readme(html_block: str) -> None:

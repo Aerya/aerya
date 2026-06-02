@@ -259,10 +259,10 @@ def append_repo_list(lines: list[str], repos: list[dict[str, Any]], cache: dict[
 
 
 def build_markdown(repos: list[dict[str, Any]], cache: dict[str, Any]) -> str:
-    recent_repos = repos[:5]
-    other_repos = repos[5:]
+    recent_repos = repos[:8]
+    other_repos = repos[8:]
 
-    lines = ["### Derniers repos", ""]
+    lines = ["### Dernières mises à jour", ""]
     append_repo_list(lines, recent_repos, cache)
 
     lines.extend([

@@ -11,28 +11,41 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 ### Derniers articles
 
 <!-- BLOG:START -->
-<table>
+<table width="100%">
   <tr>
-    <td align="center" valign="top" width="33%">
-      <a href="https://upandclear.org/2026/05/29/steamtools-et-luatools-steam-sans-passer-par-le-panier-fix-erreur-no-internet-connexion/">
-        <img src="https://upandclear.org/wp-content/uploads/2026/05/rgb-keyboard-stockpack-unsplash-300x300.jpg" width="240" alt="Steamtools et LuaTools : Steam sans passer par le panier. + fix erreur No Internet connexion" /><br/>
-        <b>Steamtools et LuaTools : Steam sans passer par le panier. + fix erreur No Internet connexion</b><br/>
-        <sub>29 mai 2026</sub>
-      </a>
+    <td align="center" valign="middle" width="30%">
+      <a href="https://upandclear.org/2026/05/29/steamtools-et-luatools-steam-sans-passer-par-le-panier-fix-erreur-no-internet-connexion/"><img src="https://upandclear.org/wp-content/uploads/2026/05/rgb-keyboard-stockpack-unsplash-300x300.jpg" width="140" alt="Steamtools et LuaTools : Steam sans passer par le panier. + fix erreur No Internet connexion" /></a>
     </td>
-    <td align="center" valign="top" width="33%">
-      <a href="https://upandclear.org/2026/05/28/stremio-postersplus-pour-embellir-ses-catalogues/">
-        <img src="https://upandclear.org/wp-content/uploads/2026/05/showcase-kai-300x300.jpg" width="240" alt="Stremio : PostersPlus, pour embellir ses catalogues" /><br/>
-        <b>Stremio : PostersPlus, pour embellir ses catalogues</b><br/>
-        <sub>28 mai 2026</sub>
-      </a>
+    <td align="left" valign="middle" width="70%">
+      <a href="https://upandclear.org/2026/05/29/steamtools-et-luatools-steam-sans-passer-par-le-panier-fix-erreur-no-internet-connexion/"><b>Steamtools et LuaTools : Steam sans passer par le panier. + fix erreur No Internet connexion</b></a><br/>
+      <sub>29 mai 2026</sub>
     </td>
-    <td align="center" valign="top" width="33%">
-      <a href="https://upandclear.org/2026/05/28/french-stream-public-stremio-addon/">
-        <img src="https://upandclear.org/wp-content/uploads/2026/05/friends-watching-a-show-stockpack-pexels-300x300.jpg" width="240" alt="French Stream Public Stremio Addon" /><br/>
-        <b>French Stream Public Stremio Addon</b><br/>
-        <sub>28 mai 2026</sub>
-      </a>
+  </tr>
+  <tr>
+    <td align="left" valign="middle" width="70%">
+      <a href="https://upandclear.org/2026/05/28/stremio-postersplus-pour-embellir-ses-catalogues/"><b>Stremio : PostersPlus, pour embellir ses catalogues</b></a><br/>
+      <sub>28 mai 2026</sub>
+    </td>
+    <td align="center" valign="middle" width="30%">
+      <a href="https://upandclear.org/2026/05/28/stremio-postersplus-pour-embellir-ses-catalogues/"><img src="https://upandclear.org/wp-content/uploads/2026/05/showcase-kai-300x300.jpg" width="140" alt="Stremio : PostersPlus, pour embellir ses catalogues" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle" width="30%">
+      <a href="https://upandclear.org/2026/05/28/french-stream-public-stremio-addon/"><img src="https://upandclear.org/wp-content/uploads/2026/05/friends-watching-a-show-stockpack-pexels-300x300.jpg" width="140" alt="French Stream Public Stremio Addon" /></a>
+    </td>
+    <td align="left" valign="middle" width="70%">
+      <a href="https://upandclear.org/2026/05/28/french-stream-public-stremio-addon/"><b>French Stream Public Stremio Addon</b></a><br/>
+      <sub>28 mai 2026</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="left" valign="middle" width="70%">
+      <a href="https://upandclear.org/2026/05/27/claude-code-ui-webui-pour-claude-code-et-codex-notamment-puis-jen-ai-fait-un-docker-avec-traduction-fr/"><b>Claude Code UI : WebUI pour Claude Code et Codex notamment. Puis j’en ai fait un Docker avec traduction FR</b></a><br/>
+      <sub>27 mai 2026</sub>
+    </td>
+    <td align="center" valign="middle" width="30%">
+      <a href="https://upandclear.org/2026/05/27/claude-code-ui-webui-pour-claude-code-et-codex-notamment-puis-jen-ai-fait-un-docker-avec-traduction-fr/"><img src="https://upandclear.org/wp-content/uploads/2026/05/a-computer-with-a-keyboard-and-mouse-stockpack-unsplash-300x300.jpg" width="140" alt="Claude Code UI : WebUI pour Claude Code et Codex notamment. Puis j’en ai fait un Docker avec traduction FR" /></a>
     </td>
   </tr>
 </table>
@@ -41,7 +54,7 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 ---
 
 <!-- REPOS:START -->
-### Derniers repos
+### Dernières mises à jour
 
 - ★ 6 · [**tracker-dashboard**](https://github.com/Aerya/tracker-dashboard)
   Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
@@ -58,11 +71,6 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - [**claudecodeui-docker**](https://github.com/Aerya/claudecodeui-docker)
   Image Docker GHCR personnelle pour CloudCLI et Claude Code UI. Le dépôt automatise le packaging afin de déployer l'interface plus facilement.
 
----
-
-<details>
-<summary>Autres repos</summary>
-
 - [**Stremio-French-Stream-Docker**](https://github.com/Aerya/Stremio-French-Stream-Docker)
   Packaging Docker autour de Stremio French Stream pour simplifier son déploiement. Le dépôt sert à lancer le service dans un environnement conteneurisé.
 
@@ -71,6 +79,11 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 
 - ★ 2 · [**Stremio-Seerr-Catalog**](https://github.com/Aerya/Stremio-Seerr-Catalog)
   Addon Stremio qui expose les requêtes Over, Jelly ou Seerr sous forme de catalogues. Il fait le lien entre l'écosystème Seerr/Radarr/Sonarr et Stremio.
+
+---
+
+<details>
+<summary>Autres repos</summary>
 
 - ★ 2 · [**stremio-rss-catalog**](https://github.com/Aerya/stremio-rss-catalog)
   Addon Stremio qui génère des catalogues depuis des flux RSS, Prowlarr ou NZBHydra2. Il permet d'intégrer des sources personnalisées directement dans Stremio.
