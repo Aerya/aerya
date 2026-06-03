@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2025/07/06/reiverr-centralisation-jellyfin-sonarr-radarr-tmdb/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/07/reiverr-centralisation-jellyfin-sonarr-radarr-tmdb-300x300.jpg" width="120" alt="Reiverr : centralisation Jellyfin, Sonarr, Radarr, TMDB" /></a>
-  <a href="https://upandclear.org/2025/07/06/reiverr-centralisation-jellyfin-sonarr-radarr-tmdb/"><b>Reiverr : centralisation Jellyfin, Sonarr, Radarr, TMDB</b></a><br/>
-  <sub>6 juil 2025</sub>
+  <a href="https://upandclear.org/2025/09/14/booster-la-recherche-sous-jellyfin-avec-meilisearch/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/09/meilisearch-jellyfin-1757836571-300x300.jpg" width="120" alt="Booster la recherche sous Jellyfin avec Meilisearch" /></a>
+  <a href="https://upandclear.org/2025/09/14/booster-la-recherche-sous-jellyfin-avec-meilisearch/"><b>Booster la recherche sous Jellyfin avec Meilisearch</b></a><br/>
+  <sub>14 sep 2025</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,14 +57,14 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
+- [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
+  Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
+
 - ★ 24 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
 - ★ 1 · [**ProxySpin**](https://github.com/Aerya/ProxySpin)
   Proxy HTTP rotatif et anonymisant basé sur Tor et des proxys publics. Il fournit aussi un panneau de contrôle web et une extension navigateur.
-
-- [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
-  Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
 - ★ 7 · [**tracker-dashboard**](https://github.com/Aerya/tracker-dashboard)
   Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
