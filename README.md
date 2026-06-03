@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2025/09/14/booster-la-recherche-sous-jellyfin-avec-meilisearch/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/09/meilisearch-jellyfin-1757836571-300x300.jpg" width="120" alt="Booster la recherche sous Jellyfin avec Meilisearch" /></a>
-  <a href="https://upandclear.org/2025/09/14/booster-la-recherche-sous-jellyfin-avec-meilisearch/"><b>Booster la recherche sous Jellyfin avec Meilisearch</b></a><br/>
-  <sub>14 sep 2025</sub>
+  <a href="https://upandclear.org/2025/07/29/mon-crumble-aux-pommes-et-raisin/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/07/recette-crumble-pommes-raisin-1753800556-300x300.jpg" width="120" alt="Mon crumble aux pommes et raisin" /></a>
+  <a href="https://upandclear.org/2025/07/29/mon-crumble-aux-pommes-et-raisin/"><b>Mon crumble aux pommes et raisin</b></a><br/>
+  <sub>29 juil 2025</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
