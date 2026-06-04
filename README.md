@@ -14,6 +14,13 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Les derniers
 
 <p>
+  <a href="https://upandclear.org/2026/06/04/tracker-dashboard-vos-principales-statistiques-au-meme-endroit/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/4-300x300.png" width="72" alt="Tracker Dashboard : vos principales statistiques au même endroit" /></a>
+  <a href="https://upandclear.org/2026/06/04/tracker-dashboard-vos-principales-statistiques-au-meme-endroit/"><b>Tracker Dashboard : vos principales statistiques au même endroit</b></a><br/>
+  <sub>4 jun 2026</sub>
+</p>
+<br clear="left"/>
+
+<p>
   <a href="https://upandclear.org/2026/05/29/steamtools-et-luatools-steam-sans-passer-par-le-panier-fix-erreur-no-internet-connexion/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/05/rgb-keyboard-stockpack-unsplash-300x300.jpg" width="72" alt="Steamtools et LuaTools : Steam sans passer par le panier. + fix erreur No Internet connexion" /></a>
   <a href="https://upandclear.org/2026/05/29/steamtools-et-luatools-steam-sans-passer-par-le-panier-fix-erreur-no-internet-connexion/"><b>Steamtools et LuaTools : Steam sans passer par le panier. + fix erreur No Internet connexion</b></a><br/>
   <sub>29 mai 2026</sub>
@@ -34,20 +41,13 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 </p>
 <br clear="left"/>
 
-<p>
-  <a href="https://upandclear.org/2026/05/27/claude-code-ui-webui-pour-claude-code-et-codex-notamment-puis-jen-ai-fait-un-docker-avec-traduction-fr/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/05/a-computer-with-a-keyboard-and-mouse-stockpack-unsplash-300x300.jpg" width="72" alt="Claude Code UI : WebUI pour Claude Code et Codex notamment. Puis j’en ai fait un Docker avec traduction FR" /></a>
-  <a href="https://upandclear.org/2026/05/27/claude-code-ui-webui-pour-claude-code-et-codex-notamment-puis-jen-ai-fait-un-docker-avec-traduction-fr/"><b>Claude Code UI : WebUI pour Claude Code et Codex notamment. Puis j’en ai fait un Docker avec traduction FR</b></a><br/>
-  <sub>27 mai 2026</sub>
-</p>
-<br clear="left"/>
-
 
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2026/04/05/bye-bye-stremio-sur-androidtv-et-bienvenue-a-arvio-wuplay-et-nuvio-sur-ios/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/04/wuplay9-300x300.jpg" width="120" alt="Bye bye Stremio sur AndroidTV ! Et bienvenue à Arvio, WuPlay (et Nuvio sur iOS) !" /></a>
-  <a href="https://upandclear.org/2026/04/05/bye-bye-stremio-sur-androidtv-et-bienvenue-a-arvio-wuplay-et-nuvio-sur-ios/"><b>Bye bye Stremio sur AndroidTV ! Et bienvenue à Arvio, WuPlay (et Nuvio sur iOS) !</b></a><br/>
-  <sub>5 avr 2026</sub>
+  <a href="https://upandclear.org/2026/01/21/stremio-addon-comet-et-reseau-de-partage-de-metadonnees-cometnet/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/01/comet-300x300.jpg" width="120" alt="Stremio : addon Comet et réseau de partage de métadonnées CometNet" /></a>
+  <a href="https://upandclear.org/2026/01/21/stremio-addon-comet-et-reseau-de-partage-de-metadonnees-cometnet/"><b>Stremio : addon Comet et réseau de partage de métadonnées CometNet</b></a><br/>
+  <sub>21 jan 2026</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -66,7 +66,7 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - ★ 1 · [**ProxySpin**](https://github.com/Aerya/ProxySpin)
   Proxy HTTP rotatif et anonymisant basé sur Tor et des proxys publics. Il fournit aussi un panneau de contrôle web et une extension navigateur.
 
-- ★ 7 · [**tracker-dashboard**](https://github.com/Aerya/tracker-dashboard)
+- ★ 8 · [**tracker-dashboard**](https://github.com/Aerya/tracker-dashboard)
   Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
 
 - [**MiniVid**](https://github.com/Aerya/MiniVid)
