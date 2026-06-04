@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2025/07/29/mon-crumble-aux-pommes-et-raisin/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/07/recette-crumble-pommes-raisin-1753800556-300x300.jpg" width="120" alt="Mon crumble aux pommes et raisin" /></a>
-  <a href="https://upandclear.org/2025/07/29/mon-crumble-aux-pommes-et-raisin/"><b>Mon crumble aux pommes et raisin</b></a><br/>
-  <sub>29 juil 2025</sub>
+  <a href="https://upandclear.org/2026/04/05/bye-bye-stremio-sur-androidtv-et-bienvenue-a-arvio-wuplay-et-nuvio-sur-ios/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/04/wuplay9-300x300.jpg" width="120" alt="Bye bye Stremio sur AndroidTV ! Et bienvenue à Arvio, WuPlay (et Nuvio sur iOS) !" /></a>
+  <a href="https://upandclear.org/2026/04/05/bye-bye-stremio-sur-androidtv-et-bienvenue-a-arvio-wuplay-et-nuvio-sur-ios/"><b>Bye bye Stremio sur AndroidTV ! Et bienvenue à Arvio, WuPlay (et Nuvio sur iOS) !</b></a><br/>
+  <sub>5 avr 2026</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
