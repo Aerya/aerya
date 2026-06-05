@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2025/01/08/thermometre-connecte-pour-viandes-et-poissons/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/01/beef-connected-thermometer-300x300.jpg" width="120" alt="Thermomètre connecté pour viandes et poissons" /></a>
-  <a href="https://upandclear.org/2025/01/08/thermometre-connecte-pour-viandes-et-poissons/"><b>Thermomètre connecté pour viandes et poissons</b></a><br/>
-  <sub>8 jan 2025</sub>
+  <a href="https://upandclear.org/2025/11/10/stremio-ma-stack-du-moment-auto-hebergee-et-liste-daddons-vod-iptv/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/11/stremio3-1-1-e1762786122178-300x300.jpg" width="120" alt="Stremio : ma stack du moment (auto-hébergée) et liste d’addons VoD/IPTV" /></a>
+  <a href="https://upandclear.org/2025/11/10/stremio-ma-stack-du-moment-auto-hebergee-et-liste-daddons-vod-iptv/"><b>Stremio : ma stack du moment (auto-hébergée) et liste d’addons VoD/IPTV</b></a><br/>
+  <sub>10 nov 2025</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -56,6 +56,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 
 <!-- REPOS:START -->
 ### Dernières mises à jour
+
+- [**claudecodeui-docker**](https://github.com/Aerya/claudecodeui-docker)
+  Image Docker GHCR personnelle pour CloudCLI et Claude Code UI. Le dépôt automatise le packaging afin de déployer l'interface plus facilement.
 
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
@@ -71,9 +74,6 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 
 - [**MiniVid**](https://github.com/Aerya/MiniVid)
   Application pour indexer, lire, taguer et mettre en favoris des vidéos locales. Elle vise une gestion simple d'une bibliothèque vidéo personnelle.
-
-- [**claudecodeui-docker**](https://github.com/Aerya/claudecodeui-docker)
-  Image Docker GHCR personnelle pour CloudCLI et Claude Code UI. Le dépôt automatise le packaging afin de déployer l'interface plus facilement.
 
 - [**Stremio-French-Stream-Docker**](https://github.com/Aerya/Stremio-French-Stream-Docker)
   Packaging Docker autour de Stremio French Stream pour simplifier son déploiement. Le dépôt sert à lancer le service dans un environnement conteneurisé.
