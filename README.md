@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2026/01/21/stremio-addon-comet-et-reseau-de-partage-de-metadonnees-cometnet/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/01/comet-300x300.jpg" width="120" alt="Stremio : addon Comet et réseau de partage de métadonnées CometNet" /></a>
-  <a href="https://upandclear.org/2026/01/21/stremio-addon-comet-et-reseau-de-partage-de-metadonnees-cometnet/"><b>Stremio : addon Comet et réseau de partage de métadonnées CometNet</b></a><br/>
-  <sub>21 jan 2026</sub>
+  <a href="https://upandclear.org/2025/01/08/thermometre-connecte-pour-viandes-et-poissons/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/01/beef-connected-thermometer-300x300.jpg" width="120" alt="Thermomètre connecté pour viandes et poissons" /></a>
+  <a href="https://upandclear.org/2025/01/08/thermometre-connecte-pour-viandes-et-poissons/"><b>Thermomètre connecté pour viandes et poissons</b></a><br/>
+  <sub>8 jan 2025</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -60,14 +60,14 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
+- ★ 9 · [**tracker-dashboard**](https://github.com/Aerya/tracker-dashboard)
+  Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
+
 - ★ 24 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
 - ★ 1 · [**ProxySpin**](https://github.com/Aerya/ProxySpin)
   Proxy HTTP rotatif et anonymisant basé sur Tor et des proxys publics. Il fournit aussi un panneau de contrôle web et une extension navigateur.
-
-- ★ 8 · [**tracker-dashboard**](https://github.com/Aerya/tracker-dashboard)
-  Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
 
 - [**MiniVid**](https://github.com/Aerya/MiniVid)
   Application pour indexer, lire, taguer et mettre en favoris des vidéos locales. Elle vise une gestion simple d'une bibliothèque vidéo personnelle.
