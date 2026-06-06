@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2025/08/17/plex-synchronisation-avec-trakt-tv-et-notifications-discord/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/08/e2809ccartoon-style-illustration-of-two-friendly-robo-1755419618-300x300.jpg" width="120" alt="Plex : synchronisation avec Trakt.tv et notifications Discord" /></a>
-  <a href="https://upandclear.org/2025/08/17/plex-synchronisation-avec-trakt-tv-et-notifications-discord/"><b>Plex : synchronisation avec Trakt.tv et notifications Discord</b></a><br/>
-  <sub>17 août 2025</sub>
+  <a href="https://upandclear.org/2025/06/12/smartproxy-lextension-pratique/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/06/proxy-browser-300x300.jpg" width="120" alt="SmartProxy : l’extension pratique" /></a>
+  <a href="https://upandclear.org/2025/06/12/smartproxy-lextension-pratique/"><b>SmartProxy : l’extension pratique</b></a><br/>
+  <sub>12 jun 2025</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
