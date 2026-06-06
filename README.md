@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2025/11/10/stremio-ma-stack-du-moment-auto-hebergee-et-liste-daddons-vod-iptv/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/11/stremio3-1-1-e1762786122178-300x300.jpg" width="120" alt="Stremio : ma stack du moment (auto-hébergée) et liste d’addons VoD/IPTV" /></a>
-  <a href="https://upandclear.org/2025/11/10/stremio-ma-stack-du-moment-auto-hebergee-et-liste-daddons-vod-iptv/"><b>Stremio : ma stack du moment (auto-hébergée) et liste d’addons VoD/IPTV</b></a><br/>
-  <sub>10 nov 2025</sub>
+  <a href="https://upandclear.org/2025/08/17/plex-synchronisation-avec-trakt-tv-et-notifications-discord/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/08/e2809ccartoon-style-illustration-of-two-friendly-robo-1755419618-300x300.jpg" width="120" alt="Plex : synchronisation avec Trakt.tv et notifications Discord" /></a>
+  <a href="https://upandclear.org/2025/08/17/plex-synchronisation-avec-trakt-tv-et-notifications-discord/"><b>Plex : synchronisation avec Trakt.tv et notifications Discord</b></a><br/>
+  <sub>17 août 2025</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,13 +57,13 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
-- [**claudecodeui-docker**](https://github.com/Aerya/claudecodeui-docker)
-  Image Docker GHCR personnelle pour CloudCLI et Claude Code UI. Le dépôt automatise le packaging afin de déployer l'interface plus facilement.
-
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
-- ★ 9 · [**tracker-dashboard**](https://github.com/Aerya/tracker-dashboard)
+- [**claudecodeui-docker**](https://github.com/Aerya/claudecodeui-docker)
+  Image Docker GHCR personnelle pour CloudCLI et Claude Code UI. Le dépôt automatise le packaging afin de déployer l'interface plus facilement.
+
+- ★ 10 · [**tracker-dashboard**](https://github.com/Aerya/tracker-dashboard)
   Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
 
 - ★ 24 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
