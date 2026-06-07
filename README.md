@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2025/10/19/boxarr-le-box-office-dans-radarr/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/10/boxarr2-300x300.jpg" width="120" alt="Boxarr : le Box Office dans Radarr" /></a>
-  <a href="https://upandclear.org/2025/10/19/boxarr-le-box-office-dans-radarr/"><b>Boxarr : le Box Office dans Radarr</b></a><br/>
-  <sub>19 oct 2025</sub>
+  <a href="https://upandclear.org/2024/10/02/autoblow-ai-ultra-la-masturbation-masculine-assistee-par-lia/"><img align="left" src="https://upandclear.org/wp-content/uploads/2024/10/XGM7BEMEH9ARX0X8M6002WFW60-300x300.jpg" width="120" alt="Autoblow AI Ultra : la masturbation masculine assistée par l’IA" /></a>
+  <a href="https://upandclear.org/2024/10/02/autoblow-ai-ultra-la-masturbation-masculine-assistee-par-lia/"><b>Autoblow AI Ultra : la masturbation masculine assistée par l’IA</b></a><br/>
+  <sub>2 oct 2024</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -63,7 +63,7 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - [**claudecodeui-docker**](https://github.com/Aerya/claudecodeui-docker)
   Image Docker GHCR personnelle pour CloudCLI et Claude Code UI. Le dépôt automatise le packaging afin de déployer l'interface plus facilement.
 
-- ★ 10 · [**tracker-dashboard**](https://github.com/Aerya/tracker-dashboard)
+- ★ 12 · [**tracker-dashboard**](https://github.com/Aerya/tracker-dashboard)
   Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
 
 - ★ 24 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
