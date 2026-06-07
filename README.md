@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2025/06/12/smartproxy-lextension-pratique/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/06/proxy-browser-300x300.jpg" width="120" alt="SmartProxy : l’extension pratique" /></a>
-  <a href="https://upandclear.org/2025/06/12/smartproxy-lextension-pratique/"><b>SmartProxy : l’extension pratique</b></a><br/>
-  <sub>12 jun 2025</sub>
+  <a href="https://upandclear.org/2025/10/19/boxarr-le-box-office-dans-radarr/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/10/boxarr2-300x300.jpg" width="120" alt="Boxarr : le Box Office dans Radarr" /></a>
+  <a href="https://upandclear.org/2025/10/19/boxarr-le-box-office-dans-radarr/"><b>Boxarr : le Box Office dans Radarr</b></a><br/>
+  <sub>19 oct 2025</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
