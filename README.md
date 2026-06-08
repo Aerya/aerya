@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2025/05/11/gamsgo-le-partage-de-comptes-netflix-d-crunchyroll-spotify-tidal-youtube-etc/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/05/accounts-sharing-netflix-spotify-youtube-tidal-disney-crunchyroll-canva-qobuz-300x300.jpg" width="120" alt="GamsGO : le partage de comptes Netflix, D+, Crunchyroll, Spotify, Tidal, YouTube etc" /></a>
-  <a href="https://upandclear.org/2025/05/11/gamsgo-le-partage-de-comptes-netflix-d-crunchyroll-spotify-tidal-youtube-etc/"><b>GamsGO : le partage de comptes Netflix, D+, Crunchyroll, Spotify, Tidal, YouTube etc</b></a><br/>
-  <sub>11 mai 2025</sub>
+  <a href="https://upandclear.org/2025/10/25/pulse-monitoring-docker-et-proxmox/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/10/chatgpt-image-25-oct.-2025-07_39_47-300x300.jpg" width="120" alt="Pulse : monitoring Docker (et Proxmox)" /></a>
+  <a href="https://upandclear.org/2025/10/25/pulse-monitoring-docker-et-proxmox/"><b>Pulse : monitoring Docker (et Proxmox)</b></a><br/>
+  <sub>25 oct 2025</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -60,14 +60,14 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - ★ 12 · [**tracker-dashboard**](https://github.com/Aerya/tracker-dashboard)
   Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
 
+- ★ 24 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+  Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
+
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
 - [**claudecodeui-docker**](https://github.com/Aerya/claudecodeui-docker)
   Image Docker GHCR personnelle pour CloudCLI et Claude Code UI. Le dépôt automatise le packaging afin de déployer l'interface plus facilement.
-
-- ★ 24 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
-  Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
 - ★ 1 · [**ProxySpin**](https://github.com/Aerya/ProxySpin)
   Proxy HTTP rotatif et anonymisant basé sur Tor et des proxys publics. Il fournit aussi un panneau de contrôle web et une extension navigateur.
