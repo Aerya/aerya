@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2025/07/06/reiverr-centralisation-jellyfin-sonarr-radarr-tmdb/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/07/reiverr-centralisation-jellyfin-sonarr-radarr-tmdb-300x300.jpg" width="120" alt="Reiverr : centralisation Jellyfin, Sonarr, Radarr, TMDB" /></a>
-  <a href="https://upandclear.org/2025/07/06/reiverr-centralisation-jellyfin-sonarr-radarr-tmdb/"><b>Reiverr : centralisation Jellyfin, Sonarr, Radarr, TMDB</b></a><br/>
-  <sub>6 juil 2025</sub>
+  <a href="https://upandclear.org/2025/12/09/truenas-ce-le-gestionnaire-de-stockage-basique-et-simple/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/12/2e47c02f-eac8-4f8d-a9d2-c6564c65695d-300x300.jpg" width="120" alt="TrueNAS CE : le gestionnaire de stockage basique et simple" /></a>
+  <a href="https://upandclear.org/2025/12/09/truenas-ce-le-gestionnaire-de-stockage-basique-et-simple/"><b>TrueNAS CE : le gestionnaire de stockage basique et simple</b></a><br/>
+  <sub>9 déc 2025</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,13 +57,13 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
+- ★ 13 · [**tracker-dashboard**](https://github.com/Aerya/tracker-dashboard)
+  Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
+
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
-- ★ 12 · [**tracker-dashboard**](https://github.com/Aerya/tracker-dashboard)
-  Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
-
-- ★ 25 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+- ★ 26 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
 - [**claudecodeui-docker**](https://github.com/Aerya/claudecodeui-docker)
