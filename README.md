@@ -14,13 +14,6 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Les derniers
 
 <p>
-  <a href="https://upandclear.org/2026/06/04/tracker-dashboard-vos-principales-statistiques-au-meme-endroit/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/4-300x300.png" width="72" alt="Tracker Dashboard : vos principales statistiques au même endroit" /></a>
-  <a href="https://upandclear.org/2026/06/04/tracker-dashboard-vos-principales-statistiques-au-meme-endroit/"><b>Tracker Dashboard : vos principales statistiques au même endroit</b></a><br/>
-  <sub>4 jun 2026</sub>
-</p>
-<br clear="left"/>
-
-<p>
   <a href="https://upandclear.org/2026/05/29/steamtools-et-luatools-steam-sans-passer-par-le-panier-fix-erreur-no-internet-connexion/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/05/rgb-keyboard-stockpack-unsplash-300x300.jpg" width="72" alt="Steamtools et LuaTools : Steam sans passer par le panier. + fix erreur No Internet connexion" /></a>
   <a href="https://upandclear.org/2026/05/29/steamtools-et-luatools-steam-sans-passer-par-le-panier-fix-erreur-no-internet-connexion/"><b>Steamtools et LuaTools : Steam sans passer par le panier. + fix erreur No Internet connexion</b></a><br/>
   <sub>29 mai 2026</sub>
@@ -41,13 +34,20 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 </p>
 <br clear="left"/>
 
+<p>
+  <a href="https://upandclear.org/2026/05/27/claude-code-ui-webui-pour-claude-code-et-codex-notamment-puis-jen-ai-fait-un-docker-avec-traduction-fr/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/05/a-computer-with-a-keyboard-and-mouse-stockpack-unsplash-300x300.jpg" width="72" alt="Claude Code UI : WebUI pour Claude Code et Codex notamment. Puis j’en ai fait un Docker avec traduction FR" /></a>
+  <a href="https://upandclear.org/2026/05/27/claude-code-ui-webui-pour-claude-code-et-codex-notamment-puis-jen-ai-fait-un-docker-avec-traduction-fr/"><b>Claude Code UI : WebUI pour Claude Code et Codex notamment. Puis j’en ai fait un Docker avec traduction FR</b></a><br/>
+  <sub>27 mai 2026</sub>
+</p>
+<br clear="left"/>
 
-#### Au hasard du blog
+
+#### Au hasard
 
 <p>
-  <a href="https://upandclear.org/2025/01/08/hydra-client-alternatif-reddit-pour-ios/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/01/reddit-client-ios-300x300.jpg" width="120" alt="Hydra, client alternatif Reddit pour iOS" /></a>
-  <a href="https://upandclear.org/2025/01/08/hydra-client-alternatif-reddit-pour-ios/"><b>Hydra, client alternatif Reddit pour iOS</b></a><br/>
-  <sub>8 jan 2025</sub>
+  <a href="https://upandclear.org/2026/03/28/gerer-ses-conteneurs-docker-autrement-le-fork-dockge-enhanced-surveillance-dimages-scan-cve-backup-automatique-gestion-des-ressources/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/03/enhanced11-300x300.png" width="120" alt="Gérer ses conteneurs Docker autrement : le fork Dockge Enhanced (surveillance d’images, scan CVE, backup automatique, gestion des ressources)" /></a>
+  <a href="https://upandclear.org/2026/03/28/gerer-ses-conteneurs-docker-autrement-le-fork-dockge-enhanced-surveillance-dimages-scan-cve-backup-automatique-gestion-des-ressources/"><b>Gérer ses conteneurs Docker autrement : le fork Dockge Enhanced (surveillance d’images, scan CVE, backup automatique, gestion des ressources)</b></a><br/>
+  <sub>28 mar 2026</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -56,6 +56,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 
 <!-- REPOS:START -->
 ### Dernières mises à jour
+
+- ★ 14 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
+  Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
 
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
@@ -78,13 +81,13 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - [**cronitor-cli-docker**](https://github.com/Aerya/cronitor-cli-docker)
   Image Docker non officielle pour cronitorio/cronitor-cli, construite automatiquement. Pratique pour utiliser le CLI Cronitor dans des stacks conteneurisées.
 
-- ★ 2 · [**Stremio-Seerr-Catalog**](https://github.com/Aerya/Stremio-Seerr-Catalog)
-  Addon Stremio qui expose les requêtes Over, Jelly ou Seerr sous forme de catalogues. Il fait le lien entre l'écosystème Seerr/Radarr/Sonarr et Stremio.
-
 ---
 
 <details>
 <summary>Autres repos</summary>
+
+- ★ 2 · [**Stremio-Seerr-Catalog**](https://github.com/Aerya/Stremio-Seerr-Catalog)
+  Addon Stremio qui expose les requêtes Over, Jelly ou Seerr sous forme de catalogues. Il fait le lien entre l'écosystème Seerr/Radarr/Sonarr et Stremio.
 
 - ★ 2 · [**stremio-rss-catalog**](https://github.com/Aerya/stremio-rss-catalog)
   Addon Stremio qui génère des catalogues depuis des flux RSS, Prowlarr ou NZBHydra2. Il permet d'intégrer des sources personnalisées directement dans Stremio.
@@ -93,46 +96,46 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
   Ancien addon Stremio pour catalogues francophones. Le projet a évolué vers stremio-rss-catalog, qui le remplace pour les usages actuels.
 
 - [**correzeboostemploi**](https://github.com/Aerya/correzeboostemploi)
-  Ce script Python surveille les offres d'emploi sur correzeboostemploi.fr, filtre les doublons et les mots-clés indésirables, puis envoie les nouvelles offres via un webhook Discord. Il est configurable via Docker Compose pour les horaires de scraping et les mots à bannir.
+  Surveillance automatiquement des offres selon critères + alertes Discord
 
 - ★ 5 · [**LaCaleNormale**](https://github.com/Aerya/LaCaleNormale)
-  Ce dépôt contient un userscript JavaScript pour LaCale, remplaçant le vocabulaire thématique par des termes plus standards et corrigeant des fautes. Il modifie les menus et les options du profil utilisateur.
+  Menus "normaux" pour LaCale
 
 - [**HomeGuard**](https://github.com/Aerya/HomeGuard)
-  Ce dépôt propose un serveur WireGuard sous Docker pour utiliser un serveur DNS personnalisé (AdGuard Home, Pi-hole) depuis un smartphone, même hors du réseau local. Il permet une activation automatique du VPN sauf sur le réseau Wi-Fi domestique.
+  Serveur WireGuard en Docker pour utiliser son propre serveur DNS (AdGuard Home, Pi-hole…) depuis un smartphone, même en dehors du réseau local.
 
 - ★ 9 · [**Stremio-Stack**](https://github.com/Aerya/Stremio-Stack)
-  Ce dépôt propose une stack Stremio auto-hébergée, incluant des images Docker multi-architectures pour des sources BitTorrent/débrideurs et IPTV. La configuration requiert des connaissances Linux, Docker, un nom de domaine et des clés API pour les services connexes.
+  Projet public GitHub maintenu dans le cadre de mes outils et expérimentations personnelles.
 
 - ★ 6 · [**DecypharrSeed**](https://github.com/Aerya/DecypharrSeed)
   Seeder automatique pour des torrents traités par Decypharr. Le projet n'est plus compatible avec les dernières versions de Decypharr.
 
 - ★ 1 · [**0xConstant1-stremio-addon-manager**](https://github.com/Aerya/0xConstant1-stremio-addon-manager)
-  Ce dépôt est un fork du gestionnaire d'add-ons Stremio, intégrant une construction Docker automatique sur GitHub pour un déploiement simplifié.
+  Projet public GitHub maintenu dans le cadre de mes outils et expérimentations personnelles.
 
 - [**ruTorrent-vs-local-storage-cleaner**](https://github.com/Aerya/ruTorrent-vs-local-storage-cleaner)
-  Ce script Shell nettoie les fichiers et dossiers orphelins dans le répertoire de téléchargement de ruTorrent, en se basant sur les fichiers .torrent actifs. Il offre des options de configuration pour les chemins, les logs, un mode test, le débogage et l'exclusion des fichiers cachés.
+  Projet public GitHub maintenu dans le cadre de mes outils et expérimentations personnelles.
 
 - ★ 2 · [**BitTorrent-trackers-minimal-rules**](https://github.com/Aerya/BitTorrent-trackers-minimal-rules)
-  Ce dépôt liste les règles minimales de ratio et de temps de partage (seedtime) pour divers trackers BitTorrent, en se concentrant sur les rangs d'utilisateurs de base. Les noms des trackers sont normalisés selon la convention du wiki Servarr.
+  Minimal ratio/seedtime rules for some P2P trackers
 
 - [**PHPSysInfo-Docker**](https://github.com/Aerya/PHPSysInfo-Docker)
   Stack de base d'addons Stremio pour contenu francophone. Le projet n'est plus maintenu ni à jour.
 
 - [**yggtorrent-bulk-downloader**](https://github.com/Aerya/yggtorrent-bulk-downloader)
-  Ce userscript pour YggTorrent permet de télécharger en masse des fichiers `.torrent` depuis une page, avec des options de délai, retries et un mode fallback pour contourner les protections. Il nécessite une extension de userscript et d'être connecté au site.
+  UserScript pour télécharger les .torrent d'une page
 
 - ★ 1 · [**Mode-Affiches**](https://github.com/Aerya/Mode-Affiches)
-  Ce script JavaScript transforme un indexeur privé en une galerie d'affiches responsive avec des informations détaillées et des actions directes pour Radarr/Sonarr. Il inclut des badges de notes, un regroupement intelligent des releases et des mises à jour automatiques.
+  Mode Affiches pour un indexeur privé
 
 - [**Recpitulatif-Discord-post-installation-pour-SSDv2**](https://github.com/Aerya/Recpitulatif-Discord-post-installation-pour-SSDv2)
-  Ce script Shell génère un récapitulatif Discord des containers Docker, incluant leurs images et sous-domaines Traefik, tout en gérant les messages longs et les rate-limits. Il peut être automatisé via un service systemd qui surveille les événements Docker.
+  Projet public GitHub maintenu dans le cadre de mes outils et expérimentations personnelles.
 
 - [**Planet-Warez-Markdown-menu**](https://github.com/Aerya/Planet-Warez-Markdown-menu)
-  Ce script JavaScript ajoute une barre d'outils Markdown avec prévisualisation en direct aux zones de texte, particulièrement utile pour Planet-Warez, et s'installe facilement via des gestionnaires de scripts.
+  Menu Markdown rapide pour Plaanet-Warez
 
 - [**Docker-MOHAA-server**](https://github.com/Aerya/Docker-MOHAA-server)
-  Ce dépôt Docker permet de déployer un serveur de jeu MOHAA 1.12 Reborn. Il inclut un volume dédié pour ajouter facilement du contenu comme des cartes ou des skins.
+  Docker MOHAA server including volume to add contents
 
 
 </details>

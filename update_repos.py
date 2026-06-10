@@ -25,6 +25,14 @@ CACHE = ROOT / ".github" / "repo_summaries.json"
 
 GITHUB_USER = os.getenv("GITHUB_USER", "Aerya")
 NB_REPOS = int(os.getenv("NB_REPOS", "0"))
+INCLUDED_REPOS = {
+    name.strip()
+    for name in os.getenv(
+        "INCLUDED_REPOS",
+        "Tracker-Dashboard/tracker-dashboard",
+    ).split(",")
+    if name.strip()
+}
 EXCLUDED_REPOS = {
     name.strip().lower()
     for name in os.getenv("EXCLUDED_REPOS", "aerya").split(",")
@@ -70,8 +78,21 @@ def fetch_repos() -> list[dict[str, Any]]:
         repos.extend(chunk)
         page += 1
 
+    for full_name in INCLUDED_REPOS:
+        resp = requests.get(
+            f"{GITHUB_API}/repos/{full_name}",
+            headers=github_headers(),
+            timeout=20,
+        )
+        if resp.status_code == 404:
+            print(f"Repo inclus introuvable: {full_name}", file=sys.stderr)
+            continue
+        resp.raise_for_status()
+        repos.append(resp.json())
+
+    unique_repos = {repo["full_name"].lower(): repo for repo in repos}.values()
     filtered = [
-        repo for repo in repos
+        repo for repo in unique_repos
         if not repo.get("private")
         and not repo.get("fork")
         and repo["name"].lower() not in EXCLUDED_REPOS
