@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2025/01/14/beszel-monitoring-linux-freebsd-leger-server-nodes/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/01/beszel-monitoring-linux-freebsd-leger-server-nodes-300x300.jpg" width="120" alt="Beszel : monitoring Linux/FreeBSD léger (server + nodes)" /></a>
-  <a href="https://upandclear.org/2025/01/14/beszel-monitoring-linux-freebsd-leger-server-nodes/"><b>Beszel : monitoring Linux/FreeBSD léger (server + nodes)</b></a><br/>
-  <sub>14 jan 2025</sub>
+  <a href="https://upandclear.org/2024/06/30/stirling-pdf-le-couteau-suisse-du-pdf-en-local/"><img align="left" src="https://upandclear.org/wp-content/uploads/2024/06/adobe-pdf-editing-software-300x300.png" width="120" alt="Stirling PDF : le couteau suisse du PDF en local" /></a>
+  <a href="https://upandclear.org/2024/06/30/stirling-pdf-le-couteau-suisse-du-pdf-en-local/"><b>Stirling PDF : le couteau suisse du PDF en local</b></a><br/>
+  <sub>30 jun 2024</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
