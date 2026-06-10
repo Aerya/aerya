@@ -14,6 +14,13 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Les derniers
 
 <p>
+  <a href="https://upandclear.org/2026/06/04/tracker-dashboard-vos-principales-statistiques-au-meme-endroit/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/4-300x300.png" width="72" alt="Tracker Dashboard : vos principales statistiques au même endroit" /></a>
+  <a href="https://upandclear.org/2026/06/04/tracker-dashboard-vos-principales-statistiques-au-meme-endroit/"><b>Tracker Dashboard : vos principales statistiques au même endroit</b></a><br/>
+  <sub>4 jun 2026</sub>
+</p>
+<br clear="left"/>
+
+<p>
   <a href="https://upandclear.org/2026/05/29/steamtools-et-luatools-steam-sans-passer-par-le-panier-fix-erreur-no-internet-connexion/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/05/rgb-keyboard-stockpack-unsplash-300x300.jpg" width="72" alt="Steamtools et LuaTools : Steam sans passer par le panier. + fix erreur No Internet connexion" /></a>
   <a href="https://upandclear.org/2026/05/29/steamtools-et-luatools-steam-sans-passer-par-le-panier-fix-erreur-no-internet-connexion/"><b>Steamtools et LuaTools : Steam sans passer par le panier. + fix erreur No Internet connexion</b></a><br/>
   <sub>29 mai 2026</sub>
@@ -34,20 +41,13 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 </p>
 <br clear="left"/>
 
-<p>
-  <a href="https://upandclear.org/2026/05/27/claude-code-ui-webui-pour-claude-code-et-codex-notamment-puis-jen-ai-fait-un-docker-avec-traduction-fr/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/05/a-computer-with-a-keyboard-and-mouse-stockpack-unsplash-300x300.jpg" width="72" alt="Claude Code UI : WebUI pour Claude Code et Codex notamment. Puis j’en ai fait un Docker avec traduction FR" /></a>
-  <a href="https://upandclear.org/2026/05/27/claude-code-ui-webui-pour-claude-code-et-codex-notamment-puis-jen-ai-fait-un-docker-avec-traduction-fr/"><b>Claude Code UI : WebUI pour Claude Code et Codex notamment. Puis j’en ai fait un Docker avec traduction FR</b></a><br/>
-  <sub>27 mai 2026</sub>
-</p>
-<br clear="left"/>
 
-
-#### Au hasard
+#### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2026/03/28/gerer-ses-conteneurs-docker-autrement-le-fork-dockge-enhanced-surveillance-dimages-scan-cve-backup-automatique-gestion-des-ressources/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/03/enhanced11-300x300.png" width="120" alt="Gérer ses conteneurs Docker autrement : le fork Dockge Enhanced (surveillance d’images, scan CVE, backup automatique, gestion des ressources)" /></a>
-  <a href="https://upandclear.org/2026/03/28/gerer-ses-conteneurs-docker-autrement-le-fork-dockge-enhanced-surveillance-dimages-scan-cve-backup-automatique-gestion-des-ressources/"><b>Gérer ses conteneurs Docker autrement : le fork Dockge Enhanced (surveillance d’images, scan CVE, backup automatique, gestion des ressources)</b></a><br/>
-  <sub>28 mar 2026</sub>
+  <a href="https://upandclear.org/2025/01/14/beszel-monitoring-linux-freebsd-leger-server-nodes/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/01/beszel-monitoring-linux-freebsd-leger-server-nodes-300x300.jpg" width="120" alt="Beszel : monitoring Linux/FreeBSD léger (server + nodes)" /></a>
+  <a href="https://upandclear.org/2025/01/14/beszel-monitoring-linux-freebsd-leger-server-nodes/"><b>Beszel : monitoring Linux/FreeBSD léger (server + nodes)</b></a><br/>
+  <sub>14 jan 2025</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
