@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2025/12/09/truenas-ce-le-gestionnaire-de-stockage-basique-et-simple/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/12/2e47c02f-eac8-4f8d-a9d2-c6564c65695d-300x300.jpg" width="120" alt="TrueNAS CE : le gestionnaire de stockage basique et simple" /></a>
-  <a href="https://upandclear.org/2025/12/09/truenas-ce-le-gestionnaire-de-stockage-basique-et-simple/"><b>TrueNAS CE : le gestionnaire de stockage basique et simple</b></a><br/>
-  <sub>9 déc 2025</sub>
+  <a href="https://upandclear.org/2025/01/08/hydra-client-alternatif-reddit-pour-ios/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/01/reddit-client-ios-300x300.jpg" width="120" alt="Hydra, client alternatif Reddit pour iOS" /></a>
+  <a href="https://upandclear.org/2025/01/08/hydra-client-alternatif-reddit-pour-ios/"><b>Hydra, client alternatif Reddit pour iOS</b></a><br/>
+  <sub>8 jan 2025</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -56,9 +56,6 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 
 <!-- REPOS:START -->
 ### Dernières mises à jour
-
-- ★ 13 · [**tracker-dashboard**](https://github.com/Aerya/tracker-dashboard)
-  Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
 
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
@@ -81,13 +78,13 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - [**cronitor-cli-docker**](https://github.com/Aerya/cronitor-cli-docker)
   Image Docker non officielle pour cronitorio/cronitor-cli, construite automatiquement. Pratique pour utiliser le CLI Cronitor dans des stacks conteneurisées.
 
+- ★ 2 · [**Stremio-Seerr-Catalog**](https://github.com/Aerya/Stremio-Seerr-Catalog)
+  Addon Stremio qui expose les requêtes Over, Jelly ou Seerr sous forme de catalogues. Il fait le lien entre l'écosystème Seerr/Radarr/Sonarr et Stremio.
+
 ---
 
 <details>
 <summary>Autres repos</summary>
-
-- ★ 2 · [**Stremio-Seerr-Catalog**](https://github.com/Aerya/Stremio-Seerr-Catalog)
-  Addon Stremio qui expose les requêtes Over, Jelly ou Seerr sous forme de catalogues. Il fait le lien entre l'écosystème Seerr/Radarr/Sonarr et Stremio.
 
 - ★ 2 · [**stremio-rss-catalog**](https://github.com/Aerya/stremio-rss-catalog)
   Addon Stremio qui génère des catalogues depuis des flux RSS, Prowlarr ou NZBHydra2. Il permet d'intégrer des sources personnalisées directement dans Stremio.
