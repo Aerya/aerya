@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2024/06/30/stirling-pdf-le-couteau-suisse-du-pdf-en-local/"><img align="left" src="https://upandclear.org/wp-content/uploads/2024/06/adobe-pdf-editing-software-300x300.png" width="120" alt="Stirling PDF : le couteau suisse du PDF en local" /></a>
-  <a href="https://upandclear.org/2024/06/30/stirling-pdf-le-couteau-suisse-du-pdf-en-local/"><b>Stirling PDF : le couteau suisse du PDF en local</b></a><br/>
-  <sub>30 jun 2024</sub>
+  <a href="https://upandclear.org/2024/09/14/hoarder-liens-images-textes-et-pdf-en-favoris-avec-recherche-et-tags-auto/"><img align="left" src="https://upandclear.org/wp-content/uploads/2024/09/hoarder-bookmark-search-300x300.jpg" width="120" alt="Hoarder : liens, images, textes et PDF en favoris avec recherche et tags auto" /></a>
+  <a href="https://upandclear.org/2024/09/14/hoarder-liens-images-textes-et-pdf-en-favoris-avec-recherche-et-tags-auto/"><b>Hoarder : liens, images, textes et PDF en favoris avec recherche et tags auto</b></a><br/>
+  <sub>14 sep 2024</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,17 +57,17 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
-- ★ 14 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
-  Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
-
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
-- ★ 26 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
-  Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
+- ★ 16 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
+  Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
 
 - [**claudecodeui-docker**](https://github.com/Aerya/claudecodeui-docker)
   Image Docker GHCR personnelle pour CloudCLI et Claude Code UI. Le dépôt automatise le packaging afin de déployer l'interface plus facilement.
+
+- ★ 26 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+  Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
 - ★ 1 · [**ProxySpin**](https://github.com/Aerya/ProxySpin)
   Proxy HTTP rotatif et anonymisant basé sur Tor et des proxys publics. Il fournit aussi un panneau de contrôle web et une extension navigateur.
