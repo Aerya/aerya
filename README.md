@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2025/09/14/jellystat-statistiques-de-lecture-et-contenus/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/09/jellystat-jellyfin-statistics-1757839639-300x300.jpg" width="120" alt="JellyStat : statistiques de lecture et contenus" /></a>
-  <a href="https://upandclear.org/2025/09/14/jellystat-statistiques-de-lecture-et-contenus/"><b>JellyStat : statistiques de lecture et contenus</b></a><br/>
-  <sub>14 sep 2025</sub>
+  <a href="https://upandclear.org/2024/06/15/nzbget-notifications-discord/"><img align="left" src="https://upandclear.org/wp-content/uploads/2024/06/8cb80bc011e2916b729e6ccd86618aa5-300x300.jpg" width="120" alt="NZBGet : notifications Discord" /></a>
+  <a href="https://upandclear.org/2024/06/15/nzbget-notifications-discord/"><b>NZBGet : notifications Discord</b></a><br/>
+  <sub>15 jun 2024</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
