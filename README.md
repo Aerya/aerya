@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2026/01/26/decypharr-alldebrid-no-debrid-clients-available-or-no-slots-found-script-de-nettoyage-de-magnets-par-bouby/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/01/adbogue-300x300.png" width="120" alt="Decypharr &amp; AllDebrid : No debrid clients available or no slots found + script de nettoyage de magnets par Bouby" /></a>
-  <a href="https://upandclear.org/2026/01/26/decypharr-alldebrid-no-debrid-clients-available-or-no-slots-found-script-de-nettoyage-de-magnets-par-bouby/"><b>Decypharr &amp; AllDebrid : No debrid clients available or no slots found + script de nettoyage de magnets par Bouby</b></a><br/>
-  <sub>26 jan 2026</sub>
+  <a href="https://upandclear.org/2025/09/08/yggtorrent-bulk-downloader/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/09/yggtorrent-bulk-downloader-1757309141-300x300.jpg" width="120" alt="YggTorrent Bulk Downloader" /></a>
+  <a href="https://upandclear.org/2025/09/08/yggtorrent-bulk-downloader/"><b>YggTorrent Bulk Downloader</b></a><br/>
+  <sub>8 sep 2025</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -60,14 +60,17 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - ★ 18 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
   Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
 
+- ★ 27 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+  Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
+
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
+- ★ 2 · [**stremio-rss-catalog**](https://github.com/Aerya/stremio-rss-catalog)
+  Addon Stremio qui génère des catalogues depuis des flux RSS, Prowlarr ou NZBHydra2. Il permet d'intégrer des sources personnalisées directement dans Stremio.
+
 - [**claudecodeui-docker**](https://github.com/Aerya/claudecodeui-docker)
   Image Docker GHCR personnelle pour CloudCLI et Claude Code UI. Le dépôt automatise le packaging afin de déployer l'interface plus facilement.
-
-- ★ 27 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
-  Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
 - ★ 1 · [**ProxySpin**](https://github.com/Aerya/ProxySpin)
   Proxy HTTP rotatif et anonymisant basé sur Tor et des proxys publics. Il fournit aussi un panneau de contrôle web et une extension navigateur.
@@ -78,19 +81,16 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - [**Stremio-French-Stream-Docker**](https://github.com/Aerya/Stremio-French-Stream-Docker)
   Packaging Docker autour de Stremio French Stream pour simplifier son déploiement. Le dépôt sert à lancer le service dans un environnement conteneurisé.
 
-- [**cronitor-cli-docker**](https://github.com/Aerya/cronitor-cli-docker)
-  Image Docker non officielle pour cronitorio/cronitor-cli, construite automatiquement. Pratique pour utiliser le CLI Cronitor dans des stacks conteneurisées.
-
 ---
 
 <details>
 <summary>Autres repos</summary>
 
+- [**cronitor-cli-docker**](https://github.com/Aerya/cronitor-cli-docker)
+  Image Docker non officielle pour cronitorio/cronitor-cli, construite automatiquement. Pratique pour utiliser le CLI Cronitor dans des stacks conteneurisées.
+
 - ★ 2 · [**Stremio-Seerr-Catalog**](https://github.com/Aerya/Stremio-Seerr-Catalog)
   Addon Stremio qui expose les requêtes Over, Jelly ou Seerr sous forme de catalogues. Il fait le lien entre l'écosystème Seerr/Radarr/Sonarr et Stremio.
-
-- ★ 2 · [**stremio-rss-catalog**](https://github.com/Aerya/stremio-rss-catalog)
-  Addon Stremio qui génère des catalogues depuis des flux RSS, Prowlarr ou NZBHydra2. Il permet d'intégrer des sources personnalisées directement dans Stremio.
 
 - ★ 1 · [**UseFlow-FR**](https://github.com/Aerya/UseFlow-FR)
   Ancien addon Stremio pour catalogues francophones. Le projet a évolué vers stremio-rss-catalog, qui le remplace pour les usages actuels.
