@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2025/09/08/yggtorrent-bulk-downloader/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/09/yggtorrent-bulk-downloader-1757309141-300x300.jpg" width="120" alt="YggTorrent Bulk Downloader" /></a>
-  <a href="https://upandclear.org/2025/09/08/yggtorrent-bulk-downloader/"><b>YggTorrent Bulk Downloader</b></a><br/>
-  <sub>8 sep 2025</sub>
+  <a href="https://upandclear.org/2026/03/17/freebox-os-ultra-dashboard-dashboard-moderne-pour-ultra-delta-pop/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/03/2-300x300.jpg" width="120" alt="Freebox OS Ultra Dashboard : dashboard moderne pour Ultra, Delta &amp; Pop" /></a>
+  <a href="https://upandclear.org/2026/03/17/freebox-os-ultra-dashboard-dashboard-moderne-pour-ultra-delta-pop/"><b>Freebox OS Ultra Dashboard : dashboard moderne pour Ultra, Delta &amp; Pop</b></a><br/>
+  <sub>17 mar 2026</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
