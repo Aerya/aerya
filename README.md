@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2024/11/03/stump-serveur-lecteur-de-comics-manga-auto-heberge/"><img align="left" src="https://upandclear.org/wp-content/uploads/2024/11/comics-reader-web-hosted-300x300.jpg" width="120" alt="Stump : serveur/lecteur de comics/manga auto-hébergé" /></a>
-  <a href="https://upandclear.org/2024/11/03/stump-serveur-lecteur-de-comics-manga-auto-heberge/"><b>Stump : serveur/lecteur de comics/manga auto-hébergé</b></a><br/>
-  <sub>3 nov 2024</sub>
+  <a href="https://upandclear.org/2024/06/23/manuels-quad-tgb-blade-550-se/"><img align="left" src="https://upandclear.org/wp-content/uploads/2024/06/quad-tgb-blade-550-300x300.jpg" width="120" alt="Manuels quad TGB Blade 550 SE" /></a>
+  <a href="https://upandclear.org/2024/06/23/manuels-quad-tgb-blade-550-se/"><b>Manuels quad TGB Blade 550 SE</b></a><br/>
+  <sub>23 jun 2024</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,14 +57,14 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
-- [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
-  Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
-
 - ★ 19 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
   Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
 
 - ★ 5 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
   Gluetun Companion est une interface Web pour piloter automatiquement vos serveurs VPN WireGuard et OpenVPN dans Gluetun, offrant des benchmarks, une sélection automatique de serveurs et la gestion des conteneurs Docker. Le projet est actuellement en phase bêta, développé avec l'aide de l'IA et ouvert aux contributions.
+
+- [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
+  Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
 - ★ 27 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
