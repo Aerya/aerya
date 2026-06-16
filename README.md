@@ -14,6 +14,20 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Les derniers
 
 <p>
+  <a href="https://upandclear.org/2026/06/16/gluetun-companion-interface-web-pour-piloter-automatiquement-vos-serveurs-vpn-wireguard-et-openvpn-dans-gluetun/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/16-300x300.jpg" width="72" alt="Gluetun Companion : interface Web pour piloter automatiquement vos serveurs VPN WireGuard et OpenVPN dans Gluetun" /></a>
+  <a href="https://upandclear.org/2026/06/16/gluetun-companion-interface-web-pour-piloter-automatiquement-vos-serveurs-vpn-wireguard-et-openvpn-dans-gluetun/"><b>Gluetun Companion : interface Web pour piloter automatiquement vos serveurs VPN WireGuard et OpenVPN dans Gluetun</b></a><br/>
+  <sub>16 jun 2026</sub>
+</p>
+<br clear="left"/>
+
+<p>
+  <a href="https://upandclear.org/2026/06/16/addon-watchly-recommandations-bases-sur-stremio-trakt-simkl/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/8-300x300.jpg" width="72" alt="Addon Watchly : recommandations bases sur Stremio/Trakt/Simkl" /></a>
+  <a href="https://upandclear.org/2026/06/16/addon-watchly-recommandations-bases-sur-stremio-trakt-simkl/"><b>Addon Watchly : recommandations bases sur Stremio/Trakt/Simkl</b></a><br/>
+  <sub>16 jun 2026</sub>
+</p>
+<br clear="left"/>
+
+<p>
   <a href="https://upandclear.org/2026/06/04/tracker-dashboard-vos-principales-statistiques-au-meme-endroit/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/4-300x300.png" width="72" alt="Tracker Dashboard : vos principales statistiques au même endroit" /></a>
   <a href="https://upandclear.org/2026/06/04/tracker-dashboard-vos-principales-statistiques-au-meme-endroit/"><b>Tracker Dashboard : vos principales statistiques au même endroit</b></a><br/>
   <sub>4 jun 2026</sub>
@@ -27,27 +41,13 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 </p>
 <br clear="left"/>
 
-<p>
-  <a href="https://upandclear.org/2026/05/28/stremio-postersplus-pour-embellir-ses-catalogues/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/05/showcase-kai-300x300.jpg" width="72" alt="Stremio : PostersPlus, pour embellir ses catalogues" /></a>
-  <a href="https://upandclear.org/2026/05/28/stremio-postersplus-pour-embellir-ses-catalogues/"><b>Stremio : PostersPlus, pour embellir ses catalogues</b></a><br/>
-  <sub>28 mai 2026</sub>
-</p>
-<br clear="left"/>
-
-<p>
-  <a href="https://upandclear.org/2026/05/28/french-stream-public-stremio-addon/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/05/friends-watching-a-show-stockpack-pexels-300x300.jpg" width="72" alt="French Stream Public Stremio Addon" /></a>
-  <a href="https://upandclear.org/2026/05/28/french-stream-public-stremio-addon/"><b>French Stream Public Stremio Addon</b></a><br/>
-  <sub>28 mai 2026</sub>
-</p>
-<br clear="left"/>
-
 
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2026/03/17/freebox-os-ultra-dashboard-dashboard-moderne-pour-ultra-delta-pop/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/03/2-300x300.jpg" width="120" alt="Freebox OS Ultra Dashboard : dashboard moderne pour Ultra, Delta &amp; Pop" /></a>
-  <a href="https://upandclear.org/2026/03/17/freebox-os-ultra-dashboard-dashboard-moderne-pour-ultra-delta-pop/"><b>Freebox OS Ultra Dashboard : dashboard moderne pour Ultra, Delta &amp; Pop</b></a><br/>
-  <sub>17 mar 2026</sub>
+  <a href="https://upandclear.org/2024/11/03/stump-serveur-lecteur-de-comics-manga-auto-heberge/"><img align="left" src="https://upandclear.org/wp-content/uploads/2024/11/comics-reader-web-hosted-300x300.jpg" width="120" alt="Stump : serveur/lecteur de comics/manga auto-hébergé" /></a>
+  <a href="https://upandclear.org/2024/11/03/stump-serveur-lecteur-de-comics-manga-auto-heberge/"><b>Stump : serveur/lecteur de comics/manga auto-hébergé</b></a><br/>
+  <sub>3 nov 2024</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,14 +57,17 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
-- ★ 18 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
+- [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
+  Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
+
+- ★ 19 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
   Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
+
+- ★ 5 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
+  Gluetun Companion est une interface Web pour piloter automatiquement vos serveurs VPN WireGuard et OpenVPN dans Gluetun, offrant des benchmarks, une sélection automatique de serveurs et la gestion des conteneurs Docker. Le projet est actuellement en phase bêta, développé avec l'aide de l'IA et ouvert aux contributions.
 
 - ★ 27 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
-
-- [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
-  Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
 - ★ 2 · [**stremio-rss-catalog**](https://github.com/Aerya/stremio-rss-catalog)
   Addon Stremio qui génère des catalogues depuis des flux RSS, Prowlarr ou NZBHydra2. Il permet d'intégrer des sources personnalisées directement dans Stremio.
@@ -78,13 +81,13 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - [**MiniVid**](https://github.com/Aerya/MiniVid)
   Application pour indexer, lire, taguer et mettre en favoris des vidéos locales. Elle vise une gestion simple d'une bibliothèque vidéo personnelle.
 
-- [**Stremio-French-Stream-Docker**](https://github.com/Aerya/Stremio-French-Stream-Docker)
-  Packaging Docker autour de Stremio French Stream pour simplifier son déploiement. Le dépôt sert à lancer le service dans un environnement conteneurisé.
-
 ---
 
 <details>
 <summary>Autres repos</summary>
+
+- [**Stremio-French-Stream-Docker**](https://github.com/Aerya/Stremio-French-Stream-Docker)
+  Packaging Docker autour de Stremio French Stream pour simplifier son déploiement. Le dépôt sert à lancer le service dans un environnement conteneurisé.
 
 - [**cronitor-cli-docker**](https://github.com/Aerya/cronitor-cli-docker)
   Image Docker non officielle pour cronitorio/cronitor-cli, construite automatiquement. Pratique pour utiliser le CLI Cronitor dans des stacks conteneurisées.
