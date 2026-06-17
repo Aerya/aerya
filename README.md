@@ -14,6 +14,13 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Les derniers
 
 <p>
+  <a href="https://upandclear.org/2026/06/17/davos-automatisation-ftp-avec-webui/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/7-3-300x300.png" width="72" alt="Davos : automatisation FTP avec WebUI" /></a>
+  <a href="https://upandclear.org/2026/06/17/davos-automatisation-ftp-avec-webui/"><b>Davos : automatisation FTP avec WebUI</b></a><br/>
+  <sub>17 jun 2026</sub>
+</p>
+<br clear="left"/>
+
+<p>
   <a href="https://upandclear.org/2026/06/16/gluetun-companion-interface-web-pour-piloter-automatiquement-vos-serveurs-vpn-wireguard-et-openvpn-dans-gluetun/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/16-300x300.jpg" width="72" alt="Gluetun Companion : interface Web pour piloter automatiquement vos serveurs VPN WireGuard et OpenVPN dans Gluetun" /></a>
   <a href="https://upandclear.org/2026/06/16/gluetun-companion-interface-web-pour-piloter-automatiquement-vos-serveurs-vpn-wireguard-et-openvpn-dans-gluetun/"><b>Gluetun Companion : interface Web pour piloter automatiquement vos serveurs VPN WireGuard et OpenVPN dans Gluetun</b></a><br/>
   <sub>16 jun 2026</sub>
@@ -34,20 +41,13 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 </p>
 <br clear="left"/>
 
-<p>
-  <a href="https://upandclear.org/2026/05/29/steamtools-et-luatools-steam-sans-passer-par-le-panier-fix-erreur-no-internet-connexion/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/05/rgb-keyboard-stockpack-unsplash-300x300.jpg" width="72" alt="Steamtools et LuaTools : Steam sans passer par le panier. + fix erreur No Internet connexion" /></a>
-  <a href="https://upandclear.org/2026/05/29/steamtools-et-luatools-steam-sans-passer-par-le-panier-fix-erreur-no-internet-connexion/"><b>Steamtools et LuaTools : Steam sans passer par le panier. + fix erreur No Internet connexion</b></a><br/>
-  <sub>29 mai 2026</sub>
-</p>
-<br clear="left"/>
-
 
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2026/03/28/gerer-ses-conteneurs-docker-autrement-le-fork-dockge-enhanced-surveillance-dimages-scan-cve-backup-automatique-gestion-des-ressources/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/03/enhanced11-300x300.png" width="120" alt="Gérer ses conteneurs Docker autrement : le fork Dockge Enhanced (surveillance d’images, scan CVE, backup automatique, gestion des ressources)" /></a>
-  <a href="https://upandclear.org/2026/03/28/gerer-ses-conteneurs-docker-autrement-le-fork-dockge-enhanced-surveillance-dimages-scan-cve-backup-automatique-gestion-des-ressources/"><b>Gérer ses conteneurs Docker autrement : le fork Dockge Enhanced (surveillance d’images, scan CVE, backup automatique, gestion des ressources)</b></a><br/>
-  <sub>28 mar 2026</sub>
+  <a href="https://upandclear.org/2026/04/06/indexarr-un-bitmagnet-modernise-et-decouverte-dun-indexeur-usenet/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/04/indexarr1-300x300.jpg" width="120" alt="Indexarr : un BitMagnet modernisé. Et découverte d’un indexeur Usenet." /></a>
+  <a href="https://upandclear.org/2026/04/06/indexarr-un-bitmagnet-modernise-et-decouverte-dun-indexeur-usenet/"><b>Indexarr : un BitMagnet modernisé. Et découverte d’un indexeur Usenet.</b></a><br/>
+  <sub>6 avr 2026</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,11 +57,14 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
-- [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
-  Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
-
 - ★ 19 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
   Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
+
+- [**Stremio-French-Stream-Docker**](https://github.com/Aerya/Stremio-French-Stream-Docker)
+  Packaging Docker autour de Stremio French Stream pour simplifier son déploiement. Le dépôt sert à lancer le service dans un environnement conteneurisé.
+
+- [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
+  Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
 - ★ 6 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
   Gluetun Companion est une interface Web pour piloter automatiquement vos serveurs VPN WireGuard et OpenVPN dans Gluetun, offrant des benchmarks, une sélection automatique de serveurs et la gestion des conteneurs Docker. Le projet est actuellement en phase bêta, développé avec l'aide de l'IA et ouvert aux contributions.
@@ -78,16 +81,13 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - ★ 1 · [**ProxySpin**](https://github.com/Aerya/ProxySpin)
   Proxy HTTP rotatif et anonymisant basé sur Tor et des proxys publics. Il fournit aussi un panneau de contrôle web et une extension navigateur.
 
-- [**MiniVid**](https://github.com/Aerya/MiniVid)
-  Application pour indexer, lire, taguer et mettre en favoris des vidéos locales. Elle vise une gestion simple d'une bibliothèque vidéo personnelle.
-
 ---
 
 <details>
 <summary>Autres repos</summary>
 
-- [**Stremio-French-Stream-Docker**](https://github.com/Aerya/Stremio-French-Stream-Docker)
-  Packaging Docker autour de Stremio French Stream pour simplifier son déploiement. Le dépôt sert à lancer le service dans un environnement conteneurisé.
+- [**MiniVid**](https://github.com/Aerya/MiniVid)
+  Application pour indexer, lire, taguer et mettre en favoris des vidéos locales. Elle vise une gestion simple d'une bibliothèque vidéo personnelle.
 
 - [**cronitor-cli-docker**](https://github.com/Aerya/cronitor-cli-docker)
   Image Docker non officielle pour cronitorio/cronitor-cli, construite automatiquement. Pratique pour utiliser le CLI Cronitor dans des stacks conteneurisées.
