@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2026/04/06/indexarr-un-bitmagnet-modernise-et-decouverte-dun-indexeur-usenet/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/04/indexarr1-300x300.jpg" width="120" alt="Indexarr : un BitMagnet modernisé. Et découverte d’un indexeur Usenet." /></a>
-  <a href="https://upandclear.org/2026/04/06/indexarr-un-bitmagnet-modernise-et-decouverte-dun-indexeur-usenet/"><b>Indexarr : un BitMagnet modernisé. Et découverte d’un indexeur Usenet.</b></a><br/>
-  <sub>6 avr 2026</sub>
+  <a href="https://upandclear.org/2026/04/05/bye-bye-stremio-sur-androidtv-et-bienvenue-a-arvio-wuplay-et-nuvio-sur-ios/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/04/wuplay9-300x300.jpg" width="120" alt="Bye bye Stremio sur AndroidTV ! Et bienvenue à Arvio, WuPlay (et Nuvio sur iOS) !" /></a>
+  <a href="https://upandclear.org/2026/04/05/bye-bye-stremio-sur-androidtv-et-bienvenue-a-arvio-wuplay-et-nuvio-sur-ios/"><b>Bye bye Stremio sur AndroidTV ! Et bienvenue à Arvio, WuPlay (et Nuvio sur iOS) !</b></a><br/>
+  <sub>5 avr 2026</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,14 +57,14 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
+- [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
+  Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
+
 - ★ 19 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
   Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
 
 - [**Stremio-French-Stream-Docker**](https://github.com/Aerya/Stremio-French-Stream-Docker)
   Packaging Docker autour de Stremio French Stream pour simplifier son déploiement. Le dépôt sert à lancer le service dans un environnement conteneurisé.
-
-- [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
-  Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
 - ★ 6 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
   Gluetun Companion est une interface Web pour piloter automatiquement vos serveurs VPN WireGuard et OpenVPN dans Gluetun, offrant des benchmarks, une sélection automatique de serveurs et la gestion des conteneurs Docker. Le projet est actuellement en phase bêta, développé avec l'aide de l'IA et ouvert aux contributions.
