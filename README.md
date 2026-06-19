@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2026/03/29/mobsf-framework-package-en-docker-pour-analyser-des-applications-mobiles/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/03/mobsf15-300x300.jpg" width="120" alt="MobSF : framework packagé en Docker pour analyser des applications mobiles" /></a>
-  <a href="https://upandclear.org/2026/03/29/mobsf-framework-package-en-docker-pour-analyser-des-applications-mobiles/"><b>MobSF : framework packagé en Docker pour analyser des applications mobiles</b></a><br/>
-  <sub>29 mar 2026</sub>
+  <a href="https://upandclear.org/2025/01/08/hydra-client-alternatif-reddit-pour-ios/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/01/reddit-client-ios-300x300.jpg" width="120" alt="Hydra, client alternatif Reddit pour iOS" /></a>
+  <a href="https://upandclear.org/2025/01/08/hydra-client-alternatif-reddit-pour-ios/"><b>Hydra, client alternatif Reddit pour iOS</b></a><br/>
+  <sub>8 jan 2025</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,20 +57,20 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
-- [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
-  Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
+- ★ 21 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
+  Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
 
 - ★ 29 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
-- ★ 21 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
-  Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
+- ★ 6 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
+  Gluetun Companion est une interface web pour piloter automatiquement les serveurs VPN WireGuard et OpenVPN dans Gluetun, offrant des benchmarks, une sélection automatique du meilleur serveur, la gestion des profils VPN et des conteneurs Docker. Le projet est en bêta, principalement testé avec AirVPN, et cherche des retours sur les autres fournisseurs et configurations.
+
+- [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
+  Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
 - [**Stremio-French-Stream-Docker**](https://github.com/Aerya/Stremio-French-Stream-Docker)
   Packaging Docker autour de Stremio French Stream pour simplifier son déploiement. Le dépôt sert à lancer le service dans un environnement conteneurisé.
-
-- ★ 6 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
-  Gluetun Companion est une interface Web pour piloter automatiquement vos serveurs VPN WireGuard et OpenVPN dans Gluetun, offrant des benchmarks, une sélection automatique de serveurs et la gestion des conteneurs Docker. Le projet est actuellement en phase bêta, développé avec l'aide de l'IA et ouvert aux contributions.
 
 - ★ 2 · [**stremio-rss-catalog**](https://github.com/Aerya/stremio-rss-catalog)
   Addon Stremio qui génère des catalogues depuis des flux RSS, Prowlarr ou NZBHydra2. Il permet d'intégrer des sources personnalisées directement dans Stremio.
