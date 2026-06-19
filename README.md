@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2025/08/27/seasonarr-remplacer-des-episodes-manquants-dans-sonarr-par-des-packs-de-saisons/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/08/seasonarr-sonarr-download-season-packs-1756273961-300x300.jpg" width="120" alt="SeasonArr : remplacer des épisodes manquants dans Sonarr par des packs de saisons" /></a>
-  <a href="https://upandclear.org/2025/08/27/seasonarr-remplacer-des-episodes-manquants-dans-sonarr-par-des-packs-de-saisons/"><b>SeasonArr : remplacer des épisodes manquants dans Sonarr par des packs de saisons</b></a><br/>
-  <sub>27 août 2025</sub>
+  <a href="https://upandclear.org/2026/03/29/mobsf-framework-package-en-docker-pour-analyser-des-applications-mobiles/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/03/mobsf15-300x300.jpg" width="120" alt="MobSF : framework packagé en Docker pour analyser des applications mobiles" /></a>
+  <a href="https://upandclear.org/2026/03/29/mobsf-framework-package-en-docker-pour-analyser-des-applications-mobiles/"><b>MobSF : framework packagé en Docker pour analyser des applications mobiles</b></a><br/>
+  <sub>29 mar 2026</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -60,7 +60,10 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
-- ★ 20 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
+- ★ 29 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+  Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
+
+- ★ 21 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
   Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
 
 - [**Stremio-French-Stream-Docker**](https://github.com/Aerya/Stremio-French-Stream-Docker)
@@ -68,9 +71,6 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 
 - ★ 6 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
   Gluetun Companion est une interface Web pour piloter automatiquement vos serveurs VPN WireGuard et OpenVPN dans Gluetun, offrant des benchmarks, une sélection automatique de serveurs et la gestion des conteneurs Docker. Le projet est actuellement en phase bêta, développé avec l'aide de l'IA et ouvert aux contributions.
-
-- ★ 29 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
-  Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
 - ★ 2 · [**stremio-rss-catalog**](https://github.com/Aerya/stremio-rss-catalog)
   Addon Stremio qui génère des catalogues depuis des flux RSS, Prowlarr ou NZBHydra2. Il permet d'intégrer des sources personnalisées directement dans Stremio.
