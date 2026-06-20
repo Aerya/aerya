@@ -10,7 +10,7 @@
       "fingerprint": "3d7aaee2c8e3ff5927369b1ccb89c13e368ec0adbf527d6fca4ef32b6359b659",
       "source": "manual",
       "summary": "Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.",
-      "updated_at": "2026-06-19T17:54:28+00:00"
+      "updated_at": "2026-06-20T10:30:57+00:00"
     },
     "Aerya/BitTorrent-trackers-minimal-rules": {
       "fingerprint": "d3361742d51e29fe2892e952fa0d302b195e8b97801bb4c49a3da42d614df164",
@@ -22,7 +22,7 @@
       "fingerprint": "f461e173e11d3f609ec021848e3b616a66ed3463860f8b3ea275268837f63c72",
       "source": "manual",
       "summary": "Seeder automatique pour des torrents traités par Decypharr. Le projet n'est plus compatible avec les dernières versions de Decypharr.",
-      "updated_at": "2026-06-19T17:54:34+00:00"
+      "updated_at": "2026-06-20T10:31:01+00:00"
     },
     "Aerya/Docker-MOHAA-server": {
       "fingerprint": "64d8cb1e6893f0b32dcfeadfbfa0ceed1f152f39f61be0db3fc95d1b30d2eb7f",
@@ -34,7 +34,7 @@
       "fingerprint": "516dcc97a25f0bc5790e102f8787756e13424f8da34ab0d7439c051e662c183a",
       "source": "manual",
       "summary": "Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.",
-      "updated_at": "2026-06-19T17:54:25+00:00"
+      "updated_at": "2026-06-20T10:30:57+00:00"
     },
     "Aerya/Gluetun-Companion": {
       "fingerprint": "4891b384f8bf69de4b608c76076b9b6ca9208bc067e1c57e66dd5277436a6725",
@@ -58,7 +58,7 @@
       "fingerprint": "f03b5537550d47dcf125294d39a4f179be1ea4af12433346b665b4e9ef7a629f",
       "source": "manual",
       "summary": "Application pour indexer, lire, taguer et mettre en favoris des vidéos locales. Elle vise une gestion simple d'une bibliothèque vidéo personnelle.",
-      "updated_at": "2026-06-19T17:54:30+00:00"
+      "updated_at": "2026-06-20T10:30:59+00:00"
     },
     "Aerya/Mode-Affiches": {
       "fingerprint": "8d79d8c98e67883d6e53cbf6238d55be49e97c1a2a52b6fd701277fd76f3fb2d",
@@ -70,7 +70,7 @@
       "fingerprint": "e2b06bc35631f3bb224442163beb189eb4eafb8f71efd8b4fc41c4fea40396a7",
       "source": "manual",
       "summary": "Stack de base d'addons Stremio pour contenu francophone. Le projet n'est plus maintenu ni à jour.",
-      "updated_at": "2026-06-19T17:54:36+00:00"
+      "updated_at": "2026-06-20T10:31:02+00:00"
     },
     "Aerya/Planet-Warez-Markdown-menu": {
       "fingerprint": "bb2524f0488404ad0e176955849f16eaed41a5f71be38091deaf136c4b803fb5",
@@ -82,7 +82,7 @@
       "fingerprint": "c109fbda775c1b672d895883fbad0375672846a2d4db4a98b9d7a64c7bf80b44",
       "source": "manual",
       "summary": "Proxy HTTP rotatif et anonymisant basé sur Tor et des proxys publics. Il fournit aussi un panneau de contrôle web et une extension navigateur.",
-      "updated_at": "2026-06-19T17:54:30+00:00"
+      "updated_at": "2026-06-20T10:30:59+00:00"
     },
     "Aerya/Recpitulatif-Discord-post-installation-pour-SSDv2": {
       "fingerprint": "258079c158277b23b6745ee658ebf4f8563c0da32e744916a032eb1b505debbd",
@@ -94,13 +94,13 @@
       "fingerprint": "2bc781203ebab529b7826e12438b6e89c6cf59062badffc166fd68ce04fe970a",
       "source": "manual",
       "summary": "Packaging Docker autour de Stremio French Stream pour simplifier son déploiement. Le dépôt sert à lancer le service dans un environnement conteneurisé.",
-      "updated_at": "2026-06-19T17:54:28+00:00"
+      "updated_at": "2026-06-20T10:30:58+00:00"
     },
     "Aerya/Stremio-Seerr-Catalog": {
       "fingerprint": "6c038568778a45b6738cf8b831e29516943efeb5efd2250b932b5adcdf9e6da9",
       "source": "manual",
       "summary": "Addon Stremio qui expose les requêtes Over, Jelly ou Seerr sous forme de catalogues. Il fait le lien entre l'écosystème Seerr/Radarr/Sonarr et Stremio.",
-      "updated_at": "2026-06-19T17:54:31+00:00"
+      "updated_at": "2026-06-20T10:30:59+00:00"
     },
     "Aerya/Stremio-Stack": {
       "fingerprint": "ced08ff82fa892c694793f49c7be8eaebf4120735eb92c685d205c578e686e8c",
@@ -112,13 +112,13 @@
       "fingerprint": "56afcde80e2655e6a346aa4de7a91d76671ef172f3faa480ff40458dc766b0e8",
       "source": "manual",
       "summary": "Ancien addon Stremio pour catalogues francophones. Le projet a évolué vers stremio-rss-catalog, qui le remplace pour les usages actuels.",
-      "updated_at": "2026-06-19T17:54:32+00:00"
+      "updated_at": "2026-06-20T10:31:00+00:00"
     },
     "Aerya/claudecodeui-docker": {
       "fingerprint": "26c64ffe51b5aa44fddd3f4eb2551c5412a49cb2a08a28c5b405fa60ee13e0fe",
       "source": "manual",
       "summary": "Image Docker GHCR personnelle pour CloudCLI et Claude Code UI. Le dépôt automatise le packaging afin de déployer l'interface plus facilement.",
-      "updated_at": "2026-06-19T17:54:29+00:00"
+      "updated_at": "2026-06-20T10:30:58+00:00"
     },
     "Aerya/correzeboostemploi": {
       "fingerprint": "795bdc41beeaaee518295160fde79f8809a021bfeef2c55985e4c3e524f88f0b",
@@ -130,7 +130,7 @@
       "fingerprint": "ec7ada65d168d84bb82782f20e34ce52e1f892e4582878946b93ab73c3cec514",
       "source": "manual",
       "summary": "Image Docker non officielle pour cronitorio/cronitor-cli, construite automatiquement. Pratique pour utiliser le CLI Cronitor dans des stacks conteneurisées.",
-      "updated_at": "2026-06-19T17:54:31+00:00"
+      "updated_at": "2026-06-20T10:30:59+00:00"
     },
     "Aerya/ruTorrent-vs-local-storage-cleaner": {
       "fingerprint": "ab80444744d6c949d2e8c14e36f7c2a5b2278245a300f99204798a60990da11b",
@@ -142,7 +142,7 @@
       "fingerprint": "e3e690df0a05e319fd35db9c86ee749a96a3d816553c377892c787706b0ea0a1",
       "source": "manual",
       "summary": "Addon Stremio qui génère des catalogues depuis des flux RSS, Prowlarr ou NZBHydra2. Il permet d'intégrer des sources personnalisées directement dans Stremio.",
-      "updated_at": "2026-06-19T17:54:29+00:00"
+      "updated_at": "2026-06-20T10:30:58+00:00"
     },
     "Aerya/yggtorrent-bulk-downloader": {
       "fingerprint": "b5185d1e12defe80d453befd1535c8aec8e957c6e4d1d0fee865019587084865",
@@ -154,7 +154,7 @@
       "fingerprint": "0d58c643d66882de15e3c8fb4676274396704e037a5d694361eeb8ab11585bab",
       "source": "manual",
       "summary": "Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.",
-      "updated_at": "2026-06-19T17:54:25+00:00"
+      "updated_at": "2026-06-20T10:30:58+00:00"
     }
   },
   "version": 1
