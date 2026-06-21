@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2025/06/25/script-seedbox-docker-ssdv2-et-bien-plus-encore/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/06/a-white-poster-on-a-wall-with-bold-black-text-300x300.jpg" width="120" alt="Script Seedbox Docker (SSDv2) et bien plus encore !" /></a>
-  <a href="https://upandclear.org/2025/06/25/script-seedbox-docker-ssdv2-et-bien-plus-encore/"><b>Script Seedbox Docker (SSDv2) et bien plus encore !</b></a><br/>
-  <sub>25 jun 2025</sub>
+  <a href="https://upandclear.org/2025/11/12/usenetstreamer-addon-stremio-pour-lier-nzbdav-et-streamer-depuis-usenet/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/11/chatgpt-image-12-nov.-2025-14_54_57-300x300.jpg" width="120" alt="UsenetStreamer : addon Stremio pour lier NZBdav et streamer depuis Usenet" /></a>
+  <a href="https://upandclear.org/2025/11/12/usenetstreamer-addon-stremio-pour-lier-nzbdav-et-streamer-depuis-usenet/"><b>UsenetStreamer : addon Stremio pour lier NZBdav et streamer depuis Usenet</b></a><br/>
+  <sub>12 nov 2025</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,14 +57,14 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
+- ★ 21 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
+  Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
+
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
 - ★ 29 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
-
-- ★ 21 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
-  Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
 
 - ★ 6 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
   Gluetun Companion est une interface web pour piloter automatiquement les serveurs VPN WireGuard et OpenVPN dans Gluetun, offrant des benchmarks, une sélection automatique du meilleur serveur, la gestion des profils VPN et des conteneurs Docker. Le projet est en bêta, principalement testé avec AirVPN, et cherche des retours sur les autres fournisseurs et configurations.
