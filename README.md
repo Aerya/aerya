@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2025/11/12/usenetstreamer-addon-stremio-pour-lier-nzbdav-et-streamer-depuis-usenet/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/11/chatgpt-image-12-nov.-2025-14_54_57-300x300.jpg" width="120" alt="UsenetStreamer : addon Stremio pour lier NZBdav et streamer depuis Usenet" /></a>
-  <a href="https://upandclear.org/2025/11/12/usenetstreamer-addon-stremio-pour-lier-nzbdav-et-streamer-depuis-usenet/"><b>UsenetStreamer : addon Stremio pour lier NZBdav et streamer depuis Usenet</b></a><br/>
-  <sub>12 nov 2025</sub>
+  <a href="https://upandclear.org/2026/01/26/decypharr-alldebrid-no-debrid-clients-available-or-no-slots-found-script-de-nettoyage-de-magnets-par-bouby/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/01/adbogue-300x300.png" width="120" alt="Decypharr &amp; AllDebrid : No debrid clients available or no slots found + script de nettoyage de magnets par Bouby" /></a>
+  <a href="https://upandclear.org/2026/01/26/decypharr-alldebrid-no-debrid-clients-available-or-no-slots-found-script-de-nettoyage-de-magnets-par-bouby/"><b>Decypharr &amp; AllDebrid : No debrid clients available or no slots found + script de nettoyage de magnets par Bouby</b></a><br/>
+  <sub>26 jan 2026</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,29 +57,29 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
+- ★ 6 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
+  Gluetun Companion est une interface web Python pour piloter automatiquement des serveurs VPN WireGuard et OpenVPN dans Gluetun, offrant des benchmarks, une sélection de serveurs intelligente et une gestion avancée des connexions.
+
 - ★ 21 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
   Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
-
-- [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
-  Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
 - ★ 29 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
-- ★ 6 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
-  Gluetun Companion est une interface web pour piloter automatiquement les serveurs VPN WireGuard et OpenVPN dans Gluetun, offrant des benchmarks, une sélection automatique du meilleur serveur, la gestion des profils VPN et des conteneurs Docker. Le projet est en bêta, principalement testé avec AirVPN, et cherche des retours sur les autres fournisseurs et configurations.
-
-- [**Stremio-French-Stream-Docker**](https://github.com/Aerya/Stremio-French-Stream-Docker)
-  Packaging Docker autour de Stremio French Stream pour simplifier son déploiement. Le dépôt sert à lancer le service dans un environnement conteneurisé.
+- [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
+  Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
 - ★ 2 · [**stremio-rss-catalog**](https://github.com/Aerya/stremio-rss-catalog)
   Addon Stremio qui génère des catalogues depuis des flux RSS, Prowlarr ou NZBHydra2. Il permet d'intégrer des sources personnalisées directement dans Stremio.
 
-- [**claudecodeui-docker**](https://github.com/Aerya/claudecodeui-docker)
-  Image Docker GHCR personnelle pour CloudCLI et Claude Code UI. Le dépôt automatise le packaging afin de déployer l'interface plus facilement.
-
 - ★ 1 · [**ProxySpin**](https://github.com/Aerya/ProxySpin)
   Proxy HTTP rotatif et anonymisant basé sur Tor et des proxys publics. Il fournit aussi un panneau de contrôle web et une extension navigateur.
+
+- [**Stremio-French-Stream-Docker**](https://github.com/Aerya/Stremio-French-Stream-Docker)
+  Packaging Docker autour de Stremio French Stream pour simplifier son déploiement. Le dépôt sert à lancer le service dans un environnement conteneurisé.
+
+- [**claudecodeui-docker**](https://github.com/Aerya/claudecodeui-docker)
+  Image Docker GHCR personnelle pour CloudCLI et Claude Code UI. Le dépôt automatise le packaging afin de déployer l'interface plus facilement.
 
 ---
 
