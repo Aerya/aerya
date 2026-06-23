@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2025/09/03/minivid-indexage-lecture-tags-et-favoris-pour-vos-videos-locales/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/09/flat-design-blog-header-illustration-a-clean-mod-1756853801-300x300.jpg" width="120" alt="MiniVid : indexage, lecture, tags et favoris pour vos vidéos locales" /></a>
-  <a href="https://upandclear.org/2025/09/03/minivid-indexage-lecture-tags-et-favoris-pour-vos-videos-locales/"><b>MiniVid : indexage, lecture, tags et favoris pour vos vidéos locales</b></a><br/>
-  <sub>3 sep 2025</sub>
+  <a href="https://upandclear.org/2025/09/10/recommendarr-recommandations-plex-jellyfin-arrs-par-lia/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/09/432998671-d0189d62-9644-4ef2-b44d-af78ad3e29f4-300x300.jpg" width="120" alt="Recommendarr : recommandations Plex/Jellyfin/arrs par l’IA" /></a>
+  <a href="https://upandclear.org/2025/09/10/recommendarr-recommandations-plex-jellyfin-arrs-par-lia/"><b>Recommendarr : recommandations Plex/Jellyfin/arrs par l’IA</b></a><br/>
+  <sub>10 sep 2025</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,17 +57,17 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
-- ★ 6 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
-  Gluetun Companion est une interface web en Python pour piloter automatiquement des serveurs VPN WireGuard et OpenVPN dans Gluetun, offrant des benchmarks, une sélection de serveurs intelligente et la gestion des containers Docker.
-
 - ★ 21 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
   Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
 
-- ★ 29 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
-  Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
-
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
+
+- ★ 6 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
+  Gluetun Companion est une interface web en Python pour piloter automatiquement des serveurs VPN WireGuard et OpenVPN dans Gluetun, offrant des benchmarks, une sélection de serveurs intelligente et la gestion des containers Docker.
+
+- ★ 29 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+  Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
 - ★ 2 · [**stremio-rss-catalog**](https://github.com/Aerya/stremio-rss-catalog)
   Addon Stremio qui génère des catalogues depuis des flux RSS, Prowlarr ou NZBHydra2. Il permet d'intégrer des sources personnalisées directement dans Stremio.
