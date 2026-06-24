@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2026/05/11/syswarden-orchestrateur-de-securite-pour-linux-script-de-mise-a-jour/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/05/back-system-desktop-pc-intel-nuc-9-extreme-kit-world-map-background-stockpack-unsplash-300x300.jpg" width="120" alt="SysWarden : orchestrateur de sécurité pour Linux + script de mise à jour" /></a>
-  <a href="https://upandclear.org/2026/05/11/syswarden-orchestrateur-de-securite-pour-linux-script-de-mise-a-jour/"><b>SysWarden : orchestrateur de sécurité pour Linux + script de mise à jour</b></a><br/>
-  <sub>11 mai 2026</sub>
+  <a href="https://upandclear.org/2025/11/20/useflow-fr-mon-addon-de-conversion-de-rss-en-catalogues-stremio/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/11/logo-300x300.jpg" width="120" alt="UseFlow-FR : mon addon de conversion de RSS en catalogues Stremio" /></a>
+  <a href="https://upandclear.org/2025/11/20/useflow-fr-mon-addon-de-conversion-de-rss-en-catalogues-stremio/"><b>UseFlow-FR : mon addon de conversion de RSS en catalogues Stremio</b></a><br/>
+  <sub>20 nov 2025</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
