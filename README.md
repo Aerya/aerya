@@ -14,30 +14,30 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Les derniers
 
 <p>
+  <a href="https://upandclear.org/2026/06/24/nexotv-addon-stremio-pour-liptv/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/9-2-300x300.jpg" width="72" alt="NexoTV : addon Stremio pour l’IPTV" /></a>
+  <a href="https://upandclear.org/2026/06/24/nexotv-addon-stremio-pour-liptv/"><b>NexoTV : addon Stremio pour l’IPTV</b></a><br/>
+  <sub>24 jun 2026</sub>
+</p>
+<br clear="left"/>
+
+<p>
+  <a href="https://upandclear.org/2026/06/24/stremio-emby-infuse-and-co-passer-les-intros-et-credits/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/close-up-photo-of-intro-text-stockpack-pexels-300x300.jpg" width="72" alt="Stremio, Emby, Infuse and co : passer les intros et crédits" /></a>
+  <a href="https://upandclear.org/2026/06/24/stremio-emby-infuse-and-co-passer-les-intros-et-credits/"><b>Stremio, Emby, Infuse and co : passer les intros et crédits</b></a><br/>
+  <sub>24 jun 2026</sub>
+</p>
+<br clear="left"/>
+
+<p>
+  <a href="https://upandclear.org/2026/06/24/xperience-outil-de-configuration-pour-nuvio-avec-visualisation/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/31-300x300.jpg" width="72" alt="Xperience : outil de configuration pour Nuvio, avec visualisation" /></a>
+  <a href="https://upandclear.org/2026/06/24/xperience-outil-de-configuration-pour-nuvio-avec-visualisation/"><b>Xperience : outil de configuration pour Nuvio, avec visualisation</b></a><br/>
+  <sub>24 jun 2026</sub>
+</p>
+<br clear="left"/>
+
+<p>
   <a href="https://upandclear.org/2026/06/17/davos-automatisation-ftp-avec-webui/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/7-3-300x300.png" width="72" alt="Davos : automatisation FTP avec WebUI" /></a>
   <a href="https://upandclear.org/2026/06/17/davos-automatisation-ftp-avec-webui/"><b>Davos : automatisation FTP avec WebUI</b></a><br/>
   <sub>17 jun 2026</sub>
-</p>
-<br clear="left"/>
-
-<p>
-  <a href="https://upandclear.org/2026/06/16/gluetun-companion-interface-web-pour-piloter-automatiquement-vos-serveurs-vpn-wireguard-et-openvpn-dans-gluetun/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/16-300x300.jpg" width="72" alt="Gluetun Companion : interface Web pour piloter automatiquement vos serveurs VPN WireGuard et OpenVPN dans Gluetun" /></a>
-  <a href="https://upandclear.org/2026/06/16/gluetun-companion-interface-web-pour-piloter-automatiquement-vos-serveurs-vpn-wireguard-et-openvpn-dans-gluetun/"><b>Gluetun Companion : interface Web pour piloter automatiquement vos serveurs VPN WireGuard et OpenVPN dans Gluetun</b></a><br/>
-  <sub>16 jun 2026</sub>
-</p>
-<br clear="left"/>
-
-<p>
-  <a href="https://upandclear.org/2026/06/16/addon-watchly-recommandations-bases-sur-stremio-trakt-simkl/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/8-300x300.jpg" width="72" alt="Addon Watchly : recommandations bases sur Stremio/Trakt/Simkl" /></a>
-  <a href="https://upandclear.org/2026/06/16/addon-watchly-recommandations-bases-sur-stremio-trakt-simkl/"><b>Addon Watchly : recommandations bases sur Stremio/Trakt/Simkl</b></a><br/>
-  <sub>16 jun 2026</sub>
-</p>
-<br clear="left"/>
-
-<p>
-  <a href="https://upandclear.org/2026/06/04/tracker-dashboard-vos-principales-statistiques-au-meme-endroit/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/4-300x300.png" width="72" alt="Tracker Dashboard : vos principales statistiques au même endroit" /></a>
-  <a href="https://upandclear.org/2026/06/04/tracker-dashboard-vos-principales-statistiques-au-meme-endroit/"><b>Tracker Dashboard : vos principales statistiques au même endroit</b></a><br/>
-  <sub>4 jun 2026</sub>
 </p>
 <br clear="left"/>
 
@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2026/05/29/steamtools-et-luatools-steam-sans-passer-par-le-panier-fix-erreur-no-internet-connexion/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/05/rgb-keyboard-stockpack-unsplash-300x300.jpg" width="120" alt="Steamtools et LuaTools : Steam sans passer par le panier. + fix erreur No Internet connexion" /></a>
-  <a href="https://upandclear.org/2026/05/29/steamtools-et-luatools-steam-sans-passer-par-le-panier-fix-erreur-no-internet-connexion/"><b>Steamtools et LuaTools : Steam sans passer par le panier. + fix erreur No Internet connexion</b></a><br/>
-  <sub>29 mai 2026</sub>
+  <a href="https://upandclear.org/2026/05/11/syswarden-orchestrateur-de-securite-pour-linux-script-de-mise-a-jour/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/05/back-system-desktop-pc-intel-nuc-9-extreme-kit-world-map-background-stockpack-unsplash-300x300.jpg" width="120" alt="SysWarden : orchestrateur de sécurité pour Linux + script de mise à jour" /></a>
+  <a href="https://upandclear.org/2026/05/11/syswarden-orchestrateur-de-securite-pour-linux-script-de-mise-a-jour/"><b>SysWarden : orchestrateur de sécurité pour Linux + script de mise à jour</b></a><br/>
+  <sub>11 mai 2026</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,11 +57,11 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
-- ★ 22 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
-  Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
-
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
+
+- ★ 23 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
+  Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
 
 - ★ 6 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
   Gluetun Companion est une interface web en Python pour piloter automatiquement des serveurs VPN WireGuard et OpenVPN dans Gluetun, offrant des benchmarks, une sélection de serveurs intelligente et la gestion des containers Docker.
