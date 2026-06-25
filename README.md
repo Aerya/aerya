@@ -14,6 +14,13 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Les derniers
 
 <p>
+  <a href="https://upandclear.org/2026/06/24/nexotv-enhanced/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/10-2-300x300.jpg" width="72" alt="NexoTV Enhanced : fork de joaosavi/nexotv avec sélection de catégories et catalogues configurables" /></a>
+  <a href="https://upandclear.org/2026/06/24/nexotv-enhanced/"><b>NexoTV Enhanced : fork de joaosavi/nexotv avec sélection de catégories et catalogues configurables</b></a><br/>
+  <sub>24 jun 2026</sub>
+</p>
+<br clear="left"/>
+
+<p>
   <a href="https://upandclear.org/2026/06/24/nexotv-addon-stremio-pour-liptv/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/9-2-300x300.jpg" width="72" alt="NexoTV : addon Stremio pour l’IPTV" /></a>
   <a href="https://upandclear.org/2026/06/24/nexotv-addon-stremio-pour-liptv/"><b>NexoTV : addon Stremio pour l’IPTV</b></a><br/>
   <sub>24 jun 2026</sub>
@@ -34,20 +41,13 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 </p>
 <br clear="left"/>
 
-<p>
-  <a href="https://upandclear.org/2026/06/17/davos-automatisation-ftp-avec-webui/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/7-3-300x300.png" width="72" alt="Davos : automatisation FTP avec WebUI" /></a>
-  <a href="https://upandclear.org/2026/06/17/davos-automatisation-ftp-avec-webui/"><b>Davos : automatisation FTP avec WebUI</b></a><br/>
-  <sub>17 jun 2026</sub>
-</p>
-<br clear="left"/>
-
 
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2025/11/20/useflow-fr-mon-addon-de-conversion-de-rss-en-catalogues-stremio/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/11/logo-300x300.jpg" width="120" alt="UseFlow-FR : mon addon de conversion de RSS en catalogues Stremio" /></a>
-  <a href="https://upandclear.org/2025/11/20/useflow-fr-mon-addon-de-conversion-de-rss-en-catalogues-stremio/"><b>UseFlow-FR : mon addon de conversion de RSS en catalogues Stremio</b></a><br/>
-  <sub>20 nov 2025</sub>
+  <a href="https://upandclear.org/2026/01/13/zorinos-tester-la-version-pro-via-un-script/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/01/zorin0-300x300.jpg" width="120" alt="ZorinOS : tester la version Pro via un script" /></a>
+  <a href="https://upandclear.org/2026/01/13/zorinos-tester-la-version-pro-via-un-script/"><b>ZorinOS : tester la version Pro via un script</b></a><br/>
+  <sub>13 jan 2026</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,11 +57,17 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
+- ★ 25 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
+  Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
+
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
-- ★ 23 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
-  Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
+- [**Stremio-French-Stream-Docker**](https://github.com/Aerya/Stremio-French-Stream-Docker)
+  Packaging Docker autour de Stremio French Stream pour simplifier son déploiement. Le dépôt sert à lancer le service dans un environnement conteneurisé.
+
+- [**nexotv-enhanced**](https://github.com/Aerya/nexotv-enhanced)
+  NexoTV Enhanced est un addon Stremio pour IPTV, basé sur un fork de joaosavi/nexotv. Il permet de diffuser des chaînes TV en direct et des catalogues de films/séries, avec des options de configuration avancées pour les catégories et les sources multiples.
 
 - ★ 6 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
   Gluetun Companion est une interface web en Python pour piloter automatiquement des serveurs VPN WireGuard et OpenVPN dans Gluetun, offrant des benchmarks, une sélection de serveurs intelligente et la gestion des containers Docker.
@@ -75,16 +81,13 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - ★ 1 · [**ProxySpin**](https://github.com/Aerya/ProxySpin)
   Proxy HTTP rotatif et anonymisant basé sur Tor et des proxys publics. Il fournit aussi un panneau de contrôle web et une extension navigateur.
 
-- [**Stremio-French-Stream-Docker**](https://github.com/Aerya/Stremio-French-Stream-Docker)
-  Packaging Docker autour de Stremio French Stream pour simplifier son déploiement. Le dépôt sert à lancer le service dans un environnement conteneurisé.
-
-- [**claudecodeui-docker**](https://github.com/Aerya/claudecodeui-docker)
-  Image Docker GHCR personnelle pour CloudCLI et Claude Code UI. Le dépôt automatise le packaging afin de déployer l'interface plus facilement.
-
 ---
 
 <details>
 <summary>Autres repos</summary>
+
+- [**claudecodeui-docker**](https://github.com/Aerya/claudecodeui-docker)
+  Image Docker GHCR personnelle pour CloudCLI et Claude Code UI. Le dépôt automatise le packaging afin de déployer l'interface plus facilement.
 
 - [**MiniVid**](https://github.com/Aerya/MiniVid)
   Application pour indexer, lire, taguer et mettre en favoris des vidéos locales. Elle vise une gestion simple d'une bibliothèque vidéo personnelle.
