@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2024/06/15/nzbget-notifications-discord/"><img align="left" src="https://upandclear.org/wp-content/uploads/2024/06/8cb80bc011e2916b729e6ccd86618aa5-300x300.jpg" width="120" alt="NZBGet : notifications Discord" /></a>
-  <a href="https://upandclear.org/2024/06/15/nzbget-notifications-discord/"><b>NZBGet : notifications Discord</b></a><br/>
-  <sub>15 jun 2024</sub>
+  <a href="https://upandclear.org/2024/06/23/manuels-quad-tgb-blade-550-se/"><img align="left" src="https://upandclear.org/wp-content/uploads/2024/06/quad-tgb-blade-550-300x300.jpg" width="120" alt="Manuels quad TGB Blade 550 SE" /></a>
+  <a href="https://upandclear.org/2024/06/23/manuels-quad-tgb-blade-550-se/"><b>Manuels quad TGB Blade 550 SE</b></a><br/>
+  <sub>23 jun 2024</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,11 +57,11 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
-- ★ 27 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
-  Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
-
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
+
+- ★ 27 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
+  Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
 
 - [**Stremio-French-Stream-Docker**](https://github.com/Aerya/Stremio-French-Stream-Docker)
   Packaging Docker autour de Stremio French Stream pour simplifier son déploiement. Le dépôt sert à lancer le service dans un environnement conteneurisé.
