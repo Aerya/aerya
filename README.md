@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2026/01/03/seerrcatalog-laddon-over-jelly-seerr-pour-stremio/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/01/seerrcatalog9-1-300x300.jpg" width="120" alt="SeerrCatalog : l’addon Over/Jelly/Seerr pour Stremio" /></a>
-  <a href="https://upandclear.org/2026/01/03/seerrcatalog-laddon-over-jelly-seerr-pour-stremio/"><b>SeerrCatalog : l’addon Over/Jelly/Seerr pour Stremio</b></a><br/>
-  <sub>3 jan 2026</sub>
+  <a href="https://upandclear.org/2024/06/15/nzbget-notifications-discord/"><img align="left" src="https://upandclear.org/wp-content/uploads/2024/06/8cb80bc011e2916b729e6ccd86618aa5-300x300.jpg" width="120" alt="NZBGet : notifications Discord" /></a>
+  <a href="https://upandclear.org/2024/06/15/nzbget-notifications-discord/"><b>NZBGet : notifications Discord</b></a><br/>
+  <sub>15 jun 2024</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,7 +57,7 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
-- ★ 25 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
+- ★ 27 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
   Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
 
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
