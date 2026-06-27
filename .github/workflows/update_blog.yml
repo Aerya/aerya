@@ -27,6 +27,8 @@ jobs:
         run: pip install requests
 
       - name: Mettre a jour les articles
+        env:
+          BLOG_SYNC_TOKEN: ${{ secrets.BLOG_SYNC_TOKEN }}
         run: python update_blog.py
 
       - name: Mettre a jour les projets

@@ -5,6 +5,7 @@ Utilise l'API WordPress REST pour récupérer titre, lien, date et image feature
 """
 
 import html
+import os
 import random
 import re
 import sys
@@ -19,6 +20,26 @@ NB_POSTS = 4
 LATEST_IMAGE_WIDTH = 72
 RANDOM_IMAGE_WIDTH = 120
 
+USER_AGENT = (
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+    "AppleWebKit/537.36 (KHTML, like Gecko) "
+    "Chrome/124.0.0.0 Safari/537.36"
+)
+
+
+def build_session() -> requests.Session:
+    """Session partagée. Le header X-Blog-Sync (secret) permet de contourner
+    la règle Cloudflare qui bloque les IP des runners GitHub Actions."""
+    session = requests.Session()
+    session.headers.update({"User-Agent": USER_AGENT})
+    sync_token = os.environ.get("BLOG_SYNC_TOKEN")
+    if sync_token:
+        session.headers["X-Blog-Sync"] = sync_token
+    return session
+
+
+SESSION = build_session()
+
 MONTHS_FR = {
     1: "jan", 2: "fév", 3: "mar", 4: "avr",
     5: "mai", 6: "jun", 7: "juil", 8: "août",
@@ -27,18 +48,11 @@ MONTHS_FR = {
 
 
 def fetch_posts() -> list[dict]:
-    resp = requests.get(
+    resp = SESSION.get(
         API_URL,
         params={
             "per_page": NB_POSTS,
             "_embed": "wp:featuredmedia",
-        },
-        headers={
-            "User-Agent": (
-                "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-                "AppleWebKit/537.36 (KHTML, like Gecko) "
-                "Chrome/124.0.0.0 Safari/537.36"
-            ),
         },
         timeout=15,
     )
@@ -47,16 +61,9 @@ def fetch_posts() -> list[dict]:
 
 
 def fetch_random_post(excluded_ids: set[int]) -> dict | None:
-    count_resp = requests.get(
+    count_resp = SESSION.get(
         API_URL,
         params={"per_page": 1},
-        headers={
-            "User-Agent": (
-                "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-                "AppleWebKit/537.36 (KHTML, like Gecko) "
-                "Chrome/124.0.0.0 Safari/537.36"
-            ),
-        },
         timeout=15,
     )
     count_resp.raise_for_status()
@@ -66,19 +73,12 @@ def fetch_random_post(excluded_ids: set[int]) -> dict | None:
 
     for _ in range(8):
         page = random.randint(1, total)
-        resp = requests.get(
+        resp = SESSION.get(
             API_URL,
             params={
                 "per_page": 1,
                 "page": page,
                 "_embed": "wp:featuredmedia",
-            },
-            headers={
-                "User-Agent": (
-                    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-                    "AppleWebKit/537.36 (KHTML, like Gecko) "
-                    "Chrome/124.0.0.0 Safari/537.36"
-                ),
             },
             timeout=15,
         )
