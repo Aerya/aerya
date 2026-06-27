@@ -4,6 +4,7 @@ Met à jour la section blog du README.md avec les derniers articles d'upandclear
 Utilise l'API WordPress REST pour récupérer titre, lien, date et image featured.
 """
 
+import hashlib
 import html
 import os
 import random
@@ -194,6 +195,7 @@ if __name__ == "__main__":
                 if h in resp.headers:
                     print(f"  {h}: {resp.headers[h]}", file=sys.stderr)
             token = SESSION.headers.get("X-Blog-Sync", "")
-            print(f"  X-Blog-Sync envoyé: {bool(token)} (len={len(token)})", file=sys.stderr)
+            digest = hashlib.sha256(token.encode()).hexdigest()[:12] if token else "-"
+            print(f"  X-Blog-Sync envoyé: {bool(token)} (len={len(token)}, sha256[:12]={digest})", file=sys.stderr)
             print(f"  Corps (500c) : {resp.text[:500]}", file=sys.stderr)
         sys.exit(1)
