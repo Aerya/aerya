@@ -32,7 +32,7 @@ def build_session() -> requests.Session:
     la règle Cloudflare qui bloque les IP des runners GitHub Actions."""
     session = requests.Session()
     session.headers.update({"User-Agent": USER_AGENT})
-    sync_token = os.environ.get("BLOG_SYNC_TOKEN")
+    sync_token = (os.environ.get("BLOG_SYNC_TOKEN") or "").strip()
     if sync_token:
         session.headers["X-Blog-Sync"] = sync_token
     return session
@@ -193,6 +193,7 @@ if __name__ == "__main__":
             for h in ("Server", "CF-Ray", "cf-mitigated", "CF-Cache-Status"):
                 if h in resp.headers:
                     print(f"  {h}: {resp.headers[h]}", file=sys.stderr)
-            print(f"  X-Blog-Sync envoyé: {'X-Blog-Sync' in SESSION.headers}", file=sys.stderr)
+            token = SESSION.headers.get("X-Blog-Sync", "")
+            print(f"  X-Blog-Sync envoyé: {bool(token)} (len={len(token)})", file=sys.stderr)
             print(f"  Corps (500c) : {resp.text[:500]}", file=sys.stderr)
         sys.exit(1)
