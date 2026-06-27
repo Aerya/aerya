@@ -2,7 +2,7 @@ name: Mise a jour du README
 
 on:
   schedule:
-    - cron: "0 8,16 * * *" # tous les jours a 8h UTC et 16h UTC
+    - cron: "0 8,12,16,21 * * *" # tous les jours a 8h, 12h, 16h et 21h UTC
   push:
     branches: ["main"]
   workflow_dispatch:       # declenchement manuel possible
