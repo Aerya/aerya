@@ -188,4 +188,11 @@ if __name__ == "__main__":
         update_readme(html_block)
     except requests.RequestException as e:
         print(f"Erreur API : {e}", file=sys.stderr)
+        resp = getattr(e, "response", None)
+        if resp is not None:
+            for h in ("Server", "CF-Ray", "cf-mitigated", "CF-Cache-Status"):
+                if h in resp.headers:
+                    print(f"  {h}: {resp.headers[h]}", file=sys.stderr)
+            print(f"  X-Blog-Sync envoyé: {'X-Blog-Sync' in SESSION.headers}", file=sys.stderr)
+            print(f"  Corps (500c) : {resp.text[:500]}", file=sys.stderr)
         sys.exit(1)
