@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2025/09/10/recommendarr-recommandations-plex-jellyfin-arrs-par-lia/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/09/432998671-d0189d62-9644-4ef2-b44d-af78ad3e29f4-300x300.jpg" width="120" alt="Recommendarr : recommandations Plex/Jellyfin/arrs par l’IA" /></a>
-  <a href="https://upandclear.org/2025/09/10/recommendarr-recommandations-plex-jellyfin-arrs-par-lia/"><b>Recommendarr : recommandations Plex/Jellyfin/arrs par l’IA</b></a><br/>
-  <sub>10 sep 2025</sub>
+  <a href="https://upandclear.org/2026/01/08/remove-windows-ai-script-gui-pour-retirer-lia-de-windows-11-avec-sauvegarde/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/01/1-300x300.png" width="120" alt="Remove Windows Ai : script/GUI pour retirer l’IA de Windows 11 (avec sauvegarde)" /></a>
+  <a href="https://upandclear.org/2026/01/08/remove-windows-ai-script-gui-pour-retirer-lia-de-windows-11-avec-sauvegarde/"><b>Remove Windows Ai : script/GUI pour retirer l’IA de Windows 11 (avec sauvegarde)</b></a><br/>
+  <sub>8 jan 2026</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
