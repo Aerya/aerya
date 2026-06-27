@@ -14,6 +14,13 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Les derniers
 
 <p>
+  <a href="https://upandclear.org/2026/06/27/ddns-updater-enhanced-gerer-des-ddns-simplement-via-webui/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/old-mailboxes-on-a-wooden-construction-stockpack-pexels-300x300.jpg" width="72" alt="DDNS-Updater Enhanced : gérer des DDNS simplement via WebUI" /></a>
+  <a href="https://upandclear.org/2026/06/27/ddns-updater-enhanced-gerer-des-ddns-simplement-via-webui/"><b>DDNS-Updater Enhanced : gérer des DDNS simplement via WebUI</b></a><br/>
+  <sub>27 jun 2026</sub>
+</p>
+<br clear="left"/>
+
+<p>
   <a href="https://upandclear.org/2026/06/24/nexotv-enhanced/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/10-2-300x300.jpg" width="72" alt="NexoTV Enhanced : fork de joaosavi/nexotv avec sélection de catégories et catalogues configurables" /></a>
   <a href="https://upandclear.org/2026/06/24/nexotv-enhanced/"><b>NexoTV Enhanced : fork de joaosavi/nexotv avec sélection de catégories et catalogues configurables</b></a><br/>
   <sub>24 jun 2026</sub>
@@ -34,20 +41,13 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 </p>
 <br clear="left"/>
 
-<p>
-  <a href="https://upandclear.org/2026/06/24/xperience-outil-de-configuration-pour-nuvio-avec-visualisation/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/31-300x300.jpg" width="72" alt="Xperience : outil de configuration pour Nuvio, avec visualisation" /></a>
-  <a href="https://upandclear.org/2026/06/24/xperience-outil-de-configuration-pour-nuvio-avec-visualisation/"><b>Xperience : outil de configuration pour Nuvio, avec visualisation</b></a><br/>
-  <sub>24 jun 2026</sub>
-</p>
-<br clear="left"/>
-
 
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2025/06/08/streaming-a-la-carte-sans-stockage-jellyfin-radarr-sonarr-vortex-rclone-et-alldebrid-et-yggapi/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/06/a-high-tech-home-media-center-setup-in-modern-flat-ui-design-style-in-the-background-a-homecinema-setup-at-home-with-cosy-style-streaming-alldebridn-jellyfin-300x300.jpg" width="120" alt="Streaming à la carte sans stockage local : Jellyfin, Radarr, Sonarr, Vortex, rClone et AllDebrid et yggapi" /></a>
-  <a href="https://upandclear.org/2025/06/08/streaming-a-la-carte-sans-stockage-jellyfin-radarr-sonarr-vortex-rclone-et-alldebrid-et-yggapi/"><b>Streaming à la carte sans stockage local : Jellyfin, Radarr, Sonarr, Vortex, rClone et AllDebrid et yggapi</b></a><br/>
-  <sub>8 jun 2025</sub>
+  <a href="https://upandclear.org/2025/09/10/recommendarr-recommandations-plex-jellyfin-arrs-par-lia/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/09/432998671-d0189d62-9644-4ef2-b44d-af78ad3e29f4-300x300.jpg" width="120" alt="Recommendarr : recommandations Plex/Jellyfin/arrs par l’IA" /></a>
+  <a href="https://upandclear.org/2025/09/10/recommendarr-recommandations-plex-jellyfin-arrs-par-lia/"><b>Recommendarr : recommandations Plex/Jellyfin/arrs par l’IA</b></a><br/>
+  <sub>10 sep 2025</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,8 +57,11 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
-- [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
-  Ce projet Go améliore un outil de mise à jour DDNS avec une interface web complète pour gérer les entrées DNS, offrant une gestion CRUD, des formulaires dynamiques et un rechargement à chaud. Il prend en charge plus de 50 fournisseurs DNS et expose une API REST.
+- ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
+  Ce projet Go, DDNS-Updater Enhanced, offre un outil de mise à jour DNS dynamique universel avec une interface web interactive pour gérer les entrées. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion complète des configurations via l'interface ou une API REST, sans nécessiter de redémarrage.
+
+- ★ 1 · [**nexotv-enhanced**](https://github.com/Aerya/nexotv-enhanced)
+  NexoTV Enhanced est un addon Stremio pour IPTV qui diffuse des chaînes TV en direct et des catalogues de films/séries. Il offre des fonctionnalités avancées comme la sélection de catégories, le multi-source et des catalogues configurables.
 
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
@@ -69,13 +72,10 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - [**Stremio-French-Stream-Docker**](https://github.com/Aerya/Stremio-French-Stream-Docker)
   Packaging Docker autour de Stremio French Stream pour simplifier son déploiement. Le dépôt sert à lancer le service dans un environnement conteneurisé.
 
-- ★ 1 · [**nexotv-enhanced**](https://github.com/Aerya/nexotv-enhanced)
-  NexoTV Enhanced est un addon Stremio pour IPTV, basé sur un fork de joaosavi/nexotv. Il permet de diffuser des chaînes TV en direct et des catalogues de films/séries, avec des options de configuration avancées pour les catégories et les sources multiples.
-
-- ★ 6 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
+- ★ 7 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
   Gluetun Companion est une interface web en Python pour piloter automatiquement des serveurs VPN WireGuard et OpenVPN dans Gluetun, offrant des benchmarks, une sélection de serveurs intelligente et la gestion des containers Docker.
 
-- ★ 29 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+- ★ 30 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
 - ★ 2 · [**stremio-rss-catalog**](https://github.com/Aerya/stremio-rss-catalog)
@@ -88,6 +88,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 
 - ★ 1 · [**ProxySpin**](https://github.com/Aerya/ProxySpin)
   Proxy HTTP rotatif et anonymisant basé sur Tor et des proxys publics. Il fournit aussi un panneau de contrôle web et une extension navigateur.
+
+- [**davos**](https://github.com/Aerya/davos)
+  Davos est un outil d'automatisation de téléchargement FTP avec une interface web, écrit en Java, qui permet de scanner des serveurs FTP pour des fichiers spécifiques et de les télécharger automatiquement. Il offre des fonctionnalités comme la notification des téléchargements et la gestion des plannings via une interface graphique.
 
 - [**claudecodeui-docker**](https://github.com/Aerya/claudecodeui-docker)
   Image Docker GHCR personnelle pour CloudCLI et Claude Code UI. Le dépôt automatise le packaging afin de déployer l'interface plus facilement.
