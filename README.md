@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2026/01/08/remove-windows-ai-script-gui-pour-retirer-lia-de-windows-11-avec-sauvegarde/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/01/1-300x300.png" width="120" alt="Remove Windows Ai : script/GUI pour retirer l’IA de Windows 11 (avec sauvegarde)" /></a>
-  <a href="https://upandclear.org/2026/01/08/remove-windows-ai-script-gui-pour-retirer-lia-de-windows-11-avec-sauvegarde/"><b>Remove Windows Ai : script/GUI pour retirer l’IA de Windows 11 (avec sauvegarde)</b></a><br/>
-  <sub>8 jan 2026</sub>
+  <a href="https://upandclear.org/2025/09/14/plugins-de-iamparadox27-une-experience-jellyfin-augmentee/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/09/enhanced1-300x300.jpg" width="120" alt="Plugins de IAmParadox27, une expérience Jellyfin augmentée" /></a>
+  <a href="https://upandclear.org/2025/09/14/plugins-de-iamparadox27-une-experience-jellyfin-augmentee/"><b>Plugins de IAmParadox27, une expérience Jellyfin augmentée</b></a><br/>
+  <sub>14 sep 2025</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
