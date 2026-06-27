@@ -29,7 +29,7 @@ INCLUDED_REPOS = {
     name.strip()
     for name in os.getenv(
         "INCLUDED_REPOS",
-        "Tracker-Dashboard/tracker-dashboard",
+        "Tracker-Dashboard/tracker-dashboard,Aerya/davos",
     ).split(",")
     if name.strip()
 }
@@ -94,7 +94,7 @@ def fetch_repos() -> list[dict[str, Any]]:
     filtered = [
         repo for repo in unique_repos
         if not repo.get("private")
-        and not repo.get("fork")
+        and (not repo.get("fork") or repo["full_name"] in INCLUDED_REPOS)
         and repo["name"].lower() not in EXCLUDED_REPOS
     ]
     sorted_repos = sorted(filtered, key=lambda repo: repo.get("pushed_at") or "", reverse=True)
