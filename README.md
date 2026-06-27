@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2024/06/23/manuels-quad-tgb-blade-550-se/"><img align="left" src="https://upandclear.org/wp-content/uploads/2024/06/quad-tgb-blade-550-300x300.jpg" width="120" alt="Manuels quad TGB Blade 550 SE" /></a>
-  <a href="https://upandclear.org/2024/06/23/manuels-quad-tgb-blade-550-se/"><b>Manuels quad TGB Blade 550 SE</b></a><br/>
-  <sub>23 jun 2024</sub>
+  <a href="https://upandclear.org/2025/06/08/streaming-a-la-carte-sans-stockage-jellyfin-radarr-sonarr-vortex-rclone-et-alldebrid-et-yggapi/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/06/a-high-tech-home-media-center-setup-in-modern-flat-ui-design-style-in-the-background-a-homecinema-setup-at-home-with-cosy-style-streaming-alldebridn-jellyfin-300x300.jpg" width="120" alt="Streaming à la carte sans stockage local : Jellyfin, Radarr, Sonarr, Vortex, rClone et AllDebrid et yggapi" /></a>
+  <a href="https://upandclear.org/2025/06/08/streaming-a-la-carte-sans-stockage-jellyfin-radarr-sonarr-vortex-rclone-et-alldebrid-et-yggapi/"><b>Streaming à la carte sans stockage local : Jellyfin, Radarr, Sonarr, Vortex, rClone et AllDebrid et yggapi</b></a><br/>
+  <sub>8 jun 2025</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -56,6 +56,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 
 <!-- REPOS:START -->
 ### Dernières mises à jour
+
+- [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
+  Ce projet Go améliore un outil de mise à jour DDNS avec une interface web complète pour gérer les entrées DNS, offrant une gestion CRUD, des formulaires dynamiques et un rechargement à chaud. Il prend en charge plus de 50 fournisseurs DNS et expose une API REST.
 
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
@@ -66,7 +69,7 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - [**Stremio-French-Stream-Docker**](https://github.com/Aerya/Stremio-French-Stream-Docker)
   Packaging Docker autour de Stremio French Stream pour simplifier son déploiement. Le dépôt sert à lancer le service dans un environnement conteneurisé.
 
-- [**nexotv-enhanced**](https://github.com/Aerya/nexotv-enhanced)
+- ★ 1 · [**nexotv-enhanced**](https://github.com/Aerya/nexotv-enhanced)
   NexoTV Enhanced est un addon Stremio pour IPTV, basé sur un fork de joaosavi/nexotv. Il permet de diffuser des chaînes TV en direct et des catalogues de films/séries, avec des options de configuration avancées pour les catégories et les sources multiples.
 
 - ★ 6 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
@@ -78,13 +81,13 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - ★ 2 · [**stremio-rss-catalog**](https://github.com/Aerya/stremio-rss-catalog)
   Addon Stremio qui génère des catalogues depuis des flux RSS, Prowlarr ou NZBHydra2. Il permet d'intégrer des sources personnalisées directement dans Stremio.
 
-- ★ 1 · [**ProxySpin**](https://github.com/Aerya/ProxySpin)
-  Proxy HTTP rotatif et anonymisant basé sur Tor et des proxys publics. Il fournit aussi un panneau de contrôle web et une extension navigateur.
-
 ---
 
 <details>
 <summary>Autres repos</summary>
+
+- ★ 1 · [**ProxySpin**](https://github.com/Aerya/ProxySpin)
+  Proxy HTTP rotatif et anonymisant basé sur Tor et des proxys publics. Il fournit aussi un panneau de contrôle web et une extension navigateur.
 
 - [**claudecodeui-docker**](https://github.com/Aerya/claudecodeui-docker)
   Image Docker GHCR personnelle pour CloudCLI et Claude Code UI. Le dépôt automatise le packaging afin de déployer l'interface plus facilement.
