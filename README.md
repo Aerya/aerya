@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2026/04/22/reparation-switch-double-clic-logitech-g903-lightspeed/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/04/brown-rodent-on-brown-wooden-surface-stockpack-unsplash-300x300.jpg" width="120" alt="Réparation switch double-clic Logitech G903 Lightspeed" /></a>
-  <a href="https://upandclear.org/2026/04/22/reparation-switch-double-clic-logitech-g903-lightspeed/"><b>Réparation switch double-clic Logitech G903 Lightspeed</b></a><br/>
-  <sub>22 avr 2026</sub>
+  <a href="https://upandclear.org/2026/06/16/addon-watchly-recommandations-bases-sur-stremio-trakt-simkl/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/8-300x300.jpg" width="120" alt="Addon Watchly : recommandations bases sur Stremio/Trakt/Simkl" /></a>
+  <a href="https://upandclear.org/2026/06/16/addon-watchly-recommandations-bases-sur-stremio-trakt-simkl/"><b>Addon Watchly : recommandations bases sur Stremio/Trakt/Simkl</b></a><br/>
+  <sub>16 jun 2026</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -60,8 +60,8 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
-- ★ 1 · [**nexotv-enhanced**](https://github.com/Aerya/nexotv-enhanced)
-  NexoTV Enhanced est un addon Stremio pour IPTV qui diffuse des chaînes TV en direct et des catalogues de films/séries. Il offre des fonctionnalités avancées comme la multi-source, la sélection de catégories, l'enrichissement TMDB et la sauvegarde des configurations.
+- ★ 2 · [**nexotv-enhanced**](https://github.com/Aerya/nexotv-enhanced)
+  NexoTV Enhanced est un addon Stremio pour IPTV, basé sur joaosavi/nexotv, qui ajoute des catalogues de films et séries configurables, la gestion multi-source et l'enrichissement TMDB.
 
 - ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
   Ce projet Go, DDNS-Updater Enhanced, offre un outil de mise à jour DNS dynamique universel avec une interface web interactive pour gérer les entrées. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion complète des configurations via l'interface ou une API REST, sans nécessiter de redémarrage.
@@ -69,13 +69,13 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - ★ 30 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
-- ★ 27 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
+- ★ 28 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
   Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
 
 - [**Stremio-French-Stream-Docker**](https://github.com/Aerya/Stremio-French-Stream-Docker)
   Packaging Docker autour de Stremio French Stream pour simplifier son déploiement. Le dépôt sert à lancer le service dans un environnement conteneurisé.
 
-- ★ 7 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
+- ★ 8 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
   Gluetun Companion est une interface web en Python pour piloter automatiquement des serveurs VPN WireGuard et OpenVPN dans Gluetun, offrant des benchmarks, une sélection de serveurs intelligente et la gestion des containers Docker.
 
 - ★ 2 · [**stremio-rss-catalog**](https://github.com/Aerya/stremio-rss-catalog)
