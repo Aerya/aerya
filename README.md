@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2024/10/09/hydra-launcher-le-arr-des-jeux-videos-pc/"><img align="left" src="https://upandclear.org/wp-content/uploads/2024/10/hydra-video-game-downloader-and-launcher-2-300x300.jpg" width="120" alt="Hydra Launcher : le *arr des jeux vidéos PC" /></a>
-  <a href="https://upandclear.org/2024/10/09/hydra-launcher-le-arr-des-jeux-videos-pc/"><b>Hydra Launcher : le *arr des jeux vidéos PC</b></a><br/>
-  <sub>9 oct 2024</sub>
+  <a href="https://upandclear.org/2026/01/13/zorinos-tester-la-version-pro-via-un-script/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/01/zorin0-300x300.jpg" width="120" alt="ZorinOS : tester la version Pro via un script" /></a>
+  <a href="https://upandclear.org/2026/01/13/zorinos-tester-la-version-pro-via-un-script/"><b>ZorinOS : tester la version Pro via un script</b></a><br/>
+  <sub>13 jan 2026</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
