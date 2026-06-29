@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2026/06/16/addon-watchly-recommandations-bases-sur-stremio-trakt-simkl/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/8-300x300.jpg" width="120" alt="Addon Watchly : recommandations bases sur Stremio/Trakt/Simkl" /></a>
-  <a href="https://upandclear.org/2026/06/16/addon-watchly-recommandations-bases-sur-stremio-trakt-simkl/"><b>Addon Watchly : recommandations bases sur Stremio/Trakt/Simkl</b></a><br/>
-  <sub>16 jun 2026</sub>
+  <a href="https://upandclear.org/2026/05/28/french-stream-public-stremio-addon/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/05/friends-watching-a-show-stockpack-pexels-300x300.jpg" width="120" alt="French Stream Public Stremio Addon" /></a>
+  <a href="https://upandclear.org/2026/05/28/french-stream-public-stremio-addon/"><b>French Stream Public Stremio Addon</b></a><br/>
+  <sub>28 mai 2026</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,43 +57,43 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
-- [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
-  Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
-
 - ★ 2 · [**nexotv-enhanced**](https://github.com/Aerya/nexotv-enhanced)
-  NexoTV Enhanced est un addon Stremio pour IPTV, basé sur joaosavi/nexotv, qui ajoute des catalogues de films et séries configurables, la gestion multi-source et l'enrichissement TMDB.
+  NexoTV Enhanced est un addon Stremio pour IPTV, fork de joaosavi/nexotv, qui ajoute des fonctionnalités comme la sélection de catégories et des catalogues configurables pour les chaînes TV en direct, films et séries.
 
 - ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
   Ce projet Go, DDNS-Updater Enhanced, offre un outil de mise à jour DNS dynamique universel avec une interface web interactive pour gérer les entrées. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion complète des configurations via l'interface ou une API REST, sans nécessiter de redémarrage.
 
+- [**Stremio-French-Stream-Docker**](https://github.com/Aerya/Stremio-French-Stream-Docker)
+  Packaging Docker autour de Stremio French Stream pour simplifier son déploiement. Le dépôt sert à lancer le service dans un environnement conteneurisé.
+
+- [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
+  Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
+
 - ★ 30 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
-- ★ 28 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
+- ★ 29 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
   Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
-
-- [**Stremio-French-Stream-Docker**](https://github.com/Aerya/Stremio-French-Stream-Docker)
-  Packaging Docker autour de Stremio French Stream pour simplifier son déploiement. Le dépôt sert à lancer le service dans un environnement conteneurisé.
 
 - ★ 8 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
   Gluetun Companion est une interface web en Python pour piloter automatiquement des serveurs VPN WireGuard et OpenVPN dans Gluetun, offrant des benchmarks, une sélection de serveurs intelligente et la gestion des containers Docker.
 
-- ★ 2 · [**stremio-rss-catalog**](https://github.com/Aerya/stremio-rss-catalog)
-  Addon Stremio qui génère des catalogues depuis des flux RSS, Prowlarr ou NZBHydra2. Il permet d'intégrer des sources personnalisées directement dans Stremio.
+- [**claudecodeui-docker**](https://github.com/Aerya/claudecodeui-docker)
+  Image Docker GHCR personnelle pour CloudCLI et Claude Code UI. Le dépôt automatise le packaging afin de déployer l'interface plus facilement.
 
 ---
 
 <details>
 <summary>Autres repos</summary>
 
+- ★ 2 · [**stremio-rss-catalog**](https://github.com/Aerya/stremio-rss-catalog)
+  Addon Stremio qui génère des catalogues depuis des flux RSS, Prowlarr ou NZBHydra2. Il permet d'intégrer des sources personnalisées directement dans Stremio.
+
 - ★ 1 · [**ProxySpin**](https://github.com/Aerya/ProxySpin)
   Proxy HTTP rotatif et anonymisant basé sur Tor et des proxys publics. Il fournit aussi un panneau de contrôle web et une extension navigateur.
 
 - [**davos**](https://github.com/Aerya/davos)
   Davos est un outil d'automatisation de téléchargement FTP avec une interface web, écrit en Java, qui permet de scanner des serveurs FTP pour des fichiers spécifiques et de les télécharger automatiquement. Il offre des fonctionnalités comme la notification des téléchargements et la gestion des plannings via une interface graphique.
-
-- [**claudecodeui-docker**](https://github.com/Aerya/claudecodeui-docker)
-  Image Docker GHCR personnelle pour CloudCLI et Claude Code UI. Le dépôt automatise le packaging afin de déployer l'interface plus facilement.
 
 - [**MiniVid**](https://github.com/Aerya/MiniVid)
   Application pour indexer, lire, taguer et mettre en favoris des vidéos locales. Elle vise une gestion simple d'une bibliothèque vidéo personnelle.
