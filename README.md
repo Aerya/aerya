@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2018/06/11/rclone-sur-android-apk/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2018/06/SmartSelect_20180611-204820_Rclone-Explorer-768x1492-300x300.jpg" width="120" alt="rClone sur Android (APK)" /></a>
-  <a href="https://upandclear.org/2018/06/11/rclone-sur-android-apk/"><b>rClone sur Android (APK)</b></a><br/>
-  <sub>11 jun 2018</sub>
+  <a href="https://upandclear.org/2015/09/22/firejail-preservez-un-peu-plus-votre-vie-privee-sous-firefoxthunderbird/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Firejail : préservez un peu plus votre vie privée sous Firefox/Thunderbird" /></a>
+  <a href="https://upandclear.org/2015/09/22/firejail-preservez-un-peu-plus-votre-vie-privee-sous-firefoxthunderbird/"><b>Firejail : préservez un peu plus votre vie privée sous Firefox/Thunderbird</b></a><br/>
+  <sub>22 sep 2015</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
