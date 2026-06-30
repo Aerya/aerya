@@ -14,6 +14,13 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Les derniers
 
 <p>
+  <a href="https://upandclear.org/2026/06/30/up-clear-again/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear.generique-300x300.png" width="72" alt="Up &amp; Clear again!" /></a>
+  <a href="https://upandclear.org/2026/06/30/up-clear-again/"><b>Up &amp; Clear again!</b></a><br/>
+  <sub>30 jun 2026</sub>
+</p>
+<br clear="left"/>
+
+<p>
   <a href="https://upandclear.org/2026/06/27/ddns-updater-enhanced-gerer-des-ddns-simplement-via-webui/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/old-mailboxes-on-a-wooden-construction-stockpack-pexels-300x300.jpg" width="72" alt="DDNS-Updater Enhanced : gérer des DDNS simplement via WebUI" /></a>
   <a href="https://upandclear.org/2026/06/27/ddns-updater-enhanced-gerer-des-ddns-simplement-via-webui/"><b>DDNS-Updater Enhanced : gérer des DDNS simplement via WebUI</b></a><br/>
   <sub>27 jun 2026</sub>
@@ -34,13 +41,6 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 </p>
 <br clear="left"/>
 
-<p>
-  <a href="https://upandclear.org/2026/06/24/stremio-emby-infuse-and-co-passer-les-intros-et-credits/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/close-up-photo-of-intro-text-stockpack-pexels-300x300.jpg" width="72" alt="Stremio, Emby, Infuse and co : passer les intros et crédits" /></a>
-  <a href="https://upandclear.org/2026/06/24/stremio-emby-infuse-and-co-passer-les-intros-et-credits/"><b>Stremio, Emby, Infuse and co : passer les intros et crédits</b></a><br/>
-  <sub>24 jun 2026</sub>
-</p>
-<br clear="left"/>
-
 
 #### Au hasard du blog
 
@@ -57,10 +57,13 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
+- ★ 30 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+  Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
+
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
-- ★ 29 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
+- ★ 30 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
   Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
 
 - ★ 2 · [**nexotv-enhanced**](https://github.com/Aerya/nexotv-enhanced)
@@ -68,9 +71,6 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 
 - ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
   Ce projet Go, DDNS-Updater Enhanced, offre un outil de mise à jour DNS dynamique universel avec une interface web interactive pour gérer les entrées. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion complète des configurations via l'interface ou une API REST, sans nécessiter de redémarrage.
-
-- ★ 30 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
-  Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
 - ★ 8 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
   Gluetun Companion est une interface web en Python pour piloter automatiquement des serveurs VPN WireGuard et OpenVPN dans Gluetun, offrant des benchmarks, une sélection de serveurs intelligente et la gestion des containers Docker.
