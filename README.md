@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2026/01/13/zorinos-tester-la-version-pro-via-un-script/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/01/zorin0-300x300.jpg" width="120" alt="ZorinOS : tester la version Pro via un script" /></a>
-  <a href="https://upandclear.org/2026/01/13/zorinos-tester-la-version-pro-via-un-script/"><b>ZorinOS : tester la version Pro via un script</b></a><br/>
-  <sub>13 jan 2026</sub>
+  <a href="https://upandclear.org/2024/09/14/hoarder-liens-images-textes-et-pdf-en-favoris-avec-recherche-et-tags-auto/"><img align="left" src="https://upandclear.org/wp-content/uploads/2024/09/hoarder-bookmark-search-300x300.jpg" width="120" alt="Hoarder : liens, images, textes et PDF en favoris avec recherche et tags auto" /></a>
+  <a href="https://upandclear.org/2024/09/14/hoarder-liens-images-textes-et-pdf-en-favoris-avec-recherche-et-tags-auto/"><b>Hoarder : liens, images, textes et PDF en favoris avec recherche et tags auto</b></a><br/>
+  <sub>14 sep 2024</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,14 +57,14 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
+- [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
+  Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
+
 - ★ 29 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
   Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
 
 - ★ 2 · [**nexotv-enhanced**](https://github.com/Aerya/nexotv-enhanced)
   NexoTV Enhanced est un addon Stremio pour IPTV qui permet de diffuser des chaînes TV en direct et des catalogues de films/séries. Il offre des fonctionnalités avancées comme la multi-source, la sélection de catégories, l'authentification et la sauvegarde des configurations.
-
-- [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
-  Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
 - ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
   Ce projet Go, DDNS-Updater Enhanced, offre un outil de mise à jour DNS dynamique universel avec une interface web interactive pour gérer les entrées. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion complète des configurations via l'interface ou une API REST, sans nécessiter de redémarrage.
