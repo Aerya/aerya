@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2016/10/14/emby-modifierchanger-un-theme-css/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2016/10/1-2-300x300.png" width="120" alt="Emby : modifier/changer un thème (CSS)" /></a>
-  <a href="https://upandclear.org/2016/10/14/emby-modifierchanger-un-theme-css/"><b>Emby : modifier/changer un thème (CSS)</b></a><br/>
-  <sub>14 oct 2016</sub>
+  <a href="https://upandclear.org/2015/08/23/kodi-mediatheque-locale-personnalisee-et-complete/"><img align="left" src="https://upandclear.org/wp-content/uploads/2015/08/kodi-mediatheque-locale-personnalisee-et-complete-300x300.png" width="120" alt="Kodi : médiathèque locale personnalisée et complète" /></a>
+  <a href="https://upandclear.org/2015/08/23/kodi-mediatheque-locale-personnalisee-et-complete/"><b>Kodi : médiathèque locale personnalisée et complète</b></a><br/>
+  <sub>23 août 2015</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
