@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2025/01/08/hydra-client-alternatif-reddit-pour-ios/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/01/reddit-client-ios-300x300.jpg" width="120" alt="Hydra, client alternatif Reddit pour iOS" /></a>
-  <a href="https://upandclear.org/2025/01/08/hydra-client-alternatif-reddit-pour-ios/"><b>Hydra, client alternatif Reddit pour iOS</b></a><br/>
-  <sub>8 jan 2025</sub>
+  <a href="https://upandclear.org/2016/10/14/emby-modifierchanger-un-theme-css/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2016/10/1-2-300x300.png" width="120" alt="Emby : modifier/changer un thème (CSS)" /></a>
+  <a href="https://upandclear.org/2016/10/14/emby-modifierchanger-un-theme-css/"><b>Emby : modifier/changer un thème (CSS)</b></a><br/>
+  <sub>14 oct 2016</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,11 +57,11 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
-- [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
-  Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
-
 - ★ 30 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
   Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
+
+- [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
+  Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
 - ★ 30 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
