@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2015/08/23/kodi-mediatheque-locale-personnalisee-et-complete/"><img align="left" src="https://upandclear.org/wp-content/uploads/2015/08/kodi-mediatheque-locale-personnalisee-et-complete-300x300.png" width="120" alt="Kodi : médiathèque locale personnalisée et complète" /></a>
-  <a href="https://upandclear.org/2015/08/23/kodi-mediatheque-locale-personnalisee-et-complete/"><b>Kodi : médiathèque locale personnalisée et complète</b></a><br/>
-  <sub>23 août 2015</sub>
+  <a href="https://upandclear.org/2025/09/11/un-nouveau-souffle-pour-vos-jaquettes-aura-et-mediux-au-service-de-plex-emby-et-jellyfin/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/09/aura10-300x300.jpg" width="120" alt="Un nouveau souffle pour vos jaquettes : Aura et MediUX au service de Plex, Emby et Jellyfin" /></a>
+  <a href="https://upandclear.org/2025/09/11/un-nouveau-souffle-pour-vos-jaquettes-aura-et-mediux-au-service-de-plex-emby-et-jellyfin/"><b>Un nouveau souffle pour vos jaquettes : Aura et MediUX au service de Plex, Emby et Jellyfin</b></a><br/>
+  <sub>11 sep 2025</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
