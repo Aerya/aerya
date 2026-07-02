@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2018/09/16/heimdall-une-page-daccueil-avec-vos-raccourcis-multimedia/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2020/04/Heimdall-Mozilla-Firefox_003-300x300.png" width="120" alt="Heimdall : une page d’accueil avec vos raccourcis multimédia" /></a>
-  <a href="https://upandclear.org/2018/09/16/heimdall-une-page-daccueil-avec-vos-raccourcis-multimedia/"><b>Heimdall : une page d’accueil avec vos raccourcis multimédia</b></a><br/>
-  <sub>16 sep 2018</sub>
+  <a href="https://upandclear.org/2024/10/02/autoblow-ai-ultra-la-masturbation-masculine-assistee-par-lia/"><img align="left" src="https://upandclear.org/wp-content/uploads/2024/10/XGM7BEMEH9ARX0X8M6002WFW60-300x300.jpg" width="120" alt="Autoblow AI Ultra : la masturbation masculine assistée par l’IA" /></a>
+  <a href="https://upandclear.org/2024/10/02/autoblow-ai-ultra-la-masturbation-masculine-assistee-par-lia/"><b>Autoblow AI Ultra : la masturbation masculine assistée par l’IA</b></a><br/>
+  <sub>2 oct 2024</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
