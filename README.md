@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2020/09/27/decouvrez-les-vps-vultr/"><img align="left" src="https://upandclear.org/wp-content/uploads/2020/09/decouvrez-les-vps-vultr-300x300.png" width="120" alt="Découvrez les VPS Vultr" /></a>
-  <a href="https://upandclear.org/2020/09/27/decouvrez-les-vps-vultr/"><b>Découvrez les VPS Vultr</b></a><br/>
-  <sub>27 sep 2020</sub>
+  <a href="https://upandclear.org/2016/11/06/le-desert-numerique-ou-presque/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2016/11/Speedtest-05.10.16-300x149.png" width="120" alt="Le désert numérique… Ou presque" /></a>
+  <a href="https://upandclear.org/2016/11/06/le-desert-numerique-ou-presque/"><b>Le désert numérique… Ou presque</b></a><br/>
+  <sub>6 nov 2016</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,6 +57,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
+- ★ 2 · [**nexotv-enhanced**](https://github.com/Aerya/nexotv-enhanced)
+  NexoTV Enhanced est un addon Stremio pour IPTV, basé sur joaosavi/nexotv, qui ajoute des catalogues configurables de films et séries, une sélection de catégories, et des options multi-source. Il permet également l'enrichissement des données via TMDB et la sauvegarde des configurations.
+
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
@@ -65,9 +68,6 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 
 - ★ 30 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
-
-- ★ 2 · [**nexotv-enhanced**](https://github.com/Aerya/nexotv-enhanced)
-  NexoTV Enhanced est un addon Stremio pour IPTV qui permet de diffuser des chaînes TV en direct et des catalogues de films/séries. Il offre des fonctionnalités avancées comme la multi-source, la sélection de catégories, l'authentification et la sauvegarde des configurations.
 
 - ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
   Ce projet Go, DDNS-Updater Enhanced, offre un outil de mise à jour DNS dynamique universel avec une interface web interactive pour gérer les entrées. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion complète des configurations via l'interface ou une API REST, sans nécessiter de redémarrage.
