@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2025/09/11/un-nouveau-souffle-pour-vos-jaquettes-aura-et-mediux-au-service-de-plex-emby-et-jellyfin/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/09/aura10-300x300.jpg" width="120" alt="Un nouveau souffle pour vos jaquettes : Aura et MediUX au service de Plex, Emby et Jellyfin" /></a>
-  <a href="https://upandclear.org/2025/09/11/un-nouveau-souffle-pour-vos-jaquettes-aura-et-mediux-au-service-de-plex-emby-et-jellyfin/"><b>Un nouveau souffle pour vos jaquettes : Aura et MediUX au service de Plex, Emby et Jellyfin</b></a><br/>
-  <sub>11 sep 2025</sub>
+  <a href="https://upandclear.org/2018/09/16/heimdall-une-page-daccueil-avec-vos-raccourcis-multimedia/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2020/04/Heimdall-Mozilla-Firefox_003-300x300.png" width="120" alt="Heimdall : une page d’accueil avec vos raccourcis multimédia" /></a>
+  <a href="https://upandclear.org/2018/09/16/heimdall-une-page-daccueil-avec-vos-raccourcis-multimedia/"><b>Heimdall : une page d’accueil avec vos raccourcis multimédia</b></a><br/>
+  <sub>16 sep 2018</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,11 +57,11 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
-- ★ 30 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
-  Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
-
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
+
+- ★ 31 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
+  Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
 
 - ★ 30 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
