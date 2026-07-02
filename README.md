@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2024/10/02/autoblow-ai-ultra-la-masturbation-masculine-assistee-par-lia/"><img align="left" src="https://upandclear.org/wp-content/uploads/2024/10/XGM7BEMEH9ARX0X8M6002WFW60-300x300.jpg" width="120" alt="Autoblow AI Ultra : la masturbation masculine assistée par l’IA" /></a>
-  <a href="https://upandclear.org/2024/10/02/autoblow-ai-ultra-la-masturbation-masculine-assistee-par-lia/"><b>Autoblow AI Ultra : la masturbation masculine assistée par l’IA</b></a><br/>
-  <sub>2 oct 2024</sub>
+  <a href="https://upandclear.org/2020/09/27/decouvrez-les-vps-vultr/"><img align="left" src="https://upandclear.org/wp-content/uploads/2020/09/decouvrez-les-vps-vultr-300x300.png" width="120" alt="Découvrez les VPS Vultr" /></a>
+  <a href="https://upandclear.org/2020/09/27/decouvrez-les-vps-vultr/"><b>Découvrez les VPS Vultr</b></a><br/>
+  <sub>27 sep 2020</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
