@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2015/12/03/firefox-brouillez-un-peu-plus-votre-empreinte-numerique-avec-random-agent-spoofer/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2015/12/Menu_146-300x300.png" width="120" alt="Firefox : brouillez un peu plus votre empreinte numérique avec Random Agent Spoofer" /></a>
-  <a href="https://upandclear.org/2015/12/03/firefox-brouillez-un-peu-plus-votre-empreinte-numerique-avec-random-agent-spoofer/"><b>Firefox : brouillez un peu plus votre empreinte numérique avec Random Agent Spoofer</b></a><br/>
-  <sub>3 déc 2015</sub>
+  <a href="https://upandclear.org/2016/09/20/promis-demain-on-se-bouge/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2016/09/IMG_20160920_103937-300x300.jpg" width="120" alt="Promis, demain on se bouge !" /></a>
+  <a href="https://upandclear.org/2016/09/20/promis-demain-on-se-bouge/"><b>Promis, demain on se bouge !</b></a><br/>
+  <sub>20 sep 2016</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
