@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2024/10/02/autoblow-ai-ultra-la-masturbation-masculine-assistee-par-lia/"><img align="left" src="https://upandclear.org/wp-content/uploads/2024/10/XGM7BEMEH9ARX0X8M6002WFW60-300x300.jpg" width="120" alt="Autoblow AI Ultra : la masturbation masculine assistée par l’IA" /></a>
-  <a href="https://upandclear.org/2024/10/02/autoblow-ai-ultra-la-masturbation-masculine-assistee-par-lia/"><b>Autoblow AI Ultra : la masturbation masculine assistée par l’IA</b></a><br/>
-  <sub>2 oct 2024</sub>
+  <a href="https://upandclear.org/2015/12/03/firefox-brouillez-un-peu-plus-votre-empreinte-numerique-avec-random-agent-spoofer/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2015/12/Menu_146-300x300.png" width="120" alt="Firefox : brouillez un peu plus votre empreinte numérique avec Random Agent Spoofer" /></a>
+  <a href="https://upandclear.org/2015/12/03/firefox-brouillez-un-peu-plus-votre-empreinte-numerique-avec-random-agent-spoofer/"><b>Firefox : brouillez un peu plus votre empreinte numérique avec Random Agent Spoofer</b></a><br/>
+  <sub>3 déc 2015</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,11 +57,11 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
-- [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
-  Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
-
 - ★ 31 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
   Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
+
+- [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
+  Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
 - ★ 2 · [**nexotv-enhanced**](https://github.com/Aerya/nexotv-enhanced)
   NexoTV Enhanced est un addon Stremio pour IPTV, basé sur joaosavi/nexotv, qui ajoute des catalogues configurables de films et séries, une sélection de catégories, et des options multi-source. Il permet également l'enrichissement des données via TMDB et la sauvegarde des configurations.
