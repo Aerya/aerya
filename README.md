@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2016/02/12/kodi-skin-artic-zephyr-pour-nvidia-shield/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Kodi : Skin Arctic Zephyr pour nVidia Shield" /></a>
-  <a href="https://upandclear.org/2016/02/12/kodi-skin-artic-zephyr-pour-nvidia-shield/"><b>Kodi : Skin Arctic Zephyr pour nVidia Shield</b></a><br/>
-  <sub>12 fév 2016</sub>
+  <a href="https://upandclear.org/2017/05/29/piloter-couchpotato-depuis-android-couchkeeper-couchpotato-couchpotato-remote-foshow-nzb-unity-nzb-nzb360-nzbmanager-potatocouch/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2017/05/Screenshot_20170529-083108-300x300.png" width="120" alt="Piloter CouchPotato depuis Android : CouchKeeper, CouchPotato, CouchPotato Remote, Foshow, NZB Unity, NZB+, nzb360, NZBManager, PotatoCouch" /></a>
+  <a href="https://upandclear.org/2017/05/29/piloter-couchpotato-depuis-android-couchkeeper-couchpotato-couchpotato-remote-foshow-nzb-unity-nzb-nzb360-nzbmanager-potatocouch/"><b>Piloter CouchPotato depuis Android : CouchKeeper, CouchPotato, CouchPotato Remote, Foshow, NZB Unity, NZB+, nzb360, NZBManager, PotatoCouch</b></a><br/>
+  <sub>29 mai 2017</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
