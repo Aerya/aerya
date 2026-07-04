@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2016/04/03/jackett-votre-moteur-de-recherche-bittorrent-personnalise/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2016/04/Sélection_008-300x300.png" width="120" alt="Jackett : votre moteur de recherche BitTorrent personnalisé" /></a>
-  <a href="https://upandclear.org/2016/04/03/jackett-votre-moteur-de-recherche-bittorrent-personnalise/"><b>Jackett : votre moteur de recherche BitTorrent personnalisé</b></a><br/>
-  <sub>3 avr 2016</sub>
+  <a href="https://upandclear.org/2016/02/12/kodi-skin-artic-zephyr-pour-nvidia-shield/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Kodi : Skin Arctic Zephyr pour nVidia Shield" /></a>
+  <a href="https://upandclear.org/2016/02/12/kodi-skin-artic-zephyr-pour-nvidia-shield/"><b>Kodi : Skin Arctic Zephyr pour nVidia Shield</b></a><br/>
+  <sub>12 fév 2016</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,11 +57,11 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
-- ★ 31 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
-  Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
-
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
+
+- ★ 31 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
+  Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
 
 - ★ 2 · [**nexotv-enhanced**](https://github.com/Aerya/nexotv-enhanced)
   NexoTV Enhanced est un addon Stremio pour IPTV, basé sur joaosavi/nexotv, qui ajoute des catalogues configurables de films et séries, une sélection de catégories, et des options multi-source. Il permet également l'enrichissement des données via TMDB et la sauvegarde des configurations.
