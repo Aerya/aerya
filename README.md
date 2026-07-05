@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2025/07/04/streaming-a-la-carte-sans-stockage-rdt-client-rclone-zurg-debrideurs-et-torrenting/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/07/cloud-hosting-video-streaming-300x300.jpg" width="120" alt="Streaming à la carte sans stockage local : RDT-Client, rClone, Zurg, débrideurs et torrenting" /></a>
-  <a href="https://upandclear.org/2025/07/04/streaming-a-la-carte-sans-stockage-rdt-client-rclone-zurg-debrideurs-et-torrenting/"><b>Streaming à la carte sans stockage local : RDT-Client, rClone, Zurg, débrideurs et torrenting</b></a><br/>
-  <sub>4 juil 2025</sub>
+  <a href="https://upandclear.org/2016/08/15/synology-installer-debian-sans-risque-y-monter-son-volume1-intrusionprevention-suricata/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2016/08/Sélection_006-300x300.png" width="120" alt="Synology : installer Debian, sans risque, y monter son Volume1 (&amp; IntrusionPrevention, Suricata)" /></a>
+  <a href="https://upandclear.org/2016/08/15/synology-installer-debian-sans-risque-y-monter-son-volume1-intrusionprevention-suricata/"><b>Synology : installer Debian, sans risque, y monter son Volume1 (&amp; IntrusionPrevention, Suricata)</b></a><br/>
+  <sub>15 août 2016</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
