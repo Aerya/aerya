@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2026/06/24/xperience-outil-de-configuration-pour-nuvio-avec-visualisation/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/31-300x300.jpg" width="120" alt="Xperience : outil de configuration pour Nuvio, avec visualisation" /></a>
-  <a href="https://upandclear.org/2026/06/24/xperience-outil-de-configuration-pour-nuvio-avec-visualisation/"><b>Xperience : outil de configuration pour Nuvio, avec visualisation</b></a><br/>
-  <sub>24 jun 2026</sub>
+  <a href="https://upandclear.org/2021/06/08/installer-et-utiliser-radarr-bis-telechargement-automatique-de-films/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2021/06/2021-06-07-15_26_46-Radarr-300x300.png" width="120" alt="Installer et utiliser Radarr (bis), téléchargement automatique de films" /></a>
+  <a href="https://upandclear.org/2021/06/08/installer-et-utiliser-radarr-bis-telechargement-automatique-de-films/"><b>Installer et utiliser Radarr (bis), téléchargement automatique de films</b></a><br/>
+  <sub>8 jun 2021</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,14 +57,14 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
+- ★ 3 · [**nexotv-enhanced**](https://github.com/Aerya/nexotv-enhanced)
+  NexoTV Enhanced est un addon Stremio pour IPTV, basé sur un fork de joaosavi/nexotv, offrant des chaînes TV en direct, des catalogues de films et séries configurables, multi-source, avec sélection de catégories et authentification. Il ajoute des fonctionnalités comme l'enrichissement TMDB, la sauvegarde des configurations et un sélecteur de langue EN/FR.
+
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
 - ★ 31 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
   Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
-
-- ★ 2 · [**nexotv-enhanced**](https://github.com/Aerya/nexotv-enhanced)
-  NexoTV Enhanced est un addon Stremio pour IPTV, basé sur joaosavi/nexotv, qui ajoute des catalogues configurables de films et séries, une sélection de catégories, et des options multi-source. Il permet également l'enrichissement des données via TMDB et la sauvegarde des configurations.
 
 - ★ 30 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
