@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2016/08/15/synology-installer-debian-sans-risque-y-monter-son-volume1-intrusionprevention-suricata/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2016/08/Sélection_006-300x300.png" width="120" alt="Synology : installer Debian, sans risque, y monter son Volume1 (&amp; IntrusionPrevention, Suricata)" /></a>
-  <a href="https://upandclear.org/2016/08/15/synology-installer-debian-sans-risque-y-monter-son-volume1-intrusionprevention-suricata/"><b>Synology : installer Debian, sans risque, y monter son Volume1 (&amp; IntrusionPrevention, Suricata)</b></a><br/>
-  <sub>15 août 2016</sub>
+  <a href="https://upandclear.org/2026/06/24/xperience-outil-de-configuration-pour-nuvio-avec-visualisation/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/31-300x300.jpg" width="120" alt="Xperience : outil de configuration pour Nuvio, avec visualisation" /></a>
+  <a href="https://upandclear.org/2026/06/24/xperience-outil-de-configuration-pour-nuvio-avec-visualisation/"><b>Xperience : outil de configuration pour Nuvio, avec visualisation</b></a><br/>
+  <sub>24 jun 2026</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
