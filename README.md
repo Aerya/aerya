@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2021/06/08/installer-et-utiliser-radarr-bis-telechargement-automatique-de-films/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2021/06/2021-06-07-15_26_46-Radarr-300x300.png" width="120" alt="Installer et utiliser Radarr (bis), téléchargement automatique de films" /></a>
-  <a href="https://upandclear.org/2021/06/08/installer-et-utiliser-radarr-bis-telechargement-automatique-de-films/"><b>Installer et utiliser Radarr (bis), téléchargement automatique de films</b></a><br/>
-  <sub>8 jun 2021</sub>
+  <a href="https://upandclear.org/2024/06/30/stirling-pdf-le-couteau-suisse-du-pdf-en-local/"><img align="left" src="https://upandclear.org/wp-content/uploads/2024/06/adobe-pdf-editing-software-300x300.png" width="120" alt="Stirling PDF : le couteau suisse du PDF en local" /></a>
+  <a href="https://upandclear.org/2024/06/30/stirling-pdf-le-couteau-suisse-du-pdf-en-local/"><b>Stirling PDF : le couteau suisse du PDF en local</b></a><br/>
+  <sub>30 jun 2024</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
