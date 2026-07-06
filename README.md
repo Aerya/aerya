@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2018/09/30/ungoogled-chromium/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="UnGoogled Chromium" /></a>
-  <a href="https://upandclear.org/2018/09/30/ungoogled-chromium/"><b>UnGoogled Chromium</b></a><br/>
-  <sub>30 sep 2018</sub>
+  <a href="https://upandclear.org/2025/09/14/jellyfin-collections-automatiques-personnalisees/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/09/collections1-300x300.jpg" width="120" alt="Jellyfin : collections automatiques personnalisées" /></a>
+  <a href="https://upandclear.org/2025/09/14/jellyfin-collections-automatiques-personnalisees/"><b>Jellyfin : collections automatiques personnalisées</b></a><br/>
+  <sub>14 sep 2025</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
