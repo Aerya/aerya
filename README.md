@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2017/01/23/plex-linux-desktopembedded-client/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2017/01/qt-300x300.png" width="120" alt="Plex Linux Desktop/Embedded Client" /></a>
-  <a href="https://upandclear.org/2017/01/23/plex-linux-desktopembedded-client/"><b>Plex Linux Desktop/Embedded Client</b></a><br/>
-  <sub>23 jan 2017</sub>
+  <a href="https://upandclear.org/2015/09/03/la-vision-reductrice-et-clickbait-du-deepweb/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="La vision réductrice et clickbait du deepweb" /></a>
+  <a href="https://upandclear.org/2015/09/03/la-vision-reductrice-et-clickbait-du-deepweb/"><b>La vision réductrice et clickbait du deepweb</b></a><br/>
+  <sub>3 sep 2015</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
