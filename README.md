@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2017/02/16/android-installermettre-a-jour-des-applications-sans-playstore-ni-warez/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2017/02/Screenshot_20170216-110326-576x1024-300x300.png" width="120" alt="Android : installer/mettre à jour des applications sans PlayStore (ni warez)" /></a>
-  <a href="https://upandclear.org/2017/02/16/android-installermettre-a-jour-des-applications-sans-playstore-ni-warez/"><b>Android : installer/mettre à jour des applications sans PlayStore (ni warez)</b></a><br/>
-  <sub>16 fév 2017</sub>
+  <a href="https://upandclear.org/2017/04/12/backintime-backup-linux-chiffre-ou-non-localssh-avec-gui/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2017/04/001-3-300x300.png" width="120" alt="Backintime : backup Linux chiffré ou non, local/SSH, avec GUI" /></a>
+  <a href="https://upandclear.org/2017/04/12/backintime-backup-linux-chiffre-ou-non-localssh-avec-gui/"><b>Backintime : backup Linux chiffré ou non, local/SSH, avec GUI</b></a><br/>
+  <sub>12 avr 2017</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
