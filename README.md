@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2017/04/12/backintime-backup-linux-chiffre-ou-non-localssh-avec-gui/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2017/04/001-3-300x300.png" width="120" alt="Backintime : backup Linux chiffré ou non, local/SSH, avec GUI" /></a>
-  <a href="https://upandclear.org/2017/04/12/backintime-backup-linux-chiffre-ou-non-localssh-avec-gui/"><b>Backintime : backup Linux chiffré ou non, local/SSH, avec GUI</b></a><br/>
-  <sub>12 avr 2017</sub>
+  <a href="https://upandclear.org/2018/09/16/heimdall-une-page-daccueil-avec-vos-raccourcis-multimedia/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2020/04/Heimdall-Mozilla-Firefox_003-300x300.png" width="120" alt="Heimdall : une page d’accueil avec vos raccourcis multimédia" /></a>
+  <a href="https://upandclear.org/2018/09/16/heimdall-une-page-daccueil-avec-vos-raccourcis-multimedia/"><b>Heimdall : une page d’accueil avec vos raccourcis multimédia</b></a><br/>
+  <sub>16 sep 2018</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -56,6 +56,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 
 <!-- REPOS:START -->
 ### Dernières mises à jour
+
+- ★ 30 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+  Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
@@ -71,9 +74,6 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 
 - ★ 8 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
   Gluetun Companion est une interface web en Python pour piloter automatiquement des serveurs VPN WireGuard et OpenVPN dans Gluetun, offrant des benchmarks, une sélection de serveurs intelligente et la gestion des containers Docker.
-
-- ★ 30 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
-  Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
 - ★ 3 · [**nexotv-enhanced**](https://github.com/Aerya/nexotv-enhanced)
   NexoTV Enhanced est un addon Stremio pour IPTV, basé sur un fork de joaosavi/nexotv, offrant des chaînes TV en direct, des catalogues de films et séries configurables, multi-source, avec sélection de catégories et authentification. Il ajoute des fonctionnalités comme l'enrichissement TMDB, la sauvegarde des configurations et un sélecteur de langue EN/FR.
