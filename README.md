@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2018/09/16/heimdall-une-page-daccueil-avec-vos-raccourcis-multimedia/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2020/04/Heimdall-Mozilla-Firefox_003-300x300.png" width="120" alt="Heimdall : une page d’accueil avec vos raccourcis multimédia" /></a>
-  <a href="https://upandclear.org/2018/09/16/heimdall-une-page-daccueil-avec-vos-raccourcis-multimedia/"><b>Heimdall : une page d’accueil avec vos raccourcis multimédia</b></a><br/>
-  <sub>16 sep 2018</sub>
+  <a href="https://upandclear.org/2017/01/22/plex-webtools-unsupported-appstore/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2017/01/001-14-300x300.png" width="120" alt="Plex WebTools, Unsupported AppStore" /></a>
+  <a href="https://upandclear.org/2017/01/22/plex-webtools-unsupported-appstore/"><b>Plex WebTools, Unsupported AppStore</b></a><br/>
+  <sub>22 jan 2017</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
