@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2025/09/03/minivid-indexage-lecture-tags-et-favoris-pour-vos-videos-locales/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/09/flat-design-blog-header-illustration-a-clean-mod-1756853801-300x300.jpg" width="120" alt="MiniVid : indexage, lecture, tags et favoris pour vos vidéos locales" /></a>
-  <a href="https://upandclear.org/2025/09/03/minivid-indexage-lecture-tags-et-favoris-pour-vos-videos-locales/"><b>MiniVid : indexage, lecture, tags et favoris pour vos vidéos locales</b></a><br/>
-  <sub>3 sep 2025</sub>
+  <a href="https://upandclear.org/2016/09/06/bitnami-deployer-des-services-en-2-clics-cloud-vm-windows-linux-osx-docker/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Bitnami : déployer des services en 2 clics (cloud, VM, Windows, Linux, OSX, Docker)" /></a>
+  <a href="https://upandclear.org/2016/09/06/bitnami-deployer-des-services-en-2-clics-cloud-vm-windows-linux-osx-docker/"><b>Bitnami : déployer des services en 2 clics (cloud, VM, Windows, Linux, OSX, Docker)</b></a><br/>
+  <sub>6 sep 2016</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,20 +57,20 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
-- [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
-  Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
-
-- ★ 30 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
-  Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
-
-- [**Stremio-French-Stream-Docker**](https://github.com/Aerya/Stremio-French-Stream-Docker)
-  Packaging Docker autour de Stremio French Stream pour simplifier son déploiement. Le dépôt sert à lancer le service dans un environnement conteneurisé.
+- ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
+  Ce projet Go, DDNS-Updater Enhanced, offre un outil de mise à jour DNS dynamique universel avec une interface web interactive pour gérer les entrées. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion complète des configurations via l'interface ou une API REST, sans nécessiter de redémarrage.
 
 - ★ 31 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
   Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
 
-- ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
-  Ce projet Go, DDNS-Updater Enhanced, offre un outil de mise à jour DNS dynamique universel avec une interface web interactive pour gérer les entrées. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion complète des configurations via l'interface ou une API REST, sans nécessiter de redémarrage.
+- ★ 30 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+  Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
+
+- [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
+  Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
+
+- [**Stremio-French-Stream-Docker**](https://github.com/Aerya/Stremio-French-Stream-Docker)
+  Packaging Docker autour de Stremio French Stream pour simplifier son déploiement. Le dépôt sert à lancer le service dans un environnement conteneurisé.
 
 - ★ 8 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
   Gluetun Companion est une interface web en Python pour piloter automatiquement des serveurs VPN WireGuard et OpenVPN dans Gluetun, offrant des benchmarks, une sélection de serveurs intelligente et la gestion des containers Docker.
