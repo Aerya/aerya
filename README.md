@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2026/03/17/stremio-frenchio-laddon-pour-avoir-le-contenu-de-votre-trackers-favoris/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/03/7-1-300x300.jpg" width="120" alt="Stremio : Frenchio, l’addon pour avoir le contenu de votre trackers favoris" /></a>
-  <a href="https://upandclear.org/2026/03/17/stremio-frenchio-laddon-pour-avoir-le-contenu-de-votre-trackers-favoris/"><b>Stremio : Frenchio, l’addon pour avoir le contenu de votre trackers favoris</b></a><br/>
-  <sub>17 mar 2026</sub>
+  <a href="https://upandclear.org/2025/09/03/minivid-indexage-lecture-tags-et-favoris-pour-vos-videos-locales/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/09/flat-design-blog-header-illustration-a-clean-mod-1756853801-300x300.jpg" width="120" alt="MiniVid : indexage, lecture, tags et favoris pour vos vidéos locales" /></a>
+  <a href="https://upandclear.org/2025/09/03/minivid-indexage-lecture-tags-et-favoris-pour-vos-videos-locales/"><b>MiniVid : indexage, lecture, tags et favoris pour vos vidéos locales</b></a><br/>
+  <sub>3 sep 2025</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
