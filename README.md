@@ -14,6 +14,13 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Les derniers
 
 <p>
+  <a href="https://upandclear.org/2026/07/09/remux-le-serveur-jellyfin-remanie-pour-stremio-iptv-webdav-musique-ytdl-et-fichiers-locaux/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/07/39-300x300.png" width="72" alt="Remux : le serveur Jellyfin remanié pour Stremio, IPTV, WebDav, musique, ytdl et fichiers locaux" /></a>
+  <a href="https://upandclear.org/2026/07/09/remux-le-serveur-jellyfin-remanie-pour-stremio-iptv-webdav-musique-ytdl-et-fichiers-locaux/"><b>Remux : le serveur Jellyfin remanié pour Stremio, IPTV, WebDav, musique, ytdl et fichiers locaux</b></a><br/>
+  <sub>9 juil 2026</sub>
+</p>
+<br clear="left"/>
+
+<p>
   <a href="https://upandclear.org/2026/07/07/wastream-sources-ddl-pour-stremio/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/07/wastream3-300x300.png" width="72" alt="WAStream : sources DDL pour Stremio" /></a>
   <a href="https://upandclear.org/2026/07/07/wastream-sources-ddl-pour-stremio/"><b>WAStream : sources DDL pour Stremio</b></a><br/>
   <sub>7 juil 2026</sub>
@@ -34,20 +41,13 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 </p>
 <br clear="left"/>
 
-<p>
-  <a href="https://upandclear.org/2026/06/24/nexotv-enhanced/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/10-2-300x300.jpg" width="72" alt="NexoTV Enhanced : fork de joaosavi/nexotv avec sélection de catégories et catalogues configurables" /></a>
-  <a href="https://upandclear.org/2026/06/24/nexotv-enhanced/"><b>NexoTV Enhanced : fork de joaosavi/nexotv avec sélection de catégories et catalogues configurables</b></a><br/>
-  <sub>24 jun 2026</sub>
-</p>
-<br clear="left"/>
-
 
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2017/01/22/plex-webtools-unsupported-appstore/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2017/01/001-14-300x300.png" width="120" alt="Plex WebTools, Unsupported AppStore" /></a>
-  <a href="https://upandclear.org/2017/01/22/plex-webtools-unsupported-appstore/"><b>Plex WebTools, Unsupported AppStore</b></a><br/>
-  <sub>22 jan 2017</sub>
+  <a href="https://upandclear.org/2026/03/17/stremio-frenchio-laddon-pour-avoir-le-contenu-de-votre-trackers-favoris/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/03/7-1-300x300.jpg" width="120" alt="Stremio : Frenchio, l’addon pour avoir le contenu de votre trackers favoris" /></a>
+  <a href="https://upandclear.org/2026/03/17/stremio-frenchio-laddon-pour-avoir-le-contenu-de-votre-trackers-favoris/"><b>Stremio : Frenchio, l’addon pour avoir le contenu de votre trackers favoris</b></a><br/>
+  <sub>17 mar 2026</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,11 +57,11 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
-- ★ 30 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
-  Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
-
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
+
+- ★ 30 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+  Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
 - [**Stremio-French-Stream-Docker**](https://github.com/Aerya/Stremio-French-Stream-Docker)
   Packaging Docker autour de Stremio French Stream pour simplifier son déploiement. Le dépôt sert à lancer le service dans un environnement conteneurisé.
