@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2017/05/03/polo-closed-beta-gestionnaire-de-fichiers-nouvelle-generation/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2017/05/Polo-v17.4-BETA-4-BETA-VERSION-_001-300x300.png" width="120" alt="Polo (closed Beta) : gestionnaire de fichiers nouvelle génération" /></a>
-  <a href="https://upandclear.org/2017/05/03/polo-closed-beta-gestionnaire-de-fichiers-nouvelle-generation/"><b>Polo (closed Beta) : gestionnaire de fichiers nouvelle génération</b></a><br/>
-  <sub>3 mai 2017</sub>
+  <a href="https://upandclear.org/2016/11/07/non-au-fichage-systematique-des-gens-honnetes-fichier-tes/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Non au fichage systématique des gens honnêtes (fichier TES)" /></a>
+  <a href="https://upandclear.org/2016/11/07/non-au-fichage-systematique-des-gens-honnetes-fichier-tes/"><b>Non au fichage systématique des gens honnêtes (fichier TES)</b></a><br/>
+  <sub>7 nov 2016</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
