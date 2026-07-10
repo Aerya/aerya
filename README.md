@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2016/11/07/non-au-fichage-systematique-des-gens-honnetes-fichier-tes/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Non au fichage systématique des gens honnêtes (fichier TES)" /></a>
-  <a href="https://upandclear.org/2016/11/07/non-au-fichage-systematique-des-gens-honnetes-fichier-tes/"><b>Non au fichage systématique des gens honnêtes (fichier TES)</b></a><br/>
-  <sub>7 nov 2016</sub>
+  <a href="https://upandclear.org/2021/08/28/robot-tondeuse-bosch-indego-350-ajout-de-sur-roues-crantees/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2021/08/20210827_125044-1-768x1024-300x300.jpg" width="120" alt="Robot tondeuse BOSCH Indego 350 : ajout de sur-roues crantées" /></a>
+  <a href="https://upandclear.org/2021/08/28/robot-tondeuse-bosch-indego-350-ajout-de-sur-roues-crantees/"><b>Robot tondeuse BOSCH Indego 350 : ajout de sur-roues crantées</b></a><br/>
+  <sub>28 août 2021</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -75,7 +75,7 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - ★ 8 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
   Gluetun Companion est une interface web en Python pour piloter automatiquement des serveurs VPN WireGuard et OpenVPN dans Gluetun, offrant des benchmarks, une sélection de serveurs intelligente et la gestion des containers Docker.
 
-- ★ 3 · [**nexotv-enhanced**](https://github.com/Aerya/nexotv-enhanced)
+- ★ 4 · [**nexotv-enhanced**](https://github.com/Aerya/nexotv-enhanced)
   NexoTV Enhanced est un addon Stremio pour IPTV, basé sur un fork de joaosavi/nexotv, offrant des chaînes TV en direct, des catalogues de films et séries configurables, multi-source, avec sélection de catégories et authentification. Il ajoute des fonctionnalités comme l'enrichissement TMDB, la sauvegarde des configurations et un sélecteur de langue EN/FR.
 
 - [**claudecodeui-docker**](https://github.com/Aerya/claudecodeui-docker)
