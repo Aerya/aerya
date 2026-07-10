@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2021/08/28/robot-tondeuse-bosch-indego-350-ajout-de-sur-roues-crantees/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2021/08/20210827_125044-1-768x1024-300x300.jpg" width="120" alt="Robot tondeuse BOSCH Indego 350 : ajout de sur-roues crantées" /></a>
-  <a href="https://upandclear.org/2021/08/28/robot-tondeuse-bosch-indego-350-ajout-de-sur-roues-crantees/"><b>Robot tondeuse BOSCH Indego 350 : ajout de sur-roues crantées</b></a><br/>
-  <sub>28 août 2021</sub>
+  <a href="https://upandclear.org/2016/03/05/ankoa-encodageremuxe-en-cli-pour-les-noobs/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2016/03/ankoa1-300x300.png" width="120" alt="AnkoA : encodage/remuxe en CLI pour les noobs" /></a>
+  <a href="https://upandclear.org/2016/03/05/ankoa-encodageremuxe-en-cli-pour-les-noobs/"><b>AnkoA : encodage/remuxe en CLI pour les noobs</b></a><br/>
+  <sub>5 mar 2016</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
