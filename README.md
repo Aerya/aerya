@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2018/05/27/gerer-son-serveur-multimedia-depuis-discord-requetes-etc/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2018/05/Sélection_002-300x300.png" width="120" alt="Gérer son serveur multimédia depuis Discord (requêtes etc)" /></a>
-  <a href="https://upandclear.org/2018/05/27/gerer-son-serveur-multimedia-depuis-discord-requetes-etc/"><b>Gérer son serveur multimédia depuis Discord (requêtes etc)</b></a><br/>
-  <sub>27 mai 2018</sub>
+  <a href="https://upandclear.org/2015/09/22/firejail-preservez-un-peu-plus-votre-vie-privee-sous-firefoxthunderbird/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Firejail : préservez un peu plus votre vie privée sous Firefox/Thunderbird" /></a>
+  <a href="https://upandclear.org/2015/09/22/firejail-preservez-un-peu-plus-votre-vie-privee-sous-firefoxthunderbird/"><b>Firejail : préservez un peu plus votre vie privée sous Firefox/Thunderbird</b></a><br/>
+  <sub>22 sep 2015</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
