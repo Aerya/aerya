@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2026/01/08/remove-windows-ai-script-gui-pour-retirer-lia-de-windows-11-avec-sauvegarde/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/01/1-300x300.png" width="120" alt="Remove Windows Ai : script/GUI pour retirer l’IA de Windows 11 (avec sauvegarde)" /></a>
-  <a href="https://upandclear.org/2026/01/08/remove-windows-ai-script-gui-pour-retirer-lia-de-windows-11-avec-sauvegarde/"><b>Remove Windows Ai : script/GUI pour retirer l’IA de Windows 11 (avec sauvegarde)</b></a><br/>
-  <sub>8 jan 2026</sub>
+  <a href="https://upandclear.org/2021/09/03/plex-web-telecharger-un-contenu-sans-en-avoir-le-droit/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Plex Web : télécharger un contenu sans en avoir le droit" /></a>
+  <a href="https://upandclear.org/2021/09/03/plex-web-telecharger-un-contenu-sans-en-avoir-le-droit/"><b>Plex Web : télécharger un contenu sans en avoir le droit</b></a><br/>
+  <sub>3 sep 2021</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -56,6 +56,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 
 <!-- REPOS:START -->
 ### Dernières mises à jour
+
+- ★ 8 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
+  Gluetun Companion est une interface web Python pour gérer automatiquement les serveurs VPN WireGuard et OpenVPN dans Gluetun. Il permet de tester, sélectionner et basculer entre les serveurs en fonction de divers critères (débit, latence, usage) et offre des fonctionnalités avancées comme la gestion des ports et les notifications.
 
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
@@ -71,9 +74,6 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 
 - [**Stremio-French-Stream-Docker**](https://github.com/Aerya/Stremio-French-Stream-Docker)
   Packaging Docker autour de Stremio French Stream pour simplifier son déploiement. Le dépôt sert à lancer le service dans un environnement conteneurisé.
-
-- ★ 8 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
-  Gluetun Companion est une interface web en Python pour piloter automatiquement des serveurs VPN WireGuard et OpenVPN dans Gluetun, offrant des benchmarks, une sélection de serveurs intelligente et la gestion des containers Docker.
 
 - ★ 4 · [**nexotv-enhanced**](https://github.com/Aerya/nexotv-enhanced)
   NexoTV Enhanced est un addon Stremio pour IPTV, basé sur un fork de joaosavi/nexotv, offrant des chaînes TV en direct, des catalogues de films et séries configurables, multi-source, avec sélection de catégories et authentification. Il ajoute des fonctionnalités comme l'enrichissement TMDB, la sauvegarde des configurations et un sélecteur de langue EN/FR.
