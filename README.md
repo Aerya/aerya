@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2022/02/15/synchroniser-des-remotes-rclone/"><img align="left" src="https://upandclear.org/wp-content/uploads/2022/02/synchroniser-des-remotes-rclone-300x300.jpg" width="120" alt="Synchroniser des remotes rClone" /></a>
-  <a href="https://upandclear.org/2022/02/15/synchroniser-des-remotes-rclone/"><b>Synchroniser des remotes rClone</b></a><br/>
-  <sub>15 fév 2022</sub>
+  <a href="https://upandclear.org/2015/10/29/enquete-sous-pseudonyme-sur-internet-plus-de-liberte-daction/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Enquête sous pseudonyme sur Internet : plus de liberté d’action." /></a>
+  <a href="https://upandclear.org/2015/10/29/enquete-sous-pseudonyme-sur-internet-plus-de-liberte-daction/"><b>Enquête sous pseudonyme sur Internet : plus de liberté d’action.</b></a><br/>
+  <sub>29 oct 2015</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
