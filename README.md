@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2021/09/03/plex-web-telecharger-un-contenu-sans-en-avoir-le-droit/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Plex Web : télécharger un contenu sans en avoir le droit" /></a>
-  <a href="https://upandclear.org/2021/09/03/plex-web-telecharger-un-contenu-sans-en-avoir-le-droit/"><b>Plex Web : télécharger un contenu sans en avoir le droit</b></a><br/>
-  <sub>3 sep 2021</sub>
+  <a href="https://upandclear.org/2022/02/15/synchroniser-des-remotes-rclone/"><img align="left" src="https://upandclear.org/wp-content/uploads/2022/02/synchroniser-des-remotes-rclone-300x300.jpg" width="120" alt="Synchroniser des remotes rClone" /></a>
+  <a href="https://upandclear.org/2022/02/15/synchroniser-des-remotes-rclone/"><b>Synchroniser des remotes rClone</b></a><br/>
+  <sub>15 fév 2022</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,11 +57,11 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
-- ★ 8 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
-  Gluetun Companion est une interface web Python pour gérer automatiquement les serveurs VPN WireGuard et OpenVPN dans Gluetun. Il permet de tester, sélectionner et basculer entre les serveurs en fonction de divers critères (débit, latence, usage) et offre des fonctionnalités avancées comme la gestion des ports et les notifications.
-
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
+
+- ★ 8 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
+  Gluetun Companion est une interface web Python pour gérer automatiquement les serveurs VPN WireGuard et OpenVPN dans Gluetun. Il permet de tester, sélectionner et basculer entre les serveurs en fonction de divers critères (débit, latence, usage) et offre des fonctionnalités avancées comme la gestion des ports et les notifications.
 
 - ★ 31 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
   Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
