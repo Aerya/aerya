@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2026/03/29/mobsf-framework-package-en-docker-pour-analyser-des-applications-mobiles/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/03/mobsf15-300x300.jpg" width="120" alt="MobSF : framework packagé en Docker pour analyser des applications mobiles" /></a>
-  <a href="https://upandclear.org/2026/03/29/mobsf-framework-package-en-docker-pour-analyser-des-applications-mobiles/"><b>MobSF : framework packagé en Docker pour analyser des applications mobiles</b></a><br/>
-  <sub>29 mar 2026</sub>
+  <a href="https://upandclear.org/2017/02/14/android-lucky-patcher-retirez-les-publicites-et-plus-si-affinites/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2017/02/Screenshot_20170214-082429-576x1024-300x300.png" width="120" alt="Android Lucky Patcher : retirez les publicités (et plus si affinités)" /></a>
+  <a href="https://upandclear.org/2017/02/14/android-lucky-patcher-retirez-les-publicites-et-plus-si-affinites/"><b>Android Lucky Patcher : retirez les publicités (et plus si affinités)</b></a><br/>
+  <sub>14 fév 2017</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -104,7 +104,7 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - ★ 2 · [**Stremio-Seerr-Catalog**](https://github.com/Aerya/Stremio-Seerr-Catalog)
   Addon Stremio qui expose les requêtes Over, Jelly ou Seerr sous forme de catalogues. Il fait le lien entre l'écosystème Seerr/Radarr/Sonarr et Stremio.
 
-- ★ 1 · [**UseFlow-FR**](https://github.com/Aerya/UseFlow-FR)
+- [**UseFlow-FR**](https://github.com/Aerya/UseFlow-FR)
   Ancien addon Stremio pour catalogues francophones. Le projet a évolué vers stremio-rss-catalog, qui le remplace pour les usages actuels.
 
 - [**correzeboostemploi**](https://github.com/Aerya/correzeboostemploi)
