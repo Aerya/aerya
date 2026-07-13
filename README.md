@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2015/10/31/huawei-mate7-8-cores-2go-ram-dual-sim-sdcard-nfc-4g-6-pouces/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2015/10/Wiko-HighWay-Star-4G-300x300.jpg" width="120" alt="Huawei Mate7 : 8 cores, 2Go RAM, dual-SIM, SDcard, NFC, 4G, 6 pouces" /></a>
-  <a href="https://upandclear.org/2015/10/31/huawei-mate7-8-cores-2go-ram-dual-sim-sdcard-nfc-4g-6-pouces/"><b>Huawei Mate7 : 8 cores, 2Go RAM, dual-SIM, SDcard, NFC, 4G, 6 pouces</b></a><br/>
-  <sub>31 oct 2015</sub>
+  <a href="https://upandclear.org/2022/02/13/joplin-le-meilleur-gestionnaire-de-notes/"><img align="left" src="https://upandclear.org/wp-content/uploads/2022/02/joplin-le-meilleur-gestionnaire-de-notes-300x300.jpg" width="120" alt="Joplin : le meilleur gestionnaire de notes/to-do ?" /></a>
+  <a href="https://upandclear.org/2022/02/13/joplin-le-meilleur-gestionnaire-de-notes/"><b>Joplin : le meilleur gestionnaire de notes/to-do ?</b></a><br/>
+  <sub>13 fév 2022</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
