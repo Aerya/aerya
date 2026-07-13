@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2017/02/14/android-lucky-patcher-retirez-les-publicites-et-plus-si-affinites/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2017/02/Screenshot_20170214-082429-576x1024-300x300.png" width="120" alt="Android Lucky Patcher : retirez les publicités (et plus si affinités)" /></a>
-  <a href="https://upandclear.org/2017/02/14/android-lucky-patcher-retirez-les-publicites-et-plus-si-affinites/"><b>Android Lucky Patcher : retirez les publicités (et plus si affinités)</b></a><br/>
-  <sub>14 fév 2017</sub>
+  <a href="https://upandclear.org/2015/11/15/gafa-google-apple-facebook-amazon-les-connaissez-vous-vraiment/"><img align="left" src="https://upandclear.org/wp-content/uploads/2015/11/gafa-google-apple-facebook-amazon-les-connaissez-vous-vraiment-300x300.jpeg" width="120" alt="GAFA – Google, Apple, Facebook, Amazon : les connaissez-vous ? Vraiment ?" /></a>
+  <a href="https://upandclear.org/2015/11/15/gafa-google-apple-facebook-amazon-les-connaissez-vous-vraiment/"><b>GAFA – Google, Apple, Facebook, Amazon : les connaissez-vous ? Vraiment ?</b></a><br/>
+  <sub>15 nov 2015</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -63,11 +63,11 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - ★ 8 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
   Gluetun Companion est une interface web Python pour gérer automatiquement les serveurs VPN WireGuard et OpenVPN dans Gluetun. Il permet de tester, sélectionner et basculer entre les serveurs en fonction de divers critères (débit, latence, usage) et offre des fonctionnalités avancées comme la gestion des ports et les notifications.
 
-- ★ 31 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
-  Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
-
 - ★ 31 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
+
+- ★ 31 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
+  Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
 
 - ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
   Ce projet Go, DDNS-Updater Enhanced, offre un outil de mise à jour DNS dynamique universel avec une interface web interactive pour gérer les entrées. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion complète des configurations via l'interface ou une API REST, sans nécessiter de redémarrage.
