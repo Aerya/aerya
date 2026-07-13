@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2015/11/15/gafa-google-apple-facebook-amazon-les-connaissez-vous-vraiment/"><img align="left" src="https://upandclear.org/wp-content/uploads/2015/11/gafa-google-apple-facebook-amazon-les-connaissez-vous-vraiment-300x300.jpeg" width="120" alt="GAFA – Google, Apple, Facebook, Amazon : les connaissez-vous ? Vraiment ?" /></a>
-  <a href="https://upandclear.org/2015/11/15/gafa-google-apple-facebook-amazon-les-connaissez-vous-vraiment/"><b>GAFA – Google, Apple, Facebook, Amazon : les connaissez-vous ? Vraiment ?</b></a><br/>
-  <sub>15 nov 2015</sub>
+  <a href="https://upandclear.org/2021/12/27/proxmox-optimisation/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/2021/12/proxmox-2-300x300.png" width="120" alt="Proxmox : optimisation (script xshok)" /></a>
+  <a href="https://upandclear.org/2021/12/27/proxmox-optimisation/"><b>Proxmox : optimisation (script xshok)</b></a><br/>
+  <sub>27 déc 2021</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
