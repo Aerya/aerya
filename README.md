@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2021/12/27/proxmox-optimisation/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/2021/12/proxmox-2-300x300.png" width="120" alt="Proxmox : optimisation (script xshok)" /></a>
-  <a href="https://upandclear.org/2021/12/27/proxmox-optimisation/"><b>Proxmox : optimisation (script xshok)</b></a><br/>
-  <sub>27 déc 2021</sub>
+  <a href="https://upandclear.org/2015/10/31/huawei-mate7-8-cores-2go-ram-dual-sim-sdcard-nfc-4g-6-pouces/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2015/10/Wiko-HighWay-Star-4G-300x300.jpg" width="120" alt="Huawei Mate7 : 8 cores, 2Go RAM, dual-SIM, SDcard, NFC, 4G, 6 pouces" /></a>
+  <a href="https://upandclear.org/2015/10/31/huawei-mate7-8-cores-2go-ram-dual-sim-sdcard-nfc-4g-6-pouces/"><b>Huawei Mate7 : 8 cores, 2Go RAM, dual-SIM, SDcard, NFC, 4G, 6 pouces</b></a><br/>
+  <sub>31 oct 2015</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,14 +57,14 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
-- [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
-  Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
-
 - ★ 8 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
-  Gluetun Companion est une interface web Python pour gérer automatiquement les serveurs VPN WireGuard et OpenVPN dans Gluetun. Il permet de tester, sélectionner et basculer entre les serveurs en fonction de divers critères (débit, latence, usage) et offre des fonctionnalités avancées comme la gestion des ports et les notifications.
+  Gluetun Companion est une interface web Python pour piloter automatiquement des serveurs VPN WireGuard et OpenVPN dans Gluetun. Il benchmarke les serveurs, sélectionne le meilleur selon l'usage, gère les profils VPN, et automatise la maintenance des conteneurs Docker.
 
 - ★ 31 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
+
+- [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
+  Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
 - ★ 31 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
   Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
