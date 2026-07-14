@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2018/02/26/vpn-wireguard-sur-samsung-galaxy-s8-android-8-oreo-roote/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="VPN Wireguard sur Samsung Galaxy S8 Android 8 Oreo (rooté)" /></a>
-  <a href="https://upandclear.org/2018/02/26/vpn-wireguard-sur-samsung-galaxy-s8-android-8-oreo-roote/"><b>VPN Wireguard sur Samsung Galaxy S8 Android 8 Oreo (rooté)</b></a><br/>
-  <sub>26 fév 2018</sub>
+  <a href="https://upandclear.org/2015/08/26/facter-caracteristiques-de-son-serveur/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Facter : caractéristiques de son serveur en une commande" /></a>
+  <a href="https://upandclear.org/2015/08/26/facter-caracteristiques-de-son-serveur/"><b>Facter : caractéristiques de son serveur en une commande</b></a><br/>
+  <sub>26 août 2015</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
