@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2026/05/27/claude-code-ui-webui-pour-claude-code-et-codex-notamment-puis-jen-ai-fait-un-docker-avec-traduction-fr/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/05/a-computer-with-a-keyboard-and-mouse-stockpack-unsplash-300x300.jpg" width="120" alt="Claude Code UI : WebUI pour Claude Code et Codex notamment. Puis j’en ai fait un Docker avec traduction FR" /></a>
-  <a href="https://upandclear.org/2026/05/27/claude-code-ui-webui-pour-claude-code-et-codex-notamment-puis-jen-ai-fait-un-docker-avec-traduction-fr/"><b>Claude Code UI : WebUI pour Claude Code et Codex notamment. Puis j’en ai fait un Docker avec traduction FR</b></a><br/>
-  <sub>27 mai 2026</sub>
+  <a href="https://upandclear.org/2015/09/17/rutorrent-autotools-rtorrent-rc-comment-trier-automatiquement/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2015/09/Sélection_1004-300x300.png" width="120" alt="ruTorrent Autotools &amp; rtorrent.rc : trie automatique des torrents" /></a>
+  <a href="https://upandclear.org/2015/09/17/rutorrent-autotools-rtorrent-rc-comment-trier-automatiquement/"><b>ruTorrent Autotools &amp; rtorrent.rc : trie automatique des torrents</b></a><br/>
+  <sub>17 sep 2015</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
