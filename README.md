@@ -14,6 +14,13 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Les derniers
 
 <p>
+  <a href="https://upandclear.org/2026/07/14/streamnzb-la-simplification-usenet-stremio-aiostreams/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/07/screenshot-17-12-57-300x300.png" width="72" alt="StreamNZB : la simplification Usenet + Stremio (+ AIOStreams)" /></a>
+  <a href="https://upandclear.org/2026/07/14/streamnzb-la-simplification-usenet-stremio-aiostreams/"><b>StreamNZB : la simplification Usenet + Stremio (+ AIOStreams)</b></a><br/>
+  <sub>14 juil 2026</sub>
+</p>
+<br clear="left"/>
+
+<p>
   <a href="https://upandclear.org/2026/07/09/remux-le-serveur-jellyfin-remanie-pour-stremio-iptv-webdav-musique-ytdl-et-fichiers-locaux/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/07/39-300x300.png" width="72" alt="Remux : le serveur Jellyfin remanié pour Stremio, IPTV, WebDav, musique, ytdl et fichiers locaux" /></a>
   <a href="https://upandclear.org/2026/07/09/remux-le-serveur-jellyfin-remanie-pour-stremio-iptv-webdav-musique-ytdl-et-fichiers-locaux/"><b>Remux : le serveur Jellyfin remanié pour Stremio, IPTV, WebDav, musique, ytdl et fichiers locaux</b></a><br/>
   <sub>9 juil 2026</sub>
@@ -34,20 +41,13 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 </p>
 <br clear="left"/>
 
-<p>
-  <a href="https://upandclear.org/2026/06/27/ddns-updater-enhanced-gerer-des-ddns-simplement-via-webui/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/old-mailboxes-on-a-wooden-construction-stockpack-pexels-300x300.jpg" width="72" alt="DDNS-Updater Enhanced : gérer des DDNS simplement via WebUI" /></a>
-  <a href="https://upandclear.org/2026/06/27/ddns-updater-enhanced-gerer-des-ddns-simplement-via-webui/"><b>DDNS-Updater Enhanced : gérer des DDNS simplement via WebUI</b></a><br/>
-  <sub>27 jun 2026</sub>
-</p>
-<br clear="left"/>
-
 
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2015/09/17/rutorrent-autotools-rtorrent-rc-comment-trier-automatiquement/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2015/09/Sélection_1004-300x300.png" width="120" alt="ruTorrent Autotools &amp; rtorrent.rc : trie automatique des torrents" /></a>
-  <a href="https://upandclear.org/2015/09/17/rutorrent-autotools-rtorrent-rc-comment-trier-automatiquement/"><b>ruTorrent Autotools &amp; rtorrent.rc : trie automatique des torrents</b></a><br/>
-  <sub>17 sep 2015</sub>
+  <a href="https://upandclear.org/2018/02/26/vpn-wireguard-sur-samsung-galaxy-s8-android-8-oreo-roote/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="VPN Wireguard sur Samsung Galaxy S8 Android 8 Oreo (rooté)" /></a>
+  <a href="https://upandclear.org/2018/02/26/vpn-wireguard-sur-samsung-galaxy-s8-android-8-oreo-roote/"><b>VPN Wireguard sur Samsung Galaxy S8 Android 8 Oreo (rooté)</b></a><br/>
+  <sub>26 fév 2018</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
