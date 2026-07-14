@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2022/02/13/joplin-le-meilleur-gestionnaire-de-notes/"><img align="left" src="https://upandclear.org/wp-content/uploads/2022/02/joplin-le-meilleur-gestionnaire-de-notes-300x300.jpg" width="120" alt="Joplin : le meilleur gestionnaire de notes/to-do ?" /></a>
-  <a href="https://upandclear.org/2022/02/13/joplin-le-meilleur-gestionnaire-de-notes/"><b>Joplin : le meilleur gestionnaire de notes/to-do ?</b></a><br/>
-  <sub>13 fév 2022</sub>
+  <a href="https://upandclear.org/2026/05/27/claude-code-ui-webui-pour-claude-code-et-codex-notamment-puis-jen-ai-fait-un-docker-avec-traduction-fr/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/05/a-computer-with-a-keyboard-and-mouse-stockpack-unsplash-300x300.jpg" width="120" alt="Claude Code UI : WebUI pour Claude Code et Codex notamment. Puis j’en ai fait un Docker avec traduction FR" /></a>
+  <a href="https://upandclear.org/2026/05/27/claude-code-ui-webui-pour-claude-code-et-codex-notamment-puis-jen-ai-fait-un-docker-avec-traduction-fr/"><b>Claude Code UI : WebUI pour Claude Code et Codex notamment. Puis j’en ai fait un Docker avec traduction FR</b></a><br/>
+  <sub>27 mai 2026</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -58,13 +58,13 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 ### Dernières mises à jour
 
 - ★ 8 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
-  Gluetun Companion est une interface web Python pour piloter automatiquement des serveurs VPN WireGuard et OpenVPN dans Gluetun. Il benchmarke les serveurs, sélectionne le meilleur selon l'usage, gère les profils VPN, et automatise la maintenance des conteneurs Docker.
-
-- ★ 31 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
-  Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
+  Gluetun Companion est une interface web Python pour piloter automatiquement des serveurs VPN WireGuard et OpenVPN dans Gluetun, offrant des benchmarks, une sélection de serveurs optimisée et la gestion des containers Docker.
 
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
+
+- ★ 31 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+  Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
 - ★ 31 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
   Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
