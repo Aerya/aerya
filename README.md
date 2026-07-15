@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2015/08/26/facter-caracteristiques-de-son-serveur/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Facter : caractéristiques de son serveur en une commande" /></a>
-  <a href="https://upandclear.org/2015/08/26/facter-caracteristiques-de-son-serveur/"><b>Facter : caractéristiques de son serveur en une commande</b></a><br/>
-  <sub>26 août 2015</sub>
+  <a href="https://upandclear.org/2021/12/31/mise-a-jour-de-requestrr-bot-discord-de-recherche-de-films-series/"><img align="left" src="https://upandclear.org/wp-content/uploads/2021/12/mise-a-jour-de-requestrr-bot-discord-de-recherche-de-films-series-300x300.jpg" width="120" alt="Mise à jour de Requestrr, bot Discord de recherche de films/séries" /></a>
+  <a href="https://upandclear.org/2021/12/31/mise-a-jour-de-requestrr-bot-discord-de-recherche-de-films-series/"><b>Mise à jour de Requestrr, bot Discord de recherche de films/séries</b></a><br/>
+  <sub>31 déc 2021</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,14 +57,14 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
-- ★ 8 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
-  Gluetun Companion est une interface web Python pour piloter automatiquement des serveurs VPN WireGuard et OpenVPN dans Gluetun, offrant des benchmarks, une sélection de serveurs optimisée et la gestion des containers Docker.
-
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
 - ★ 31 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
+
+- ★ 8 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
+  Gluetun Companion est une interface web en Python pour gérer le container Gluetun, permettant de piloter automatiquement les serveurs VPN WireGuard et OpenVPN. Il offre des fonctionnalités comme le benchmark des serveurs, la sélection automatique, la gestion des containers dépendants, le port forwarding et des métriques.
 
 - ★ 31 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
   Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
