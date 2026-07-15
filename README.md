@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2015/10/09/starcraft-2-maj-3-0-beta-legacy-of-the-void-et-esport-francais/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2015/10/starcraft2-300x300.jpg" width="120" alt="StarCraft 2 : MàJ 3.0, BETA Legacy Of The Void et eSport français" /></a>
-  <a href="https://upandclear.org/2015/10/09/starcraft-2-maj-3-0-beta-legacy-of-the-void-et-esport-francais/"><b>StarCraft 2 : MàJ 3.0, BETA Legacy Of The Void et eSport français</b></a><br/>
-  <sub>9 oct 2015</sub>
+  <a href="https://upandclear.org/2021/09/03/plex-web-telecharger-un-contenu-sans-en-avoir-le-droit/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Plex Web : télécharger un contenu sans en avoir le droit" /></a>
+  <a href="https://upandclear.org/2021/09/03/plex-web-telecharger-un-contenu-sans-en-avoir-le-droit/"><b>Plex Web : télécharger un contenu sans en avoir le droit</b></a><br/>
+  <sub>3 sep 2021</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
