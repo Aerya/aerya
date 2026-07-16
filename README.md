@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2021/09/03/plex-web-telecharger-un-contenu-sans-en-avoir-le-droit/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Plex Web : télécharger un contenu sans en avoir le droit" /></a>
-  <a href="https://upandclear.org/2021/09/03/plex-web-telecharger-un-contenu-sans-en-avoir-le-droit/"><b>Plex Web : télécharger un contenu sans en avoir le droit</b></a><br/>
-  <sub>3 sep 2021</sub>
+  <a href="https://upandclear.org/2016/10/01/installer-et-configurer-ubooquity-gestionnaire-debooks/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2016/10/Ubooquity-Mozilla-Firefox_006-300x300.png" width="120" alt="Installer et configurer Ubooquity, gestionnaire d’eBooks" /></a>
+  <a href="https://upandclear.org/2016/10/01/installer-et-configurer-ubooquity-gestionnaire-debooks/"><b>Installer et configurer Ubooquity, gestionnaire d’eBooks</b></a><br/>
+  <sub>1 oct 2016</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,17 +57,17 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
-- ★ 8 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
-  Gluetun Companion est une interface web en Python pour gérer le container Gluetun, permettant de piloter automatiquement les serveurs VPN WireGuard et OpenVPN. Il offre des fonctionnalités telles que le benchmark des serveurs, la sélection automatique, la gestion des containers dépendants, le port forwarding et la synchronisation avec des clients torrent.
-
-- ★ 31 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
-  Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
-
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
 - ★ 31 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
   Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
+
+- ★ 8 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
+  Gluetun Companion est une interface web en Python pour gérer le container Gluetun, permettant de piloter automatiquement les serveurs VPN WireGuard et OpenVPN. Il offre des fonctionnalités telles que le benchmark des serveurs, la sélection automatique, la gestion des containers dépendants, le port forwarding et la synchronisation avec des clients torrent.
+
+- ★ 31 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+  Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
 - ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
   Ce projet Go, DDNS-Updater Enhanced, offre un outil de mise à jour DNS dynamique universel avec une interface web interactive pour gérer les entrées. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion complète des configurations via l'interface ou une API REST, sans nécessiter de redémarrage.
