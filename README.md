@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2016/10/01/installer-et-configurer-ubooquity-gestionnaire-debooks/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2016/10/Ubooquity-Mozilla-Firefox_006-300x300.png" width="120" alt="Installer et configurer Ubooquity, gestionnaire d’eBooks" /></a>
-  <a href="https://upandclear.org/2016/10/01/installer-et-configurer-ubooquity-gestionnaire-debooks/"><b>Installer et configurer Ubooquity, gestionnaire d’eBooks</b></a><br/>
-  <sub>1 oct 2016</sub>
+  <a href="https://upandclear.org/2017/07/21/briar-messagerie-android-decentralisee-chiffree-e2e-et-anonyme-p2p-tor-voire-plus-si-affinites/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Briar : messagerie Android décentralisée, chiffrée (E2E) et anonyme (P2P-Tor), voire plus si affinités" /></a>
+  <a href="https://upandclear.org/2017/07/21/briar-messagerie-android-decentralisee-chiffree-e2e-et-anonyme-p2p-tor-voire-plus-si-affinites/"><b>Briar : messagerie Android décentralisée, chiffrée (E2E) et anonyme (P2P-Tor), voire plus si affinités</b></a><br/>
+  <sub>21 juil 2017</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
