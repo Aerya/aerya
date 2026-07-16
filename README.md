@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2020/06/22/passage-du-blog-sous-docker-cloudflare/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Passage du blog sous Docker +  CloudFlare" /></a>
-  <a href="https://upandclear.org/2020/06/22/passage-du-blog-sous-docker-cloudflare/"><b>Passage du blog sous Docker +  CloudFlare</b></a><br/>
-  <sub>22 jun 2020</sub>
+  <a href="https://upandclear.org/2025/05/05/stremio-client-ios/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/05/stremio-streaming-ios-300x300.jpg" width="120" alt="Stremio : client iOS" /></a>
+  <a href="https://upandclear.org/2025/05/05/stremio-client-ios/"><b>Stremio : client iOS</b></a><br/>
+  <sub>5 mai 2025</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
