@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2017/07/21/briar-messagerie-android-decentralisee-chiffree-e2e-et-anonyme-p2p-tor-voire-plus-si-affinites/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Briar : messagerie Android décentralisée, chiffrée (E2E) et anonyme (P2P-Tor), voire plus si affinités" /></a>
-  <a href="https://upandclear.org/2017/07/21/briar-messagerie-android-decentralisee-chiffree-e2e-et-anonyme-p2p-tor-voire-plus-si-affinites/"><b>Briar : messagerie Android décentralisée, chiffrée (E2E) et anonyme (P2P-Tor), voire plus si affinités</b></a><br/>
-  <sub>21 juil 2017</sub>
+  <a href="https://upandclear.org/2020/06/22/passage-du-blog-sous-docker-cloudflare/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Passage du blog sous Docker +  CloudFlare" /></a>
+  <a href="https://upandclear.org/2020/06/22/passage-du-blog-sous-docker-cloudflare/"><b>Passage du blog sous Docker +  CloudFlare</b></a><br/>
+  <sub>22 jun 2020</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -56,6 +56,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 
 <!-- REPOS:START -->
 ### Dernières mises à jour
+
+- ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
+  Ce projet Go, DDNS-Updater Enhanced, offre un outil de mise à jour DNS dynamique universel avec une interface web interactive pour gérer les entrées. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion complète des configurations via l'interface ou une API REST, sans nécessiter de redémarrage.
 
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
@@ -68,9 +71,6 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 
 - ★ 31 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
-
-- ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
-  Ce projet Go, DDNS-Updater Enhanced, offre un outil de mise à jour DNS dynamique universel avec une interface web interactive pour gérer les entrées. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion complète des configurations via l'interface ou une API REST, sans nécessiter de redémarrage.
 
 - [**Stremio-French-Stream-Docker**](https://github.com/Aerya/Stremio-French-Stream-Docker)
   Packaging Docker autour de Stremio French Stream pour simplifier son déploiement. Le dépôt sert à lancer le service dans un environnement conteneurisé.
