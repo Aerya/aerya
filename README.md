@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2025/05/05/stremio-client-ios/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/05/stremio-streaming-ios-300x300.jpg" width="120" alt="Stremio : client iOS" /></a>
-  <a href="https://upandclear.org/2025/05/05/stremio-client-ios/"><b>Stremio : client iOS</b></a><br/>
-  <sub>5 mai 2025</sub>
+  <a href="https://upandclear.org/2016/11/25/proxmox-4-backup-en-nfs-sur-lespace-de-sauvegarde-soyoustart-ovh/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2016/11/Cap02-4-300x267.png" width="120" alt="Proxmox 4 : backup en NFS sur l’espace de sauvegarde SoYouStart (OVH)" /></a>
+  <a href="https://upandclear.org/2016/11/25/proxmox-4-backup-en-nfs-sur-lespace-de-sauvegarde-soyoustart-ovh/"><b>Proxmox 4 : backup en NFS sur l’espace de sauvegarde SoYouStart (OVH)</b></a><br/>
+  <sub>25 nov 2016</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,11 +57,11 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
-- ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
-  Ce projet Go, DDNS-Updater Enhanced, offre un outil de mise à jour DNS dynamique universel avec une interface web interactive pour gérer les entrées. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion complète des configurations via l'interface ou une API REST, sans nécessiter de redémarrage.
-
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
+
+- ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
+  Ce projet Go, DDNS-Updater Enhanced, offre un outil de mise à jour DNS dynamique universel avec une interface web interactive pour gérer les entrées. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion complète des configurations via l'interface ou une API REST, sans nécessiter de redémarrage.
 
 - ★ 31 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
   Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
