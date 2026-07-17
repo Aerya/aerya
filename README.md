@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  
-  <a href="https://upandclear.org/2025/10/06/banni-de-reddit/"><b>Banni de Reddit ?!</b></a><br/>
-  <sub>6 oct 2025</sub>
+  <a href="https://upandclear.org/2016/09/02/securiser-leffacement-en-cli-rm-alias/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Sécuriser l’effacement en CLI (rm, alias)" /></a>
+  <a href="https://upandclear.org/2016/09/02/securiser-leffacement-en-cli-rm-alias/"><b>Sécuriser l’effacement en CLI (rm, alias)</b></a><br/>
+  <sub>2 sep 2016</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
