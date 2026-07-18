@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2018/08/13/plex-agent-pour-les-series-animes/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Plex : agent pour les séries « Animes »" /></a>
-  <a href="https://upandclear.org/2018/08/13/plex-agent-pour-les-series-animes/"><b>Plex : agent pour les séries « Animes »</b></a><br/>
-  <sub>13 août 2018</sub>
+  <a href="https://upandclear.org/2015/10/11/synology-download-station-version-de-client-et-plugins-de-recherche/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2015/10/Sélection_1215-300x185.png" width="120" alt="Synology Download Station : version de client et plugins de recherche" /></a>
+  <a href="https://upandclear.org/2015/10/11/synology-download-station-version-de-client-et-plugins-de-recherche/"><b>Synology Download Station : version de client et plugins de recherche</b></a><br/>
+  <sub>11 oct 2015</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
