@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2026/04/04/stremio-tres-grosse-refonte-de-streamfusion/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/04/sf7-300x300.jpg" width="120" alt="Stremio : très grosse refonte de StreamFusion" /></a>
-  <a href="https://upandclear.org/2026/04/04/stremio-tres-grosse-refonte-de-streamfusion/"><b>Stremio : très grosse refonte de StreamFusion</b></a><br/>
-  <sub>4 avr 2026</sub>
+  <a href="https://upandclear.org/2018/08/13/plex-agent-pour-les-series-animes/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Plex : agent pour les séries « Animes »" /></a>
+  <a href="https://upandclear.org/2018/08/13/plex-agent-pour-les-series-animes/"><b>Plex : agent pour les séries « Animes »</b></a><br/>
+  <sub>13 août 2018</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
