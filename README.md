@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2016/08/26/gestionnaire-de-contenu-et-streaming-emby/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2016/08/emby-300x300.png" width="120" alt="Gestionnaire de contenu et streaming : Emby" /></a>
-  <a href="https://upandclear.org/2016/08/26/gestionnaire-de-contenu-et-streaming-emby/"><b>Gestionnaire de contenu et streaming : Emby</b></a><br/>
-  <sub>26 août 2016</sub>
+  <a href="https://upandclear.org/2026/01/26/decypharr-alldebrid-no-debrid-clients-available-or-no-slots-found-script-de-nettoyage-de-magnets-par-bouby/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/01/adbogue-300x300.png" width="120" alt="Decypharr &amp; AllDebrid : No debrid clients available or no slots found + script de nettoyage de magnets par Bouby" /></a>
+  <a href="https://upandclear.org/2026/01/26/decypharr-alldebrid-no-debrid-clients-available-or-no-slots-found-script-de-nettoyage-de-magnets-par-bouby/"><b>Decypharr &amp; AllDebrid : No debrid clients available or no slots found + script de nettoyage de magnets par Bouby</b></a><br/>
+  <sub>26 jan 2026</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
