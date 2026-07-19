@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2026/01/26/decypharr-alldebrid-no-debrid-clients-available-or-no-slots-found-script-de-nettoyage-de-magnets-par-bouby/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/01/adbogue-300x300.png" width="120" alt="Decypharr &amp; AllDebrid : No debrid clients available or no slots found + script de nettoyage de magnets par Bouby" /></a>
-  <a href="https://upandclear.org/2026/01/26/decypharr-alldebrid-no-debrid-clients-available-or-no-slots-found-script-de-nettoyage-de-magnets-par-bouby/"><b>Decypharr &amp; AllDebrid : No debrid clients available or no slots found + script de nettoyage de magnets par Bouby</b></a><br/>
-  <sub>26 jan 2026</sub>
+  <a href="https://upandclear.org/2016/07/22/dplatform-linstallation-automatisee-pour-tous/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2016/07/PAC-v4.5.5.7_004-300x300.png" width="120" alt="DPlatform : l’installation automatisée pour tous" /></a>
+  <a href="https://upandclear.org/2016/07/22/dplatform-linstallation-automatisee-pour-tous/"><b>DPlatform : l’installation automatisée pour tous</b></a><br/>
+  <sub>22 juil 2016</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -69,7 +69,7 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - ★ 31 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
-- ★ 31 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
+- ★ 32 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
   Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
 
 - ★ 8 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
