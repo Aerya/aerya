@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2016/11/18/proxmox-reduire-la-taille-dun-ct-lxc/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="ProxMox : réduire la taille d’un container" /></a>
-  <a href="https://upandclear.org/2016/11/18/proxmox-reduire-la-taille-dun-ct-lxc/"><b>ProxMox : réduire la taille d’un container</b></a><br/>
-  <sub>18 nov 2016</sub>
+  <a href="https://upandclear.org/2016/08/26/gestionnaire-de-contenu-et-streaming-emby/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2016/08/emby-300x300.png" width="120" alt="Gestionnaire de contenu et streaming : Emby" /></a>
+  <a href="https://upandclear.org/2016/08/26/gestionnaire-de-contenu-et-streaming-emby/"><b>Gestionnaire de contenu et streaming : Emby</b></a><br/>
+  <sub>26 août 2016</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
