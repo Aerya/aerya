@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2026/04/22/reparation-switch-double-clic-logitech-g903-lightspeed/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/04/brown-rodent-on-brown-wooden-surface-stockpack-unsplash-300x300.jpg" width="120" alt="Réparation switch double-clic Logitech G903 Lightspeed" /></a>
-  <a href="https://upandclear.org/2026/04/22/reparation-switch-double-clic-logitech-g903-lightspeed/"><b>Réparation switch double-clic Logitech G903 Lightspeed</b></a><br/>
-  <sub>22 avr 2026</sub>
+  <a href="https://upandclear.org/2015/09/04/piratage-orangewebsite/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Piratage OrangeWebsite" /></a>
+  <a href="https://upandclear.org/2015/09/04/piratage-orangewebsite/"><b>Piratage OrangeWebsite</b></a><br/>
+  <sub>4 sep 2015</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
