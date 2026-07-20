@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2025/09/11/un-nouveau-souffle-pour-vos-jaquettes-aura-et-mediux-au-service-de-plex-emby-et-jellyfin/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/09/aura10-300x300.jpg" width="120" alt="Un nouveau souffle pour vos jaquettes : Aura et MediUX au service de Plex, Emby et Jellyfin" /></a>
-  <a href="https://upandclear.org/2025/09/11/un-nouveau-souffle-pour-vos-jaquettes-aura-et-mediux-au-service-de-plex-emby-et-jellyfin/"><b>Un nouveau souffle pour vos jaquettes : Aura et MediUX au service de Plex, Emby et Jellyfin</b></a><br/>
-  <sub>11 sep 2025</sub>
+  <a href="https://upandclear.org/2026/04/22/reparation-switch-double-clic-logitech-g903-lightspeed/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/04/brown-rodent-on-brown-wooden-surface-stockpack-unsplash-300x300.jpg" width="120" alt="Réparation switch double-clic Logitech G903 Lightspeed" /></a>
+  <a href="https://upandclear.org/2026/04/22/reparation-switch-double-clic-logitech-g903-lightspeed/"><b>Réparation switch double-clic Logitech G903 Lightspeed</b></a><br/>
+  <sub>22 avr 2026</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
