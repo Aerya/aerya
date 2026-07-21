@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2015/09/01/etes-vous-traque-par-votre-operateur-mobile/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Êtes vous traqué par votre opérateur mobile ?" /></a>
-  <a href="https://upandclear.org/2015/09/01/etes-vous-traque-par-votre-operateur-mobile/"><b>Êtes vous traqué par votre opérateur mobile ?</b></a><br/>
-  <sub>1 sep 2015</sub>
+  <a href="https://upandclear.org/2026/04/06/indexarr-un-bitmagnet-modernise-et-decouverte-dun-indexeur-usenet/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/04/indexarr1-300x300.jpg" width="120" alt="Indexarr : un BitMagnet modernisé. Et découverte d’un indexeur Usenet." /></a>
+  <a href="https://upandclear.org/2026/04/06/indexarr-un-bitmagnet-modernise-et-decouverte-dun-indexeur-usenet/"><b>Indexarr : un BitMagnet modernisé. Et découverte d’un indexeur Usenet.</b></a><br/>
+  <sub>6 avr 2026</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
