@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2016/08/26/problemes-daffichage-du-site/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Observatoire Mozilla" /></a>
-  <a href="https://upandclear.org/2016/08/26/problemes-daffichage-du-site/"><b>Observatoire Mozilla</b></a><br/>
-  <sub>26 août 2016</sub>
+  <a href="https://upandclear.org/2017/04/04/atomic-toolkit-script-de-seedbox-a-la-carte-sickrage-couch-watcher-kodi-deluge-plex/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2017/04/002-2-300x300.png" width="120" alt="AtoMiC-ToolKit : script de seedbox à la carte (sickrage, couch, watcher, kodi, deluge, plex…)" /></a>
+  <a href="https://upandclear.org/2017/04/04/atomic-toolkit-script-de-seedbox-a-la-carte-sickrage-couch-watcher-kodi-deluge-plex/"><b>AtoMiC-ToolKit : script de seedbox à la carte (sickrage, couch, watcher, kodi, deluge, plex…)</b></a><br/>
+  <sub>4 avr 2017</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -63,7 +63,7 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
-- ★ 32 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+- ★ 33 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
 - ★ 8 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
