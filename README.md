@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2019/11/06/ubooquity-theme-plex/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2019/11/Ubooquity-Mozilla-Firefox_001-1024x627-300x300.png" width="120" alt="Ubooquity : thème Plex" /></a>
-  <a href="https://upandclear.org/2019/11/06/ubooquity-theme-plex/"><b>Ubooquity : thème Plex</b></a><br/>
-  <sub>6 nov 2019</sub>
+  <a href="https://upandclear.org/2016/08/26/problemes-daffichage-du-site/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Observatoire Mozilla" /></a>
+  <a href="https://upandclear.org/2016/08/26/problemes-daffichage-du-site/"><b>Observatoire Mozilla</b></a><br/>
+  <sub>26 août 2016</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
