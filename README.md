@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2026/04/06/indexarr-un-bitmagnet-modernise-et-decouverte-dun-indexeur-usenet/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/04/indexarr1-300x300.jpg" width="120" alt="Indexarr : un BitMagnet modernisé. Et découverte d’un indexeur Usenet." /></a>
-  <a href="https://upandclear.org/2026/04/06/indexarr-un-bitmagnet-modernise-et-decouverte-dun-indexeur-usenet/"><b>Indexarr : un BitMagnet modernisé. Et découverte d’un indexeur Usenet.</b></a><br/>
-  <sub>6 avr 2026</sub>
+  <a href="https://upandclear.org/2019/11/06/ubooquity-theme-plex/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2019/11/Ubooquity-Mozilla-Firefox_001-1024x627-300x300.png" width="120" alt="Ubooquity : thème Plex" /></a>
+  <a href="https://upandclear.org/2019/11/06/ubooquity-theme-plex/"><b>Ubooquity : thème Plex</b></a><br/>
+  <sub>6 nov 2019</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -63,7 +63,7 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
-- ★ 31 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+- ★ 32 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
 - ★ 8 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
