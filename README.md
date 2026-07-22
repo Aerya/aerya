@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2017/04/04/atomic-toolkit-script-de-seedbox-a-la-carte-sickrage-couch-watcher-kodi-deluge-plex/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2017/04/002-2-300x300.png" width="120" alt="AtoMiC-ToolKit : script de seedbox à la carte (sickrage, couch, watcher, kodi, deluge, plex…)" /></a>
-  <a href="https://upandclear.org/2017/04/04/atomic-toolkit-script-de-seedbox-a-la-carte-sickrage-couch-watcher-kodi-deluge-plex/"><b>AtoMiC-ToolKit : script de seedbox à la carte (sickrage, couch, watcher, kodi, deluge, plex…)</b></a><br/>
-  <sub>4 avr 2017</sub>
+  <a href="https://upandclear.org/2016/02/04/script-python-pour-convertir-un-lien-magnet-en-torrent/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Script Python pour convertir un lien Magnet en .torrent" /></a>
+  <a href="https://upandclear.org/2016/02/04/script-python-pour-convertir-un-lien-magnet-en-torrent/"><b>Script Python pour convertir un lien Magnet en .torrent</b></a><br/>
+  <sub>4 fév 2016</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
