@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2016/02/04/script-python-pour-convertir-un-lien-magnet-en-torrent/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Script Python pour convertir un lien Magnet en .torrent" /></a>
-  <a href="https://upandclear.org/2016/02/04/script-python-pour-convertir-un-lien-magnet-en-torrent/"><b>Script Python pour convertir un lien Magnet en .torrent</b></a><br/>
-  <sub>4 fév 2016</sub>
+  <a href="https://upandclear.org/2024/06/22/sshwifty-webui-ssh-et-telnet/"><img align="left" src="https://upandclear.org/wp-content/uploads/2024/06/6672746e64fbf-300x300.jpg" width="120" alt="SSHwifty : WebUI SSH et TELNET" /></a>
+  <a href="https://upandclear.org/2024/06/22/sshwifty-webui-ssh-et-telnet/"><b>SSHwifty : WebUI SSH et TELNET</b></a><br/>
+  <sub>22 jun 2024</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,14 +57,14 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
+- ★ 33 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+  Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
+
 - ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
   Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées, et une API REST. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion des configurations sans redémarrage.
 
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
-
-- ★ 33 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
-  Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
 - ★ 8 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
   Gluetun Companion est une interface web en Python pour gérer le container Gluetun, permettant de piloter automatiquement les serveurs VPN WireGuard et OpenVPN. Il offre des fonctionnalités telles que le benchmark des serveurs, la sélection automatique, la gestion des containers dépendants, le port forwarding et la synchronisation avec des clients torrent.
