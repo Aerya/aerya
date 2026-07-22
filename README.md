@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2024/06/22/sshwifty-webui-ssh-et-telnet/"><img align="left" src="https://upandclear.org/wp-content/uploads/2024/06/6672746e64fbf-300x300.jpg" width="120" alt="SSHwifty : WebUI SSH et TELNET" /></a>
-  <a href="https://upandclear.org/2024/06/22/sshwifty-webui-ssh-et-telnet/"><b>SSHwifty : WebUI SSH et TELNET</b></a><br/>
-  <sub>22 jun 2024</sub>
+  <a href="https://upandclear.org/2015/12/30/clavier-origami/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2015/12/SilverHT-Origami-300x300.jpg" width="120" alt="Clavier origami SilverHT" /></a>
+  <a href="https://upandclear.org/2015/12/30/clavier-origami/"><b>Clavier origami SilverHT</b></a><br/>
+  <sub>30 déc 2015</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
