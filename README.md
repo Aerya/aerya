@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2025/11/12/nzb-dav-streamer-depuis-usenet/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/11/chatgpt-image-12-nov.-2025-10_20_16-300x300.jpg" width="120" alt="NZB Dav : streamer depuis Usenet" /></a>
-  <a href="https://upandclear.org/2025/11/12/nzb-dav-streamer-depuis-usenet/"><b>NZB Dav : streamer depuis Usenet</b></a><br/>
-  <sub>12 nov 2025</sub>
+  <a href="https://upandclear.org/2026/06/16/gluetun-companion-interface-web-pour-piloter-automatiquement-vos-serveurs-vpn-wireguard-et-openvpn-dans-gluetun/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/16-300x300.jpg" width="120" alt="Gluetun Companion : interface Web pour piloter automatiquement vos serveurs VPN WireGuard et OpenVPN dans Gluetun" /></a>
+  <a href="https://upandclear.org/2026/06/16/gluetun-companion-interface-web-pour-piloter-automatiquement-vos-serveurs-vpn-wireguard-et-openvpn-dans-gluetun/"><b>Gluetun Companion : interface Web pour piloter automatiquement vos serveurs VPN WireGuard et OpenVPN dans Gluetun</b></a><br/>
+  <sub>16 jun 2026</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -69,7 +69,7 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - ★ 8 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
   Gluetun Companion est une interface web en Python pour gérer le container Gluetun, permettant de piloter automatiquement les serveurs VPN WireGuard et OpenVPN. Il offre des fonctionnalités telles que le benchmark des serveurs, la sélection automatique, la gestion des containers dépendants, le port forwarding et la synchronisation avec des clients torrent.
 
-- ★ 32 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
+- ★ 33 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
   Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
 
 - ★ 5 · [**nexotv-enhanced**](https://github.com/Aerya/nexotv-enhanced)
