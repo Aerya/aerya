@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2016/04/02/nzb-megasearch-votre-moteur-de-recherche-usenet-personnalise/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2016/04/Sélection_002-300x300.png" width="120" alt="NZB MegaSearch : votre moteur de recherche Usenet personnalisé" /></a>
-  <a href="https://upandclear.org/2016/04/02/nzb-megasearch-votre-moteur-de-recherche-usenet-personnalise/"><b>NZB MegaSearch : votre moteur de recherche Usenet personnalisé</b></a><br/>
-  <sub>2 avr 2016</sub>
+  <a href="https://upandclear.org/2025/11/12/nzb-dav-streamer-depuis-usenet/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/11/chatgpt-image-12-nov.-2025-10_20_16-300x300.jpg" width="120" alt="NZB Dav : streamer depuis Usenet" /></a>
+  <a href="https://upandclear.org/2025/11/12/nzb-dav-streamer-depuis-usenet/"><b>NZB Dav : streamer depuis Usenet</b></a><br/>
+  <sub>12 nov 2025</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
