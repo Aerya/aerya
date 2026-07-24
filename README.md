@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2025/07/04/streaming-a-la-carte-sans-stockage-rdt-client-rclone-zurg-debrideurs-et-torrenting/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/07/cloud-hosting-video-streaming-300x300.jpg" width="120" alt="Streaming à la carte sans stockage local : RDT-Client, rClone, Zurg, débrideurs et torrenting" /></a>
-  <a href="https://upandclear.org/2025/07/04/streaming-a-la-carte-sans-stockage-rdt-client-rclone-zurg-debrideurs-et-torrenting/"><b>Streaming à la carte sans stockage local : RDT-Client, rClone, Zurg, débrideurs et torrenting</b></a><br/>
-  <sub>4 juil 2025</sub>
+  <a href="https://upandclear.org/2025/08/21/nexterm-terminal-ssh-sftp-sous-docker-webui-avec-cles-et-snippets/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/08/webui-terminal-1755755236-300x300.jpg" width="120" alt="Nexterm : terminal SSH/sFTP sous Docker, WebUI avec clés et snippets" /></a>
+  <a href="https://upandclear.org/2025/08/21/nexterm-terminal-ssh-sftp-sous-docker-webui-avec-cles-et-snippets/"><b>Nexterm : terminal SSH/sFTP sous Docker, WebUI avec clés et snippets</b></a><br/>
+  <sub>21 août 2025</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,11 +57,11 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
-- ★ 34 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
-  Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
-
 - ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
   Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées, et une API REST. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion des configurations sans redémarrage.
+
+- ★ 34 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+  Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
