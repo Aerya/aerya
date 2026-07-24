@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2025/08/21/nexterm-terminal-ssh-sftp-sous-docker-webui-avec-cles-et-snippets/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/08/webui-terminal-1755755236-300x300.jpg" width="120" alt="Nexterm : terminal SSH/sFTP sous Docker, WebUI avec clés et snippets" /></a>
-  <a href="https://upandclear.org/2025/08/21/nexterm-terminal-ssh-sftp-sous-docker-webui-avec-cles-et-snippets/"><b>Nexterm : terminal SSH/sFTP sous Docker, WebUI avec clés et snippets</b></a><br/>
-  <sub>21 août 2025</sub>
+  <a href="https://upandclear.org/2019/10/31/script-de-nettoyage-dune-seedbox-sous-docker/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2019/10/B1E6PfV-300x155.png" width="120" alt="Script de nettoyage d’une seedbox sous Docker" /></a>
+  <a href="https://upandclear.org/2019/10/31/script-de-nettoyage-dune-seedbox-sous-docker/"><b>Script de nettoyage d’une seedbox sous Docker</b></a><br/>
+  <sub>31 oct 2019</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,11 +57,11 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
-- ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
-  Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées, et une API REST. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion des configurations sans redémarrage.
-
 - ★ 34 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
+
+- ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
+  Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées, et une API REST. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion des configurations sans redémarrage.
 
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
