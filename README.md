@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2025/07/04/streaming-a-la-carte-sans-stockage-rdt-client-rclone-zurg-debrideurs-et-torrenting/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/07/cloud-hosting-video-streaming-300x300.jpg" width="120" alt="Streaming à la carte sans stockage local : RDT-Client, rClone, Zurg, débrideurs et torrenting" /></a>
-  <a href="https://upandclear.org/2025/07/04/streaming-a-la-carte-sans-stockage-rdt-client-rclone-zurg-debrideurs-et-torrenting/"><b>Streaming à la carte sans stockage local : RDT-Client, rClone, Zurg, débrideurs et torrenting</b></a><br/>
-  <sub>4 juil 2025</sub>
+  <a href="https://upandclear.org/2025/09/11/un-nouveau-souffle-pour-vos-jaquettes-aura-et-mediux-au-service-de-plex-emby-et-jellyfin/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/09/aura10-300x300.jpg" width="120" alt="Un nouveau souffle pour vos jaquettes : Aura et MediUX au service de Plex, Emby et Jellyfin" /></a>
+  <a href="https://upandclear.org/2025/09/11/un-nouveau-souffle-pour-vos-jaquettes-aura-et-mediux-au-service-de-plex-emby-et-jellyfin/"><b>Un nouveau souffle pour vos jaquettes : Aura et MediUX au service de Plex, Emby et Jellyfin</b></a><br/>
+  <sub>11 sep 2025</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
