@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2019/12/17/mega-nz-recuperer-un-lien-en-cli/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="MEGA.nz : récupérer un lien en CLI" /></a>
-  <a href="https://upandclear.org/2019/12/17/mega-nz-recuperer-un-lien-en-cli/"><b>MEGA.nz : récupérer un lien en CLI</b></a><br/>
-  <sub>17 déc 2019</sub>
+  <a href="https://upandclear.org/2026/01/19/stremio-applications-alternatives-pour-androidtv-avec-nuvio-realstream-et-aurora/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/01/stremio49-300x300.jpg" width="120" alt="Stremio : applications alternatives pour AndroidTV avec Nuvio, RealStream et Aurora" /></a>
+  <a href="https://upandclear.org/2026/01/19/stremio-applications-alternatives-pour-androidtv-avec-nuvio-realstream-et-aurora/"><b>Stremio : applications alternatives pour AndroidTV avec Nuvio, RealStream et Aurora</b></a><br/>
+  <sub>19 jan 2026</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
