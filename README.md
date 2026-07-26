@@ -14,6 +14,13 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Les derniers
 
 <p>
+  <a href="https://upandclear.org/2026/07/26/automatiser-les-dns-locaux-de-nginx-proxy-manager-dans-adguard-home/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/07/1-2-300x300.png" width="72" alt="Automatiser les DNS locaux de Nginx Proxy Manager dans AdGuard Home" /></a>
+  <a href="https://upandclear.org/2026/07/26/automatiser-les-dns-locaux-de-nginx-proxy-manager-dans-adguard-home/"><b>Automatiser les DNS locaux de Nginx Proxy Manager dans AdGuard Home</b></a><br/>
+  <sub>26 juil 2026</sub>
+</p>
+<br clear="left"/>
+
+<p>
   <a href="https://upandclear.org/2026/07/26/ultra-cc-et-bittorrent-empecher-larret-automatique-du-seed-torrents-stalled-bloques/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/07/1-1-300x300.png" width="72" alt="Ultra.cc et BitTorrent : empêcher l’arrêt automatique du seed (torrents stalled/bloqués)" /></a>
   <a href="https://upandclear.org/2026/07/26/ultra-cc-et-bittorrent-empecher-larret-automatique-du-seed-torrents-stalled-bloques/"><b>Ultra.cc et BitTorrent : empêcher l’arrêt automatique du seed (torrents stalled/bloqués)</b></a><br/>
   <sub>26 juil 2026</sub>
@@ -34,20 +41,13 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 </p>
 <br clear="left"/>
 
-<p>
-  <a href="https://upandclear.org/2026/07/07/wastream-sources-ddl-pour-stremio/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/07/wastream3-300x300.png" width="72" alt="WAStream : sources DDL pour Stremio" /></a>
-  <a href="https://upandclear.org/2026/07/07/wastream-sources-ddl-pour-stremio/"><b>WAStream : sources DDL pour Stremio</b></a><br/>
-  <sub>7 juil 2026</sub>
-</p>
-<br clear="left"/>
-
 
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2017/05/23/filemanager-polo-beta-publique/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2017/05/Polo-File-Manager-v17.5.1-BETA-6_001-300x300.png" width="120" alt="FileManager Polo : BETA publique :)" /></a>
-  <a href="https://upandclear.org/2017/05/23/filemanager-polo-beta-publique/"><b>FileManager Polo : BETA publique :)</b></a><br/>
-  <sub>23 mai 2017</sub>
+  <a href="https://upandclear.org/2025/08/27/listsync-un-bel-outil-avec-webui-pour-gerer-et-connecter-ses-listes-avec-overseerr-jellyseerr/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/08/68747470733a2f2f73686172652e776f61686c61622e636f6d2f2d5a6e7a34766a73767957.gif" width="120" alt="ListSync : un bel outil avec WebUI pour gérer et connecter ses listes avec Overseerr/Jellyseerr" /></a>
+  <a href="https://upandclear.org/2025/08/27/listsync-un-bel-outil-avec-webui-pour-gerer-et-connecter-ses-listes-avec-overseerr-jellyseerr/"><b>ListSync : un bel outil avec WebUI pour gérer et connecter ses listes avec Overseerr/Jellyseerr</b></a><br/>
+  <sub>27 août 2025</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,19 +57,22 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
-- ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
-  Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées, et une API REST. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion des configurations sans redémarrage.
+- ★ 34 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+  Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
+
+- [**monitorss-delivery-watchdog**](https://github.com/Aerya/monitorss-delivery-watchdog)
+  Ce service Python, MonitoRSS Delivery Watchdog, reprend les livraisons Discord bloquées de MonitoRSS en réessayant les envois échoués. Il gère les articles indisponibles ou en attente prolongée pour assurer la livraison.
 
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
-- ★ 34 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
-  Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
+- ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
+  Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées, et une API REST. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion des configurations sans redémarrage.
 
 - ★ 8 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
   Gluetun Companion est une interface web en Python pour gérer le container Gluetun, permettant de piloter automatiquement les serveurs VPN WireGuard et OpenVPN. Il offre des fonctionnalités telles que le benchmark des serveurs, la sélection automatique, la gestion des containers dépendants, le port forwarding et la synchronisation avec des clients torrent.
 
-- ★ 33 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
+- ★ 34 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
   Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
 
 - ★ 5 · [**nexotv-enhanced**](https://github.com/Aerya/nexotv-enhanced)
@@ -78,13 +81,13 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - [**Stremio-French-Stream-Docker**](https://github.com/Aerya/Stremio-French-Stream-Docker)
   Packaging Docker autour de Stremio French Stream pour simplifier son déploiement. Le dépôt sert à lancer le service dans un environnement conteneurisé.
 
-- [**claudecodeui-docker**](https://github.com/Aerya/claudecodeui-docker)
-  Image Docker GHCR personnelle pour CloudCLI et Claude Code UI. Le dépôt automatise le packaging afin de déployer l'interface plus facilement.
-
 ---
 
 <details>
 <summary>Autres repos</summary>
+
+- [**claudecodeui-docker**](https://github.com/Aerya/claudecodeui-docker)
+  Image Docker GHCR personnelle pour CloudCLI et Claude Code UI. Le dépôt automatise le packaging afin de déployer l'interface plus facilement.
 
 - ★ 2 · [**stremio-rss-catalog**](https://github.com/Aerya/stremio-rss-catalog)
   Addon Stremio qui génère des catalogues depuis des flux RSS, Prowlarr ou NZBHydra2. Il permet d'intégrer des sources personnalisées directement dans Stremio.
