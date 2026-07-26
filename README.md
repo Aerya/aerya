@@ -14,6 +14,13 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Les derniers
 
 <p>
+  <a href="https://upandclear.org/2026/07/26/ultra-cc-et-bittorrent-empecher-larret-automatique-du-seed-torrents-stalled-bloques/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/07/1-1-300x300.png" width="72" alt="Ultra.cc et BitTorrent : empêcher l’arrêt automatique du seed (torrents stalled/bloqués)" /></a>
+  <a href="https://upandclear.org/2026/07/26/ultra-cc-et-bittorrent-empecher-larret-automatique-du-seed-torrents-stalled-bloques/"><b>Ultra.cc et BitTorrent : empêcher l’arrêt automatique du seed (torrents stalled/bloqués)</b></a><br/>
+  <sub>26 juil 2026</sub>
+</p>
+<br clear="left"/>
+
+<p>
   <a href="https://upandclear.org/2026/07/14/streamnzb-la-simplification-usenet-stremio-aiostreams/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/07/screenshot-17-12-57-300x300.png" width="72" alt="StreamNZB : la simplification Usenet + Stremio (+ AIOStreams)" /></a>
   <a href="https://upandclear.org/2026/07/14/streamnzb-la-simplification-usenet-stremio-aiostreams/"><b>StreamNZB : la simplification Usenet + Stremio (+ AIOStreams)</b></a><br/>
   <sub>14 juil 2026</sub>
@@ -34,20 +41,13 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 </p>
 <br clear="left"/>
 
-<p>
-  <a href="https://upandclear.org/2026/06/30/up-clear-again/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear.generique-300x300.png" width="72" alt="Up &amp; Clear again!" /></a>
-  <a href="https://upandclear.org/2026/06/30/up-clear-again/"><b>Up &amp; Clear again!</b></a><br/>
-  <sub>30 jun 2026</sub>
-</p>
-<br clear="left"/>
-
 
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2026/01/19/stremio-applications-alternatives-pour-androidtv-avec-nuvio-realstream-et-aurora/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/01/stremio49-300x300.jpg" width="120" alt="Stremio : applications alternatives pour AndroidTV avec Nuvio, RealStream et Aurora" /></a>
-  <a href="https://upandclear.org/2026/01/19/stremio-applications-alternatives-pour-androidtv-avec-nuvio-realstream-et-aurora/"><b>Stremio : applications alternatives pour AndroidTV avec Nuvio, RealStream et Aurora</b></a><br/>
-  <sub>19 jan 2026</sub>
+  <a href="https://upandclear.org/2017/02/09/bogue-wordpresssql-rollback-de-24h/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Bogue WordPress/SQL : rollback de 24h" /></a>
+  <a href="https://upandclear.org/2017/02/09/bogue-wordpresssql-rollback-de-24h/"><b>Bogue WordPress/SQL : rollback de 24h</b></a><br/>
+  <sub>9 fév 2017</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
