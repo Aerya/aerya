@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2026/06/16/gluetun-companion-interface-web-pour-piloter-automatiquement-vos-serveurs-vpn-wireguard-et-openvpn-dans-gluetun/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/16-300x300.jpg" width="120" alt="Gluetun Companion : interface Web pour piloter automatiquement vos serveurs VPN WireGuard et OpenVPN dans Gluetun" /></a>
-  <a href="https://upandclear.org/2026/06/16/gluetun-companion-interface-web-pour-piloter-automatiquement-vos-serveurs-vpn-wireguard-et-openvpn-dans-gluetun/"><b>Gluetun Companion : interface Web pour piloter automatiquement vos serveurs VPN WireGuard et OpenVPN dans Gluetun</b></a><br/>
-  <sub>16 jun 2026</sub>
+  <a href="https://upandclear.org/2017/05/23/filemanager-polo-beta-publique/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2017/05/Polo-File-Manager-v17.5.1-BETA-6_001-300x300.png" width="120" alt="FileManager Polo : BETA publique :)" /></a>
+  <a href="https://upandclear.org/2017/05/23/filemanager-polo-beta-publique/"><b>FileManager Polo : BETA publique :)</b></a><br/>
+  <sub>23 mai 2017</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
