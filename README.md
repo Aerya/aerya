@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2015/12/24/moss-conky-sur-android-ou-presque/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2015/12/moss2-200x300.png" width="120" alt="Moss : conky sur Android (ou presque)" /></a>
-  <a href="https://upandclear.org/2015/12/24/moss-conky-sur-android-ou-presque/"><b>Moss : conky sur Android (ou presque)</b></a><br/>
-  <sub>24 déc 2015</sub>
+  <a href="https://upandclear.org/2024/06/30/stirling-pdf-le-couteau-suisse-du-pdf-en-local/"><img align="left" src="https://upandclear.org/wp-content/uploads/2024/06/adobe-pdf-editing-software-300x300.png" width="120" alt="Stirling PDF : le couteau suisse du PDF en local" /></a>
+  <a href="https://upandclear.org/2024/06/30/stirling-pdf-le-couteau-suisse-du-pdf-en-local/"><b>Stirling PDF : le couteau suisse du PDF en local</b></a><br/>
+  <sub>30 jun 2024</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
