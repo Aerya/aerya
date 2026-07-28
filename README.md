@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2017/10/02/yggtorrent-generateur-de-rss-auto-heberge/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2017/10/ygg-300x300.png" width="120" alt="YGGtorrent : générateur de RSS (auto-hébergé)" /></a>
-  <a href="https://upandclear.org/2017/10/02/yggtorrent-generateur-de-rss-auto-heberge/"><b>YGGtorrent : générateur de RSS (auto-hébergé)</b></a><br/>
-  <sub>2 oct 2017</sub>
+  <a href="https://upandclear.org/2020/10/15/noob-rclone-workspace-ex-gsuite-creer-et-monter-un-shared-drive-aka-team-drive-chiffre/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2020/10/2020-10-14_17-45-300x300.png" width="120" alt="[NOOB] rClone &amp; Workspace (ex GSuite) : créer et monter un Shared Drive (aka Team Drive) chiffré" /></a>
+  <a href="https://upandclear.org/2020/10/15/noob-rclone-workspace-ex-gsuite-creer-et-monter-un-shared-drive-aka-team-drive-chiffre/"><b>[NOOB] rClone &amp; Workspace (ex GSuite) : créer et monter un Shared Drive (aka Team Drive) chiffré</b></a><br/>
+  <sub>15 oct 2020</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,11 +57,11 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
-- ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
-  Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées, et une API REST. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion des configurations sans redémarrage.
-
 - ★ 8 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
   Gluetun Companion est une interface web en Python pour gérer le container Gluetun, permettant de piloter automatiquement les serveurs VPN WireGuard et OpenVPN. Il offre des fonctionnalités telles que le benchmark des serveurs, la sélection automatique, la gestion des containers dépendants, le port forwarding et la synchronisation avec des clients torrent.
+
+- ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
+  Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées, et une API REST. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion des configurations sans redémarrage.
 
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
