@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2015/08/25/oppo-r7-plus-le-6-pouces-full-hd-snapdragon-615-3-go-de-ram-et-batterie-4100-mah-arrive/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Oppo R7 Plus : le 6 pouces Full HD, Snapdragon 615, 3 Go de RAM et batterie 4100 mAh arrive" /></a>
-  <a href="https://upandclear.org/2015/08/25/oppo-r7-plus-le-6-pouces-full-hd-snapdragon-615-3-go-de-ram-et-batterie-4100-mah-arrive/"><b>Oppo R7 Plus : le 6 pouces Full HD, Snapdragon 615, 3 Go de RAM et batterie 4100 mAh arrive</b></a><br/>
-  <sub>25 août 2015</sub>
+  <a href="https://upandclear.org/2017/01/31/rclone-browser-windows-linux-osx-rclone-en-mode-graphique/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2017/01/001-21-300x300.png" width="120" alt="rClone Browser (Windows, Linux, OSX) : rClone en mode graphique" /></a>
+  <a href="https://upandclear.org/2017/01/31/rclone-browser-windows-linux-osx-rclone-en-mode-graphique/"><b>rClone Browser (Windows, Linux, OSX) : rClone en mode graphique</b></a><br/>
+  <sub>31 jan 2017</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -56,6 +56,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 
 <!-- REPOS:START -->
 ### Dernières mises à jour
+
+- ★ 1 · [**ProxySpin**](https://github.com/Aerya/ProxySpin)
+  Proxy HTTP rotatif et anonymisant basé sur Tor et des proxys publics. Il fournit aussi un panneau de contrôle web et une extension navigateur.
 
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
@@ -78,22 +81,19 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - [**monitorss-delivery-watchdog**](https://github.com/Aerya/monitorss-delivery-watchdog)
   Ce service Python, MonitoRSS Delivery Watchdog, reprend les livraisons Discord bloquées de MonitoRSS en réessayant les envois échoués. Il gère les articles indisponibles ou en attente prolongée pour assurer la livraison.
 
-- ★ 5 · [**nexotv-enhanced**](https://github.com/Aerya/nexotv-enhanced)
-  NexoTV Enhanced est un addon Stremio pour IPTV, basé sur un fork de nexotv, offrant des chaînes TV en direct et des catalogues de films/séries configurables avec sélection de catégories. Il permet de mixer plusieurs sources, de masquer des chaînes et propose un enrichissement via TMDB.
-
 ---
 
 <details>
 <summary>Autres repos</summary>
+
+- ★ 5 · [**nexotv-enhanced**](https://github.com/Aerya/nexotv-enhanced)
+  NexoTV Enhanced est un addon Stremio pour IPTV, basé sur un fork de nexotv, offrant des chaînes TV en direct et des catalogues de films/séries configurables avec sélection de catégories. Il permet de mixer plusieurs sources, de masquer des chaînes et propose un enrichissement via TMDB.
 
 - [**Stremio-French-Stream-Docker**](https://github.com/Aerya/Stremio-French-Stream-Docker)
   Packaging Docker autour de Stremio French Stream pour simplifier son déploiement. Le dépôt sert à lancer le service dans un environnement conteneurisé.
 
 - [**claudecodeui-docker**](https://github.com/Aerya/claudecodeui-docker)
   Image Docker GHCR personnelle pour CloudCLI et Claude Code UI. Le dépôt automatise le packaging afin de déployer l'interface plus facilement.
-
-- ★ 1 · [**ProxySpin**](https://github.com/Aerya/ProxySpin)
-  Proxy HTTP rotatif et anonymisant basé sur Tor et des proxys publics. Il fournit aussi un panneau de contrôle web et une extension navigateur.
 
 - [**davos**](https://github.com/Aerya/davos)
   Davos est un outil d'automatisation de téléchargement FTP avec une interface web, écrit en Java, qui permet de scanner des serveurs FTP pour des fichiers spécifiques et de les télécharger automatiquement. Il offre des fonctionnalités comme la notification des téléchargements et la gestion des plannings via une interface graphique.
