@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2022/02/03/monitor-rss-heberger-son-bot-discord-de-flux-rss/"><img align="left" src="https://upandclear.org/wp-content/uploads/2022/02/monitor-rss-heberger-son-bot-discord-de-flux-rss-300x300.jpg" width="120" alt="MonitoRSS : héberger son bot Discord de flux RSS" /></a>
-  <a href="https://upandclear.org/2022/02/03/monitor-rss-heberger-son-bot-discord-de-flux-rss/"><b>MonitoRSS : héberger son bot Discord de flux RSS</b></a><br/>
-  <sub>3 fév 2022</sub>
+  <a href="https://upandclear.org/2015/08/25/oppo-r7-plus-le-6-pouces-full-hd-snapdragon-615-3-go-de-ram-et-batterie-4100-mah-arrive/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Oppo R7 Plus : le 6 pouces Full HD, Snapdragon 615, 3 Go de RAM et batterie 4100 mAh arrive" /></a>
+  <a href="https://upandclear.org/2015/08/25/oppo-r7-plus-le-6-pouces-full-hd-snapdragon-615-3-go-de-ram-et-batterie-4100-mah-arrive/"><b>Oppo R7 Plus : le 6 pouces Full HD, Snapdragon 615, 3 Go de RAM et batterie 4100 mAh arrive</b></a><br/>
+  <sub>25 août 2015</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
