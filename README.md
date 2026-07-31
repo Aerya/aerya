@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2016/07/22/dplatform-linstallation-automatisee-pour-tous/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2016/07/PAC-v4.5.5.7_004-300x300.png" width="120" alt="DPlatform : l’installation automatisée pour tous" /></a>
-  <a href="https://upandclear.org/2016/07/22/dplatform-linstallation-automatisee-pour-tous/"><b>DPlatform : l’installation automatisée pour tous</b></a><br/>
-  <sub>22 juil 2016</sub>
+  <a href="https://upandclear.org/2015/09/03/installer-son-serveur-xmpp-openfire/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2015/09/Sélection_079-300x300.png" width="120" alt="Installer son serveur XMPP (OpenFire)" /></a>
+  <a href="https://upandclear.org/2015/09/03/installer-son-serveur-xmpp-openfire/"><b>Installer son serveur XMPP (OpenFire)</b></a><br/>
+  <sub>3 sep 2015</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -78,7 +78,7 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - ★ 8 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
   Gluetun Companion est une interface web pour gérer le container Gluetun, offrant des benchmarks VPN, une sélection automatique de serveurs, la gestion des containers dépendants et des notifications. Il est développé avec l'aide de l'IA et est actuellement en phase bêta, principalement testé avec AirVPN.
 
-- ★ 1 · [**ProxySpin**](https://github.com/Aerya/ProxySpin)
+- ★ 2 · [**ProxySpin**](https://github.com/Aerya/ProxySpin)
   Proxy HTTP rotatif et anonymisant basé sur Tor et des proxys publics. Il fournit aussi un panneau de contrôle web et une extension navigateur.
 
 ---
