@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2015/09/03/installer-son-serveur-xmpp-openfire/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2015/09/Sélection_079-300x300.png" width="120" alt="Installer son serveur XMPP (OpenFire)" /></a>
-  <a href="https://upandclear.org/2015/09/03/installer-son-serveur-xmpp-openfire/"><b>Installer son serveur XMPP (OpenFire)</b></a><br/>
-  <sub>3 sep 2015</sub>
+  <a href="https://upandclear.org/2015/08/30/zdnet-non-microsoft-ne-vous-espionne-pas-avec-windows-10/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2015/08/11-300x300.png" width="120" alt="(Zdnet) Microsoft / Windows 10 : moi j’ai lu leurs CGU." /></a>
+  <a href="https://upandclear.org/2015/08/30/zdnet-non-microsoft-ne-vous-espionne-pas-avec-windows-10/"><b>(Zdnet) Microsoft / Windows 10 : moi j’ai lu leurs CGU.</b></a><br/>
+  <sub>30 août 2015</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
