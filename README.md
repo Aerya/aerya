@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2019/08/07/nemo-action-personnalisee/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Nemo : action personnalisée" /></a>
-  <a href="https://upandclear.org/2019/08/07/nemo-action-personnalisee/"><b>Nemo : action personnalisée</b></a><br/>
-  <sub>7 août 2019</sub>
+  <a href="https://upandclear.org/2025/10/30/tizentube-cobalt-client-androidtv-youtube-avec-adblock-et-sponsorblock-vs-smarttube/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/10/chatgpt-image-30-oct.-2025-07_17_46-300x300.jpg" width="120" alt="TizenTube Cobalt : client AndroidTV YouTube avec AdBlock et SponsorBlock (vs SmartTube)" /></a>
+  <a href="https://upandclear.org/2025/10/30/tizentube-cobalt-client-androidtv-youtube-avec-adblock-et-sponsorblock-vs-smarttube/"><b>TizenTube Cobalt : client AndroidTV YouTube avec AdBlock et SponsorBlock (vs SmartTube)</b></a><br/>
+  <sub>30 oct 2025</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -60,14 +60,14 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - ★ 2 · [**stremio-rss-catalog**](https://github.com/Aerya/stremio-rss-catalog)
   Addon Stremio qui génère des catalogues depuis des flux RSS, Prowlarr ou NZBHydra2. Il permet d'intégrer des sources personnalisées directement dans Stremio.
 
+- ★ 8 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
+  Gluetun Companion est une interface web pour gérer le container Gluetun, permettant de piloter automatiquement les serveurs VPN WireGuard et OpenVPN. Il offre des fonctionnalités de benchmark, de sélection automatique de serveurs, de gestion des containers dépendants, de port forwarding et de métriques.
+
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
 - ★ 37 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
-
-- ★ 8 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
-  Gluetun Companion est une interface web pour gérer le container Gluetun, permettant de piloter automatiquement les serveurs VPN WireGuard et OpenVPN. Il offre des fonctionnalités de benchmark, de sélection automatique de serveurs, de gestion des containers dépendants, de port forwarding et de métriques.
 
 - ★ 5 · [**nexotv-enhanced**](https://github.com/Aerya/nexotv-enhanced)
   NexoTV Enhanced est un addon Stremio pour IPTV, basé sur un fork de nexotv, offrant des chaînes TV en direct et des catalogues de films/séries configurables avec sélection de catégories. Il permet de mixer plusieurs sources, de masquer des chaînes et propose un enrichissement via TMDB.
