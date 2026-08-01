@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2015/12/30/clavier-origami/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2015/12/SilverHT-Origami-300x300.jpg" width="120" alt="Clavier origami SilverHT" /></a>
-  <a href="https://upandclear.org/2015/12/30/clavier-origami/"><b>Clavier origami SilverHT</b></a><br/>
-  <sub>30 déc 2015</sub>
+  <a href="https://upandclear.org/2019/08/07/nemo-action-personnalisee/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Nemo : action personnalisée" /></a>
+  <a href="https://upandclear.org/2019/08/07/nemo-action-personnalisee/"><b>Nemo : action personnalisée</b></a><br/>
+  <sub>7 août 2019</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
