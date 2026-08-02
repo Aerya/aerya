@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2025/11/14/arcane-alternative-a-portainer-agents/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/11/arcanetop-300x300.webp" width="120" alt="Arcane : alternative à Portainer + agents" /></a>
-  <a href="https://upandclear.org/2025/11/14/arcane-alternative-a-portainer-agents/"><b>Arcane : alternative à Portainer + agents</b></a><br/>
-  <sub>14 nov 2025</sub>
+  <a href="https://upandclear.org/2017/05/29/piloter-sickragemedusa-depuis-android-showsrage-droidbeard-sickstache-nzb-unity-nzbmanager-nzb360/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2017/05/Screenshot_20170529-171034-300x300.png" width="120" alt="Piloter SickRage/Medusa depuis Android : ShowsRage, DroidBeard, SickStache, NZB Unity, NZBManager, nzb360" /></a>
+  <a href="https://upandclear.org/2017/05/29/piloter-sickragemedusa-depuis-android-showsrage-droidbeard-sickstache-nzb-unity-nzbmanager-nzb360/"><b>Piloter SickRage/Medusa depuis Android : ShowsRage, DroidBeard, SickStache, NZB Unity, NZBManager, nzb360</b></a><br/>
+  <sub>29 mai 2017</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,7 +57,7 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
-- ★ 38 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+- ★ 39 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
