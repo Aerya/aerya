@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2025/10/30/tizentube-cobalt-client-androidtv-youtube-avec-adblock-et-sponsorblock-vs-smarttube/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/10/chatgpt-image-30-oct.-2025-07_17_46-300x300.jpg" width="120" alt="TizenTube Cobalt : client AndroidTV YouTube avec AdBlock et SponsorBlock (vs SmartTube)" /></a>
-  <a href="https://upandclear.org/2025/10/30/tizentube-cobalt-client-androidtv-youtube-avec-adblock-et-sponsorblock-vs-smarttube/"><b>TizenTube Cobalt : client AndroidTV YouTube avec AdBlock et SponsorBlock (vs SmartTube)</b></a><br/>
-  <sub>30 oct 2025</sub>
+  <a href="https://upandclear.org/2018/05/27/gerer-son-serveur-multimedia-depuis-discord-requetes-etc/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2018/05/Sélection_002-300x300.png" width="120" alt="Gérer son serveur multimédia depuis Discord (requêtes etc)" /></a>
+  <a href="https://upandclear.org/2018/05/27/gerer-son-serveur-multimedia-depuis-discord-requetes-etc/"><b>Gérer son serveur multimédia depuis Discord (requêtes etc)</b></a><br/>
+  <sub>27 mai 2018</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,16 +57,16 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
-- ★ 2 · [**stremio-rss-catalog**](https://github.com/Aerya/stremio-rss-catalog)
-  Addon Stremio qui génère des catalogues depuis des flux RSS, Prowlarr ou NZBHydra2. Il permet d'intégrer des sources personnalisées directement dans Stremio.
-
-- ★ 8 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
-  Gluetun Companion est une interface web pour gérer le container Gluetun, permettant de piloter automatiquement les serveurs VPN WireGuard et OpenVPN. Il offre des fonctionnalités de benchmark, de sélection automatique de serveurs, de gestion des containers dépendants, de port forwarding et de métriques.
-
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
-- ★ 37 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+- ★ 8 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
+  Gluetun Companion est une interface web Python pour gérer automatiquement les serveurs VPN WireGuard et OpenVPN dans Gluetun, offrant des benchmarks, une sélection de serveurs, la gestion des containers dépendants et des notifications. Le projet est en phase bêta, principalement testé avec AirVPN.
+
+- ★ 2 · [**stremio-rss-catalog**](https://github.com/Aerya/stremio-rss-catalog)
+  Addon Stremio qui génère des catalogues depuis des flux RSS, Prowlarr ou NZBHydra2. Il permet d'intégrer des sources personnalisées directement dans Stremio.
+
+- ★ 38 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
 - ★ 5 · [**nexotv-enhanced**](https://github.com/Aerya/nexotv-enhanced)
