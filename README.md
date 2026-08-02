@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2017/05/29/piloter-sickragemedusa-depuis-android-showsrage-droidbeard-sickstache-nzb-unity-nzbmanager-nzb360/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2017/05/Screenshot_20170529-171034-300x300.png" width="120" alt="Piloter SickRage/Medusa depuis Android : ShowsRage, DroidBeard, SickStache, NZB Unity, NZBManager, nzb360" /></a>
-  <a href="https://upandclear.org/2017/05/29/piloter-sickragemedusa-depuis-android-showsrage-droidbeard-sickstache-nzb-unity-nzbmanager-nzb360/"><b>Piloter SickRage/Medusa depuis Android : ShowsRage, DroidBeard, SickStache, NZB Unity, NZBManager, nzb360</b></a><br/>
-  <sub>29 mai 2017</sub>
+  <a href="https://upandclear.org/2016/08/21/le-lol-du-jour-t411-bittorrent-et-lanonymat-sont-dans-un-bateau/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2016/08/t411.twitter-300x300.png" width="120" alt="Le LOL du jour : T411, BitTorrent et l’anonymat sont dans un bâteau" /></a>
+  <a href="https://upandclear.org/2016/08/21/le-lol-du-jour-t411-bittorrent-et-lanonymat-sont-dans-un-bateau/"><b>Le LOL du jour : T411, BitTorrent et l’anonymat sont dans un bâteau</b></a><br/>
+  <sub>21 août 2016</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
