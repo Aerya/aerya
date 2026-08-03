@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2026/04/22/reparation-switch-double-clic-logitech-g903-lightspeed/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/04/brown-rodent-on-brown-wooden-surface-stockpack-unsplash-300x300.jpg" width="120" alt="Réparation switch double-clic Logitech G903 Lightspeed" /></a>
-  <a href="https://upandclear.org/2026/04/22/reparation-switch-double-clic-logitech-g903-lightspeed/"><b>Réparation switch double-clic Logitech G903 Lightspeed</b></a><br/>
-  <sub>22 avr 2026</sub>
+  <a href="https://upandclear.org/2015/12/18/dash-ex-darkcoin-une-des-monnaies-virtuelles-les-plus-anonymes-via-lalgorithme-x11/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2015/12/Electrum_BTC_DRK-300x300.png" width="120" alt="Dash (ex DarkCoin) : une des monnaies virtuelles les plus anonymes via l’algorithme X11" /></a>
+  <a href="https://upandclear.org/2015/12/18/dash-ex-darkcoin-une-des-monnaies-virtuelles-les-plus-anonymes-via-lalgorithme-x11/"><b>Dash (ex DarkCoin) : une des monnaies virtuelles les plus anonymes via l’algorithme X11</b></a><br/>
+  <sub>18 déc 2015</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
