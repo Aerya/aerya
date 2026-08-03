@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2016/08/21/le-lol-du-jour-t411-bittorrent-et-lanonymat-sont-dans-un-bateau/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2016/08/t411.twitter-300x300.png" width="120" alt="Le LOL du jour : T411, BitTorrent et l’anonymat sont dans un bâteau" /></a>
-  <a href="https://upandclear.org/2016/08/21/le-lol-du-jour-t411-bittorrent-et-lanonymat-sont-dans-un-bateau/"><b>Le LOL du jour : T411, BitTorrent et l’anonymat sont dans un bâteau</b></a><br/>
-  <sub>21 août 2016</sub>
+  <a href="https://upandclear.org/2017/01/31/rclone-browser-windows-linux-osx-rclone-en-mode-graphique/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2017/01/001-21-300x300.png" width="120" alt="rClone Browser (Windows, Linux, OSX) : rClone en mode graphique" /></a>
+  <a href="https://upandclear.org/2017/01/31/rclone-browser-windows-linux-osx-rclone-en-mode-graphique/"><b>rClone Browser (Windows, Linux, OSX) : rClone en mode graphique</b></a><br/>
+  <sub>31 jan 2017</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,11 +57,11 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
-- ★ 39 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
-  Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
-
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
+
+- ★ 34 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
+  Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
 
 - ★ 8 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
   Gluetun Companion est une interface web Python pour gérer automatiquement les serveurs VPN WireGuard et OpenVPN dans Gluetun, offrant des benchmarks, une sélection de serveurs, la gestion des containers dépendants et des notifications. Le projet est en phase bêta, principalement testé avec AirVPN.
@@ -69,43 +69,43 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - ★ 2 · [**stremio-rss-catalog**](https://github.com/Aerya/stremio-rss-catalog)
   Addon Stremio qui génère des catalogues depuis des flux RSS, Prowlarr ou NZBHydra2. Il permet d'intégrer des sources personnalisées directement dans Stremio.
 
-- ★ 5 · [**nexotv-enhanced**](https://github.com/Aerya/nexotv-enhanced)
-  NexoTV Enhanced est un addon Stremio pour IPTV, basé sur un fork de nexotv, offrant des chaînes TV en direct et des catalogues de films/séries configurables avec sélection de catégories. Il permet de mixer plusieurs sources, de masquer des chaînes et propose un enrichissement via TMDB.
-
 - ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
   Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées, et une API REST. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion des configurations sans redémarrage.
 
-- [**davos**](https://github.com/Aerya/davos)
-  Davos est un outil d'automatisation de téléchargement FTP avec une interface web, écrit en Java, qui permet de scanner des serveurs FTP pour des fichiers spécifiques et de les télécharger automatiquement. Il offre des fonctionnalités comme la notification des téléchargements et la gestion des plannings via une interface graphique.
+- ★ 5 · [**nexotv-enhanced**](https://github.com/Aerya/nexotv-enhanced)
+  NexoTV Enhanced est un addon Stremio pour IPTV, basé sur un fork de nexotv, offrant des chaînes TV en direct et des catalogues de films/séries configurables avec sélection de catégories. Il permet de mixer plusieurs sources, de masquer des chaînes et propose un enrichissement via TMDB.
 
-- [**cronitor-cli-docker**](https://github.com/Aerya/cronitor-cli-docker)
-  Image Docker non officielle pour cronitorio/cronitor-cli, construite automatiquement. Pratique pour utiliser le CLI Cronitor dans des stacks conteneurisées.
+- ★ 39 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+  Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
+
+- [**PHPSysInfo-Docker**](https://github.com/Aerya/PHPSysInfo-Docker)
+  Stack de base d'addons Stremio pour contenu francophone. Le projet n'est plus maintenu ni à jour.
 
 ---
 
 <details>
 <summary>Autres repos</summary>
 
-- [**claudecodeui-docker**](https://github.com/Aerya/claudecodeui-docker)
-  Image Docker GHCR personnelle pour CloudCLI et Claude Code UI. Le dépôt automatise le packaging afin de déployer l'interface plus facilement.
-
-- ★ 2 · [**Stremio-Seerr-Catalog**](https://github.com/Aerya/Stremio-Seerr-Catalog)
-  Addon Stremio qui expose les requêtes Over, Jelly ou Seerr sous forme de catalogues. Il fait le lien entre l'écosystème Seerr/Radarr/Sonarr et Stremio.
-
 - ★ 2 · [**ProxySpin**](https://github.com/Aerya/ProxySpin)
   Proxy HTTP rotatif et anonymisant basé sur Tor et des proxys publics. Il fournit aussi un panneau de contrôle web et une extension navigateur.
-
-- [**PHPSysInfo-Docker**](https://github.com/Aerya/PHPSysInfo-Docker)
-  Stack de base d'addons Stremio pour contenu francophone. Le projet n'est plus maintenu ni à jour.
 
 - [**MiniVid**](https://github.com/Aerya/MiniVid)
   Application pour indexer, lire, taguer et mettre en favoris des vidéos locales. Elle vise une gestion simple d'une bibliothèque vidéo personnelle.
 
+- [**claudecodeui-docker**](https://github.com/Aerya/claudecodeui-docker)
+  Image Docker GHCR personnelle pour CloudCLI et Claude Code UI. Le dépôt automatise le packaging afin de déployer l'interface plus facilement.
+
+- [**cronitor-cli-docker**](https://github.com/Aerya/cronitor-cli-docker)
+  Image Docker non officielle pour cronitorio/cronitor-cli, construite automatiquement. Pratique pour utiliser le CLI Cronitor dans des stacks conteneurisées.
+
 - [**HomeGuard**](https://github.com/Aerya/HomeGuard)
   Serveur WireGuard en Docker pour utiliser son propre serveur DNS (AdGuard Home, Pi-hole…) depuis un smartphone, même en dehors du réseau local.
 
-- ★ 34 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
-  Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
+- [**davos**](https://github.com/Aerya/davos)
+  Davos est un outil d'automatisation de téléchargement FTP avec une interface web, écrit en Java, qui permet de scanner des serveurs FTP pour des fichiers spécifiques et de les télécharger automatiquement. Il offre des fonctionnalités comme la notification des téléchargements et la gestion des plannings via une interface graphique.
+
+- ★ 2 · [**Stremio-Seerr-Catalog**](https://github.com/Aerya/Stremio-Seerr-Catalog)
+  Addon Stremio qui expose les requêtes Over, Jelly ou Seerr sous forme de catalogues. Il fait le lien entre l'écosystème Seerr/Radarr/Sonarr et Stremio.
 
 - [**monitorss-delivery-watchdog**](https://github.com/Aerya/monitorss-delivery-watchdog)
   Ce service Python, MonitoRSS Delivery Watchdog, reprend les livraisons Discord bloquées de MonitoRSS en réessayant les envois échoués. Il gère les articles indisponibles ou en attente prolongée pour assurer la livraison.
