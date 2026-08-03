@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2017/01/31/rclone-browser-windows-linux-osx-rclone-en-mode-graphique/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2017/01/001-21-300x300.png" width="120" alt="rClone Browser (Windows, Linux, OSX) : rClone en mode graphique" /></a>
-  <a href="https://upandclear.org/2017/01/31/rclone-browser-windows-linux-osx-rclone-en-mode-graphique/"><b>rClone Browser (Windows, Linux, OSX) : rClone en mode graphique</b></a><br/>
-  <sub>31 jan 2017</sub>
+  <a href="https://upandclear.org/2015/10/07/numericable-sfr-vers-une-globalisation-de-loffre-deja-le-cas-des-ip/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Numericable / SFR : vers une globalisation de l’offre ? Déjà le cas des IP." /></a>
+  <a href="https://upandclear.org/2015/10/07/numericable-sfr-vers-une-globalisation-de-loffre-deja-le-cas-des-ip/"><b>Numericable / SFR : vers une globalisation de l’offre ? Déjà le cas des IP.</b></a><br/>
+  <sub>7 oct 2015</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
