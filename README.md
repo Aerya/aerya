@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2015/10/07/numericable-sfr-vers-une-globalisation-de-loffre-deja-le-cas-des-ip/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Numericable / SFR : vers une globalisation de l’offre ? Déjà le cas des IP." /></a>
-  <a href="https://upandclear.org/2015/10/07/numericable-sfr-vers-une-globalisation-de-loffre-deja-le-cas-des-ip/"><b>Numericable / SFR : vers une globalisation de l’offre ? Déjà le cas des IP.</b></a><br/>
-  <sub>7 oct 2015</sub>
+  <a href="https://upandclear.org/2026/04/22/reparation-switch-double-clic-logitech-g903-lightspeed/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/04/brown-rodent-on-brown-wooden-surface-stockpack-unsplash-300x300.jpg" width="120" alt="Réparation switch double-clic Logitech G903 Lightspeed" /></a>
+  <a href="https://upandclear.org/2026/04/22/reparation-switch-double-clic-logitech-g903-lightspeed/"><b>Réparation switch double-clic Logitech G903 Lightspeed</b></a><br/>
+  <sub>22 avr 2026</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
