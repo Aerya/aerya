@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2021/05/20/testament-en-ligne-ou-presque/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Testament en ligne, ou presque" /></a>
-  <a href="https://upandclear.org/2021/05/20/testament-en-ligne-ou-presque/"><b>Testament en ligne, ou presque</b></a><br/>
-  <sub>20 mai 2021</sub>
+  <a href="https://upandclear.org/2015/11/09/webconsole-une-console-ssh-like-via-php-pour-serveurs-nas/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2015/11/Sélection_063-300x279.png" width="120" alt="WebConsole : une console SSH-like, via PHP, pour serveurs, NAS…" /></a>
+  <a href="https://upandclear.org/2015/11/09/webconsole-une-console-ssh-like-via-php-pour-serveurs-nas/"><b>WebConsole : une console SSH-like, via PHP, pour serveurs, NAS…</b></a><br/>
+  <sub>9 nov 2015</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
