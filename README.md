@@ -14,6 +14,13 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Les derniers
 
 <p>
+  <a href="https://upandclear.org/2026/08/04/loostream-addon-stremio-pour-lagregation-de-flux-streaming-userscript-bypass-proxy/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/08/graphical-user-interface-stockpack-unsplash-300x300.jpg" width="72" alt="LooStream : addon Stremio pour l’agrégation de flux streaming + userscript bypass proxy" /></a>
+  <a href="https://upandclear.org/2026/08/04/loostream-addon-stremio-pour-lagregation-de-flux-streaming-userscript-bypass-proxy/"><b>LooStream : addon Stremio pour l’agrégation de flux streaming + userscript bypass proxy</b></a><br/>
+  <sub>4 août 2026</sub>
+</p>
+<br clear="left"/>
+
+<p>
   <a href="https://upandclear.org/2026/08/04/bingebase-et-scrob-alternatives-a-trakt-tv/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/08/10-300x300.png" width="72" alt="Bingebase et Scrob : alternatives à Trakt.tv" /></a>
   <a href="https://upandclear.org/2026/08/04/bingebase-et-scrob-alternatives-a-trakt-tv/"><b>Bingebase et Scrob : alternatives à Trakt.tv</b></a><br/>
   <sub>4 août 2026</sub>
@@ -34,20 +41,13 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 </p>
 <br clear="left"/>
 
-<p>
-  <a href="https://upandclear.org/2026/07/14/streamnzb-la-simplification-usenet-stremio-aiostreams/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/07/screenshot-17-12-57-300x300.png" width="72" alt="StreamNZB : la simplification Usenet + Stremio (+ AIOStreams)" /></a>
-  <a href="https://upandclear.org/2026/07/14/streamnzb-la-simplification-usenet-stremio-aiostreams/"><b>StreamNZB : la simplification Usenet + Stremio (+ AIOStreams)</b></a><br/>
-  <sub>14 juil 2026</sub>
-</p>
-<br clear="left"/>
-
 
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2015/11/09/webconsole-une-console-ssh-like-via-php-pour-serveurs-nas/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2015/11/Sélection_063-300x279.png" width="120" alt="WebConsole : une console SSH-like, via PHP, pour serveurs, NAS…" /></a>
-  <a href="https://upandclear.org/2015/11/09/webconsole-une-console-ssh-like-via-php-pour-serveurs-nas/"><b>WebConsole : une console SSH-like, via PHP, pour serveurs, NAS…</b></a><br/>
-  <sub>9 nov 2015</sub>
+  <a href="https://upandclear.org/2017/01/28/radarr-le-couchpotato-base-sur-sonarr/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2017/01/001-17-300x300.png" width="120" alt="Radarr : le CouchPotato basé sur Sonarr" /></a>
+  <a href="https://upandclear.org/2017/01/28/radarr-le-couchpotato-base-sur-sonarr/"><b>Radarr : le CouchPotato basé sur Sonarr</b></a><br/>
+  <sub>28 jan 2017</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -75,7 +75,7 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - ★ 5 · [**nexotv-enhanced**](https://github.com/Aerya/nexotv-enhanced)
   NexoTV Enhanced est un addon Stremio pour IPTV, basé sur un fork de nexotv, offrant des chaînes TV en direct et des catalogues de films/séries configurables avec sélection de catégories. Il permet de mixer plusieurs sources, de masquer des chaînes et propose un enrichissement via TMDB.
 
-- ★ 39 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+- ★ 40 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
 - [**PHPSysInfo-Docker**](https://github.com/Aerya/PHPSysInfo-Docker)
