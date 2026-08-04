@@ -14,6 +14,13 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Les derniers
 
 <p>
+  <a href="https://upandclear.org/2026/08/04/bingebase-et-scrob-alternatives-a-trakt-tv/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/08/10-300x300.png" width="72" alt="Bingebase et Scrob : alternatives à Trakt.tv" /></a>
+  <a href="https://upandclear.org/2026/08/04/bingebase-et-scrob-alternatives-a-trakt-tv/"><b>Bingebase et Scrob : alternatives à Trakt.tv</b></a><br/>
+  <sub>4 août 2026</sub>
+</p>
+<br clear="left"/>
+
+<p>
   <a href="https://upandclear.org/2026/07/26/automatiser-les-dns-locaux-de-nginx-proxy-manager-dans-adguard-home/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/07/1-2-300x300.png" width="72" alt="Automatiser les DNS locaux de Nginx Proxy Manager dans AdGuard Home" /></a>
   <a href="https://upandclear.org/2026/07/26/automatiser-les-dns-locaux-de-nginx-proxy-manager-dans-adguard-home/"><b>Automatiser les DNS locaux de Nginx Proxy Manager dans AdGuard Home</b></a><br/>
   <sub>26 juil 2026</sub>
@@ -34,20 +41,13 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 </p>
 <br clear="left"/>
 
-<p>
-  <a href="https://upandclear.org/2026/07/09/remux-le-serveur-jellyfin-remanie-pour-stremio-iptv-webdav-musique-ytdl-et-fichiers-locaux/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/07/39-300x300.png" width="72" alt="Remux : le serveur Jellyfin remanié pour Stremio, IPTV, WebDav, musique, ytdl et fichiers locaux" /></a>
-  <a href="https://upandclear.org/2026/07/09/remux-le-serveur-jellyfin-remanie-pour-stremio-iptv-webdav-musique-ytdl-et-fichiers-locaux/"><b>Remux : le serveur Jellyfin remanié pour Stremio, IPTV, WebDav, musique, ytdl et fichiers locaux</b></a><br/>
-  <sub>9 juil 2026</sub>
-</p>
-<br clear="left"/>
-
 
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2015/12/18/dash-ex-darkcoin-une-des-monnaies-virtuelles-les-plus-anonymes-via-lalgorithme-x11/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2015/12/Electrum_BTC_DRK-300x300.png" width="120" alt="Dash (ex DarkCoin) : une des monnaies virtuelles les plus anonymes via l’algorithme X11" /></a>
-  <a href="https://upandclear.org/2015/12/18/dash-ex-darkcoin-une-des-monnaies-virtuelles-les-plus-anonymes-via-lalgorithme-x11/"><b>Dash (ex DarkCoin) : une des monnaies virtuelles les plus anonymes via l’algorithme X11</b></a><br/>
-  <sub>18 déc 2015</sub>
+  <a href="https://upandclear.org/2021/05/20/testament-en-ligne-ou-presque/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Testament en ligne, ou presque" /></a>
+  <a href="https://upandclear.org/2021/05/20/testament-en-ligne-ou-presque/"><b>Testament en ligne, ou presque</b></a><br/>
+  <sub>20 mai 2021</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
