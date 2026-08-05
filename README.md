@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2022/03/03/ultimox/"><img align="left" src="https://upandclear.org/wp-content/uploads/2022/03/ultimox-300x300.jpg" width="120" alt="UltiMox : Proxmox en station de travail avec Plasma, Docker, rClone" /></a>
-  <a href="https://upandclear.org/2022/03/03/ultimox/"><b>UltiMox : Proxmox en station de travail avec Plasma, Docker, rClone</b></a><br/>
-  <sub>3 mar 2022</sub>
+  <a href="https://upandclear.org/2026/04/04/stremio-tres-grosse-refonte-de-streamfusion/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/04/sf7-300x300.jpg" width="120" alt="Stremio : très grosse refonte de StreamFusion" /></a>
+  <a href="https://upandclear.org/2026/04/04/stremio-tres-grosse-refonte-de-streamfusion/"><b>Stremio : très grosse refonte de StreamFusion</b></a><br/>
+  <sub>4 avr 2026</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
