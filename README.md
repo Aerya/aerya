@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2020/10/18/sonarr-radarr-lidarr-autosearch-browser-extension/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2020/10/2020-10-18_15-29-1024x368-300x300.png" width="120" alt="sonarr-radarr-lidarr-autosearch-browser-extension" /></a>
-  <a href="https://upandclear.org/2020/10/18/sonarr-radarr-lidarr-autosearch-browser-extension/"><b>sonarr-radarr-lidarr-autosearch-browser-extension</b></a><br/>
-  <sub>18 oct 2020</sub>
+  <a href="https://upandclear.org/2025/05/11/immich-go-simplicite-dimport-pour-immich-photos/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/05/synology-300x300.jpg" width="120" alt="immich-go : simplicité d’import pour Immich Photos" /></a>
+  <a href="https://upandclear.org/2025/05/11/immich-go-simplicite-dimport-pour-immich-photos/"><b>immich-go : simplicité d’import pour Immich Photos</b></a><br/>
+  <sub>11 mai 2025</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,11 +57,11 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
-- ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
-  Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées, et une API REST. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion des configurations sans redémarrage.
-
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
+
+- ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
+  Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées, et une API REST. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion des configurations sans redémarrage.
 
 - ★ 40 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
