@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2015/10/08/rtorrentrutorrent-sur-synology/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2015/10/Sélection_1214-300x300.png" width="120" alt="rTorrent/ruTorrent sur Synology" /></a>
-  <a href="https://upandclear.org/2015/10/08/rtorrentrutorrent-sur-synology/"><b>rTorrent/ruTorrent sur Synology</b></a><br/>
-  <sub>8 oct 2015</sub>
+  <a href="https://upandclear.org/2026/01/21/stremio-addon-comet-et-reseau-de-partage-de-metadonnees-cometnet/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/01/comet-300x300.jpg" width="120" alt="Stremio : addon Comet et réseau de partage de métadonnées CometNet" /></a>
+  <a href="https://upandclear.org/2026/01/21/stremio-addon-comet-et-reseau-de-partage-de-metadonnees-cometnet/"><b>Stremio : addon Comet et réseau de partage de métadonnées CometNet</b></a><br/>
+  <sub>21 jan 2026</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
