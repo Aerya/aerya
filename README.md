@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2022/02/15/paperless-ng-scanner-et-archiver-simplement-tous-ses-documents/"><img align="left" src="https://upandclear.org/wp-content/uploads/2022/02/paperless-ng-scanner-et-archiver-simplement-tous-ses-documents-300x300.jpg" width="120" alt="Paperless-ng : scanner et archiver simplement tous ses documents" /></a>
-  <a href="https://upandclear.org/2022/02/15/paperless-ng-scanner-et-archiver-simplement-tous-ses-documents/"><b>Paperless-ng : scanner et archiver simplement tous ses documents</b></a><br/>
-  <sub>15 fév 2022</sub>
+  <a href="https://upandclear.org/2017/08/07/openmailbox-org-ou-comment-prendre-ses-clients-pour-des-cons/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="OpenMailBox.org ou comment prendre ses clients pour des cons" /></a>
+  <a href="https://upandclear.org/2017/08/07/openmailbox-org-ou-comment-prendre-ses-clients-pour-des-cons/"><b>OpenMailBox.org ou comment prendre ses clients pour des cons</b></a><br/>
+  <sub>7 août 2017</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
