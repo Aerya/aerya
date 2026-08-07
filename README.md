@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2016/09/06/bitnami-deployer-des-services-en-2-clics-cloud-vm-windows-linux-osx-docker/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Bitnami : déployer des services en 2 clics (cloud, VM, Windows, Linux, OSX, Docker)" /></a>
-  <a href="https://upandclear.org/2016/09/06/bitnami-deployer-des-services-en-2-clics-cloud-vm-windows-linux-osx-docker/"><b>Bitnami : déployer des services en 2 clics (cloud, VM, Windows, Linux, OSX, Docker)</b></a><br/>
-  <sub>6 sep 2016</sub>
+  <a href="https://upandclear.org/2022/02/15/paperless-ng-scanner-et-archiver-simplement-tous-ses-documents/"><img align="left" src="https://upandclear.org/wp-content/uploads/2022/02/paperless-ng-scanner-et-archiver-simplement-tous-ses-documents-300x300.jpg" width="120" alt="Paperless-ng : scanner et archiver simplement tous ses documents" /></a>
+  <a href="https://upandclear.org/2022/02/15/paperless-ng-scanner-et-archiver-simplement-tous-ses-documents/"><b>Paperless-ng : scanner et archiver simplement tous ses documents</b></a><br/>
+  <sub>15 fév 2022</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
