@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2026/03/31/stremio-aiomanager-gestionnaire-de-comptes-addons-catalogues-et-bien-plus/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/03/aiomanager12-300x300.jpg" width="120" alt="Stremio AIOManager : gestionnaire de comptes, addons, catalogues et bien plus" /></a>
-  <a href="https://upandclear.org/2026/03/31/stremio-aiomanager-gestionnaire-de-comptes-addons-catalogues-et-bien-plus/"><b>Stremio AIOManager : gestionnaire de comptes, addons, catalogues et bien plus</b></a><br/>
-  <sub>31 mar 2026</sub>
+  <a href="https://upandclear.org/2016/09/06/bitnami-deployer-des-services-en-2-clics-cloud-vm-windows-linux-osx-docker/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Bitnami : déployer des services en 2 clics (cloud, VM, Windows, Linux, OSX, Docker)" /></a>
+  <a href="https://upandclear.org/2016/09/06/bitnami-deployer-des-services-en-2-clics-cloud-vm-windows-linux-osx-docker/"><b>Bitnami : déployer des services en 2 clics (cloud, VM, Windows, Linux, OSX, Docker)</b></a><br/>
+  <sub>6 sep 2016</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -63,7 +63,7 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - ★ 41 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
-- ★ 8 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
+- ★ 9 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
   Gluetun Companion est une interface web Python pour gérer automatiquement les serveurs VPN WireGuard et OpenVPN dans Gluetun, offrant des benchmarks, une sélection de serveurs, la gestion des containers dépendants et des notifications. Le projet est en phase bêta, principalement testé avec AirVPN.
 
 - ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
