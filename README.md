@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2016/11/18/proxmox-reduire-la-taille-dun-ct-lxc/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="ProxMox : réduire la taille d’un container" /></a>
-  <a href="https://upandclear.org/2016/11/18/proxmox-reduire-la-taille-dun-ct-lxc/"><b>ProxMox : réduire la taille d’un container</b></a><br/>
-  <sub>18 nov 2016</sub>
+  <a href="https://upandclear.org/2026/03/31/stremio-aiomanager-gestionnaire-de-comptes-addons-catalogues-et-bien-plus/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/03/aiomanager12-300x300.jpg" width="120" alt="Stremio AIOManager : gestionnaire de comptes, addons, catalogues et bien plus" /></a>
+  <a href="https://upandclear.org/2026/03/31/stremio-aiomanager-gestionnaire-de-comptes-addons-catalogues-et-bien-plus/"><b>Stremio AIOManager : gestionnaire de comptes, addons, catalogues et bien plus</b></a><br/>
+  <sub>31 mar 2026</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,14 +57,14 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
+- [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
+  Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
+
 - ★ 41 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
 - ★ 8 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
   Gluetun Companion est une interface web Python pour gérer automatiquement les serveurs VPN WireGuard et OpenVPN dans Gluetun, offrant des benchmarks, une sélection de serveurs, la gestion des containers dépendants et des notifications. Le projet est en phase bêta, principalement testé avec AirVPN.
-
-- [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
-  Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
 - ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
   Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées, et une API REST. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion des configurations sans redémarrage.
