@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2017/08/07/openmailbox-org-ou-comment-prendre-ses-clients-pour-des-cons/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="OpenMailBox.org ou comment prendre ses clients pour des cons" /></a>
-  <a href="https://upandclear.org/2017/08/07/openmailbox-org-ou-comment-prendre-ses-clients-pour-des-cons/"><b>OpenMailBox.org ou comment prendre ses clients pour des cons</b></a><br/>
-  <sub>7 août 2017</sub>
+  <a href="https://upandclear.org/2026/06/24/stremio-emby-infuse-and-co-passer-les-intros-et-credits/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/close-up-photo-of-intro-text-stockpack-pexels-300x300.jpg" width="120" alt="Stremio, Emby, Infuse and co : passer les intros et crédits" /></a>
+  <a href="https://upandclear.org/2026/06/24/stremio-emby-infuse-and-co-passer-les-intros-et-credits/"><b>Stremio, Emby, Infuse and co : passer les intros et crédits</b></a><br/>
+  <sub>24 jun 2026</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -79,7 +79,7 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
   NexoTV Enhanced est un addon Stremio pour IPTV, basé sur un fork de nexotv, offrant des chaînes TV en direct et des catalogues de films/séries configurables avec sélection de catégories. Il permet de mixer plusieurs sources, de masquer des chaînes et propose un enrichissement via TMDB.
 
 - [**PHPSysInfo-Docker**](https://github.com/Aerya/PHPSysInfo-Docker)
-  Conteneur Docker pour phpSysInfo.
+  Stack de base d'addons Stremio pour contenu francophone. Le projet n'est plus maintenu ni à jour.
 
 ---
 
