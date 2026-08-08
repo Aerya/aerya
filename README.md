@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2021/12/27/proxmox-optimisation/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/2021/12/proxmox-2-300x300.png" width="120" alt="Proxmox : optimisation (script xshok)" /></a>
-  <a href="https://upandclear.org/2021/12/27/proxmox-optimisation/"><b>Proxmox : optimisation (script xshok)</b></a><br/>
-  <sub>27 déc 2021</sub>
+  <a href="https://upandclear.org/2022/01/31/on-la-refait/"><img align="left" src="https://upandclear.org/wp-content/uploads/2022/01/on-la-refait-300x300.jpg" width="120" alt="(On la refait :) Ghost : ajouter des commentaires via Isso" /></a>
+  <a href="https://upandclear.org/2022/01/31/on-la-refait/"><b>(On la refait :) Ghost : ajouter des commentaires via Isso</b></a><br/>
+  <sub>31 jan 2022</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
