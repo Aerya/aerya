@@ -79,7 +79,7 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
   NexoTV Enhanced est un addon Stremio pour IPTV, basé sur un fork de nexotv, offrant des chaînes TV en direct et des catalogues de films/séries configurables avec sélection de catégories. Il permet de mixer plusieurs sources, de masquer des chaînes et propose un enrichissement via TMDB.
 
 - [**PHPSysInfo-Docker**](https://github.com/Aerya/PHPSysInfo-Docker)
-  Stack de base d'addons Stremio pour contenu francophone. Le projet n'est plus maintenu ni à jour.
+  Conteneur Docker pour phpSysInfo.
 
 ---
 
