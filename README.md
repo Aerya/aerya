@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2022/01/31/on-la-refait/"><img align="left" src="https://upandclear.org/wp-content/uploads/2022/01/on-la-refait-300x300.jpg" width="120" alt="(On la refait :) Ghost : ajouter des commentaires via Isso" /></a>
-  <a href="https://upandclear.org/2022/01/31/on-la-refait/"><b>(On la refait :) Ghost : ajouter des commentaires via Isso</b></a><br/>
-  <sub>31 jan 2022</sub>
+  <a href="https://upandclear.org/2016/09/02/securiser-leffacement-en-cli-rm-alias/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Sécuriser l’effacement en CLI (rm, alias)" /></a>
+  <a href="https://upandclear.org/2016/09/02/securiser-leffacement-en-cli-rm-alias/"><b>Sécuriser l’effacement en CLI (rm, alias)</b></a><br/>
+  <sub>2 sep 2016</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,7 +57,7 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
-- ★ 41 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+- ★ 40 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
 - ★ 34 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
