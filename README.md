@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2026/06/24/stremio-emby-infuse-and-co-passer-les-intros-et-credits/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/close-up-photo-of-intro-text-stockpack-pexels-300x300.jpg" width="120" alt="Stremio, Emby, Infuse and co : passer les intros et crédits" /></a>
-  <a href="https://upandclear.org/2026/06/24/stremio-emby-infuse-and-co-passer-les-intros-et-credits/"><b>Stremio, Emby, Infuse and co : passer les intros et crédits</b></a><br/>
-  <sub>24 jun 2026</sub>
+  <a href="https://upandclear.org/2021/12/27/proxmox-optimisation/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/2021/12/proxmox-2-300x300.png" width="120" alt="Proxmox : optimisation (script xshok)" /></a>
+  <a href="https://upandclear.org/2021/12/27/proxmox-optimisation/"><b>Proxmox : optimisation (script xshok)</b></a><br/>
+  <sub>27 déc 2021</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,20 +57,20 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
-- [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
-  Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
-
 - ★ 41 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
+
+- ★ 34 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
+  Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
+
+- [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
+  Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
 - ★ 9 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
   Gluetun Companion est une interface web Python pour gérer automatiquement les serveurs VPN WireGuard et OpenVPN dans Gluetun, offrant des benchmarks, une sélection de serveurs, la gestion des containers dépendants et des notifications. Le projet est en phase bêta, principalement testé avec AirVPN.
 
 - ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
   Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées, et une API REST. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion des configurations sans redémarrage.
-
-- ★ 34 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
-  Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
 
 - ★ 2 · [**stremio-rss-catalog**](https://github.com/Aerya/stremio-rss-catalog)
   Addon Stremio qui génère des catalogues depuis des flux RSS, Prowlarr ou NZBHydra2. Il permet d'intégrer des sources personnalisées directement dans Stremio.
