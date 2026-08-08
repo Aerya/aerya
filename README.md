@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2022/01/30/tester-son-systeme-de-fichiers-raid-et-zfs-avec-bonnie/"><img align="left" src="https://upandclear.org/wp-content/uploads/2022/01/tester-son-systeme-de-fichiers-raid-et-zfs-avec-bonnie-300x300.jpg" width="120" alt="Tester son système de fichiers (RAID et ZFS) avec Bonnie++" /></a>
-  <a href="https://upandclear.org/2022/01/30/tester-son-systeme-de-fichiers-raid-et-zfs-avec-bonnie/"><b>Tester son système de fichiers (RAID et ZFS) avec Bonnie++</b></a><br/>
-  <sub>30 jan 2022</sub>
+  <a href="https://upandclear.org/2017/01/22/t411-erreur-409-fichiers-hosts-et-dns/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2017/01/001-13-300x153.png" width="120" alt="T411 : erreur 409, fichiers HOSTS et DNS" /></a>
+  <a href="https://upandclear.org/2017/01/22/t411-erreur-409-fichiers-hosts-et-dns/"><b>T411 : erreur 409, fichiers HOSTS et DNS</b></a><br/>
+  <sub>22 jan 2017</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
