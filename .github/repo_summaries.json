@@ -69,8 +69,8 @@
     "Aerya/PHPSysInfo-Docker": {
       "fingerprint": "e2b06bc35631f3bb224442163beb189eb4eafb8f71efd8b4fc41c4fea40396a7",
       "source": "manual",
-      "summary": "Stack de base d'addons Stremio pour contenu francophone. Le projet n'est plus maintenu ni à jour.",
-      "updated_at": "2026-08-08T14:35:38+00:00"
+      "summary": "Conteneur Docker pour phpSysInfo, qui affiche les informations système et matérielles d'un hôte dans une interface web.",
+      "updated_at": "2026-08-08T15:00:00+00:00"
     },
     "Aerya/Planet-Warez-Markdown-menu": {
       "fingerprint": "bb2524f0488404ad0e176955849f16eaed41a5f71be38091deaf136c4b803fb5",
