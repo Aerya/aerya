@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2016/09/02/securiser-leffacement-en-cli-rm-alias/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Sécuriser l’effacement en CLI (rm, alias)" /></a>
-  <a href="https://upandclear.org/2016/09/02/securiser-leffacement-en-cli-rm-alias/"><b>Sécuriser l’effacement en CLI (rm, alias)</b></a><br/>
-  <sub>2 sep 2016</sub>
+  <a href="https://upandclear.org/2022/01/30/tester-son-systeme-de-fichiers-raid-et-zfs-avec-bonnie/"><img align="left" src="https://upandclear.org/wp-content/uploads/2022/01/tester-son-systeme-de-fichiers-raid-et-zfs-avec-bonnie-300x300.jpg" width="120" alt="Tester son système de fichiers (RAID et ZFS) avec Bonnie++" /></a>
+  <a href="https://upandclear.org/2022/01/30/tester-son-systeme-de-fichiers-raid-et-zfs-avec-bonnie/"><b>Tester son système de fichiers (RAID et ZFS) avec Bonnie++</b></a><br/>
+  <sub>30 jan 2022</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
