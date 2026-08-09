@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2026/06/16/addon-watchly-recommandations-bases-sur-stremio-trakt-simkl/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/8-300x300.jpg" width="120" alt="Addon Watchly : recommandations bases sur Stremio/Trakt/Simkl" /></a>
-  <a href="https://upandclear.org/2026/06/16/addon-watchly-recommandations-bases-sur-stremio-trakt-simkl/"><b>Addon Watchly : recommandations bases sur Stremio/Trakt/Simkl</b></a><br/>
-  <sub>16 jun 2026</sub>
+  <a href="https://upandclear.org/2016/08/05/android-6-non-roote-monter-une-carte-sd-comme-memoire-interne/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2016/08/android-m-carte-sd-300x300.jpg" width="120" alt="Android 6 non Rooté : monter une carte SD comme mémoire interne" /></a>
+  <a href="https://upandclear.org/2016/08/05/android-6-non-roote-monter-une-carte-sd-comme-memoire-interne/"><b>Android 6 non Rooté : monter une carte SD comme mémoire interne</b></a><br/>
+  <sub>5 août 2016</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
