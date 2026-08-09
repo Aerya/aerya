@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2020/06/22/passage-du-blog-sous-docker-cloudflare/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Passage du blog sous Docker +  CloudFlare" /></a>
-  <a href="https://upandclear.org/2020/06/22/passage-du-blog-sous-docker-cloudflare/"><b>Passage du blog sous Docker +  CloudFlare</b></a><br/>
-  <sub>22 jun 2020</sub>
+  <a href="https://upandclear.org/2026/06/16/addon-watchly-recommandations-bases-sur-stremio-trakt-simkl/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/8-300x300.jpg" width="120" alt="Addon Watchly : recommandations bases sur Stremio/Trakt/Simkl" /></a>
+  <a href="https://upandclear.org/2026/06/16/addon-watchly-recommandations-bases-sur-stremio-trakt-simkl/"><b>Addon Watchly : recommandations bases sur Stremio/Trakt/Simkl</b></a><br/>
+  <sub>16 jun 2026</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
