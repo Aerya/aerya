@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2026/05/27/claude-code-ui-webui-pour-claude-code-et-codex-notamment-puis-jen-ai-fait-un-docker-avec-traduction-fr/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/05/a-computer-with-a-keyboard-and-mouse-stockpack-unsplash-300x300.jpg" width="120" alt="Claude Code UI : WebUI pour Claude Code et Codex notamment. Puis j’en ai fait un Docker avec traduction FR" /></a>
-  <a href="https://upandclear.org/2026/05/27/claude-code-ui-webui-pour-claude-code-et-codex-notamment-puis-jen-ai-fait-un-docker-avec-traduction-fr/"><b>Claude Code UI : WebUI pour Claude Code et Codex notamment. Puis j’en ai fait un Docker avec traduction FR</b></a><br/>
-  <sub>27 mai 2026</sub>
+  <a href="https://upandclear.org/2016/04/22/manage-this-portail-htpc-complet-ou-presque/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2016/04/1-1-300x300.png" width="120" alt="Manage this : portail HTPC complet (ou presque)" /></a>
+  <a href="https://upandclear.org/2016/04/22/manage-this-portail-htpc-complet-ou-presque/"><b>Manage this : portail HTPC complet (ou presque)</b></a><br/>
+  <sub>22 avr 2016</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
