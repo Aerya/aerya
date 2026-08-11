@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2019/08/11/rclone-sur-android/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2019/08/Screenshot_20190811-114538_Rclone-Explorer-768x1579-300x300.jpg" width="120" alt="rClone sur Android" /></a>
-  <a href="https://upandclear.org/2019/08/11/rclone-sur-android/"><b>rClone sur Android</b></a><br/>
-  <sub>11 août 2019</sub>
+  <a href="https://upandclear.org/2025/01/08/thermometre-connecte-pour-viandes-et-poissons/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/01/beef-connected-thermometer-300x300.jpg" width="120" alt="Thermomètre connecté pour viandes et poissons" /></a>
+  <a href="https://upandclear.org/2025/01/08/thermometre-connecte-pour-viandes-et-poissons/"><b>Thermomètre connecté pour viandes et poissons</b></a><br/>
+  <sub>8 jan 2025</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -60,7 +60,7 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - ★ 40 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
-- ★ 34 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
+- ★ 36 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
   Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
 
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
