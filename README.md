@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2015/08/24/voici-a-quoi-ressemble-linternet-dun-hyper-prudent/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Voici à quoi ressemble l’Internet d’un hyper prudent" /></a>
-  <a href="https://upandclear.org/2015/08/24/voici-a-quoi-ressemble-linternet-dun-hyper-prudent/"><b>Voici à quoi ressemble l’Internet d’un hyper prudent</b></a><br/>
-  <sub>24 août 2015</sub>
+  <a href="https://upandclear.org/2016/11/24/transmission-changer-la-webui/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2016/11/Cap04-1-300x300.png" width="120" alt="Transmission : changer la WebUI" /></a>
+  <a href="https://upandclear.org/2016/11/24/transmission-changer-la-webui/"><b>Transmission : changer la WebUI</b></a><br/>
+  <sub>24 nov 2016</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
