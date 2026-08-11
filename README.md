@@ -14,6 +14,13 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Les derniers
 
 <p>
+  <a href="https://upandclear.org/2026/08/11/rainbow-six-siege-r6s-sous-linux-et-windows-avec-liberator-chasse-aux-terroristes-et-multi-en-lan-sans-compte-jusquen-saison-y4s4-operation-shifting-tides-2020/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/08/images-300x300.jpeg" width="72" alt="Rainbow Six: Siege (R6S) sous Linux (et Windows) : avec Liberator, chasse aux terroristes et multi en LAN sans compte jusqu’en saison Y4S4 – Operation Shifting Tides (2020)" /></a>
+  <a href="https://upandclear.org/2026/08/11/rainbow-six-siege-r6s-sous-linux-et-windows-avec-liberator-chasse-aux-terroristes-et-multi-en-lan-sans-compte-jusquen-saison-y4s4-operation-shifting-tides-2020/"><b>Rainbow Six: Siege (R6S) sous Linux (et Windows) : avec Liberator, chasse aux terroristes et multi en LAN sans compte jusqu’en saison Y4S4 – Operation Shifting Tides (2020)</b></a><br/>
+  <sub>11 août 2026</sub>
+</p>
+<br clear="left"/>
+
+<p>
   <a href="https://upandclear.org/2026/08/04/loostream-addon-stremio-pour-lagregation-de-flux-streaming-userscript-bypass-proxy/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/08/graphical-user-interface-stockpack-unsplash-300x300.jpg" width="72" alt="LooStream : addon Stremio pour l’agrégation de flux streaming + userscript bypass proxy" /></a>
   <a href="https://upandclear.org/2026/08/04/loostream-addon-stremio-pour-lagregation-de-flux-streaming-userscript-bypass-proxy/"><b>LooStream : addon Stremio pour l’agrégation de flux streaming + userscript bypass proxy</b></a><br/>
   <sub>4 août 2026</sub>
@@ -34,20 +41,13 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 </p>
 <br clear="left"/>
 
-<p>
-  <a href="https://upandclear.org/2026/07/26/ultra-cc-et-bittorrent-empecher-larret-automatique-du-seed-torrents-stalled-bloques/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/07/1-1-300x300.png" width="72" alt="Ultra.cc et BitTorrent : empêcher l’arrêt automatique du seed (torrents stalled/bloqués)" /></a>
-  <a href="https://upandclear.org/2026/07/26/ultra-cc-et-bittorrent-empecher-larret-automatique-du-seed-torrents-stalled-bloques/"><b>Ultra.cc et BitTorrent : empêcher l’arrêt automatique du seed (torrents stalled/bloqués)</b></a><br/>
-  <sub>26 juil 2026</sub>
-</p>
-<br clear="left"/>
-
 
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2025/01/08/thermometre-connecte-pour-viandes-et-poissons/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/01/beef-connected-thermometer-300x300.jpg" width="120" alt="Thermomètre connecté pour viandes et poissons" /></a>
-  <a href="https://upandclear.org/2025/01/08/thermometre-connecte-pour-viandes-et-poissons/"><b>Thermomètre connecté pour viandes et poissons</b></a><br/>
-  <sub>8 jan 2025</sub>
+  <a href="https://upandclear.org/2015/08/24/voici-a-quoi-ressemble-linternet-dun-hyper-prudent/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Voici à quoi ressemble l’Internet d’un hyper prudent" /></a>
+  <a href="https://upandclear.org/2015/08/24/voici-a-quoi-ressemble-linternet-dun-hyper-prudent/"><b>Voici à quoi ressemble l’Internet d’un hyper prudent</b></a><br/>
+  <sub>24 août 2015</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
