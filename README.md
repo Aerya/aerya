@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2017/05/14/docker-bench-for-security-clair-coreos-testez-la-securite-de-votre-environnement-docker-et-de-vos-containers/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Docker Bench for Security &amp; Clair (CoreOS) : testez la sécurité de votre environnement Docker et de vos containers" /></a>
-  <a href="https://upandclear.org/2017/05/14/docker-bench-for-security-clair-coreos-testez-la-securite-de-votre-environnement-docker-et-de-vos-containers/"><b>Docker Bench for Security &amp; Clair (CoreOS) : testez la sécurité de votre environnement Docker et de vos containers</b></a><br/>
-  <sub>14 mai 2017</sub>
+  <a href="https://upandclear.org/2016/08/22/vnstat-monitoring-reseau-trafic-synologylinux/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2016/08/Sélection_003-1-300x300.png" width="120" alt="VNstat : Monitoring réseau (trafic) Synology/Linux" /></a>
+  <a href="https://upandclear.org/2016/08/22/vnstat-monitoring-reseau-trafic-synologylinux/"><b>VNstat : Monitoring réseau (trafic) Synology/Linux</b></a><br/>
+  <sub>22 août 2016</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -58,7 +58,7 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 ### Dernières mises à jour
 
 - ★ 9 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
-  Gluetun Companion est une interface web pour gérer et automatiser les serveurs VPN WireGuard et OpenVPN dans Gluetun. Il offre des benchmarks, une sélection automatique de serveurs, la gestion des containers dépendants, et des fonctionnalités avancées pour le suivi et la notification.
+  Gluetun Companion est une interface web Python pour gérer automatiquement les serveurs VPN WireGuard et OpenVPN dans Gluetun, offrant des benchmarks, une sélection de serveurs, la gestion des conteneurs dépendants et des notifications. Le projet est en bêta, principalement testé avec AirVPN.
 
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
