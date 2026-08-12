@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2016/08/22/vnstat-monitoring-reseau-trafic-synologylinux/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2016/08/Sélection_003-1-300x300.png" width="120" alt="VNstat : Monitoring réseau (trafic) Synology/Linux" /></a>
-  <a href="https://upandclear.org/2016/08/22/vnstat-monitoring-reseau-trafic-synologylinux/"><b>VNstat : Monitoring réseau (trafic) Synology/Linux</b></a><br/>
-  <sub>22 août 2016</sub>
+  <a href="https://upandclear.org/2016/02/17/keyboard-tinter-2-visualisez-vos-frappes/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2016/02/h-300x300.jpg" width="120" alt="Keyboard Tinter 2 : visualisez vos frappes" /></a>
+  <a href="https://upandclear.org/2016/02/17/keyboard-tinter-2-visualisez-vos-frappes/"><b>Keyboard Tinter 2 : visualisez vos frappes</b></a><br/>
+  <sub>17 fév 2016</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
