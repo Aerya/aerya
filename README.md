@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2016/04/23/noob-rainbow-six-siege-tips-pour-debutants/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2016/04/r6s-300x300.png" width="120" alt="[NOOB] Rainbow Six Siege : tips pour débutants" /></a>
-  <a href="https://upandclear.org/2016/04/23/noob-rainbow-six-siege-tips-pour-debutants/"><b>[NOOB] Rainbow Six Siege : tips pour débutants</b></a><br/>
-  <sub>23 avr 2016</sub>
+  <a href="https://upandclear.org/2017/05/14/docker-bench-for-security-clair-coreos-testez-la-securite-de-votre-environnement-docker-et-de-vos-containers/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Docker Bench for Security &amp; Clair (CoreOS) : testez la sécurité de votre environnement Docker et de vos containers" /></a>
+  <a href="https://upandclear.org/2017/05/14/docker-bench-for-security-clair-coreos-testez-la-securite-de-votre-environnement-docker-et-de-vos-containers/"><b>Docker Bench for Security &amp; Clair (CoreOS) : testez la sécurité de votre environnement Docker et de vos containers</b></a><br/>
+  <sub>14 mai 2017</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
