@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2022/01/30/tester-son-systeme-de-fichiers-raid-et-zfs-avec-bonnie/"><img align="left" src="https://upandclear.org/wp-content/uploads/2022/01/tester-son-systeme-de-fichiers-raid-et-zfs-avec-bonnie-300x300.jpg" width="120" alt="Tester son système de fichiers (RAID et ZFS) avec Bonnie++" /></a>
-  <a href="https://upandclear.org/2022/01/30/tester-son-systeme-de-fichiers-raid-et-zfs-avec-bonnie/"><b>Tester son système de fichiers (RAID et ZFS) avec Bonnie++</b></a><br/>
-  <sub>30 jan 2022</sub>
+  <a href="https://upandclear.org/2015/11/09/webconsole-une-console-ssh-like-via-php-pour-serveurs-nas/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2015/11/Sélection_063-300x279.png" width="120" alt="WebConsole : une console SSH-like, via PHP, pour serveurs, NAS…" /></a>
+  <a href="https://upandclear.org/2015/11/09/webconsole-une-console-ssh-like-via-php-pour-serveurs-nas/"><b>WebConsole : une console SSH-like, via PHP, pour serveurs, NAS…</b></a><br/>
+  <sub>9 nov 2015</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
