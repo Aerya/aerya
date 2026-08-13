@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2016/02/17/keyboard-tinter-2-visualisez-vos-frappes/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2016/02/h-300x300.jpg" width="120" alt="Keyboard Tinter 2 : visualisez vos frappes" /></a>
-  <a href="https://upandclear.org/2016/02/17/keyboard-tinter-2-visualisez-vos-frappes/"><b>Keyboard Tinter 2 : visualisez vos frappes</b></a><br/>
-  <sub>17 fév 2016</sub>
+  <a href="https://upandclear.org/2022/01/30/serverviz-creer-un-graphique-de-votre-serveur/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/2022/01/2022-01-30_17-48-300x300.png" width="120" alt="ServerViz : créer un graphique de votre serveur" /></a>
+  <a href="https://upandclear.org/2022/01/30/serverviz-creer-un-graphique-de-votre-serveur/"><b>ServerViz : créer un graphique de votre serveur</b></a><br/>
+  <sub>30 jan 2022</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,13 +57,13 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
-- ★ 9 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
-  Gluetun Companion est une interface web Python pour gérer automatiquement les serveurs VPN WireGuard et OpenVPN dans Gluetun, offrant des benchmarks, une sélection de serveurs, la gestion des conteneurs dépendants et des notifications. Le projet est en bêta, principalement testé avec AirVPN.
-
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
-- ★ 40 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+- ★ 9 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
+  Gluetun Companion est une interface web Python pour gérer automatiquement les serveurs VPN WireGuard et OpenVPN dans Gluetun, offrant des benchmarks, une sélection de serveurs, la gestion des conteneurs dépendants et des notifications. Le projet est en bêta, principalement testé avec AirVPN.
+
+- ★ 42 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
 - ★ 36 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
