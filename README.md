@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2017/05/13/openvpn-ubuntu-17-script-de-reconnexion-automatique/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="OpenVPN, Ubuntu 17 : script de reconnexion automatique" /></a>
-  <a href="https://upandclear.org/2017/05/13/openvpn-ubuntu-17-script-de-reconnexion-automatique/"><b>OpenVPN, Ubuntu 17 : script de reconnexion automatique</b></a><br/>
-  <sub>13 mai 2017</sub>
+  <a href="https://upandclear.org/2020/11/30/whoogle-proxy-de-recherche-sur-google/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2020/11/2020-11-30_07-49-300x300.png" width="120" alt="Whoogle : proxy de recherche sur Google" /></a>
+  <a href="https://upandclear.org/2020/11/30/whoogle-proxy-de-recherche-sur-google/"><b>Whoogle : proxy de recherche sur Google</b></a><br/>
+  <sub>30 nov 2020</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
