@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2016/08/28/systemes-de-fichiers-linux/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Systèmes de fichiers LINUX" /></a>
-  <a href="https://upandclear.org/2016/08/28/systemes-de-fichiers-linux/"><b>Systèmes de fichiers LINUX</b></a><br/>
-  <sub>28 août 2016</sub>
+  <a href="https://upandclear.org/2017/05/13/openvpn-ubuntu-17-script-de-reconnexion-automatique/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="OpenVPN, Ubuntu 17 : script de reconnexion automatique" /></a>
+  <a href="https://upandclear.org/2017/05/13/openvpn-ubuntu-17-script-de-reconnexion-automatique/"><b>OpenVPN, Ubuntu 17 : script de reconnexion automatique</b></a><br/>
+  <sub>13 mai 2017</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
