@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2020/11/30/whoogle-proxy-de-recherche-sur-google/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2020/11/2020-11-30_07-49-300x300.png" width="120" alt="Whoogle : proxy de recherche sur Google" /></a>
-  <a href="https://upandclear.org/2020/11/30/whoogle-proxy-de-recherche-sur-google/"><b>Whoogle : proxy de recherche sur Google</b></a><br/>
-  <sub>30 nov 2020</sub>
+  <a href="https://upandclear.org/2018/09/16/nginx-proxy-manager-reverse-proxy-nginx-ssl-via-interface-web-noob/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2018/09/2018-09-16_12-36-300x295.png" width="120" alt="Nginx-Proxy-Manager : reverse proxy Nginx + SSL via interface Web [NOOB]" /></a>
+  <a href="https://upandclear.org/2018/09/16/nginx-proxy-manager-reverse-proxy-nginx-ssl-via-interface-web-noob/"><b>Nginx-Proxy-Manager : reverse proxy Nginx + SSL via interface Web [NOOB]</b></a><br/>
+  <sub>16 sep 2018</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
