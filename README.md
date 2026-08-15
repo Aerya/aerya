@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2018/09/16/nginx-proxy-manager-reverse-proxy-nginx-ssl-via-interface-web-noob/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2018/09/2018-09-16_12-36-300x295.png" width="120" alt="Nginx-Proxy-Manager : reverse proxy Nginx + SSL via interface Web [NOOB]" /></a>
-  <a href="https://upandclear.org/2018/09/16/nginx-proxy-manager-reverse-proxy-nginx-ssl-via-interface-web-noob/"><b>Nginx-Proxy-Manager : reverse proxy Nginx + SSL via interface Web [NOOB]</b></a><br/>
-  <sub>16 sep 2018</sub>
+  <a href="https://upandclear.org/2015/08/23/il-est-possible-damplifier-une-attaque-ddos-avec-bittorrent/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Il est possible d’amplifier une attaque DDoS avec Bittorrent" /></a>
+  <a href="https://upandclear.org/2015/08/23/il-est-possible-damplifier-une-attaque-ddos-avec-bittorrent/"><b>Il est possible d’amplifier une attaque DDoS avec Bittorrent</b></a><br/>
+  <sub>23 août 2015</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
