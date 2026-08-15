@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2024/11/03/stump-serveur-lecteur-de-comics-manga-auto-heberge/"><img align="left" src="https://upandclear.org/wp-content/uploads/2024/11/comics-reader-web-hosted-300x300.jpg" width="120" alt="Stump : serveur/lecteur de comics/manga auto-hébergé" /></a>
-  <a href="https://upandclear.org/2024/11/03/stump-serveur-lecteur-de-comics-manga-auto-heberge/"><b>Stump : serveur/lecteur de comics/manga auto-hébergé</b></a><br/>
-  <sub>3 nov 2024</sub>
+  <a href="https://upandclear.org/2022/02/13/joplin-le-meilleur-gestionnaire-de-notes/"><img align="left" src="https://upandclear.org/wp-content/uploads/2022/02/joplin-le-meilleur-gestionnaire-de-notes-300x300.jpg" width="120" alt="Joplin : le meilleur gestionnaire de notes/to-do ?" /></a>
+  <a href="https://upandclear.org/2022/02/13/joplin-le-meilleur-gestionnaire-de-notes/"><b>Joplin : le meilleur gestionnaire de notes/to-do ?</b></a><br/>
+  <sub>13 fév 2022</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
