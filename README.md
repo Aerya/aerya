@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2016/03/11/css-fts/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2016/03/1-300x300.png" width="120" alt="Exemples de CSS pour… *__*" /></a>
-  <a href="https://upandclear.org/2016/03/11/css-fts/"><b>Exemples de CSS pour… *__*</b></a><br/>
-  <sub>11 mar 2016</sub>
+  <a href="https://upandclear.org/2024/11/03/stump-serveur-lecteur-de-comics-manga-auto-heberge/"><img align="left" src="https://upandclear.org/wp-content/uploads/2024/11/comics-reader-web-hosted-300x300.jpg" width="120" alt="Stump : serveur/lecteur de comics/manga auto-hébergé" /></a>
+  <a href="https://upandclear.org/2024/11/03/stump-serveur-lecteur-de-comics-manga-auto-heberge/"><b>Stump : serveur/lecteur de comics/manga auto-hébergé</b></a><br/>
+  <sub>3 nov 2024</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
