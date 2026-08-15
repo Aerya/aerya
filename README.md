@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2015/08/23/il-est-possible-damplifier-une-attaque-ddos-avec-bittorrent/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Il est possible d’amplifier une attaque DDoS avec Bittorrent" /></a>
-  <a href="https://upandclear.org/2015/08/23/il-est-possible-damplifier-une-attaque-ddos-avec-bittorrent/"><b>Il est possible d’amplifier une attaque DDoS avec Bittorrent</b></a><br/>
-  <sub>23 août 2015</sub>
+  <a href="https://upandclear.org/2016/03/11/css-fts/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2016/03/1-300x300.png" width="120" alt="Exemples de CSS pour… *__*" /></a>
+  <a href="https://upandclear.org/2016/03/11/css-fts/"><b>Exemples de CSS pour… *__*</b></a><br/>
+  <sub>11 mar 2016</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
