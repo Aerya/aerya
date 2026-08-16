@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2022/02/13/joplin-le-meilleur-gestionnaire-de-notes/"><img align="left" src="https://upandclear.org/wp-content/uploads/2022/02/joplin-le-meilleur-gestionnaire-de-notes-300x300.jpg" width="120" alt="Joplin : le meilleur gestionnaire de notes/to-do ?" /></a>
-  <a href="https://upandclear.org/2022/02/13/joplin-le-meilleur-gestionnaire-de-notes/"><b>Joplin : le meilleur gestionnaire de notes/to-do ?</b></a><br/>
-  <sub>13 fév 2022</sub>
+  <a href="https://upandclear.org/2017/05/23/filemanager-polo-beta-publique/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2017/05/Polo-File-Manager-v17.5.1-BETA-6_001-300x300.png" width="120" alt="FileManager Polo : BETA publique :)" /></a>
+  <a href="https://upandclear.org/2017/05/23/filemanager-polo-beta-publique/"><b>FileManager Polo : BETA publique :)</b></a><br/>
+  <sub>23 mai 2017</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
