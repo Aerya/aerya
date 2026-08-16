@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2015/09/22/firejail-preservez-un-peu-plus-votre-vie-privee-sous-firefoxthunderbird/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Firejail : préservez un peu plus votre vie privée sous Firefox/Thunderbird" /></a>
-  <a href="https://upandclear.org/2015/09/22/firejail-preservez-un-peu-plus-votre-vie-privee-sous-firefoxthunderbird/"><b>Firejail : préservez un peu plus votre vie privée sous Firefox/Thunderbird</b></a><br/>
-  <sub>22 sep 2015</sub>
+  <a href="https://upandclear.org/2025/09/14/jellystat-statistiques-de-lecture-et-contenus/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/09/jellystat-jellyfin-statistics-1757839639-300x300.jpg" width="120" alt="JellyStat : statistiques de lecture et contenus" /></a>
+  <a href="https://upandclear.org/2025/09/14/jellystat-statistiques-de-lecture-et-contenus/"><b>JellyStat : statistiques de lecture et contenus</b></a><br/>
+  <sub>14 sep 2025</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -66,7 +66,7 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - ★ 43 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
-- ★ 9 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
+- ★ 10 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
   Gluetun Companion est une interface web Python pour gérer automatiquement les serveurs VPN WireGuard et OpenVPN dans Gluetun, offrant des benchmarks, une sélection de serveurs, la gestion des conteneurs dépendants et des notifications. Le projet est en bêta, principalement testé avec AirVPN.
 
 - ★ 36 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
