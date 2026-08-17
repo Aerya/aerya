@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2015/09/22/cyberattaques-beaucoup-de-pays-se-font-passer-pour-des-chinois/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Cyberattaques: Beaucoup de pays se font passer pour des Chinois" /></a>
-  <a href="https://upandclear.org/2015/09/22/cyberattaques-beaucoup-de-pays-se-font-passer-pour-des-chinois/"><b>Cyberattaques: Beaucoup de pays se font passer pour des Chinois</b></a><br/>
-  <sub>22 sep 2015</sub>
+  <a href="https://upandclear.org/2016/10/01/installer-et-configurer-ubooquity-gestionnaire-debooks/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2016/10/Ubooquity-Mozilla-Firefox_006-300x300.png" width="120" alt="Installer et configurer Ubooquity, gestionnaire d’eBooks" /></a>
+  <a href="https://upandclear.org/2016/10/01/installer-et-configurer-ubooquity-gestionnaire-debooks/"><b>Installer et configurer Ubooquity, gestionnaire d’eBooks</b></a><br/>
+  <sub>1 oct 2016</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
