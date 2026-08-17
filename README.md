@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2016/10/01/installer-et-configurer-ubooquity-gestionnaire-debooks/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2016/10/Ubooquity-Mozilla-Firefox_006-300x300.png" width="120" alt="Installer et configurer Ubooquity, gestionnaire d’eBooks" /></a>
-  <a href="https://upandclear.org/2016/10/01/installer-et-configurer-ubooquity-gestionnaire-debooks/"><b>Installer et configurer Ubooquity, gestionnaire d’eBooks</b></a><br/>
-  <sub>1 oct 2016</sub>
+  <a href="https://upandclear.org/2026/03/29/stremio-rss-catalog-creer-des-catalogues-a-partir-de-flux-rss/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/11/logo-300x300.jpg" width="120" alt="Stremio RSS Catalog : créer des catalogues à partir de flux RSS" /></a>
+  <a href="https://upandclear.org/2026/03/29/stremio-rss-catalog-creer-des-catalogues-a-partir-de-flux-rss/"><b>Stremio RSS Catalog : créer des catalogues à partir de flux RSS</b></a><br/>
+  <sub>29 mar 2026</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
