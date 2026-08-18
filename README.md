@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2021/11/28/stocker-via-rclone-sur-des-teamdrives-dun-compte-gmail-partie-1-les-outils-necessaires/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/2021/11/Sans-titre-300x300.png" width="120" alt="Stocker via rClone sur des Teamdrives d’un compte Gmail – Partie 1 : TeamDrives et rClone" /></a>
-  <a href="https://upandclear.org/2021/11/28/stocker-via-rclone-sur-des-teamdrives-dun-compte-gmail-partie-1-les-outils-necessaires/"><b>Stocker via rClone sur des Teamdrives d’un compte Gmail – Partie 1 : TeamDrives et rClone</b></a><br/>
-  <sub>28 nov 2021</sub>
+  <a href="https://upandclear.org/2019/03/10/ovh-sys-activer-ligpu-transcodage-plex-jellyfin/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="OVH/SYS : utiliser l’iGPU (transcodage Plex/Jellyfin)" /></a>
+  <a href="https://upandclear.org/2019/03/10/ovh-sys-activer-ligpu-transcodage-plex-jellyfin/"><b>OVH/SYS : utiliser l’iGPU (transcodage Plex/Jellyfin)</b></a><br/>
+  <sub>10 mar 2019</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
