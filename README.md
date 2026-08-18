@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2019/03/10/ovh-sys-activer-ligpu-transcodage-plex-jellyfin/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="OVH/SYS : utiliser l’iGPU (transcodage Plex/Jellyfin)" /></a>
-  <a href="https://upandclear.org/2019/03/10/ovh-sys-activer-ligpu-transcodage-plex-jellyfin/"><b>OVH/SYS : utiliser l’iGPU (transcodage Plex/Jellyfin)</b></a><br/>
-  <sub>10 mar 2019</sub>
+  <a href="https://upandclear.org/2024/06/30/stirling-pdf-le-couteau-suisse-du-pdf-en-local/"><img align="left" src="https://upandclear.org/wp-content/uploads/2024/06/adobe-pdf-editing-software-300x300.png" width="120" alt="Stirling PDF : le couteau suisse du PDF en local" /></a>
+  <a href="https://upandclear.org/2024/06/30/stirling-pdf-le-couteau-suisse-du-pdf-en-local/"><b>Stirling PDF : le couteau suisse du PDF en local</b></a><br/>
+  <sub>30 jun 2024</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -56,6 +56,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 
 <!-- REPOS:START -->
 ### Dernières mises à jour
+
+- ★ 10 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
+  Gluetun Companion est une interface web Python pour gérer automatiquement les serveurs VPN WireGuard et OpenVPN dans Gluetun, offrant des benchmarks, une sélection de serveurs, la gestion des conteneurs dépendants et des notifications. Le projet est en bêta, principalement testé avec AirVPN.
 
 - ★ 43 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
@@ -68,9 +71,6 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 
 - ★ 36 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
   Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
-
-- ★ 10 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
-  Gluetun Companion est une interface web Python pour gérer automatiquement les serveurs VPN WireGuard et OpenVPN dans Gluetun, offrant des benchmarks, une sélection de serveurs, la gestion des conteneurs dépendants et des notifications. Le projet est en bêta, principalement testé avec AirVPN.
 
 - ★ 2 · [**stremio-rss-catalog**](https://github.com/Aerya/stremio-rss-catalog)
   Addon Stremio qui génère des catalogues depuis des flux RSS, Prowlarr ou NZBHydra2. Il permet d'intégrer des sources personnalisées directement dans Stremio.
