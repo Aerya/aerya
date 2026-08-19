@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2024/06/30/stirling-pdf-le-couteau-suisse-du-pdf-en-local/"><img align="left" src="https://upandclear.org/wp-content/uploads/2024/06/adobe-pdf-editing-software-300x300.png" width="120" alt="Stirling PDF : le couteau suisse du PDF en local" /></a>
-  <a href="https://upandclear.org/2024/06/30/stirling-pdf-le-couteau-suisse-du-pdf-en-local/"><b>Stirling PDF : le couteau suisse du PDF en local</b></a><br/>
-  <sub>30 jun 2024</sub>
+  <a href="https://upandclear.org/2015/10/31/nouveau-nuckodi-pour-le-x265/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2015/10/BOXNUC5I3RYH-300x300.jpg" width="120" alt="Nouveau NUC/Kodi, pour le x265" /></a>
+  <a href="https://upandclear.org/2015/10/31/nouveau-nuckodi-pour-le-x265/"><b>Nouveau NUC/Kodi, pour le x265</b></a><br/>
+  <sub>31 oct 2015</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,9 +57,6 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
-- ★ 10 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
-  Gluetun Companion est une interface web Python pour gérer automatiquement les serveurs VPN WireGuard et OpenVPN dans Gluetun, offrant des benchmarks, une sélection de serveurs, la gestion des conteneurs dépendants et des notifications. Le projet est en bêta, principalement testé avec AirVPN.
-
 - ★ 43 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
@@ -68,6 +65,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
+
+- ★ 10 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
+  Gluetun Companion est une interface web Python pour gérer automatiquement les serveurs VPN WireGuard et OpenVPN dans Gluetun, offrant des benchmarks, une sélection de serveurs, la gestion des conteneurs dépendants et des notifications. Le projet est en bêta, principalement testé avec AirVPN.
 
 - ★ 36 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
   Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
