@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2016/09/29/script-simpliste-de-creation-de-torrent/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Script (simpliste) de création de .torrent" /></a>
-  <a href="https://upandclear.org/2016/09/29/script-simpliste-de-creation-de-torrent/"><b>Script (simpliste) de création de .torrent</b></a><br/>
-  <sub>29 sep 2016</sub>
+  <a href="https://upandclear.org/2016/03/15/iptablesipset-acces-portsservices-selon-ip-protections-diverses-et-blocage-ip-chinoises-noracism/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="IPtables/IPset : accès ports/services selon IP, protections diverses et blocage IP chinoises (NORACISM)" /></a>
+  <a href="https://upandclear.org/2016/03/15/iptablesipset-acces-portsservices-selon-ip-protections-diverses-et-blocage-ip-chinoises-noracism/"><b>IPtables/IPset : accès ports/services selon IP, protections diverses et blocage IP chinoises (NORACISM)</b></a><br/>
+  <sub>15 mar 2016</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
