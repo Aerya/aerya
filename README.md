@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2025/11/22/mon-setup-maison-iphone-pour-limiter-les-publicites-et-traqueurs-listes/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/11/chatgpt-image-22-nov.-2025-10_54_38-300x300.jpg" width="120" alt="Mon setup maison/iPhone pour limiter les publicités et traqueurs (+ listes)" /></a>
-  <a href="https://upandclear.org/2025/11/22/mon-setup-maison-iphone-pour-limiter-les-publicites-et-traqueurs-listes/"><b>Mon setup maison/iPhone pour limiter les publicités et traqueurs (+ listes)</b></a><br/>
-  <sub>22 nov 2025</sub>
+  <a href="https://upandclear.org/2015/10/08/irccloud-vie-privee-stfu/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="IRCCloud : vie privée ? STFU!" /></a>
+  <a href="https://upandclear.org/2015/10/08/irccloud-vie-privee-stfu/"><b>IRCCloud : vie privée ? STFU!</b></a><br/>
+  <sub>8 oct 2015</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
