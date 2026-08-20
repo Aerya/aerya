@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2017/07/21/briar-messagerie-android-decentralisee-chiffree-e2e-et-anonyme-p2p-tor-voire-plus-si-affinites/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Briar : messagerie Android décentralisée, chiffrée (E2E) et anonyme (P2P-Tor), voire plus si affinités" /></a>
-  <a href="https://upandclear.org/2017/07/21/briar-messagerie-android-decentralisee-chiffree-e2e-et-anonyme-p2p-tor-voire-plus-si-affinites/"><b>Briar : messagerie Android décentralisée, chiffrée (E2E) et anonyme (P2P-Tor), voire plus si affinités</b></a><br/>
-  <sub>21 juil 2017</sub>
+  <a href="https://upandclear.org/2021/09/20/maj-auto-de-containers-docker-watchtower/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="MàJ auto de containers Docker : Watchtower" /></a>
+  <a href="https://upandclear.org/2021/09/20/maj-auto-de-containers-docker-watchtower/"><b>MàJ auto de containers Docker : Watchtower</b></a><br/>
+  <sub>20 sep 2021</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -69,7 +69,7 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - ★ 10 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
   Gluetun Companion est une interface web Python pour gérer automatiquement les serveurs VPN WireGuard et OpenVPN dans Gluetun, offrant des benchmarks, une sélection de serveurs, la gestion des conteneurs dépendants et des notifications. Le projet est en bêta, principalement testé avec AirVPN.
 
-- ★ 36 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
+- ★ 37 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
   Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
 
 - ★ 2 · [**stremio-rss-catalog**](https://github.com/Aerya/stremio-rss-catalog)
