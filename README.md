@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2016/02/17/android-claviers-et-donnees-privees-un-beau-mariage-mais-heureusement-pas-parfait/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Android : claviers et données privées, un beau mariage mais (heureusement) pas parfait" /></a>
-  <a href="https://upandclear.org/2016/02/17/android-claviers-et-donnees-privees-un-beau-mariage-mais-heureusement-pas-parfait/"><b>Android : claviers et données privées, un beau mariage mais (heureusement) pas parfait</b></a><br/>
-  <sub>17 fév 2016</sub>
+  <a href="https://upandclear.org/2021/11/03/plausible-les-stats-non-intrusives/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2021/11/2021-11-03_16-40-300x300.png" width="120" alt="Plausible : les stats non intrusives" /></a>
+  <a href="https://upandclear.org/2021/11/03/plausible-les-stats-non-intrusives/"><b>Plausible : les stats non intrusives</b></a><br/>
+  <sub>3 nov 2021</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
