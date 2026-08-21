@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2015/10/05/firefox-extensions-anti-pub-et-relative-protection-de-la-vie-privee/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2015/10/Sélection_1191-300x300.png" width="120" alt="Firefox : extensions anti-pub et (relative) protection de la vie privée" /></a>
-  <a href="https://upandclear.org/2015/10/05/firefox-extensions-anti-pub-et-relative-protection-de-la-vie-privee/"><b>Firefox : extensions anti-pub et (relative) protection de la vie privée</b></a><br/>
-  <sub>5 oct 2015</sub>
+  <a href="https://upandclear.org/2017/05/14/docker-bench-for-security-clair-coreos-testez-la-securite-de-votre-environnement-docker-et-de-vos-containers/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Docker Bench for Security &amp; Clair (CoreOS) : testez la sécurité de votre environnement Docker et de vos containers" /></a>
+  <a href="https://upandclear.org/2017/05/14/docker-bench-for-security-clair-coreos-testez-la-securite-de-votre-environnement-docker-et-de-vos-containers/"><b>Docker Bench for Security &amp; Clair (CoreOS) : testez la sécurité de votre environnement Docker et de vos containers</b></a><br/>
+  <sub>14 mai 2017</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -56,6 +56,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 
 <!-- REPOS:START -->
 ### Dernières mises à jour
+
+- ★ 37 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
+  Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
 
 - ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
   Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées, et une API REST. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion des configurations sans redémarrage.
@@ -74,9 +77,6 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 
 - ★ 10 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
   Gluetun Companion est une interface web Python pour gérer automatiquement les serveurs VPN WireGuard et OpenVPN dans Gluetun, offrant des benchmarks, une sélection de serveurs, la gestion des conteneurs dépendants et des notifications. Le projet est en bêta, principalement testé avec AirVPN.
-
-- ★ 37 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
-  Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
 
 - ★ 2 · [**stremio-rss-catalog**](https://github.com/Aerya/stremio-rss-catalog)
   Addon Stremio qui génère des catalogues depuis des flux RSS, Prowlarr ou NZBHydra2. Il permet d'intégrer des sources personnalisées directement dans Stremio.
