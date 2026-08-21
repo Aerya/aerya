@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2017/05/14/docker-bench-for-security-clair-coreos-testez-la-securite-de-votre-environnement-docker-et-de-vos-containers/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Docker Bench for Security &amp; Clair (CoreOS) : testez la sécurité de votre environnement Docker et de vos containers" /></a>
-  <a href="https://upandclear.org/2017/05/14/docker-bench-for-security-clair-coreos-testez-la-securite-de-votre-environnement-docker-et-de-vos-containers/"><b>Docker Bench for Security &amp; Clair (CoreOS) : testez la sécurité de votre environnement Docker et de vos containers</b></a><br/>
-  <sub>14 mai 2017</sub>
+  <a href="https://upandclear.org/2016/02/17/android-claviers-et-donnees-privees-un-beau-mariage-mais-heureusement-pas-parfait/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Android : claviers et données privées, un beau mariage mais (heureusement) pas parfait" /></a>
+  <a href="https://upandclear.org/2016/02/17/android-claviers-et-donnees-privees-un-beau-mariage-mais-heureusement-pas-parfait/"><b>Android : claviers et données privées, un beau mariage mais (heureusement) pas parfait</b></a><br/>
+  <sub>17 fév 2016</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
