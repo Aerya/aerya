@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2017/09/07/cbxmanager-script-python-de-conversion-dimages-en-cbz/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="CbxManager : script Python de conversion d’images en CBZ" /></a>
-  <a href="https://upandclear.org/2017/09/07/cbxmanager-script-python-de-conversion-dimages-en-cbz/"><b>CbxManager : script Python de conversion d’images en CBZ</b></a><br/>
-  <sub>7 sep 2017</sub>
+  <a href="https://upandclear.org/2017/11/01/finalement-pas-diphone-x-mais-un-galaxy-s8-twrp-root-rom-xposed-etc/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Finalement pas d’iPhone X mais un Galaxy S8 : TWRP, root, ROM, Xposed etc" /></a>
+  <a href="https://upandclear.org/2017/11/01/finalement-pas-diphone-x-mais-un-galaxy-s8-twrp-root-rom-xposed-etc/"><b>Finalement pas d’iPhone X mais un Galaxy S8 : TWRP, root, ROM, Xposed etc</b></a><br/>
+  <sub>1 nov 2017</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,6 +57,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
+- ★ 44 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+  Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
+
 - ★ 37 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
   Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
 
@@ -65,9 +68,6 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
-
-- ★ 44 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
-  Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
 - [**Stremosaic**](https://github.com/Aerya/Stremosaic)
   Stremosaic est un addon Stremio qui agrège des catalogues de diverses sources (TMDB, AniList, Bingebase, etc.) avec une interface web en français et des fonctionnalités de sécurité avancées. Il permet de créer des catalogues personnalisés et de les partager via un marketplace.
