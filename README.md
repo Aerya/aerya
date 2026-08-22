@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2017/09/08/hally-loracle-du-net-deception-inutile-au-possible/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2017/09/Sélection_001-1-300x300.jpg" width="120" alt="Hally, l’Oracle du Net : déception, inutile au possible ?" /></a>
-  <a href="https://upandclear.org/2017/09/08/hally-loracle-du-net-deception-inutile-au-possible/"><b>Hally, l’Oracle du Net : déception, inutile au possible ?</b></a><br/>
-  <sub>8 sep 2017</sub>
+  <a href="https://upandclear.org/2025/10/25/pulse-monitoring-docker-et-proxmox/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/10/chatgpt-image-25-oct.-2025-07_39_47-300x300.jpg" width="120" alt="Pulse : monitoring Docker (et Proxmox)" /></a>
+  <a href="https://upandclear.org/2025/10/25/pulse-monitoring-docker-et-proxmox/"><b>Pulse : monitoring Docker (et Proxmox)</b></a><br/>
+  <sub>25 oct 2025</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -56,6 +56,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 
 <!-- REPOS:START -->
 ### Dernières mises à jour
+
+- ★ 10 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
+  Gluetun Companion est une interface web Python pour gérer automatiquement les serveurs VPN WireGuard et OpenVPN dans Gluetun, offrant des benchmarks, une sélection de serveurs, la gestion des conteneurs dépendants et des notifications. Le projet est en bêta, principalement testé avec AirVPN.
 
 - ★ 37 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
   Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
@@ -74,9 +77,6 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 
 - [**MiniVid**](https://github.com/Aerya/MiniVid)
   Application pour indexer, lire, taguer et mettre en favoris des vidéos locales. Elle vise une gestion simple d'une bibliothèque vidéo personnelle.
-
-- ★ 10 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
-  Gluetun Companion est une interface web Python pour gérer automatiquement les serveurs VPN WireGuard et OpenVPN dans Gluetun, offrant des benchmarks, une sélection de serveurs, la gestion des conteneurs dépendants et des notifications. Le projet est en bêta, principalement testé avec AirVPN.
 
 - ★ 2 · [**stremio-rss-catalog**](https://github.com/Aerya/stremio-rss-catalog)
   Addon Stremio qui génère des catalogues depuis des flux RSS, Prowlarr ou NZBHydra2. Il permet d'intégrer des sources personnalisées directement dans Stremio.
