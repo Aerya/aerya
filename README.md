@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2017/11/01/finalement-pas-diphone-x-mais-un-galaxy-s8-twrp-root-rom-xposed-etc/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Finalement pas d’iPhone X mais un Galaxy S8 : TWRP, root, ROM, Xposed etc" /></a>
-  <a href="https://upandclear.org/2017/11/01/finalement-pas-diphone-x-mais-un-galaxy-s8-twrp-root-rom-xposed-etc/"><b>Finalement pas d’iPhone X mais un Galaxy S8 : TWRP, root, ROM, Xposed etc</b></a><br/>
-  <sub>1 nov 2017</sub>
+  <a href="https://upandclear.org/2017/09/08/hally-loracle-du-net-deception-inutile-au-possible/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2017/09/Sélection_001-1-300x300.jpg" width="120" alt="Hally, l’Oracle du Net : déception, inutile au possible ?" /></a>
+  <a href="https://upandclear.org/2017/09/08/hally-loracle-du-net-deception-inutile-au-possible/"><b>Hally, l’Oracle du Net : déception, inutile au possible ?</b></a><br/>
+  <sub>8 sep 2017</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,11 +57,11 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
-- ★ 44 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
-  Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
-
 - ★ 37 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
   Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
+
+- ★ 44 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+  Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
 - ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
   Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées, et une API REST. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion des configurations sans redémarrage.
