@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2026/01/27/dockhand-gestionnaire-docker-leger-et-puissant/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/01/dockhand22-300x300.png" width="120" alt="Dockhand : gestionnaire Docker léger et puissant" /></a>
-  <a href="https://upandclear.org/2026/01/27/dockhand-gestionnaire-docker-leger-et-puissant/"><b>Dockhand : gestionnaire Docker léger et puissant</b></a><br/>
-  <sub>27 jan 2026</sub>
+  <a href="https://upandclear.org/2015/08/26/lol-du-jour-le-phishing-par-les-sous-doues/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="LOL du jour : le phishing par les sous-doués" /></a>
+  <a href="https://upandclear.org/2015/08/26/lol-du-jour-le-phishing-par-les-sous-doues/"><b>LOL du jour : le phishing par les sous-doués</b></a><br/>
+  <sub>26 août 2015</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
