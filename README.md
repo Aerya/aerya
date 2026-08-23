@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2025/10/25/pulse-monitoring-docker-et-proxmox/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/10/chatgpt-image-25-oct.-2025-07_39_47-300x300.jpg" width="120" alt="Pulse : monitoring Docker (et Proxmox)" /></a>
-  <a href="https://upandclear.org/2025/10/25/pulse-monitoring-docker-et-proxmox/"><b>Pulse : monitoring Docker (et Proxmox)</b></a><br/>
-  <sub>25 oct 2025</sub>
+  <a href="https://upandclear.org/2026/01/27/dockhand-gestionnaire-docker-leger-et-puissant/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/01/dockhand22-300x300.png" width="120" alt="Dockhand : gestionnaire Docker léger et puissant" /></a>
+  <a href="https://upandclear.org/2026/01/27/dockhand-gestionnaire-docker-leger-et-puissant/"><b>Dockhand : gestionnaire Docker léger et puissant</b></a><br/>
+  <sub>27 jan 2026</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,20 +57,20 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
-- ★ 10 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
-  Gluetun Companion est une interface web Python pour gérer automatiquement les serveurs VPN WireGuard et OpenVPN dans Gluetun, offrant des benchmarks, une sélection de serveurs, la gestion des conteneurs dépendants et des notifications. Le projet est en bêta, principalement testé avec AirVPN.
-
-- ★ 37 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
-  Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
-
-- ★ 44 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
-  Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
-
 - ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
   Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées, et une API REST. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion des configurations sans redémarrage.
 
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
+
+- ★ 44 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+  Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
+
+- ★ 10 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
+  Gluetun Companion est une interface web Python pour gérer automatiquement les serveurs VPN WireGuard et OpenVPN dans Gluetun, offrant des benchmarks, une sélection de serveurs, la gestion des conteneurs dépendants et des notifications. Le projet est en bêta, principalement testé avec AirVPN.
+
+- ★ 37 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
+  Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
 
 - [**Stremosaic**](https://github.com/Aerya/Stremosaic)
   Stremosaic est un addon Stremio qui agrège des catalogues de diverses sources (TMDB, AniList, Bingebase, etc.) avec une interface web en français et des fonctionnalités de sécurité avancées. Il permet de créer des catalogues personnalisés et de les partager via un marketplace.
