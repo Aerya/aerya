@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2015/09/22/firejail-preservez-un-peu-plus-votre-vie-privee-sous-firefoxthunderbird/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Firejail : préservez un peu plus votre vie privée sous Firefox/Thunderbird" /></a>
-  <a href="https://upandclear.org/2015/09/22/firejail-preservez-un-peu-plus-votre-vie-privee-sous-firefoxthunderbird/"><b>Firejail : préservez un peu plus votre vie privée sous Firefox/Thunderbird</b></a><br/>
-  <sub>22 sep 2015</sub>
+  <a href="https://upandclear.org/2016/12/04/rclone-amazon-cloud-drive-chiffre-script-copymove/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="rClone Amazon Cloud Drive chiffré : script copy/move" /></a>
+  <a href="https://upandclear.org/2016/12/04/rclone-amazon-cloud-drive-chiffre-script-copymove/"><b>rClone Amazon Cloud Drive chiffré : script copy/move</b></a><br/>
+  <sub>4 déc 2016</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
