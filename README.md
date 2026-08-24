@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2016/07/06/rutorrent-watchdir-torrents-en-pause/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="ruTorrent &amp; WatchDir : Torrents en pause" /></a>
-  <a href="https://upandclear.org/2016/07/06/rutorrent-watchdir-torrents-en-pause/"><b>ruTorrent &amp; WatchDir : Torrents en pause</b></a><br/>
-  <sub>6 juil 2016</sub>
+  <a href="https://upandclear.org/2016/01/15/spideroak-cloud-chiffre-cote-client/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2016/01/SpiderOakONE_020-300x300.png" width="120" alt="SpiderOak : cloud chiffré (côté client)" /></a>
+  <a href="https://upandclear.org/2016/01/15/spideroak-cloud-chiffre-cote-client/"><b>SpiderOak : cloud chiffré (côté client)</b></a><br/>
+  <sub>15 jan 2016</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -95,7 +95,7 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - [**HomeGuard**](https://github.com/Aerya/HomeGuard)
   Serveur WireGuard en Docker pour utiliser son propre serveur DNS (AdGuard Home, Pi-hole…) depuis un smartphone, même en dehors du réseau local.
 
-- ★ 47 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+- ★ 48 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
 - [**Stremosaic**](https://github.com/Aerya/Stremosaic)
