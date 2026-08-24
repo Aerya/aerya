@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2021/10/14/erreur-nextcloud-android-payload-too-large/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2021/10/2021-10-14-19_28_44-Nginx-Proxy-Manager-Vivaldi-300x300.png" width="120" alt="Erreur Nextcloud Android : payload too large" /></a>
-  <a href="https://upandclear.org/2021/10/14/erreur-nextcloud-android-payload-too-large/"><b>Erreur Nextcloud Android : payload too large</b></a><br/>
-  <sub>14 oct 2021</sub>
+  <a href="https://upandclear.org/2016/07/06/rutorrent-watchdir-torrents-en-pause/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="ruTorrent &amp; WatchDir : Torrents en pause" /></a>
+  <a href="https://upandclear.org/2016/07/06/rutorrent-watchdir-torrents-en-pause/"><b>ruTorrent &amp; WatchDir : Torrents en pause</b></a><br/>
+  <sub>6 juil 2016</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
