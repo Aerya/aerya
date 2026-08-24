@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2016/02/28/lister-les-gros-dossiersfichiers-sous-linux-de-maniere-simple/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Lister les gros dossiers/fichiers sous Linux de manière simple" /></a>
-  <a href="https://upandclear.org/2016/02/28/lister-les-gros-dossiersfichiers-sous-linux-de-maniere-simple/"><b>Lister les gros dossiers/fichiers sous Linux de manière simple</b></a><br/>
-  <sub>28 fév 2016</sub>
+  <a href="https://upandclear.org/2021/10/14/erreur-nextcloud-android-payload-too-large/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2021/10/2021-10-14-19_28_44-Nginx-Proxy-Manager-Vivaldi-300x300.png" width="120" alt="Erreur Nextcloud Android : payload too large" /></a>
+  <a href="https://upandclear.org/2021/10/14/erreur-nextcloud-android-payload-too-large/"><b>Erreur Nextcloud Android : payload too large</b></a><br/>
+  <sub>14 oct 2021</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
