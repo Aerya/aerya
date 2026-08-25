@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2016/07/06/rutorrent-watchdir-torrents-en-pause/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="ruTorrent &amp; WatchDir : Torrents en pause" /></a>
-  <a href="https://upandclear.org/2016/07/06/rutorrent-watchdir-torrents-en-pause/"><b>ruTorrent &amp; WatchDir : Torrents en pause</b></a><br/>
-  <sub>6 juil 2016</sub>
+  <a href="https://upandclear.org/2016/03/21/dooms-back-bientot/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2016/03/Doom-300x300.png" width="120" alt="Doom’s back (bientôt)" /></a>
+  <a href="https://upandclear.org/2016/03/21/dooms-back-bientot/"><b>Doom’s back (bientôt)</b></a><br/>
+  <sub>21 mar 2016</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
