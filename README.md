@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2016/06/23/oups/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Oups…" /></a>
-  <a href="https://upandclear.org/2016/06/23/oups/"><b>Oups…</b></a><br/>
-  <sub>23 jun 2016</sub>
+  <a href="https://upandclear.org/2015/08/24/qualite-des-certificats-ssltls/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Qualité des certificats SSL/TLS" /></a>
+  <a href="https://upandclear.org/2015/08/24/qualite-des-certificats-ssltls/"><b>Qualité des certificats SSL/TLS</b></a><br/>
+  <sub>24 août 2015</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
