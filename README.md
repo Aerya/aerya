@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2017/05/08/polo-beta-5/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2017/05/External-Tools_001-300x300.png" width="120" alt="Polo Beta 5" /></a>
-  <a href="https://upandclear.org/2017/05/08/polo-beta-5/"><b>Polo Beta 5</b></a><br/>
-  <sub>8 mai 2017</sub>
+  <a href="https://upandclear.org/2025/11/20/useflow-fr-mon-addon-de-conversion-de-rss-en-catalogues-stremio/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/11/logo-300x300.jpg" width="120" alt="UseFlow-FR : mon addon de conversion de RSS en catalogues Stremio" /></a>
+  <a href="https://upandclear.org/2025/11/20/useflow-fr-mon-addon-de-conversion-de-rss-en-catalogues-stremio/"><b>UseFlow-FR : mon addon de conversion de RSS en catalogues Stremio</b></a><br/>
+  <sub>20 nov 2025</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
