@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2015/09/24/script-hexchatxchat-notice-en-pv/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2015/09/Sélection_1121-300x208.png" width="120" alt="Script HexChat/xChat : notice en PV" /></a>
-  <a href="https://upandclear.org/2015/09/24/script-hexchatxchat-notice-en-pv/"><b>Script HexChat/xChat : notice en PV</b></a><br/>
-  <sub>24 sep 2015</sub>
+  <a href="https://upandclear.org/2015/09/01/etes-vous-traque-par-votre-operateur-mobile/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Êtes vous traqué par votre opérateur mobile ?" /></a>
+  <a href="https://upandclear.org/2015/09/01/etes-vous-traque-par-votre-operateur-mobile/"><b>Êtes vous traqué par votre opérateur mobile ?</b></a><br/>
+  <sub>1 sep 2015</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -66,7 +66,7 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
-- ★ 48 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+- ★ 49 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
 - ★ 37 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
