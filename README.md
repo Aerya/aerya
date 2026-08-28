@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2021/06/24/client-e-mail-mailsping-ex-nylas-n1/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2021/06/2021-06-23_19-42-300x300.png" width="120" alt="Client e-mail Mailspring (ex Nylas N1)" /></a>
-  <a href="https://upandclear.org/2021/06/24/client-e-mail-mailsping-ex-nylas-n1/"><b>Client e-mail Mailspring (ex Nylas N1)</b></a><br/>
-  <sub>24 jun 2021</sub>
+  <a href="https://upandclear.org/2015/12/30/clavier-origami/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2015/12/SilverHT-Origami-300x300.jpg" width="120" alt="Clavier origami SilverHT" /></a>
+  <a href="https://upandclear.org/2015/12/30/clavier-origami/"><b>Clavier origami SilverHT</b></a><br/>
+  <sub>30 déc 2015</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,11 +57,11 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
-- [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
-  Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
-
 - ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
   Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées, et une API REST. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion des configurations sans redémarrage.
+
+- [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
+  Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
 - ★ 49 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
