@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2015/12/30/clavier-origami/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2015/12/SilverHT-Origami-300x300.jpg" width="120" alt="Clavier origami SilverHT" /></a>
-  <a href="https://upandclear.org/2015/12/30/clavier-origami/"><b>Clavier origami SilverHT</b></a><br/>
-  <sub>30 déc 2015</sub>
+  <a href="https://upandclear.org/2025/10/05/cinesync-organiser-ses-librairies-sans-les-arrs/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/10/dashbaord-300x300.jpg" width="120" alt="CineSync : organiser ses librairies sans les arrs" /></a>
+  <a href="https://upandclear.org/2025/10/05/cinesync-organiser-ses-librairies-sans-les-arrs/"><b>CineSync : organiser ses librairies sans les arrs</b></a><br/>
+  <sub>5 oct 2025</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
