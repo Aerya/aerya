@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2015/08/30/conky-monitoring-sympa-pour-x/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2015/08/Sélection_058-300x300.png" width="120" alt="Conky : monitoring sympa pour X" /></a>
-  <a href="https://upandclear.org/2015/08/30/conky-monitoring-sympa-pour-x/"><b>Conky : monitoring sympa pour X</b></a><br/>
-  <sub>30 août 2015</sub>
+  <a href="https://upandclear.org/2022/02/15/paperless-ng-scanner-et-archiver-simplement-tous-ses-documents/"><img align="left" src="https://upandclear.org/wp-content/uploads/2022/02/paperless-ng-scanner-et-archiver-simplement-tous-ses-documents-300x300.jpg" width="120" alt="Paperless-ng : scanner et archiver simplement tous ses documents" /></a>
+  <a href="https://upandclear.org/2022/02/15/paperless-ng-scanner-et-archiver-simplement-tous-ses-documents/"><b>Paperless-ng : scanner et archiver simplement tous ses documents</b></a><br/>
+  <sub>15 fév 2022</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -66,7 +66,7 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - ★ 51 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
-- ★ 39 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
+- ★ 40 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
   Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
 
 - [**MiniVid**](https://github.com/Aerya/MiniVid)
