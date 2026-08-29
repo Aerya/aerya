@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2022/02/15/paperless-ng-scanner-et-archiver-simplement-tous-ses-documents/"><img align="left" src="https://upandclear.org/wp-content/uploads/2022/02/paperless-ng-scanner-et-archiver-simplement-tous-ses-documents-300x300.jpg" width="120" alt="Paperless-ng : scanner et archiver simplement tous ses documents" /></a>
-  <a href="https://upandclear.org/2022/02/15/paperless-ng-scanner-et-archiver-simplement-tous-ses-documents/"><b>Paperless-ng : scanner et archiver simplement tous ses documents</b></a><br/>
-  <sub>15 fév 2022</sub>
+  <a href="https://upandclear.org/2021/01/29/installer-piwigo-et-rendre-les-albums-prives-par-defaut/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2021/01/2021-01-29_08-15-300x300.png" width="120" alt="Piwigo : galerie en ligne + application Android" /></a>
+  <a href="https://upandclear.org/2021/01/29/installer-piwigo-et-rendre-les-albums-prives-par-defaut/"><b>Piwigo : galerie en ligne + application Android</b></a><br/>
+  <sub>29 jan 2021</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,11 +57,11 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
-- ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
-  Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées, et une API REST. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion des configurations sans redémarrage.
-
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
+
+- ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
+  Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées, et une API REST. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion des configurations sans redémarrage.
 
 - ★ 51 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
