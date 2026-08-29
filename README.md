@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2025/10/05/cinesync-organiser-ses-librairies-sans-les-arrs/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/10/dashbaord-300x300.jpg" width="120" alt="CineSync : organiser ses librairies sans les arrs" /></a>
-  <a href="https://upandclear.org/2025/10/05/cinesync-organiser-ses-librairies-sans-les-arrs/"><b>CineSync : organiser ses librairies sans les arrs</b></a><br/>
-  <sub>5 oct 2025</sub>
+  <a href="https://upandclear.org/2015/08/30/conky-monitoring-sympa-pour-x/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2015/08/Sélection_058-300x300.png" width="120" alt="Conky : monitoring sympa pour X" /></a>
+  <a href="https://upandclear.org/2015/08/30/conky-monitoring-sympa-pour-x/"><b>Conky : monitoring sympa pour X</b></a><br/>
+  <sub>30 août 2015</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -63,7 +63,7 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
-- ★ 49 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+- ★ 51 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
 - ★ 39 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
