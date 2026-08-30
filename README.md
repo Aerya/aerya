@@ -14,6 +14,20 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Les derniers
 
 <p>
+  
+  <a href="https://upandclear.org/2026/08/30/dockge-enhanced-quelques-mois-plus-tard-le-petit-fork-a-bien-grandi/"><b>Dockge-Enhanced : quelques mois plus tard, le petit fork a bien grandi !</b></a><br/>
+  <sub>30 août 2026</sub>
+</p>
+<br clear="left"/>
+
+<p>
+  <a href="https://upandclear.org/2026/08/30/analyseur-de-jeux-ou-applications-rss/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/08/3-5-300x300.png" width="72" alt="Analyseur de jeux (ou applications) RSS" /></a>
+  <a href="https://upandclear.org/2026/08/30/analyseur-de-jeux-ou-applications-rss/"><b>Analyseur de jeux (ou applications) RSS</b></a><br/>
+  <sub>30 août 2026</sub>
+</p>
+<br clear="left"/>
+
+<p>
   <a href="https://upandclear.org/2026/08/30/github-discord-notifier-notifications-github-vers-discord-avec-webui/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/08/6-2-300x300.png" width="72" alt="GitHub Discord Notifier : notifications GitHub vers Discord, avec WebUI." /></a>
   <a href="https://upandclear.org/2026/08/30/github-discord-notifier-notifications-github-vers-discord-avec-webui/"><b>GitHub Discord Notifier : notifications GitHub vers Discord, avec WebUI.</b></a><br/>
   <sub>30 août 2026</sub>
@@ -27,27 +41,13 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 </p>
 <br clear="left"/>
 
-<p>
-  <a href="https://upandclear.org/2026/08/04/loostream-addon-stremio-pour-lagregation-de-flux-streaming-userscript-bypass-proxy/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/08/graphical-user-interface-stockpack-unsplash-300x300.jpg" width="72" alt="LooStream : addon Stremio pour l’agrégation de flux streaming + userscript bypass proxy" /></a>
-  <a href="https://upandclear.org/2026/08/04/loostream-addon-stremio-pour-lagregation-de-flux-streaming-userscript-bypass-proxy/"><b>LooStream : addon Stremio pour l’agrégation de flux streaming + userscript bypass proxy</b></a><br/>
-  <sub>4 août 2026</sub>
-</p>
-<br clear="left"/>
-
-<p>
-  <a href="https://upandclear.org/2026/08/04/bingebase-et-scrob-alternatives-a-trakt-tv/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/08/10-300x300.png" width="72" alt="Bingebase et Scrob : alternatives à Trakt.tv" /></a>
-  <a href="https://upandclear.org/2026/08/04/bingebase-et-scrob-alternatives-a-trakt-tv/"><b>Bingebase et Scrob : alternatives à Trakt.tv</b></a><br/>
-  <sub>4 août 2026</sub>
-</p>
-<br clear="left"/>
-
 
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2020/02/06/google-drive-recuperer-le-contenu-de-la-poubelle-des-to/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Google Drive : récupérer le contenu de la poubelle (des To…)" /></a>
-  <a href="https://upandclear.org/2020/02/06/google-drive-recuperer-le-contenu-de-la-poubelle-des-to/"><b>Google Drive : récupérer le contenu de la poubelle (des To…)</b></a><br/>
-  <sub>6 fév 2020</sub>
+  <a href="https://upandclear.org/2015/09/18/comment-les-services-de-renseignement-francais-surveillent-ce-qui-se-dit-sur-le-net-et-au-telephone/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Comment les services de renseignement français surveillent ce qui se dit sur le net et au téléphone" /></a>
+  <a href="https://upandclear.org/2015/09/18/comment-les-services-de-renseignement-francais-surveillent-ce-qui-se-dit-sur-le-net-et-au-telephone/"><b>Comment les services de renseignement français surveillent ce qui se dit sur le net et au téléphone</b></a><br/>
+  <sub>18 sep 2015</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,7 +57,10 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
-- ★ 51 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+- [**MiniVid**](https://github.com/Aerya/MiniVid)
+  Application pour indexer, lire, taguer et mettre en favoris des vidéos locales. Elle vise une gestion simple d'une bibliothèque vidéo personnelle.
+
+- ★ 54 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
 - [**github-discord-notifier**](https://github.com/Aerya/github-discord-notifier)
@@ -74,9 +77,6 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 
 - ★ 40 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
   Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
-
-- [**MiniVid**](https://github.com/Aerya/MiniVid)
-  Application pour indexer, lire, taguer et mettre en favoris des vidéos locales. Elle vise une gestion simple d'une bibliothèque vidéo personnelle.
 
 - ★ 2 · [**stremio-rss-catalog**](https://github.com/Aerya/stremio-rss-catalog)
   Addon Stremio qui génère des catalogues depuis des flux RSS, Prowlarr ou NZBHydra2. Il permet d'intégrer des sources personnalisées directement dans Stremio.
