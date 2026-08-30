@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2015/09/18/comment-les-services-de-renseignement-francais-surveillent-ce-qui-se-dit-sur-le-net-et-au-telephone/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Comment les services de renseignement français surveillent ce qui se dit sur le net et au téléphone" /></a>
-  <a href="https://upandclear.org/2015/09/18/comment-les-services-de-renseignement-francais-surveillent-ce-qui-se-dit-sur-le-net-et-au-telephone/"><b>Comment les services de renseignement français surveillent ce qui se dit sur le net et au téléphone</b></a><br/>
-  <sub>18 sep 2015</sub>
+  <a href="https://upandclear.org/2024/10/02/autoblow-ai-ultra-la-masturbation-masculine-assistee-par-lia/"><img align="left" src="https://upandclear.org/wp-content/uploads/2024/10/XGM7BEMEH9ARX0X8M6002WFW60-300x300.jpg" width="120" alt="Autoblow AI Ultra : la masturbation masculine assistée par l’IA" /></a>
+  <a href="https://upandclear.org/2024/10/02/autoblow-ai-ultra-la-masturbation-masculine-assistee-par-lia/"><b>Autoblow AI Ultra : la masturbation masculine assistée par l’IA</b></a><br/>
+  <sub>2 oct 2024</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -60,7 +60,7 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - [**MiniVid**](https://github.com/Aerya/MiniVid)
   Application pour indexer, lire, taguer et mettre en favoris des vidéos locales. Elle vise une gestion simple d'une bibliothèque vidéo personnelle.
 
-- ★ 54 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+- ★ 55 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
 - [**github-discord-notifier**](https://github.com/Aerya/github-discord-notifier)
