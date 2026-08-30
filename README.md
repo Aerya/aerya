@@ -14,6 +14,13 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Les derniers
 
 <p>
+  <a href="https://upandclear.org/2026/08/30/github-discord-notifier-notifications-github-vers-discord-avec-webui/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/08/6-2-300x300.png" width="72" alt="GitHub Discord Notifier : notifications GitHub vers Discord, avec WebUI." /></a>
+  <a href="https://upandclear.org/2026/08/30/github-discord-notifier-notifications-github-vers-discord-avec-webui/"><b>GitHub Discord Notifier : notifications GitHub vers Discord, avec WebUI.</b></a><br/>
+  <sub>30 août 2026</sub>
+</p>
+<br clear="left"/>
+
+<p>
   <a href="https://upandclear.org/2026/08/11/rainbow-six-siege-r6s-sous-linux-et-windows-avec-liberator-chasse-aux-terroristes-et-multi-en-lan-sans-compte-jusquen-saison-y4s4-operation-shifting-tides-2020/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/08/images-300x300.jpeg" width="72" alt="Rainbow Six: Siege (R6S) sous Linux (et Windows) : avec Liberator, chasse aux terroristes et multi en LAN sans compte jusqu’en saison Y4S4 – Operation Shifting Tides (2020)" /></a>
   <a href="https://upandclear.org/2026/08/11/rainbow-six-siege-r6s-sous-linux-et-windows-avec-liberator-chasse-aux-terroristes-et-multi-en-lan-sans-compte-jusquen-saison-y4s4-operation-shifting-tides-2020/"><b>Rainbow Six: Siege (R6S) sous Linux (et Windows) : avec Liberator, chasse aux terroristes et multi en LAN sans compte jusqu’en saison Y4S4 – Operation Shifting Tides (2020)</b></a><br/>
   <sub>11 août 2026</sub>
@@ -34,20 +41,13 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 </p>
 <br clear="left"/>
 
-<p>
-  <a href="https://upandclear.org/2026/07/26/automatiser-les-dns-locaux-de-nginx-proxy-manager-dans-adguard-home/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/07/1-2-300x300.png" width="72" alt="Automatiser les DNS locaux de Nginx Proxy Manager dans AdGuard Home" /></a>
-  <a href="https://upandclear.org/2026/07/26/automatiser-les-dns-locaux-de-nginx-proxy-manager-dans-adguard-home/"><b>Automatiser les DNS locaux de Nginx Proxy Manager dans AdGuard Home</b></a><br/>
-  <sub>26 juil 2026</sub>
-</p>
-<br clear="left"/>
-
 
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2021/01/29/installer-piwigo-et-rendre-les-albums-prives-par-defaut/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2021/01/2021-01-29_08-15-300x300.png" width="120" alt="Piwigo : galerie en ligne + application Android" /></a>
-  <a href="https://upandclear.org/2021/01/29/installer-piwigo-et-rendre-les-albums-prives-par-defaut/"><b>Piwigo : galerie en ligne + application Android</b></a><br/>
-  <sub>29 jan 2021</sub>
+  <a href="https://upandclear.org/2020/02/06/google-drive-recuperer-le-contenu-de-la-poubelle-des-to/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Google Drive : récupérer le contenu de la poubelle (des To…)" /></a>
+  <a href="https://upandclear.org/2020/02/06/google-drive-recuperer-le-contenu-de-la-poubelle-des-to/"><b>Google Drive : récupérer le contenu de la poubelle (des To…)</b></a><br/>
+  <sub>6 fév 2020</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,14 +57,20 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
-- [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
-  Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
+- ★ 51 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+  Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
+
+- [**github-discord-notifier**](https://github.com/Aerya/github-discord-notifier)
+  Ce projet Python permet d'envoyer des notifications GitHub vers Discord via des webhooks, avec une interface web pour la configuration et une gestion sécurisée des accès.
 
 - ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
   Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées, et une API REST. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion des configurations sans redémarrage.
 
-- ★ 51 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
-  Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
+- [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
+  Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
+
+- ★ 10 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
+  Gluetun Companion est une interface web Python pour gérer automatiquement les serveurs VPN WireGuard et OpenVPN dans Gluetun, offrant des benchmarks, une sélection de serveurs, la gestion des conteneurs dépendants et des notifications. Le projet est en bêta, principalement testé avec AirVPN.
 
 - ★ 40 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
   Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
@@ -72,19 +78,16 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - [**MiniVid**](https://github.com/Aerya/MiniVid)
   Application pour indexer, lire, taguer et mettre en favoris des vidéos locales. Elle vise une gestion simple d'une bibliothèque vidéo personnelle.
 
-- ★ 10 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
-  Gluetun Companion est une interface web Python pour gérer automatiquement les serveurs VPN WireGuard et OpenVPN dans Gluetun, offrant des benchmarks, une sélection de serveurs, la gestion des conteneurs dépendants et des notifications. Le projet est en bêta, principalement testé avec AirVPN.
-
 - ★ 2 · [**stremio-rss-catalog**](https://github.com/Aerya/stremio-rss-catalog)
   Addon Stremio qui génère des catalogues depuis des flux RSS, Prowlarr ou NZBHydra2. Il permet d'intégrer des sources personnalisées directement dans Stremio.
-
-- ★ 5 · [**nexotv-enhanced**](https://github.com/Aerya/nexotv-enhanced)
-  NexoTV Enhanced est un addon Stremio pour IPTV, basé sur un fork de nexotv, offrant des chaînes TV en direct et des catalogues de films/séries configurables avec sélection de catégories. Il permet de mixer plusieurs sources, de masquer des chaînes et propose un enrichissement via TMDB.
 
 ---
 
 <details>
 <summary>Autres repos</summary>
+
+- ★ 5 · [**nexotv-enhanced**](https://github.com/Aerya/nexotv-enhanced)
+  NexoTV Enhanced est un addon Stremio pour IPTV, basé sur un fork de nexotv, offrant des chaînes TV en direct et des catalogues de films/séries configurables avec sélection de catégories. Il permet de mixer plusieurs sources, de masquer des chaînes et propose un enrichissement via TMDB.
 
 - [**claudecodeui-docker**](https://github.com/Aerya/claudecodeui-docker)
   Image Docker GHCR personnelle pour CloudCLI et Claude Code UI. Le dépôt automatise le packaging afin de déployer l'interface plus facilement.
@@ -125,7 +128,7 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - ★ 4 · [**LaCaleNormale**](https://github.com/Aerya/LaCaleNormale)
   Menus "normaux" pour LaCale
 
-- ★ 9 · [**Stremio-Stack**](https://github.com/Aerya/Stremio-Stack)
+- ★ 8 · [**Stremio-Stack**](https://github.com/Aerya/Stremio-Stack)
   Projet public GitHub maintenu dans le cadre de mes outils et expérimentations personnelles.
 
 - ★ 6 · [**DecypharrSeed**](https://github.com/Aerya/DecypharrSeed)
