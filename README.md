@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2022/01/30/tester-son-systeme-de-fichiers-raid-et-zfs-avec-bonnie/"><img align="left" src="https://upandclear.org/wp-content/uploads/2022/01/tester-son-systeme-de-fichiers-raid-et-zfs-avec-bonnie-300x300.jpg" width="120" alt="Tester son système de fichiers (RAID et ZFS) avec Bonnie++" /></a>
-  <a href="https://upandclear.org/2022/01/30/tester-son-systeme-de-fichiers-raid-et-zfs-avec-bonnie/"><b>Tester son système de fichiers (RAID et ZFS) avec Bonnie++</b></a><br/>
-  <sub>30 jan 2022</sub>
+  <a href="https://upandclear.org/2025/07/06/reiverr-centralisation-jellyfin-sonarr-radarr-tmdb/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/07/reiverr-centralisation-jellyfin-sonarr-radarr-tmdb-300x300.jpg" width="120" alt="Reiverr : centralisation Jellyfin, Sonarr, Radarr, TMDB" /></a>
+  <a href="https://upandclear.org/2025/07/06/reiverr-centralisation-jellyfin-sonarr-radarr-tmdb/"><b>Reiverr : centralisation Jellyfin, Sonarr, Radarr, TMDB</b></a><br/>
+  <sub>6 juil 2025</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,6 +57,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
+- ★ 40 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
+  Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
+
 - ★ 56 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
@@ -65,9 +68,6 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
-
-- ★ 40 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
-  Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
 
 - [**github-discord-notifier**](https://github.com/Aerya/github-discord-notifier)
   Ce projet Python permet d'envoyer des notifications GitHub vers Discord via des webhooks, avec une interface web pour la configuration et une gestion sécurisée des accès.
