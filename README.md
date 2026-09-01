@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2025/07/06/reiverr-centralisation-jellyfin-sonarr-radarr-tmdb/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/07/reiverr-centralisation-jellyfin-sonarr-radarr-tmdb-300x300.jpg" width="120" alt="Reiverr : centralisation Jellyfin, Sonarr, Radarr, TMDB" /></a>
-  <a href="https://upandclear.org/2025/07/06/reiverr-centralisation-jellyfin-sonarr-radarr-tmdb/"><b>Reiverr : centralisation Jellyfin, Sonarr, Radarr, TMDB</b></a><br/>
-  <sub>6 juil 2025</sub>
+  <a href="https://upandclear.org/2025/11/14/arcane-alternative-a-portainer-agents/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/11/arcanetop-300x300.webp" width="120" alt="Arcane : alternative à Portainer + agents" /></a>
+  <a href="https://upandclear.org/2025/11/14/arcane-alternative-a-portainer-agents/"><b>Arcane : alternative à Portainer + agents</b></a><br/>
+  <sub>14 nov 2025</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,11 +57,11 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
-- ★ 40 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
-  Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
-
 - ★ 56 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
+
+- ★ 40 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
+  Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
 
 - ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
   Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées, et une API REST. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion des configurations sans redémarrage.
