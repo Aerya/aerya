@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2017/01/14/script-plexinthecloud-usenet-only-plex-nzbget-mylar-sickrage-couchpotato-amazon-cloud-chiffre/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Script PlexIntheCloud (Usenet/BitTorrent) : Plex, autoDL de films/séries/musique/comics sur Amazon Cloud chiffré" /></a>
-  <a href="https://upandclear.org/2017/01/14/script-plexinthecloud-usenet-only-plex-nzbget-mylar-sickrage-couchpotato-amazon-cloud-chiffre/"><b>Script PlexIntheCloud (Usenet/BitTorrent) : Plex, autoDL de films/séries/musique/comics sur Amazon Cloud chiffré</b></a><br/>
-  <sub>14 jan 2017</sub>
+  <a href="https://upandclear.org/2025/07/12/ajouter-ygg-api-a-prowlarr/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/07/yggtorrent-api-prowlarr-1752340310-1-300x300.jpg" width="120" alt="Ajouter Ygg-API à Prowlarr (MàJ 30.10.25)" /></a>
+  <a href="https://upandclear.org/2025/07/12/ajouter-ygg-api-a-prowlarr/"><b>Ajouter Ygg-API à Prowlarr (MàJ 30.10.25)</b></a><br/>
+  <sub>12 juil 2025</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
