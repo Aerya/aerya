@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2025/11/14/arcane-alternative-a-portainer-agents/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/11/arcanetop-300x300.webp" width="120" alt="Arcane : alternative à Portainer + agents" /></a>
-  <a href="https://upandclear.org/2025/11/14/arcane-alternative-a-portainer-agents/"><b>Arcane : alternative à Portainer + agents</b></a><br/>
-  <sub>14 nov 2025</sub>
+  <a href="https://upandclear.org/2024/10/09/hydra-launcher-le-arr-des-jeux-videos-pc/"><img align="left" src="https://upandclear.org/wp-content/uploads/2024/10/hydra-video-game-downloader-and-launcher-2-300x300.jpg" width="120" alt="Hydra Launcher : le *arr des jeux vidéos PC" /></a>
+  <a href="https://upandclear.org/2024/10/09/hydra-launcher-le-arr-des-jeux-videos-pc/"><b>Hydra Launcher : le *arr des jeux vidéos PC</b></a><br/>
+  <sub>9 oct 2024</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -60,14 +60,14 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - ★ 56 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
-- ★ 40 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
-  Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
-
 - ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
   Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées, et une API REST. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion des configurations sans redémarrage.
 
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
+
+- ★ 40 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
+  Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
 
 - [**github-discord-notifier**](https://github.com/Aerya/github-discord-notifier)
   Ce projet Python permet d'envoyer des notifications GitHub vers Discord via des webhooks, avec une interface web pour la configuration et une gestion sécurisée des accès.
