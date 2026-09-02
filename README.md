@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2024/10/09/hydra-launcher-le-arr-des-jeux-videos-pc/"><img align="left" src="https://upandclear.org/wp-content/uploads/2024/10/hydra-video-game-downloader-and-launcher-2-300x300.jpg" width="120" alt="Hydra Launcher : le *arr des jeux vidéos PC" /></a>
-  <a href="https://upandclear.org/2024/10/09/hydra-launcher-le-arr-des-jeux-videos-pc/"><b>Hydra Launcher : le *arr des jeux vidéos PC</b></a><br/>
-  <sub>9 oct 2024</sub>
+  <a href="https://upandclear.org/2017/01/14/script-plexinthecloud-usenet-only-plex-nzbget-mylar-sickrage-couchpotato-amazon-cloud-chiffre/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Script PlexIntheCloud (Usenet/BitTorrent) : Plex, autoDL de films/séries/musique/comics sur Amazon Cloud chiffré" /></a>
+  <a href="https://upandclear.org/2017/01/14/script-plexinthecloud-usenet-only-plex-nzbget-mylar-sickrage-couchpotato-amazon-cloud-chiffre/"><b>Script PlexIntheCloud (Usenet/BitTorrent) : Plex, autoDL de films/séries/musique/comics sur Amazon Cloud chiffré</b></a><br/>
+  <sub>14 jan 2017</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
