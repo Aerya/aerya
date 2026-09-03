@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2025/07/12/ajouter-ygg-api-a-prowlarr/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/07/yggtorrent-api-prowlarr-1752340310-1-300x300.jpg" width="120" alt="Ajouter Ygg-API à Prowlarr (MàJ 30.10.25)" /></a>
-  <a href="https://upandclear.org/2025/07/12/ajouter-ygg-api-a-prowlarr/"><b>Ajouter Ygg-API à Prowlarr (MàJ 30.10.25)</b></a><br/>
-  <sub>12 juil 2025</sub>
+  <a href="https://upandclear.org/2017/07/21/briar-messagerie-android-decentralisee-chiffree-e2e-et-anonyme-p2p-tor-voire-plus-si-affinites/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Briar : messagerie Android décentralisée, chiffrée (E2E) et anonyme (P2P-Tor), voire plus si affinités" /></a>
+  <a href="https://upandclear.org/2017/07/21/briar-messagerie-android-decentralisee-chiffree-e2e-et-anonyme-p2p-tor-voire-plus-si-affinites/"><b>Briar : messagerie Android décentralisée, chiffrée (E2E) et anonyme (P2P-Tor), voire plus si affinités</b></a><br/>
+  <sub>21 juil 2017</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -66,6 +66,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
+- ★ 2 · [**stremio-rss-catalog**](https://github.com/Aerya/stremio-rss-catalog)
+  Addon Stremio qui génère des catalogues depuis des flux RSS, Prowlarr ou NZBHydra2. Il permet d'intégrer des sources personnalisées directement dans Stremio.
+
 - ★ 40 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
   Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
 
@@ -74,9 +77,6 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 
 - ★ 10 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
   Gluetun Companion est une interface web Python pour gérer automatiquement les serveurs VPN WireGuard et OpenVPN dans Gluetun, offrant des benchmarks, une sélection de serveurs, la gestion des conteneurs dépendants et des notifications. Le projet est en bêta, principalement testé avec AirVPN.
-
-- ★ 2 · [**stremio-rss-catalog**](https://github.com/Aerya/stremio-rss-catalog)
-  Addon Stremio qui génère des catalogues depuis des flux RSS, Prowlarr ou NZBHydra2. Il permet d'intégrer des sources personnalisées directement dans Stremio.
 
 - ★ 5 · [**nexotv-enhanced**](https://github.com/Aerya/nexotv-enhanced)
   NexoTV Enhanced est un addon Stremio pour IPTV, basé sur un fork de nexotv, offrant des chaînes TV en direct et des catalogues de films/séries configurables avec sélection de catégories. Il permet de mixer plusieurs sources, de masquer des chaînes et propose un enrichissement via TMDB.
