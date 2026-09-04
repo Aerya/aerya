@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2016/07/22/dplatform-linstallation-automatisee-pour-tous/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2016/07/PAC-v4.5.5.7_004-300x300.png" width="120" alt="DPlatform : l’installation automatisée pour tous" /></a>
-  <a href="https://upandclear.org/2016/07/22/dplatform-linstallation-automatisee-pour-tous/"><b>DPlatform : l’installation automatisée pour tous</b></a><br/>
-  <sub>22 juil 2016</sub>
+  <a href="https://upandclear.org/2015/08/23/fish-shell-un-terminal-qui-vous-fait-gagner-du-temps/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Fish-Shell : un terminal qui vous fait gagner du temps" /></a>
+  <a href="https://upandclear.org/2015/08/23/fish-shell-un-terminal-qui-vous-fait-gagner-du-temps/"><b>Fish-Shell : un terminal qui vous fait gagner du temps</b></a><br/>
+  <sub>23 août 2015</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,7 +57,13 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
-- ★ 56 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+- ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
+  Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées, et une API REST. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion des configurations sans redémarrage.
+
+- [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
+  Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
+
+- ★ 57 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
 - ★ 3 · [**Stremio-Seerr-Catalog**](https://github.com/Aerya/Stremio-Seerr-Catalog)
@@ -68,12 +74,6 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 
 - [**MiniVid**](https://github.com/Aerya/MiniVid)
   Application pour indexer, lire, taguer et mettre en favoris des vidéos locales. Elle vise une gestion simple d'une bibliothèque vidéo personnelle.
-
-- ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
-  Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées, et une API REST. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion des configurations sans redémarrage.
-
-- [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
-  Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
 - ★ 40 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
   Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
