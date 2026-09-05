@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2026/01/22/zimaos-le-grand-frere-de-casaos-pour-serveurs-et-nas-diy/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/01/ai-generated-data-center-server-room-server-network-data-center-storage-cloud-computing-technology-hardware-computer-cloud-system-computer-networking-network-storage-stockpack-pixabay-300x300.jpg" width="120" alt="ZimaOS : le grand frère de CasaOS pour serveurs et NAS DIY" /></a>
-  <a href="https://upandclear.org/2026/01/22/zimaos-le-grand-frere-de-casaos-pour-serveurs-et-nas-diy/"><b>ZimaOS : le grand frère de CasaOS pour serveurs et NAS DIY</b></a><br/>
-  <sub>22 jan 2026</sub>
+  <a href="https://upandclear.org/2015/09/20/obtenir-stocker-envoyer-des-bitcoins/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2015/09/Sélection_1005-300x300.png" width="120" alt="Obtenir, stocker &amp; envoyer des BitCoins" /></a>
+  <a href="https://upandclear.org/2015/09/20/obtenir-stocker-envoyer-des-bitcoins/"><b>Obtenir, stocker &amp; envoyer des BitCoins</b></a><br/>
+  <sub>20 sep 2015</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,11 +57,11 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
-- [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
-  Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
-
 - ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
   Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées, et une API REST. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion des configurations sans redémarrage.
+
+- [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
+  Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
 - ★ 57 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
