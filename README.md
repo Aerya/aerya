@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2020/09/26/nouvelle-infrastructure-en-ligne/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2020/09/1-1024x490-300x300.png" width="120" alt="Nouvelle infrastructure dédié/VPS pour un rapport coût/ressources optimisé" /></a>
-  <a href="https://upandclear.org/2020/09/26/nouvelle-infrastructure-en-ligne/"><b>Nouvelle infrastructure dédié/VPS pour un rapport coût/ressources optimisé</b></a><br/>
-  <sub>26 sep 2020</sub>
+  <a href="https://upandclear.org/2025/11/04/du-commit-github-au-container-a-jour-workflow-docker-simplifie/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/11/upandclear-org-1762244608-300x300.jpg" width="120" alt="Du commit GitHub au container à jour : workflow Docker simplifié" /></a>
+  <a href="https://upandclear.org/2025/11/04/du-commit-github-au-container-a-jour-workflow-docker-simplifie/"><b>Du commit GitHub au container à jour : workflow Docker simplifié</b></a><br/>
+  <sub>4 nov 2025</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,11 +57,11 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
-- ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
-  Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées, et une API REST. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion des configurations sans redémarrage.
-
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
+
+- ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
+  Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées, et une API REST. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion des configurations sans redémarrage.
 
 - ★ 58 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
