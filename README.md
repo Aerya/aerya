@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2015/09/20/obtenir-stocker-envoyer-des-bitcoins/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2015/09/Sélection_1005-300x300.png" width="120" alt="Obtenir, stocker &amp; envoyer des BitCoins" /></a>
-  <a href="https://upandclear.org/2015/09/20/obtenir-stocker-envoyer-des-bitcoins/"><b>Obtenir, stocker &amp; envoyer des BitCoins</b></a><br/>
-  <sub>20 sep 2015</sub>
+  <a href="https://upandclear.org/2020/09/26/nouvelle-infrastructure-en-ligne/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2020/09/1-1024x490-300x300.png" width="120" alt="Nouvelle infrastructure dédié/VPS pour un rapport coût/ressources optimisé" /></a>
+  <a href="https://upandclear.org/2020/09/26/nouvelle-infrastructure-en-ligne/"><b>Nouvelle infrastructure dédié/VPS pour un rapport coût/ressources optimisé</b></a><br/>
+  <sub>26 sep 2020</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -63,7 +63,7 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
-- ★ 57 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+- ★ 58 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
 - ★ 3 · [**Stremio-Seerr-Catalog**](https://github.com/Aerya/Stremio-Seerr-Catalog)
