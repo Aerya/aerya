@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2022/02/06/cypht-le-webmail-simple-mais-complet/"><img align="left" src="https://upandclear.org/wp-content/uploads/2022/02/cypht-le-webmail-simple-mais-complet-300x300.jpg" width="120" alt="Cypht : le webmail simple mais complet" /></a>
-  <a href="https://upandclear.org/2022/02/06/cypht-le-webmail-simple-mais-complet/"><b>Cypht : le webmail simple mais complet</b></a><br/>
-  <sub>6 fév 2022</sub>
+  <a href="https://upandclear.org/2016/09/28/back/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Back!" /></a>
+  <a href="https://upandclear.org/2016/09/28/back/"><b>Back!</b></a><br/>
+  <sub>28 sep 2016</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
