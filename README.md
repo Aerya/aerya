@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2025/09/10/recommendarr-recommandations-plex-jellyfin-arrs-par-lia/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/09/432998671-d0189d62-9644-4ef2-b44d-af78ad3e29f4-300x300.jpg" width="120" alt="Recommendarr : recommandations Plex/Jellyfin/arrs par l’IA" /></a>
-  <a href="https://upandclear.org/2025/09/10/recommendarr-recommandations-plex-jellyfin-arrs-par-lia/"><b>Recommendarr : recommandations Plex/Jellyfin/arrs par l’IA</b></a><br/>
-  <sub>10 sep 2025</sub>
+  <a href="https://upandclear.org/2020/10/15/noob-rclone-workspace-ex-gsuite-creer-et-monter-un-shared-drive-aka-team-drive-chiffre/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2020/10/2020-10-14_17-45-300x300.png" width="120" alt="[NOOB] rClone &amp; Workspace (ex GSuite) : créer et monter un Shared Drive (aka Team Drive) chiffré" /></a>
+  <a href="https://upandclear.org/2020/10/15/noob-rclone-workspace-ex-gsuite-creer-et-monter-un-shared-drive-aka-team-drive-chiffre/"><b>[NOOB] rClone &amp; Workspace (ex GSuite) : créer et monter un Shared Drive (aka Team Drive) chiffré</b></a><br/>
+  <sub>15 oct 2020</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
