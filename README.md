@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2020/10/15/noob-rclone-workspace-ex-gsuite-creer-et-monter-un-shared-drive-aka-team-drive-chiffre/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2020/10/2020-10-14_17-45-300x300.png" width="120" alt="[NOOB] rClone &amp; Workspace (ex GSuite) : créer et monter un Shared Drive (aka Team Drive) chiffré" /></a>
-  <a href="https://upandclear.org/2020/10/15/noob-rclone-workspace-ex-gsuite-creer-et-monter-un-shared-drive-aka-team-drive-chiffre/"><b>[NOOB] rClone &amp; Workspace (ex GSuite) : créer et monter un Shared Drive (aka Team Drive) chiffré</b></a><br/>
-  <sub>15 oct 2020</sub>
+  <a href="https://upandclear.org/2020/11/15/synology-installer-cronjob-editor-sur-dsm-6/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2020/11/Screen-Shot-11-15-20-at-04.26-PM-300x300.png" width="120" alt="Synology : installer Cronjob editor sur DSM 6+" /></a>
+  <a href="https://upandclear.org/2020/11/15/synology-installer-cronjob-editor-sur-dsm-6/"><b>Synology : installer Cronjob editor sur DSM 6+</b></a><br/>
+  <sub>15 nov 2020</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
