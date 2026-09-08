@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2017/08/22/rambox-une-seule-interface-pour-irc-messenger-slack-protonmail-twitter-outlook-gmail/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2017/08/Rambox-4_003-1024x532-300x300.png" width="120" alt="Rambox : une seule interface pour IRC, Messenger, Slack, ProtonMail, Twitter, Outlook, Gmail…" /></a>
-  <a href="https://upandclear.org/2017/08/22/rambox-une-seule-interface-pour-irc-messenger-slack-protonmail-twitter-outlook-gmail/"><b>Rambox : une seule interface pour IRC, Messenger, Slack, ProtonMail, Twitter, Outlook, Gmail…</b></a><br/>
-  <sub>22 août 2017</sub>
+  <a href="https://upandclear.org/2025/09/30/gestion-des-leds-du-lincstation-n1-sous-unraid/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/09/lincstation-n1-led-strip-v0-sfvsou2ae2ed1-300x300.webp" width="120" alt="Gestion des LEDs du Lincstation N1 sous UNRAID" /></a>
+  <a href="https://upandclear.org/2025/09/30/gestion-des-leds-du-lincstation-n1-sous-unraid/"><b>Gestion des LEDs du Lincstation N1 sous UNRAID</b></a><br/>
+  <sub>30 sep 2025</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -63,7 +63,7 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
-- ★ 59 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+- ★ 60 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
 - ★ 41 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
