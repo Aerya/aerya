@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2015/09/04/piratage-orangewebsite/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Piratage OrangeWebsite" /></a>
-  <a href="https://upandclear.org/2015/09/04/piratage-orangewebsite/"><b>Piratage OrangeWebsite</b></a><br/>
-  <sub>4 sep 2015</sub>
+  <a href="https://upandclear.org/2017/01/21/installation-de-plex-plexpy-plexrequest-plexcomicreader-organizr-twitchmod/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2017/01/001-6-300x300.png" width="120" alt="Installation de Plex, PlexPy, PlexRequest, PlexComicReader, Organizr, TwitchMod" /></a>
+  <a href="https://upandclear.org/2017/01/21/installation-de-plex-plexpy-plexrequest-plexcomicreader-organizr-twitchmod/"><b>Installation de Plex, PlexPy, PlexRequest, PlexComicReader, Organizr, TwitchMod</b></a><br/>
+  <sub>21 jan 2017</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
