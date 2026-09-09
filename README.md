@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2021/11/08/monter-son-serveur-vps-wireguard-et-lutiliser-avec-un-client-docker-kill-switch-proxy/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2021/11/2021-11-08-14_50_12-Cloud-Panel-300x300.png" width="120" alt="Monter son serveur VPS Wireguard et l’utiliser avec un client Docker + kill switch + proxy" /></a>
-  <a href="https://upandclear.org/2021/11/08/monter-son-serveur-vps-wireguard-et-lutiliser-avec-un-client-docker-kill-switch-proxy/"><b>Monter son serveur VPS Wireguard et l’utiliser avec un client Docker + kill switch + proxy</b></a><br/>
-  <sub>8 nov 2021</sub>
+  <a href="https://upandclear.org/2018/07/01/docker-rtorrent-rutorrent-client-vpn-airvpn/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Docker : rTorrent/ruTorrent + client VPN (AirVPN)" /></a>
+  <a href="https://upandclear.org/2018/07/01/docker-rtorrent-rutorrent-client-vpn-airvpn/"><b>Docker : rTorrent/ruTorrent + client VPN (AirVPN)</b></a><br/>
+  <sub>1 juil 2018</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
