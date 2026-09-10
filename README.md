@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2016/08/03/klingande-deep-house-francais-sympa/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2016/08/Klingande-300x300.jpg" width="120" alt="Klingande : deep house, français, sympa" /></a>
-  <a href="https://upandclear.org/2016/08/03/klingande-deep-house-francais-sympa/"><b>Klingande : deep house, français, sympa</b></a><br/>
-  <sub>3 août 2016</sub>
+  <a href="https://upandclear.org/2026/03/26/maj-patch-pour-wemod-wand-pro-mods-trainers-pour-jeux-pc/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/03/wand1-300x300.jpg" width="120" alt="MàJ : patch pour WeMod/Wand (Pro) : mods &amp; trainers pour jeux PC" /></a>
+  <a href="https://upandclear.org/2026/03/26/maj-patch-pour-wemod-wand-pro-mods-trainers-pour-jeux-pc/"><b>MàJ : patch pour WeMod/Wand (Pro) : mods &amp; trainers pour jeux PC</b></a><br/>
+  <sub>26 mar 2026</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
