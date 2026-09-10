@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2017/01/21/installation-de-plex-plexpy-plexrequest-plexcomicreader-organizr-twitchmod/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2017/01/001-6-300x300.png" width="120" alt="Installation de Plex, PlexPy, PlexRequest, PlexComicReader, Organizr, TwitchMod" /></a>
-  <a href="https://upandclear.org/2017/01/21/installation-de-plex-plexpy-plexrequest-plexcomicreader-organizr-twitchmod/"><b>Installation de Plex, PlexPy, PlexRequest, PlexComicReader, Organizr, TwitchMod</b></a><br/>
-  <sub>21 jan 2017</sub>
+  <a href="https://upandclear.org/2015/09/01/monter-un-nas-synology-sur-pc/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2015/09/Sélection_060-300x300.png" width="120" alt="Monter un NAS Synology sur PC" /></a>
+  <a href="https://upandclear.org/2015/09/01/monter-un-nas-synology-sur-pc/"><b>Monter un NAS Synology sur PC</b></a><br/>
+  <sub>1 sep 2015</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -63,6 +63,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
+- ★ 5 · [**nexotv-enhanced**](https://github.com/Aerya/nexotv-enhanced)
+  NexoTV Enhanced est un addon Stremio pour IPTV, basé sur un fork de nexotv, offrant des chaînes TV en direct et des catalogues de films/séries configurables avec sélection de catégories. Il permet de mixer plusieurs sources, de masquer des chaînes et propose un enrichissement via TMDB.
+
 - ★ 60 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
@@ -71,9 +74,6 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 
 - ★ 10 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
   Gluetun Companion est une interface web Python pour gérer automatiquement les serveurs VPN WireGuard et OpenVPN dans Gluetun, offrant des benchmarks, une sélection de serveurs, la gestion des conteneurs dépendants et des notifications. Le projet est en bêta, principalement testé avec AirVPN.
-
-- ★ 5 · [**nexotv-enhanced**](https://github.com/Aerya/nexotv-enhanced)
-  NexoTV Enhanced est un addon Stremio pour IPTV, basé sur un fork de nexotv, offrant des chaînes TV en direct et des catalogues de films/séries configurables avec sélection de catégories. Il permet de mixer plusieurs sources, de masquer des chaînes et propose un enrichissement via TMDB.
 
 - [**Stremosaic**](https://github.com/Aerya/Stremosaic)
   Stremosaic est un addon Stremio qui agrège des catalogues de diverses sources (TMDB, AniList, Bingebase, etc.) avec une interface web en français et des fonctionnalités de sécurité avancées. Il permet de créer des catalogues personnalisés et de les partager via un marketplace.
