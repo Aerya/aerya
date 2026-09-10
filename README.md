@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2015/09/01/monter-un-nas-synology-sur-pc/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2015/09/Sélection_060-300x300.png" width="120" alt="Monter un NAS Synology sur PC" /></a>
-  <a href="https://upandclear.org/2015/09/01/monter-un-nas-synology-sur-pc/"><b>Monter un NAS Synology sur PC</b></a><br/>
-  <sub>1 sep 2015</sub>
+  <a href="https://upandclear.org/2016/08/03/klingande-deep-house-francais-sympa/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2016/08/Klingande-300x300.jpg" width="120" alt="Klingande : deep house, français, sympa" /></a>
+  <a href="https://upandclear.org/2016/08/03/klingande-deep-house-francais-sympa/"><b>Klingande : deep house, français, sympa</b></a><br/>
+  <sub>3 août 2016</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
