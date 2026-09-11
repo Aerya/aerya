@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2026/03/26/maj-patch-pour-wemod-wand-pro-mods-trainers-pour-jeux-pc/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/03/wand1-300x300.jpg" width="120" alt="MàJ : patch pour WeMod/Wand (Pro) : mods &amp; trainers pour jeux PC" /></a>
-  <a href="https://upandclear.org/2026/03/26/maj-patch-pour-wemod-wand-pro-mods-trainers-pour-jeux-pc/"><b>MàJ : patch pour WeMod/Wand (Pro) : mods &amp; trainers pour jeux PC</b></a><br/>
-  <sub>26 mar 2026</sub>
+  <a href="https://upandclear.org/2017/05/13/openvpn-ubuntu-17-script-de-reconnexion-automatique/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="OpenVPN, Ubuntu 17 : script de reconnexion automatique" /></a>
+  <a href="https://upandclear.org/2017/05/13/openvpn-ubuntu-17-script-de-reconnexion-automatique/"><b>OpenVPN, Ubuntu 17 : script de reconnexion automatique</b></a><br/>
+  <sub>13 mai 2017</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -63,11 +63,11 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
+- ★ 61 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+  Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
+
 - ★ 5 · [**nexotv-enhanced**](https://github.com/Aerya/nexotv-enhanced)
   NexoTV Enhanced est un addon Stremio pour IPTV, basé sur un fork de nexotv, offrant des chaînes TV en direct et des catalogues de films/séries configurables avec sélection de catégories. Il permet de mixer plusieurs sources, de masquer des chaînes et propose un enrichissement via TMDB.
-
-- ★ 60 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
-  Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
 - ★ 41 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
   Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
