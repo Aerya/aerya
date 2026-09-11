@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2015/12/08/spotify-sur-kodi/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2015/12/Kodi_SpotiMc-300x281.jpg" width="120" alt="Spotify sur Kodi" /></a>
-  <a href="https://upandclear.org/2015/12/08/spotify-sur-kodi/"><b>Spotify sur Kodi</b></a><br/>
-  <sub>8 déc 2015</sub>
+  <a href="https://upandclear.org/2017/08/27/merci-mondedie-au-revoir/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Merci Mondedie, au revoir" /></a>
+  <a href="https://upandclear.org/2017/08/27/merci-mondedie-au-revoir/"><b>Merci Mondedie, au revoir</b></a><br/>
+  <sub>27 août 2017</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
