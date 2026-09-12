@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2015/09/01/monter-un-nas-synology-sur-pc/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2015/09/Sélection_060-300x300.png" width="120" alt="Monter un NAS Synology sur PC" /></a>
-  <a href="https://upandclear.org/2015/09/01/monter-un-nas-synology-sur-pc/"><b>Monter un NAS Synology sur PC</b></a><br/>
-  <sub>1 sep 2015</sub>
+  <a href="https://upandclear.org/2016/07/07/synology-cronjob-editor-planifier-lexecution-de-commandesscripts-simplement/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2016/07/Sélection_005-300x300.png" width="120" alt="Synology Cronjob Editor : planifier l’exécution de commandes/scripts simplement" /></a>
+  <a href="https://upandclear.org/2016/07/07/synology-cronjob-editor-planifier-lexecution-de-commandesscripts-simplement/"><b>Synology Cronjob Editor : planifier l’exécution de commandes/scripts simplement</b></a><br/>
+  <sub>7 juil 2016</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -155,7 +155,7 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - [**Planet-Warez-Markdown-menu**](https://github.com/Aerya/Planet-Warez-Markdown-menu)
   Menu Markdown rapide pour Plaanet-Warez
 
-- [**Docker-MOHAA-server**](https://github.com/Aerya/Docker-MOHAA-server)
+- ★ 1 · [**Docker-MOHAA-server**](https://github.com/Aerya/Docker-MOHAA-server)
   Docker MOHAA server including volume to add contents
 
 
