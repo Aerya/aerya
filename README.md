@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2017/08/27/merci-mondedie-au-revoir/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Merci Mondedie, au revoir" /></a>
-  <a href="https://upandclear.org/2017/08/27/merci-mondedie-au-revoir/"><b>Merci Mondedie, au revoir</b></a><br/>
-  <sub>27 août 2017</sub>
+  <a href="https://upandclear.org/2025/05/05/stremio-client-ios/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/05/stremio-streaming-ios-300x300.jpg" width="120" alt="Stremio : client iOS" /></a>
+  <a href="https://upandclear.org/2025/05/05/stremio-client-ios/"><b>Stremio : client iOS</b></a><br/>
+  <sub>5 mai 2025</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -63,7 +63,7 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
-- ★ 61 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+- ★ 62 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
 - ★ 5 · [**nexotv-enhanced**](https://github.com/Aerya/nexotv-enhanced)
