@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2021/12/27/proxmox-optimisation/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/2021/12/proxmox-2-300x300.png" width="120" alt="Proxmox : optimisation (script xshok)" /></a>
-  <a href="https://upandclear.org/2021/12/27/proxmox-optimisation/"><b>Proxmox : optimisation (script xshok)</b></a><br/>
-  <sub>27 déc 2021</sub>
+  <a href="https://upandclear.org/2016/05/23/script-greasemonkeystylish-t411-un-peu-plus-pratique/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2016/05/t411_1-300x300.png" width="120" alt="Script Greasemonkey/Stylish : T411 un peu plus pratique" /></a>
+  <a href="https://upandclear.org/2016/05/23/script-greasemonkeystylish-t411-un-peu-plus-pratique/"><b>Script Greasemonkey/Stylish : T411 un peu plus pratique</b></a><br/>
+  <sub>23 mai 2016</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -89,7 +89,7 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - ★ 3 · [**Stremio-Seerr-Catalog**](https://github.com/Aerya/Stremio-Seerr-Catalog)
   Addon Stremio qui expose les requêtes Over, Jelly ou Seerr sous forme de catalogues. Il fait le lien entre l'écosystème Seerr/Radarr/Sonarr et Stremio.
 
-- ★ 3 · [**stremio-rss-catalog**](https://github.com/Aerya/stremio-rss-catalog)
+- ★ 2 · [**stremio-rss-catalog**](https://github.com/Aerya/stremio-rss-catalog)
   Addon Stremio qui génère des catalogues depuis des flux RSS, Prowlarr ou NZBHydra2. Il permet d'intégrer des sources personnalisées directement dans Stremio.
 
 - [**MiniVid**](https://github.com/Aerya/MiniVid)
