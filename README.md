@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2016/04/29/je-suis-passe-a-windows-10/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2016/04/minionsw10-300x300.png" width="120" alt="Je suis passé à Windows 10" /></a>
-  <a href="https://upandclear.org/2016/04/29/je-suis-passe-a-windows-10/"><b>Je suis passé à Windows 10</b></a><br/>
-  <sub>29 avr 2016</sub>
+  <a href="https://upandclear.org/2015/09/29/upandclear-passe-en-http2/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="UpAndClear passe en HTTP/2" /></a>
+  <a href="https://upandclear.org/2015/09/29/upandclear-passe-en-http2/"><b>UpAndClear passe en HTTP/2</b></a><br/>
+  <sub>29 sep 2015</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
