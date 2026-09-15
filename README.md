@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2015/09/29/upandclear-passe-en-http2/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="UpAndClear passe en HTTP/2" /></a>
-  <a href="https://upandclear.org/2015/09/29/upandclear-passe-en-http2/"><b>UpAndClear passe en HTTP/2</b></a><br/>
-  <sub>29 sep 2015</sub>
+  <a href="https://upandclear.org/2016/08/21/le-lol-du-jour-t411-bittorrent-et-lanonymat-sont-dans-un-bateau/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2016/08/t411.twitter-300x300.png" width="120" alt="Le LOL du jour : T411, BitTorrent et l’anonymat sont dans un bâteau" /></a>
+  <a href="https://upandclear.org/2016/08/21/le-lol-du-jour-t411-bittorrent-et-lanonymat-sont-dans-un-bateau/"><b>Le LOL du jour : T411, BitTorrent et l’anonymat sont dans un bâteau</b></a><br/>
+  <sub>21 août 2016</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
