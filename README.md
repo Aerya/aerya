@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2016/03/05/port-knocking-cacher-son-port-ssh/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Port Knocking : cacher son port SSH" /></a>
-  <a href="https://upandclear.org/2016/03/05/port-knocking-cacher-son-port-ssh/"><b>Port Knocking : cacher son port SSH</b></a><br/>
-  <sub>5 mar 2016</sub>
+  <a href="https://upandclear.org/2021/01/02/ferdi-whatsapp-telegram-discord-hangouts-etc-au-meme-endroit/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2021/01/2021-01-02-00_06_21-Ferdi-Rocket.Chat-300x300.png" width="120" alt="Ferdi : WhatsApp, Telegram, Discord, Hangouts etc au même endroit et auto-hébergé" /></a>
+  <a href="https://upandclear.org/2021/01/02/ferdi-whatsapp-telegram-discord-hangouts-etc-au-meme-endroit/"><b>Ferdi : WhatsApp, Telegram, Discord, Hangouts etc au même endroit et auto-hébergé</b></a><br/>
+  <sub>2 jan 2021</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,11 +57,11 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
-- ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
-  Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées, et une API REST. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion des configurations sans redémarrage.
-
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
+
+- ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
+  Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées, et une API REST. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion des configurations sans redémarrage.
 
 - ★ 62 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
