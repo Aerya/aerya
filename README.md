@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2016/08/21/le-lol-du-jour-t411-bittorrent-et-lanonymat-sont-dans-un-bateau/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2016/08/t411.twitter-300x300.png" width="120" alt="Le LOL du jour : T411, BitTorrent et l’anonymat sont dans un bâteau" /></a>
-  <a href="https://upandclear.org/2016/08/21/le-lol-du-jour-t411-bittorrent-et-lanonymat-sont-dans-un-bateau/"><b>Le LOL du jour : T411, BitTorrent et l’anonymat sont dans un bâteau</b></a><br/>
-  <sub>21 août 2016</sub>
+  <a href="https://upandclear.org/2016/03/05/port-knocking-cacher-son-port-ssh/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Port Knocking : cacher son port SSH" /></a>
+  <a href="https://upandclear.org/2016/03/05/port-knocking-cacher-son-port-ssh/"><b>Port Knocking : cacher son port SSH</b></a><br/>
+  <sub>5 mar 2016</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
