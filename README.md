@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2016/03/15/france-dechiffrement-obligatoire/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="France : déchiffrement obligatoire ?" /></a>
-  <a href="https://upandclear.org/2016/03/15/france-dechiffrement-obligatoire/"><b>France : déchiffrement obligatoire ?</b></a><br/>
-  <sub>15 mar 2016</sub>
+  <a href="https://upandclear.org/2021/06/24/client-e-mail-mailsping-ex-nylas-n1/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2021/06/2021-06-23_19-42-300x300.png" width="120" alt="Client e-mail Mailspring (ex Nylas N1)" /></a>
+  <a href="https://upandclear.org/2021/06/24/client-e-mail-mailsping-ex-nylas-n1/"><b>Client e-mail Mailspring (ex Nylas N1)</b></a><br/>
+  <sub>24 jun 2021</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
