@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2017/03/13/kdeconnect-connectez-android-et-linux-remote-claviersouris-partage-de-fichiers-notifications-lecteur-multimedia/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2017/03/4-300x300.png" width="120" alt="KDEConnect, connectez Android et Linux : remote clavier/souris, partage de fichiers, notifications, lecteur multimédia…" /></a>
-  <a href="https://upandclear.org/2017/03/13/kdeconnect-connectez-android-et-linux-remote-claviersouris-partage-de-fichiers-notifications-lecteur-multimedia/"><b>KDEConnect, connectez Android et Linux : remote clavier/souris, partage de fichiers, notifications, lecteur multimédia…</b></a><br/>
-  <sub>13 mar 2017</sub>
+  <a href="https://upandclear.org/2022/01/18/1er-jour-sans-cigarette-depuis-pres-de-30-ans/"><img align="left" src="https://upandclear.org/wp-content/uploads/2022/01/1er-jour-sans-cigarette-depuis-pres-de-30-ans-300x300.jpg" width="120" alt="1er jour sans cigarette depuis près de 30 ans" /></a>
+  <a href="https://upandclear.org/2022/01/18/1er-jour-sans-cigarette-depuis-pres-de-30-ans/"><b>1er jour sans cigarette depuis près de 30 ans</b></a><br/>
+  <sub>18 jan 2022</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -56,6 +56,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 
 <!-- REPOS:START -->
 ### Dernières mises à jour
+
+- [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
+  Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
 - ★ 42 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
   Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
@@ -68,9 +71,6 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 
 - ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
   Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées, et une API REST. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion des configurations sans redémarrage.
-
-- [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
-  Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
 - [**MiniVid**](https://github.com/Aerya/MiniVid)
   Application pour indexer, lire, taguer et mettre en favoris des vidéos locales. Elle vise une gestion simple d'une bibliothèque vidéo personnelle.
