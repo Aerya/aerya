@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2018/09/16/nginx-proxy-manager-reverse-proxy-nginx-ssl-via-interface-web-noob/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2018/09/2018-09-16_12-36-300x295.png" width="120" alt="Nginx-Proxy-Manager : reverse proxy Nginx + SSL via interface Web [NOOB]" /></a>
-  <a href="https://upandclear.org/2018/09/16/nginx-proxy-manager-reverse-proxy-nginx-ssl-via-interface-web-noob/"><b>Nginx-Proxy-Manager : reverse proxy Nginx + SSL via interface Web [NOOB]</b></a><br/>
-  <sub>16 sep 2018</sub>
+  <a href="https://upandclear.org/2016/01/15/raid-un-outil-pour-visualiser-les-differences/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2016/01/Sélection_018-300x300.png" width="120" alt="RAID : un outil pour visualiser les différences" /></a>
+  <a href="https://upandclear.org/2016/01/15/raid-un-outil-pour-visualiser-les-differences/"><b>RAID : un outil pour visualiser les différences</b></a><br/>
+  <sub>15 jan 2016</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -63,7 +63,7 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
-- ★ 63 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+- ★ 64 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
 - ★ 42 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
@@ -86,7 +86,7 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <details>
 <summary>Autres repos</summary>
 
-- ★ 5 · [**nexotv-enhanced**](https://github.com/Aerya/nexotv-enhanced)
+- ★ 6 · [**nexotv-enhanced**](https://github.com/Aerya/nexotv-enhanced)
   NexoTV Enhanced est un addon Stremio pour IPTV, basé sur un fork de nexotv, offrant des chaînes TV en direct et des catalogues de films/séries configurables avec sélection de catégories. Il permet de mixer plusieurs sources, de masquer des chaînes et propose un enrichissement via TMDB.
 
 - [**claudecodeui-docker**](https://github.com/Aerya/claudecodeui-docker)
@@ -104,7 +104,7 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - [**Stremosaic**](https://github.com/Aerya/Stremosaic)
   Stremosaic est un addon Stremio qui agrège des catalogues de diverses sources (TMDB, AniList, Bingebase, etc.) avec une interface web en français et des fonctionnalités de sécurité avancées. Il permet de créer des catalogues personnalisés et de les partager via un marketplace.
 
-- ★ 3 · [**Stremio-Seerr-Catalog**](https://github.com/Aerya/Stremio-Seerr-Catalog)
+- ★ 4 · [**Stremio-Seerr-Catalog**](https://github.com/Aerya/Stremio-Seerr-Catalog)
   Addon Stremio qui expose les requêtes Over, Jelly ou Seerr sous forme de catalogues. Il fait le lien entre l'écosystème Seerr/Radarr/Sonarr et Stremio.
 
 - [**davos**](https://github.com/Aerya/davos)
