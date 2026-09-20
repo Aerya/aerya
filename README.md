@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2022/01/30/serverviz-creer-un-graphique-de-votre-serveur/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/2022/01/2022-01-30_17-48-300x300.png" width="120" alt="ServerViz : créer un graphique de votre serveur" /></a>
-  <a href="https://upandclear.org/2022/01/30/serverviz-creer-un-graphique-de-votre-serveur/"><b>ServerViz : créer un graphique de votre serveur</b></a><br/>
-  <sub>30 jan 2022</sub>
+  <a href="https://upandclear.org/2016/10/13/linux-avec-envrionnement-graphique-lancer-kodi-directement-au-boot/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Linux avec environnement graphique, lancer Kodi directement au boot" /></a>
+  <a href="https://upandclear.org/2016/10/13/linux-avec-envrionnement-graphique-lancer-kodi-directement-au-boot/"><b>Linux avec environnement graphique, lancer Kodi directement au boot</b></a><br/>
+  <sub>13 oct 2016</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,6 +57,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
+- ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
+  Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées, et une API REST. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion des configurations sans redémarrage.
+
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
@@ -65,9 +68,6 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 
 - [**MiniVid**](https://github.com/Aerya/MiniVid)
   Application pour indexer, lire, taguer et mettre en favoris des vidéos locales. Elle vise une gestion simple d'une bibliothèque vidéo personnelle.
-
-- ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
-  Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées, et une API REST. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion des configurations sans redémarrage.
 
 - ★ 65 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
