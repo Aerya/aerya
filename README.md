@@ -14,6 +14,13 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Les derniers
 
 <p>
+  <a href="https://upandclear.org/2026/09/21/pornscout-userscript-bittorrent/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/09/pornscout2-300x300.png" width="72" alt="PornScout : comparer les releases et envoyer le meilleur torrent vers votre client BitTorrent" /></a>
+  <a href="https://upandclear.org/2026/09/21/pornscout-userscript-bittorrent/"><b>PornScout : comparer les releases et envoyer le meilleur torrent vers votre client BitTorrent</b></a><br/>
+  <sub>21 sep 2026</sub>
+</p>
+<br clear="left"/>
+
+<p>
   
   <a href="https://upandclear.org/2026/08/30/dockge-enhanced-quelques-mois-plus-tard-le-petit-fork-a-bien-grandi/"><b>Dockge-Enhanced : quelques mois plus tard, le petit fork a bien grandi !</b></a><br/>
   <sub>30 août 2026</sub>
@@ -34,20 +41,13 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 </p>
 <br clear="left"/>
 
-<p>
-  <a href="https://upandclear.org/2026/08/11/rainbow-six-siege-r6s-sous-linux-et-windows-avec-liberator-chasse-aux-terroristes-et-multi-en-lan-sans-compte-jusquen-saison-y4s4-operation-shifting-tides-2020/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/08/images-300x300.jpeg" width="72" alt="Rainbow Six: Siege (R6S) sous Linux (et Windows) : avec Liberator, chasse aux terroristes et multi en LAN sans compte jusqu’en saison Y4S4 – Operation Shifting Tides (2020)" /></a>
-  <a href="https://upandclear.org/2026/08/11/rainbow-six-siege-r6s-sous-linux-et-windows-avec-liberator-chasse-aux-terroristes-et-multi-en-lan-sans-compte-jusquen-saison-y4s4-operation-shifting-tides-2020/"><b>Rainbow Six: Siege (R6S) sous Linux (et Windows) : avec Liberator, chasse aux terroristes et multi en LAN sans compte jusqu’en saison Y4S4 – Operation Shifting Tides (2020)</b></a><br/>
-  <sub>11 août 2026</sub>
-</p>
-<br clear="left"/>
-
 
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2017/01/26/linux-ssd-performances-et-preservation-trim-fichiers-en-ram-tmpfs/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Linux, SSD : performances et préservation (TRIM), fichiers en RAM (tmpfs)" /></a>
-  <a href="https://upandclear.org/2017/01/26/linux-ssd-performances-et-preservation-trim-fichiers-en-ram-tmpfs/"><b>Linux, SSD : performances et préservation (TRIM), fichiers en RAM (tmpfs)</b></a><br/>
-  <sub>26 jan 2017</sub>
+  <a href="https://upandclear.org/2020/11/07/docker-rutorrent-erreur-dtach-detach_sess-rtorrent-address-in-use/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Docker ruTorrent : erreur dtach: /detach_sess/.rtorrent: Address in use" /></a>
+  <a href="https://upandclear.org/2020/11/07/docker-rutorrent-erreur-dtach-detach_sess-rtorrent-address-in-use/"><b>Docker ruTorrent : erreur dtach: /detach_sess/.rtorrent: Address in use</b></a><br/>
+  <sub>7 nov 2020</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,7 +57,13 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
-- ★ 66 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+- [**PornScout**](https://github.com/Aerya/PornScout)
+  PornScout est un userscript pour Tampermonkey/Violentmonkey qui compare les releases torrent, recherche de meilleures versions sur divers trackers et les envoie vers des clients BitTorrent configurés. Il supporte plusieurs trackers et clients, avec des options de configuration avancées pour la qualité et l'envoi.
+
+- [**MiniVid**](https://github.com/Aerya/MiniVid)
+  Application pour indexer, lire, taguer et mettre en favoris des vidéos locales. Elle vise une gestion simple d'une bibliothèque vidéo personnelle.
+
+- ★ 67 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
 - ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
@@ -75,22 +81,19 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - ★ 2 · [**stremio-rss-catalog**](https://github.com/Aerya/stremio-rss-catalog)
   Addon Stremio qui génère des catalogues depuis des flux RSS, Prowlarr ou NZBHydra2. Il permet d'intégrer des sources personnalisées directement dans Stremio.
 
+---
+
+<details>
+<summary>Autres repos</summary>
+
 - ★ 6 · [**nexotv-enhanced**](https://github.com/Aerya/nexotv-enhanced)
   NexoTV Enhanced est un addon Stremio pour IPTV, basé sur un fork de nexotv, offrant des chaînes TV en direct et des catalogues de films/séries configurables avec sélection de catégories. Il permet de mixer plusieurs sources, de masquer des chaînes et propose un enrichissement via TMDB.
 
 - [**claudecodeui-docker**](https://github.com/Aerya/claudecodeui-docker)
   Image Docker GHCR personnelle pour CloudCLI et Claude Code UI. Le dépôt automatise le packaging afin de déployer l'interface plus facilement.
 
----
-
-<details>
-<summary>Autres repos</summary>
-
 - [**cronitor-cli-docker**](https://github.com/Aerya/cronitor-cli-docker)
   Image Docker non officielle pour cronitorio/cronitor-cli, construite automatiquement. Pratique pour utiliser le CLI Cronitor dans des stacks conteneurisées.
-
-- [**MiniVid**](https://github.com/Aerya/MiniVid)
-  Application pour indexer, lire, taguer et mettre en favoris des vidéos locales. Elle vise une gestion simple d'une bibliothèque vidéo personnelle.
 
 - [**PHPSysInfo-Docker**](https://github.com/Aerya/PHPSysInfo-Docker)
   Conteneur Docker pour phpSysInfo, qui affiche les informations système et matérielles d'un hôte dans une interface web.
