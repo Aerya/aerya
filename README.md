@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2020/11/07/docker-rutorrent-erreur-dtach-detach_sess-rtorrent-address-in-use/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Docker ruTorrent : erreur dtach: /detach_sess/.rtorrent: Address in use" /></a>
-  <a href="https://upandclear.org/2020/11/07/docker-rutorrent-erreur-dtach-detach_sess-rtorrent-address-in-use/"><b>Docker ruTorrent : erreur dtach: /detach_sess/.rtorrent: Address in use</b></a><br/>
-  <sub>7 nov 2020</sub>
+  <a href="https://upandclear.org/2025/08/25/streaming-a-la-carte-sans-stockage-local-decypharr-debrideurs-et-torrenting/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/08/cinematic-dark-digital-illustration-in-wide-banner-1756126638-300x300.jpg" width="120" alt="Streaming à la carte sans stockage local : Decypharr, débrideurs et torrenting" /></a>
+  <a href="https://upandclear.org/2025/08/25/streaming-a-la-carte-sans-stockage-local-decypharr-debrideurs-et-torrenting/"><b>Streaming à la carte sans stockage local : Decypharr, débrideurs et torrenting</b></a><br/>
+  <sub>25 août 2025</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,23 +57,23 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
-- [**PornScout**](https://github.com/Aerya/PornScout)
-  PornScout est un userscript pour Tampermonkey/Violentmonkey qui compare les releases torrent, recherche de meilleures versions sur divers trackers et les envoie vers des clients BitTorrent configurés. Il supporte plusieurs trackers et clients, avec des options de configuration avancées pour la qualité et l'envoi.
-
-- [**MiniVid**](https://github.com/Aerya/MiniVid)
-  Application pour indexer, lire, taguer et mettre en favoris des vidéos locales. Elle vise une gestion simple d'une bibliothèque vidéo personnelle.
-
-- ★ 67 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
-  Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
-
 - ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
   Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées, et une API REST. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion des configurations sans redémarrage.
 
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
+- ★ 67 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+  Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
+
+- [**MiniVid**](https://github.com/Aerya/MiniVid)
+  Application pour indexer, lire, taguer et mettre en favoris des vidéos locales. Elle vise une gestion simple d'une bibliothèque vidéo personnelle.
+
 - ★ 42 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
   Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
+
+- ★ 1 · [**PornScout**](https://github.com/Aerya/PornScout)
+  PornScout est un userscript pour Tampermonkey/Violentmonkey qui compare les releases torrent, recherche de meilleures versions sur divers trackers et les envoie vers des clients BitTorrent configurés. Il supporte plusieurs trackers et clients, avec des options de configuration avancées pour la qualité et l'envoi.
 
 - ★ 12 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
   Gluetun Companion est une interface web en Python pour gérer le container Gluetun, offrant des benchmarks VPN, une sélection automatique de serveurs, la gestion des containers dépendants, et des fonctionnalités avancées pour le pilotage de serveurs VPN.
