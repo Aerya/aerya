@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2025/08/25/streaming-a-la-carte-sans-stockage-local-decypharr-debrideurs-et-torrenting/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/08/cinematic-dark-digital-illustration-in-wide-banner-1756126638-300x300.jpg" width="120" alt="Streaming à la carte sans stockage local : Decypharr, débrideurs et torrenting" /></a>
-  <a href="https://upandclear.org/2025/08/25/streaming-a-la-carte-sans-stockage-local-decypharr-debrideurs-et-torrenting/"><b>Streaming à la carte sans stockage local : Decypharr, débrideurs et torrenting</b></a><br/>
-  <sub>25 août 2025</sub>
+  <a href="https://upandclear.org/2015/10/05/firefox-extensions-anti-pub-et-relative-protection-de-la-vie-privee/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2015/10/Sélection_1191-300x300.png" width="120" alt="Firefox : extensions anti-pub et (relative) protection de la vie privée" /></a>
+  <a href="https://upandclear.org/2015/10/05/firefox-extensions-anti-pub-et-relative-protection-de-la-vie-privee/"><b>Firefox : extensions anti-pub et (relative) protection de la vie privée</b></a><br/>
+  <sub>5 oct 2015</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -75,7 +75,7 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - ★ 1 · [**PornScout**](https://github.com/Aerya/PornScout)
   PornScout est un userscript pour Tampermonkey/Violentmonkey qui compare les releases torrent, recherche de meilleures versions sur divers trackers et les envoie vers des clients BitTorrent configurés. Il supporte plusieurs trackers et clients, avec des options de configuration avancées pour la qualité et l'envoi.
 
-- ★ 12 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
+- ★ 13 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
   Gluetun Companion est une interface web en Python pour gérer le container Gluetun, offrant des benchmarks VPN, une sélection automatique de serveurs, la gestion des containers dépendants, et des fonctionnalités avancées pour le pilotage de serveurs VPN.
 
 - ★ 2 · [**stremio-rss-catalog**](https://github.com/Aerya/stremio-rss-catalog)
@@ -131,7 +131,7 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - ★ 4 · [**LaCaleNormale**](https://github.com/Aerya/LaCaleNormale)
   Menus "normaux" pour LaCale
 
-- ★ 9 · [**Stremio-Stack**](https://github.com/Aerya/Stremio-Stack)
+- ★ 10 · [**Stremio-Stack**](https://github.com/Aerya/Stremio-Stack)
   Projet public GitHub maintenu dans le cadre de mes outils et expérimentations personnelles.
 
 - ★ 6 · [**DecypharrSeed**](https://github.com/Aerya/DecypharrSeed)
