@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2016/07/13/bitcoin-central-dot-com-arnaque-ou-opportunisme-tres-maladroit/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2016/07/Sélection_004-300x300.png" width="120" alt="Bitcoin-central dot com : arnaque ou opportunisme (très) maladroit ?" /></a>
-  <a href="https://upandclear.org/2016/07/13/bitcoin-central-dot-com-arnaque-ou-opportunisme-tres-maladroit/"><b>Bitcoin-central dot com : arnaque ou opportunisme (très) maladroit ?</b></a><br/>
-  <sub>13 juil 2016</sub>
+  <a href="https://upandclear.org/2025/09/08/yggtorrent-bulk-downloader/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/09/yggtorrent-bulk-downloader-1757309141-300x300.jpg" width="120" alt="YggTorrent Bulk Downloader" /></a>
+  <a href="https://upandclear.org/2025/09/08/yggtorrent-bulk-downloader/"><b>YggTorrent Bulk Downloader</b></a><br/>
+  <sub>8 sep 2025</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -66,7 +66,7 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
-- ★ 67 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+- ★ 69 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
 - [**MiniVid**](https://github.com/Aerya/MiniVid)
