@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2021/05/07/installer-windows-10-sur-un-serveur-ubuntu-debian-virtualbox-headless/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2021/05/2021-05-07-09_42_06-62.210.99.173_2304-Connexion-Bureau-a-distance-1024x724-300x300.png" width="120" alt="Installer Windows 10 sur un serveur Ubuntu/Debian (virtualbox headless)" /></a>
-  <a href="https://upandclear.org/2021/05/07/installer-windows-10-sur-un-serveur-ubuntu-debian-virtualbox-headless/"><b>Installer Windows 10 sur un serveur Ubuntu/Debian (virtualbox headless)</b></a><br/>
-  <sub>7 mai 2021</sub>
+  <a href="https://upandclear.org/2026/05/28/stremio-postersplus-pour-embellir-ses-catalogues/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/05/showcase-kai-300x300.jpg" width="120" alt="Stremio : PostersPlus, pour embellir ses catalogues" /></a>
+  <a href="https://upandclear.org/2026/05/28/stremio-postersplus-pour-embellir-ses-catalogues/"><b>Stremio : PostersPlus, pour embellir ses catalogues</b></a><br/>
+  <sub>28 mai 2026</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -56,6 +56,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 
 <!-- REPOS:START -->
 ### Dernières mises à jour
+
+- ★ 14 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
+  Gluetun Companion est une interface web en Python pour gérer le container Gluetun, offrant des benchmarks VPN, une sélection automatique de serveurs, la gestion des containers dépendants, et des fonctionnalités avancées pour le pilotage de serveurs VPN.
 
 - ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
   Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées, et une API REST. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion des configurations sans redémarrage.
@@ -68,9 +71,6 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 
 - [**MiniVid**](https://github.com/Aerya/MiniVid)
   Application pour indexer, lire, taguer et mettre en favoris des vidéos locales. Elle vise une gestion simple d'une bibliothèque vidéo personnelle.
-
-- ★ 14 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
-  Gluetun Companion est une interface web en Python pour gérer le container Gluetun, offrant des benchmarks VPN, une sélection automatique de serveurs, la gestion des containers dépendants, et des fonctionnalités avancées pour le pilotage de serveurs VPN.
 
 - ★ 42 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
   Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
