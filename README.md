@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2017/03/06/content-security-policy-bogues-possibles/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Content-Security-Policy : bogues possibles" /></a>
-  <a href="https://upandclear.org/2017/03/06/content-security-policy-bogues-possibles/"><b>Content-Security-Policy : bogues possibles</b></a><br/>
-  <sub>6 mar 2017</sub>
+  <a href="https://upandclear.org/2021/05/07/installer-windows-10-sur-un-serveur-ubuntu-debian-virtualbox-headless/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2021/05/2021-05-07-09_42_06-62.210.99.173_2304-Connexion-Bureau-a-distance-1024x724-300x300.png" width="120" alt="Installer Windows 10 sur un serveur Ubuntu/Debian (virtualbox headless)" /></a>
+  <a href="https://upandclear.org/2021/05/07/installer-windows-10-sur-un-serveur-ubuntu-debian-virtualbox-headless/"><b>Installer Windows 10 sur un serveur Ubuntu/Debian (virtualbox headless)</b></a><br/>
+  <sub>7 mai 2021</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
