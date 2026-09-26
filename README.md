@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2026/05/28/stremio-postersplus-pour-embellir-ses-catalogues/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/05/showcase-kai-300x300.jpg" width="120" alt="Stremio : PostersPlus, pour embellir ses catalogues" /></a>
-  <a href="https://upandclear.org/2026/05/28/stremio-postersplus-pour-embellir-ses-catalogues/"><b>Stremio : PostersPlus, pour embellir ses catalogues</b></a><br/>
-  <sub>28 mai 2026</sub>
+  <a href="https://upandclear.org/2015/11/27/faille-vpn-possible-hack-de-lip-utilisateur/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Faille VPN : possible hack de l’IP utilisateur" /></a>
+  <a href="https://upandclear.org/2015/11/27/faille-vpn-possible-hack-de-lip-utilisateur/"><b>Faille VPN : possible hack de l’IP utilisateur</b></a><br/>
+  <sub>27 nov 2015</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,8 +57,8 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
-- ★ 14 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
-  Gluetun Companion est une interface web en Python pour gérer le container Gluetun, offrant des benchmarks VPN, une sélection automatique de serveurs, la gestion des containers dépendants, et des fonctionnalités avancées pour le pilotage de serveurs VPN.
+- ★ 71 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+  Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
 - ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
   Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées, et une API REST. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion des configurations sans redémarrage.
@@ -66,14 +66,14 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
-- ★ 70 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
-  Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
+- ★ 42 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
+  Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
+
+- ★ 14 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
+  Gluetun Companion est une interface web pour gérer automatiquement les serveurs VPN WireGuard et OpenVPN dans Gluetun, offrant des benchmarks, une sélection de serveurs, la gestion des containers dépendants et des notifications. Le projet est en bêta, principalement testé avec AirVPN.
 
 - [**MiniVid**](https://github.com/Aerya/MiniVid)
   Application pour indexer, lire, taguer et mettre en favoris des vidéos locales. Elle vise une gestion simple d'une bibliothèque vidéo personnelle.
-
-- ★ 42 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
-  Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
 
 - ★ 1 · [**PornScout**](https://github.com/Aerya/PornScout)
   PornScout est un userscript pour Tampermonkey/Violentmonkey qui compare les releases torrent, recherche de meilleures versions sur divers trackers et les envoie vers des clients BitTorrent configurés. Il supporte plusieurs trackers et clients, avec des options de configuration avancées pour la qualité et l'envoi.
