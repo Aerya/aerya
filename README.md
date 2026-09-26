@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2015/11/27/faille-vpn-possible-hack-de-lip-utilisateur/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Faille VPN : possible hack de l’IP utilisateur" /></a>
-  <a href="https://upandclear.org/2015/11/27/faille-vpn-possible-hack-de-lip-utilisateur/"><b>Faille VPN : possible hack de l’IP utilisateur</b></a><br/>
-  <sub>27 nov 2015</sub>
+  <a href="https://upandclear.org/2025/07/12/ajouter-ygg-api-a-prowlarr/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/07/yggtorrent-api-prowlarr-1752340310-1-300x300.jpg" width="120" alt="Ajouter Ygg-API à Prowlarr (MàJ 30.10.25)" /></a>
+  <a href="https://upandclear.org/2025/07/12/ajouter-ygg-api-a-prowlarr/"><b>Ajouter Ygg-API à Prowlarr (MàJ 30.10.25)</b></a><br/>
+  <sub>12 juil 2025</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
