@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2024/10/09/hydra-launcher-le-arr-des-jeux-videos-pc/"><img align="left" src="https://upandclear.org/wp-content/uploads/2024/10/hydra-video-game-downloader-and-launcher-2-300x300.jpg" width="120" alt="Hydra Launcher : le *arr des jeux vidéos PC" /></a>
-  <a href="https://upandclear.org/2024/10/09/hydra-launcher-le-arr-des-jeux-videos-pc/"><b>Hydra Launcher : le *arr des jeux vidéos PC</b></a><br/>
-  <sub>9 oct 2024</sub>
+  <a href="https://upandclear.org/2015/12/16/kodi-plugin-dacces-aux-replays-fr/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2015/12/freplay-150x150.png" width="120" alt="Kodi : plugin d’accès aux Replays (FR)" /></a>
+  <a href="https://upandclear.org/2015/12/16/kodi-plugin-dacces-aux-replays-fr/"><b>Kodi : plugin d’accès aux Replays (FR)</b></a><br/>
+  <sub>16 déc 2015</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,11 +57,11 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
-- ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
-  Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées, et une API REST. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion des configurations sans redémarrage.
-
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
+
+- ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
+  Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées, et une API REST. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion des configurations sans redémarrage.
 
 - ★ 72 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
