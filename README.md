@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2017/05/14/docker-bench-for-security-clair-coreos-testez-la-securite-de-votre-environnement-docker-et-de-vos-containers/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Docker Bench for Security &amp; Clair (CoreOS) : testez la sécurité de votre environnement Docker et de vos containers" /></a>
-  <a href="https://upandclear.org/2017/05/14/docker-bench-for-security-clair-coreos-testez-la-securite-de-votre-environnement-docker-et-de-vos-containers/"><b>Docker Bench for Security &amp; Clair (CoreOS) : testez la sécurité de votre environnement Docker et de vos containers</b></a><br/>
-  <sub>14 mai 2017</sub>
+  <a href="https://upandclear.org/2025/07/04/streaming-a-la-carte-sans-stockage-rdt-client-rclone-zurg-debrideurs-et-torrenting/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/07/cloud-hosting-video-streaming-300x300.jpg" width="120" alt="Streaming à la carte sans stockage local : RDT-Client, rClone, Zurg, débrideurs et torrenting" /></a>
+  <a href="https://upandclear.org/2025/07/04/streaming-a-la-carte-sans-stockage-rdt-client-rclone-zurg-debrideurs-et-torrenting/"><b>Streaming à la carte sans stockage local : RDT-Client, rClone, Zurg, débrideurs et torrenting</b></a><br/>
+  <sub>4 juil 2025</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
