@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2025/12/15/nouvelle-version-de-decypharr-tres-grosses-nouveautes/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/08/cinematic-dark-digital-illustration-in-wide-banner-1756126638-300x300.jpg" width="120" alt="Nouvelle version de Decypharr : très grosses nouveautés !" /></a>
-  <a href="https://upandclear.org/2025/12/15/nouvelle-version-de-decypharr-tres-grosses-nouveautes/"><b>Nouvelle version de Decypharr : très grosses nouveautés !</b></a><br/>
-  <sub>15 déc 2025</sub>
+  <a href="https://upandclear.org/2015/08/30/zdnet-non-microsoft-ne-vous-espionne-pas-avec-windows-10/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2015/08/11-300x300.png" width="120" alt="(Zdnet) Microsoft / Windows 10 : moi j’ai lu leurs CGU." /></a>
+  <a href="https://upandclear.org/2015/08/30/zdnet-non-microsoft-ne-vous-espionne-pas-avec-windows-10/"><b>(Zdnet) Microsoft / Windows 10 : moi j’ai lu leurs CGU.</b></a><br/>
+  <sub>30 août 2015</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -56,6 +56,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 
 <!-- REPOS:START -->
 ### Dernières mises à jour
+
+- ★ 2 · [**stremio-rss-catalog**](https://github.com/Aerya/stremio-rss-catalog)
+  Addon Stremio qui génère des catalogues depuis des flux RSS, Prowlarr ou NZBHydra2. Il permet d'intégrer des sources personnalisées directement dans Stremio.
 
 - ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
   Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées, et une API REST. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion des configurations sans redémarrage.
@@ -74,9 +77,6 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 
 - ★ 6 · [**nexotv-enhanced**](https://github.com/Aerya/nexotv-enhanced)
   NexoTV Enhanced est un addon Stremio pour IPTV, basé sur un fork de nexotv, offrant des chaînes TV en direct et des catalogues de films/séries configurables avec sélection de catégories. Il permet de mixer plusieurs sources, de masquer des chaînes et propose un enrichissement via TMDB.
-
-- ★ 2 · [**stremio-rss-catalog**](https://github.com/Aerya/stremio-rss-catalog)
-  Addon Stremio qui génère des catalogues depuis des flux RSS, Prowlarr ou NZBHydra2. Il permet d'intégrer des sources personnalisées directement dans Stremio.
 
 - [**MiniVid**](https://github.com/Aerya/MiniVid)
   Application pour indexer, lire, taguer et mettre en favoris des vidéos locales. Elle vise une gestion simple d'une bibliothèque vidéo personnelle.
