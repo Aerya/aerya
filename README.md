@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2025/07/04/streaming-a-la-carte-sans-stockage-rdt-client-rclone-zurg-debrideurs-et-torrenting/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/07/cloud-hosting-video-streaming-300x300.jpg" width="120" alt="Streaming à la carte sans stockage local : RDT-Client, rClone, Zurg, débrideurs et torrenting" /></a>
-  <a href="https://upandclear.org/2025/07/04/streaming-a-la-carte-sans-stockage-rdt-client-rclone-zurg-debrideurs-et-torrenting/"><b>Streaming à la carte sans stockage local : RDT-Client, rClone, Zurg, débrideurs et torrenting</b></a><br/>
-  <sub>4 juil 2025</sub>
+  <a href="https://upandclear.org/2025/12/15/nouvelle-version-de-decypharr-tres-grosses-nouveautes/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/08/cinematic-dark-digital-illustration-in-wide-banner-1756126638-300x300.jpg" width="120" alt="Nouvelle version de Decypharr : très grosses nouveautés !" /></a>
+  <a href="https://upandclear.org/2025/12/15/nouvelle-version-de-decypharr-tres-grosses-nouveautes/"><b>Nouvelle version de Decypharr : très grosses nouveautés !</b></a><br/>
+  <sub>15 déc 2025</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
