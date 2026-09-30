@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2019/04/09/sonarr-est-toujours-aussi-mauvais-sur-lindexation/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2019/04/Firefox_Screenshot_2019-04-09T08-35-29.802Z-2-300x300.png" width="120" alt="Sonarr est toujours aussi mauvais sur l’indexation des séries sans nom « US/UK »" /></a>
-  <a href="https://upandclear.org/2019/04/09/sonarr-est-toujours-aussi-mauvais-sur-lindexation/"><b>Sonarr est toujours aussi mauvais sur l’indexation des séries sans nom « US/UK »</b></a><br/>
-  <sub>9 avr 2019</sub>
+  <a href="https://upandclear.org/2025/01/08/hydra-client-alternatif-reddit-pour-ios/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/01/reddit-client-ios-300x300.jpg" width="120" alt="Hydra, client alternatif Reddit pour iOS" /></a>
+  <a href="https://upandclear.org/2025/01/08/hydra-client-alternatif-reddit-pour-ios/"><b>Hydra, client alternatif Reddit pour iOS</b></a><br/>
+  <sub>8 jan 2025</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
