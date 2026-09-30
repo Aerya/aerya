@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2017/01/26/linux-ssd-performances-et-preservation-trim-fichiers-en-ram-tmpfs/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Linux, SSD : performances et préservation (TRIM), fichiers en RAM (tmpfs)" /></a>
-  <a href="https://upandclear.org/2017/01/26/linux-ssd-performances-et-preservation-trim-fichiers-en-ram-tmpfs/"><b>Linux, SSD : performances et préservation (TRIM), fichiers en RAM (tmpfs)</b></a><br/>
-  <sub>26 jan 2017</sub>
+  <a href="https://upandclear.org/2019/04/09/sonarr-est-toujours-aussi-mauvais-sur-lindexation/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2019/04/Firefox_Screenshot_2019-04-09T08-35-29.802Z-2-300x300.png" width="120" alt="Sonarr est toujours aussi mauvais sur l’indexation des séries sans nom « US/UK »" /></a>
+  <a href="https://upandclear.org/2019/04/09/sonarr-est-toujours-aussi-mauvais-sur-lindexation/"><b>Sonarr est toujours aussi mauvais sur l’indexation des séries sans nom « US/UK »</b></a><br/>
+  <sub>9 avr 2019</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,14 +57,17 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
+- ★ 74 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+  Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
+
+- [**qbit-orphan-web**](https://github.com/Aerya/qbit-orphan-web)
+  qbit-orphan-web est une interface web Docker légère pour identifier et supprimer les fichiers orphelins de clients BitTorrent, avec des fonctionnalités d'automatisation et de notification. Elle supporte qBittorrent et rTorrent, et permet de gérer les fichiers présents sur le stockage mais non liés à un client configuré.
+
 - ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
   Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées, et une API REST. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion des configurations sans redémarrage.
 
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
-
-- ★ 73 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
-  Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
 - [**MiniVid**](https://github.com/Aerya/MiniVid)
   Application pour indexer, lire, taguer et mettre en favoris des vidéos locales. Elle vise une gestion simple d'une bibliothèque vidéo personnelle.
@@ -78,13 +81,13 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - ★ 14 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
   Gluetun Companion est une interface web pour gérer automatiquement les serveurs VPN WireGuard et OpenVPN dans Gluetun, offrant des benchmarks, une sélection de serveurs, la gestion des containers dépendants et des notifications. Le projet est en bêta, principalement testé avec AirVPN.
 
-- ★ 6 · [**nexotv-enhanced**](https://github.com/Aerya/nexotv-enhanced)
-  NexoTV Enhanced est un addon Stremio pour IPTV, basé sur un fork de nexotv, offrant des chaînes TV en direct et des catalogues de films/séries configurables avec sélection de catégories. Il permet de mixer plusieurs sources, de masquer des chaînes et propose un enrichissement via TMDB.
-
 ---
 
 <details>
 <summary>Autres repos</summary>
+
+- ★ 6 · [**nexotv-enhanced**](https://github.com/Aerya/nexotv-enhanced)
+  NexoTV Enhanced est un addon Stremio pour IPTV, basé sur un fork de nexotv, offrant des chaînes TV en direct et des catalogues de films/séries configurables avec sélection de catégories. Il permet de mixer plusieurs sources, de masquer des chaînes et propose un enrichissement via TMDB.
 
 - [**cronitor-cli-docker**](https://github.com/Aerya/cronitor-cli-docker)
   Image Docker non officielle pour cronitorio/cronitor-cli, construite automatiquement. Pratique pour utiliser le CLI Cronitor dans des stacks conteneurisées.
