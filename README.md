@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2025/01/08/hydra-client-alternatif-reddit-pour-ios/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/01/reddit-client-ios-300x300.jpg" width="120" alt="Hydra, client alternatif Reddit pour iOS" /></a>
-  <a href="https://upandclear.org/2025/01/08/hydra-client-alternatif-reddit-pour-ios/"><b>Hydra, client alternatif Reddit pour iOS</b></a><br/>
-  <sub>8 jan 2025</sub>
+  <a href="https://upandclear.org/2015/09/17/acces-ssh-par-cle-win-mac-nix-securisation/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Accès SSH par clé (Win, Mac, Nix) + sécurisation" /></a>
+  <a href="https://upandclear.org/2015/09/17/acces-ssh-par-cle-win-mac-nix-securisation/"><b>Accès SSH par clé (Win, Mac, Nix) + sécurisation</b></a><br/>
+  <sub>17 sep 2015</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,11 +57,8 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
-- ★ 74 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+- ★ 75 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
-
-- [**qbit-orphan-web**](https://github.com/Aerya/qbit-orphan-web)
-  qbit-orphan-web est une interface web Docker légère pour identifier et supprimer les fichiers orphelins de clients BitTorrent, avec des fonctionnalités d'automatisation et de notification. Elle supporte qBittorrent et rTorrent, et permet de gérer les fichiers présents sur le stockage mais non liés à un client configuré.
 
 - ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
   Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées, et une API REST. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion des configurations sans redémarrage.
@@ -71,6 +68,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 
 - [**MiniVid**](https://github.com/Aerya/MiniVid)
   Application pour indexer, lire, taguer et mettre en favoris des vidéos locales. Elle vise une gestion simple d'une bibliothèque vidéo personnelle.
+
+- [**qbit-orphan-web**](https://github.com/Aerya/qbit-orphan-web)
+  qbit-orphan-web est une interface web Docker légère pour identifier et supprimer les fichiers orphelins de clients BitTorrent, avec des fonctionnalités d'automatisation et de notification. Elle supporte qBittorrent et rTorrent, et permet de gérer les fichiers présents sur le stockage mais non liés à un client configuré.
 
 - ★ 2 · [**stremio-rss-catalog**](https://github.com/Aerya/stremio-rss-catalog)
   Addon Stremio qui génère des catalogues depuis des flux RSS, Prowlarr ou NZBHydra2. Il permet d'intégrer des sources personnalisées directement dans Stremio.
