@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2016/03/15/iptablesipset-acces-portsservices-selon-ip-protections-diverses-et-blocage-ip-chinoises-noracism/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="IPtables/IPset : accès ports/services selon IP, protections diverses et blocage IP chinoises (NORACISM)" /></a>
-  <a href="https://upandclear.org/2016/03/15/iptablesipset-acces-portsservices-selon-ip-protections-diverses-et-blocage-ip-chinoises-noracism/"><b>IPtables/IPset : accès ports/services selon IP, protections diverses et blocage IP chinoises (NORACISM)</b></a><br/>
-  <sub>15 mar 2016</sub>
+  <a href="https://upandclear.org/2017/01/23/plex-linux-desktopembedded-client/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2017/01/qt-300x300.png" width="120" alt="Plex Linux Desktop/Embedded Client" /></a>
+  <a href="https://upandclear.org/2017/01/23/plex-linux-desktopembedded-client/"><b>Plex Linux Desktop/Embedded Client</b></a><br/>
+  <sub>23 jan 2017</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -63,7 +63,7 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
-- ★ 75 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+- ★ 77 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
 - [**MiniVid**](https://github.com/Aerya/MiniVid)
