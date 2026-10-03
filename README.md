@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2019/04/30/nouveau-clavier-gaming-tres-bon-et-pas-cher-klim-dash/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2019/04/EuyN8a1-300x300.png" width="120" alt="Nouveau clavier gaming, très bon et pas cher : KLIM DASH" /></a>
-  <a href="https://upandclear.org/2019/04/30/nouveau-clavier-gaming-tres-bon-et-pas-cher-klim-dash/"><b>Nouveau clavier gaming, très bon et pas cher : KLIM DASH</b></a><br/>
-  <sub>30 avr 2019</sub>
+  <a href="https://upandclear.org/2016/11/17/script-de-benchmark-bande-passante-disques-durs-infos-systeme/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Script de benchmark (bande passante, disques durs + infos système)" /></a>
+  <a href="https://upandclear.org/2016/11/17/script-de-benchmark-bande-passante-disques-durs-infos-systeme/"><b>Script de benchmark (bande passante, disques durs + infos système)</b></a><br/>
+  <sub>17 nov 2016</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,11 +57,11 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
-- ★ 84 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+- ★ 87 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
 - ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
-  Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées, et une API REST. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion des configurations sans redémarrage.
+  Ce dépôt Go, "ddns-updater-enhanced", propose un outil de mise à jour de DNS dynamique (DDNS) doté d'une interface web plus complète.
 
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
@@ -79,7 +79,7 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
   Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
 
 - ★ 14 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
-  Gluetun Companion est une interface web pour gérer automatiquement les serveurs VPN WireGuard et OpenVPN dans Gluetun, offrant des benchmarks, une sélection de serveurs, la gestion des containers dépendants et des notifications. Le projet est en bêta, principalement testé avec AirVPN.
+  Ce dépôt Python, nommé Gluetun-Companion, ne fournit pas de description ou de README pour en résumer le contenu.
 
 ---
 
@@ -129,7 +129,7 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
   Ancien addon Stremio pour catalogues francophones. Le projet a évolué vers stremio-rss-catalog, qui le remplace pour les usages actuels.
 
 - [**correzeboostemploi**](https://github.com/Aerya/correzeboostemploi)
-  Surveillance automatiquement des offres selon critères + alertes Discord
+  Ce dépôt Python automatise la surveillance des offres d'emploi selon des critères définis et envoie des alertes sur Discord.
 
 - ★ 4 · [**LaCaleNormale**](https://github.com/Aerya/LaCaleNormale)
   Menus "normaux" pour LaCale
