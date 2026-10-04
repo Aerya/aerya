@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2025/09/10/recommendarr-recommandations-plex-jellyfin-arrs-par-lia/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/09/432998671-d0189d62-9644-4ef2-b44d-af78ad3e29f4-300x300.jpg" width="120" alt="Recommendarr : recommandations Plex/Jellyfin/arrs par l’IA" /></a>
-  <a href="https://upandclear.org/2025/09/10/recommendarr-recommandations-plex-jellyfin-arrs-par-lia/"><b>Recommendarr : recommandations Plex/Jellyfin/arrs par l’IA</b></a><br/>
-  <sub>10 sep 2025</sub>
+  <a href="https://upandclear.org/2026/08/11/rainbow-six-siege-r6s-sous-linux-et-windows-avec-liberator-chasse-aux-terroristes-et-multi-en-lan-sans-compte-jusquen-saison-y4s4-operation-shifting-tides-2020/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/08/images-300x300.jpeg" width="120" alt="Rainbow Six: Siege (R6S) sous Linux (et Windows) : avec Liberator, chasse aux terroristes et multi en LAN sans compte jusqu’en saison Y4S4 – Operation Shifting Tides (2020)" /></a>
+  <a href="https://upandclear.org/2026/08/11/rainbow-six-siege-r6s-sous-linux-et-windows-avec-liberator-chasse-aux-terroristes-et-multi-en-lan-sans-compte-jusquen-saison-y4s4-operation-shifting-tides-2020/"><b>Rainbow Six: Siege (R6S) sous Linux (et Windows) : avec Liberator, chasse aux terroristes et multi en LAN sans compte jusqu’en saison Y4S4 – Operation Shifting Tides (2020)</b></a><br/>
+  <sub>11 août 2026</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,13 +57,16 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
+- ★ 42 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
+  Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
+
 - ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
   Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion via une API REST.
 
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
-- ★ 91 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+- ★ 93 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
 - [**MiniVid**](https://github.com/Aerya/MiniVid)
@@ -74,9 +77,6 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 
 - ★ 2 · [**stremio-rss-catalog**](https://github.com/Aerya/stremio-rss-catalog)
   Addon Stremio qui génère des catalogues depuis des flux RSS, Prowlarr ou NZBHydra2. Il permet d'intégrer des sources personnalisées directement dans Stremio.
-
-- ★ 42 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
-  Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
 
 - ★ 14 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
   Gluetun Companion est une interface web pour gérer et automatiser les serveurs VPN WireGuard et OpenVPN dans Gluetun. Il offre des benchmarks, une sélection automatique de serveurs, la gestion des containers dépendants, et des fonctionnalités avancées pour le pilotage homelab.
