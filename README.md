@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2016/11/17/script-de-benchmark-bande-passante-disques-durs-infos-systeme/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Script de benchmark (bande passante, disques durs + infos système)" /></a>
-  <a href="https://upandclear.org/2016/11/17/script-de-benchmark-bande-passante-disques-durs-infos-systeme/"><b>Script de benchmark (bande passante, disques durs + infos système)</b></a><br/>
-  <sub>17 nov 2016</sub>
+  <a href="https://upandclear.org/2025/09/10/recommendarr-recommandations-plex-jellyfin-arrs-par-lia/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/09/432998671-d0189d62-9644-4ef2-b44d-af78ad3e29f4-300x300.jpg" width="120" alt="Recommendarr : recommandations Plex/Jellyfin/arrs par l’IA" /></a>
+  <a href="https://upandclear.org/2025/09/10/recommendarr-recommandations-plex-jellyfin-arrs-par-lia/"><b>Recommendarr : recommandations Plex/Jellyfin/arrs par l’IA</b></a><br/>
+  <sub>10 sep 2025</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,14 +57,14 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
-- ★ 87 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
-  Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
-
 - ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
-  Ce dépôt Go, "ddns-updater-enhanced", propose un outil de mise à jour de DNS dynamique (DDNS) doté d'une interface web plus complète.
+  Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion via une API REST.
 
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
+
+- ★ 91 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+  Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
 - [**MiniVid**](https://github.com/Aerya/MiniVid)
   Application pour indexer, lire, taguer et mettre en favoris des vidéos locales. Elle vise une gestion simple d'une bibliothèque vidéo personnelle.
@@ -79,7 +79,7 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
   Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
 
 - ★ 14 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
-  Ce dépôt Python, nommé Gluetun-Companion, ne fournit pas de description ou de README pour en résumer le contenu.
+  Gluetun Companion est une interface web pour gérer et automatiser les serveurs VPN WireGuard et OpenVPN dans Gluetun. Il offre des benchmarks, une sélection automatique de serveurs, la gestion des containers dépendants, et des fonctionnalités avancées pour le pilotage homelab.
 
 ---
 
@@ -129,7 +129,7 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
   Ancien addon Stremio pour catalogues francophones. Le projet a évolué vers stremio-rss-catalog, qui le remplace pour les usages actuels.
 
 - [**correzeboostemploi**](https://github.com/Aerya/correzeboostemploi)
-  Ce dépôt Python automatise la surveillance des offres d'emploi selon des critères définis et envoie des alertes sur Discord.
+  Ce projet Python surveille les offres d'emploi sur correzeboostemploi.fr, filtre les résultats selon des mots-clés bannis et envoie les nouvelles offres via un webhook Discord. Il est configurable via Docker Compose et s'exécute périodiquement.
 
 - ★ 4 · [**LaCaleNormale**](https://github.com/Aerya/LaCaleNormale)
   Menus "normaux" pour LaCale
