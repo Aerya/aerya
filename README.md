@@ -14,6 +14,13 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Les derniers
 
 <p>
+  <a href="https://upandclear.org/2026/10/05/powerwatch-surveiller-la-consommation-electrique-de-ses-machines/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/10/entete-300x300.png" width="72" alt="PowerWatch : surveiller la consommation électrique de ses machines" /></a>
+  <a href="https://upandclear.org/2026/10/05/powerwatch-surveiller-la-consommation-electrique-de-ses-machines/"><b>PowerWatch : surveiller la consommation électrique de ses machines</b></a><br/>
+  <sub>5 oct 2026</sub>
+</p>
+<br clear="left"/>
+
+<p>
   <a href="https://upandclear.org/2026/09/21/pornscout-userscript-bittorrent/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/09/pornscout2-300x300.png" width="72" alt="PornScout : comparer les releases et envoyer le meilleur torrent vers votre client BitTorrent" /></a>
   <a href="https://upandclear.org/2026/09/21/pornscout-userscript-bittorrent/"><b>PornScout : comparer les releases et envoyer le meilleur torrent vers votre client BitTorrent</b></a><br/>
   <sub>21 sep 2026</sub>
@@ -34,20 +41,13 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 </p>
 <br clear="left"/>
 
-<p>
-  <a href="https://upandclear.org/2026/08/30/github-discord-notifier-notifications-github-vers-discord-avec-webui/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/08/6-2-300x300.png" width="72" alt="GitHub Discord Notifier : notifications GitHub vers Discord, avec WebUI." /></a>
-  <a href="https://upandclear.org/2026/08/30/github-discord-notifier-notifications-github-vers-discord-avec-webui/"><b>GitHub Discord Notifier : notifications GitHub vers Discord, avec WebUI.</b></a><br/>
-  <sub>30 août 2026</sub>
-</p>
-<br clear="left"/>
-
 
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2018/05/27/gerer-son-serveur-multimedia-depuis-discord-requetes-etc/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2018/05/Sélection_002-300x300.png" width="120" alt="Gérer son serveur multimédia depuis Discord (requêtes etc)" /></a>
-  <a href="https://upandclear.org/2018/05/27/gerer-son-serveur-multimedia-depuis-discord-requetes-etc/"><b>Gérer son serveur multimédia depuis Discord (requêtes etc)</b></a><br/>
-  <sub>27 mai 2018</sub>
+  <a href="https://upandclear.org/2018/05/30/docker-installer-plex-avec-un-ssl-en-6-minutes-ou-moins/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Docker : installer Plex avec un SSL en 6 minutes (ou moins)" /></a>
+  <a href="https://upandclear.org/2018/05/30/docker-installer-plex-avec-un-ssl-en-6-minutes-ou-moins/"><b>Docker : installer Plex avec un SSL en 6 minutes (ou moins)</b></a><br/>
+  <sub>30 mai 2018</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,29 +57,29 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
-- ★ 42 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
-  Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
-
 - ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
   Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion via une API REST.
 
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
-- ★ 94 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+- ★ 42 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
+  Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
+
+- ★ 95 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
+
+- ★ 14 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
+  Gluetun Companion est une interface web pour gérer et automatiser les serveurs VPN WireGuard et OpenVPN dans Gluetun. Il offre des benchmarks, une sélection automatique de serveurs, la gestion des containers dépendants, et des fonctionnalités avancées pour le pilotage homelab.
+
+- ★ 2 · [**stremio-rss-catalog**](https://github.com/Aerya/stremio-rss-catalog)
+  Addon Stremio qui génère des catalogues depuis des flux RSS, Prowlarr ou NZBHydra2. Il permet d'intégrer des sources personnalisées directement dans Stremio.
 
 - [**MiniVid**](https://github.com/Aerya/MiniVid)
   Application pour indexer, lire, taguer et mettre en favoris des vidéos locales. Elle vise une gestion simple d'une bibliothèque vidéo personnelle.
 
 - [**qbit-orphan-web**](https://github.com/Aerya/qbit-orphan-web)
   qbit-orphan-web est une interface web Docker légère pour identifier et supprimer les fichiers orphelins de clients BitTorrent, avec des fonctionnalités d'automatisation et de notification. Elle supporte qBittorrent et rTorrent, et permet de gérer les fichiers présents sur le stockage mais non liés à un client configuré.
-
-- ★ 2 · [**stremio-rss-catalog**](https://github.com/Aerya/stremio-rss-catalog)
-  Addon Stremio qui génère des catalogues depuis des flux RSS, Prowlarr ou NZBHydra2. Il permet d'intégrer des sources personnalisées directement dans Stremio.
-
-- ★ 14 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
-  Gluetun Companion est une interface web pour gérer et automatiser les serveurs VPN WireGuard et OpenVPN dans Gluetun. Il offre des benchmarks, une sélection automatique de serveurs, la gestion des containers dépendants, et des fonctionnalités avancées pour le pilotage homelab.
 
 ---
 
