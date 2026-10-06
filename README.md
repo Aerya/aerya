@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2015/08/23/two-factor-auth-list/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Two Factor Auth list" /></a>
-  <a href="https://upandclear.org/2015/08/23/two-factor-auth-list/"><b>Two Factor Auth list</b></a><br/>
-  <sub>23 août 2015</sub>
+  <a href="https://upandclear.org/2024/10/10/quelle-solution-de-serveur-basse-consommation-pour-unraid-pour-ma-part-le-lincstation-n1/"><img align="left" src="https://upandclear.org/wp-content/uploads/2024/10/low-energy-home-server-300x300.png" width="120" alt="Quelle solution de serveur basse consommation pour UNRAID ? Pour ma part : le LincStation N1 !" /></a>
+  <a href="https://upandclear.org/2024/10/10/quelle-solution-de-serveur-basse-consommation-pour-unraid-pour-ma-part-le-lincstation-n1/"><b>Quelle solution de serveur basse consommation pour UNRAID ? Pour ma part : le LincStation N1 !</b></a><br/>
+  <sub>10 oct 2024</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,10 +57,7 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
-- ★ 42 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
-  Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
-
-- ★ 95 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+- ★ 96 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
 - ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
@@ -68,6 +65,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
+
+- ★ 42 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
+  Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
 
 - ★ 14 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
   Gluetun Companion est une interface web pour gérer et automatiser les serveurs VPN WireGuard et OpenVPN dans Gluetun. Il offre des benchmarks, une sélection automatique de serveurs, la gestion des containers dépendants, et des fonctionnalités avancées pour le pilotage homelab.
