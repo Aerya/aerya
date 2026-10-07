@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2015/10/02/installer-et-utiliser-sickrage-bittorrentusenet-telechargement-automatique-de-seriesanimes/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2015/10/Sélection_118-300x300.png" width="120" alt="Installer et utiliser SickRage (bittorrent/usenet), téléchargement automatique de séries/animes" /></a>
-  <a href="https://upandclear.org/2015/10/02/installer-et-utiliser-sickrage-bittorrentusenet-telechargement-automatique-de-seriesanimes/"><b>Installer et utiliser SickRage (bittorrent/usenet), téléchargement automatique de séries/animes</b></a><br/>
-  <sub>2 oct 2015</sub>
+  <a href="https://upandclear.org/2018/09/16/test-des-questions-reponses/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Test des Questions/Réponses" /></a>
+  <a href="https://upandclear.org/2018/09/16/test-des-questions-reponses/"><b>Test des Questions/Réponses</b></a><br/>
+  <sub>16 sep 2018</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
