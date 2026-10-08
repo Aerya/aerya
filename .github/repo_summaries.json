@@ -86,8 +86,8 @@
     },
     "Aerya/PowerWatch": {
       "fingerprint": "c5135e52c80e74d9a22cc3bbd33639685d66e9c8dbdc417638aa6de65ec2801a",
-      "source": "github-description",
-      "summary": "Fork of https://git.disroot.org/lnpotter/PowerWatch",
+      "source": "manual",
+      "summary": "PowerWatch surveille la consommation électrique de vos machines et centralise les relevés dans une interface simple.",
       "updated_at": "2026-10-08T04:38:04+00:00"
     },
     "Aerya/ProxySpin": {

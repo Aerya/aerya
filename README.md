@@ -64,7 +64,7 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
   Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
 
 - ★ 1 · [**PowerWatch**](https://github.com/Aerya/PowerWatch)
-  Fork of https://git.disroot.org/lnpotter/PowerWatch
+  PowerWatch surveille la consommation électrique de vos machines et centralise les relevés dans une interface simple.
 
 - ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
   Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion via une API REST.
