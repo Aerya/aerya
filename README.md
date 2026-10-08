@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2019/10/31/script-de-nettoyage-dune-seedbox-sous-docker/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2019/10/B1E6PfV-300x155.png" width="120" alt="Script de nettoyage d’une seedbox sous Docker" /></a>
-  <a href="https://upandclear.org/2019/10/31/script-de-nettoyage-dune-seedbox-sous-docker/"><b>Script de nettoyage d’une seedbox sous Docker</b></a><br/>
-  <sub>31 oct 2019</sub>
+  <a href="https://upandclear.org/2015/10/08/marketing-donnees-collectees-cash-investigation/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Marketing : données collectées (Cash Investigation)" /></a>
+  <a href="https://upandclear.org/2015/10/08/marketing-donnees-collectees-cash-investigation/"><b>Marketing : données collectées (Cash Investigation)</b></a><br/>
+  <sub>8 oct 2015</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
