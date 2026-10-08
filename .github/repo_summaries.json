@@ -33,13 +33,13 @@
     "Aerya/Dockge-Enhanced": {
       "fingerprint": "69b26b0f87d3472dbdd938958b6d4ee69bfc4e33eb6f6e16c244729ee8d50922",
       "source": "manual",
-      "summary": "Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.",
+      "summary": "Fork de Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.",
       "updated_at": "2026-10-08T04:41:35+00:00"
     },
     "Aerya/Gluetun-Companion": {
       "fingerprint": "69a95561dce5ddeb787a59949a3a196d27a8f2bc0364763946305948cae79db1",
       "source": "openrouter",
-      "summary": "Gluetun Companion est une interface web pour gérer et automatiser les serveurs VPN WireGuard et OpenVPN dans Gluetun. Il offre des benchmarks, une sélection automatique de serveurs, la gestion des containers dépendants, et des fonctionnalités avancées pour le pilotage homelab.",
+      "summary": "Interface web pour gérer et automatiser les serveurs VPN WireGuard et OpenVPN dans Gluetun. Il offre des benchmarks, une sélection automatique de serveurs, la gestion des containers dépendants, et des fonctionnalités avancées pour le pilotage homelab.",
       "updated_at": "2026-10-04T12:04:51+00:00"
     },
     "Aerya/HomeGuard": {
@@ -81,13 +81,13 @@
     "Aerya/PornScout": {
       "fingerprint": "0fd04df6b8ced3b8c1390c9cc2217623172458082efc2f20271556414e90dbfe",
       "source": "openrouter",
-      "summary": "PornScout est un userscript pour Tampermonkey/Violentmonkey qui compare les releases torrent, recherche de meilleures versions sur divers trackers et les envoie vers des clients BitTorrent configurés. Il supporte plusieurs trackers et clients, avec des options de configuration avancées pour la qualité et l'envoi.",
+      "summary": "Userscript pour Tampermonkey/Violentmonkey qui compare les releases torrent, recherche de meilleures versions sur divers trackers et les envoie vers des clients BitTorrent configurés. Il supporte plusieurs trackers et clients, avec des options de configuration avancées pour la qualité et l'envoi.",
       "updated_at": "2026-09-21T19:10:14+00:00"
     },
     "Aerya/PowerWatch": {
       "fingerprint": "c5135e52c80e74d9a22cc3bbd33639685d66e9c8dbdc417638aa6de65ec2801a",
       "source": "manual",
-      "summary": "PowerWatch surveille la consommation électrique de vos machines et centralise les relevés dans une interface simple.",
+      "summary": "Surveille la consommation électrique de vos machines et centralise les relevés dans une interface simple.",
       "updated_at": "2026-10-08T04:41:36+00:00"
     },
     "Aerya/ProxySpin": {
@@ -117,7 +117,7 @@
     "Aerya/Stremio-Stack": {
       "fingerprint": "ced08ff82fa892c694793f49c7be8eaebf4120735eb92c685d205c578e686e8c",
       "source": "github-description",
-      "summary": "Projet public GitHub maintenu dans le cadre de mes outils et expérimentations personnelles.",
+      "summary": "[Non maintenu] Projet public GitHub dans le cadre de mes outils et expérimentations personnelles.",
       "updated_at": "2026-06-10T12:39:02+00:00"
     },
     "Aerya/Stremosaic": {
@@ -141,7 +141,7 @@
     "Aerya/correzeboostemploi": {
       "fingerprint": "795bdc41beeaaee518295160fde79f8809a021bfeef2c55985e4c3e524f88f0b",
       "source": "openrouter",
-      "summary": "Ce projet Python surveille les offres d'emploi sur correzeboostemploi.fr, filtre les résultats selon des mots-clés bannis et envoie les nouvelles offres via un webhook Discord. Il est configurable via Docker Compose et s'exécute périodiquement.",
+      "summary": "Surveille les offres d'emploi sur correzeboostemploi.fr, filtre les résultats selon des mots-clés bannis et envoie les nouvelles offres via un webhook Discord. Il est configurable via Docker Compose et s'exécute périodiquement.",
       "updated_at": "2026-10-04T12:04:57+00:00"
     },
     "Aerya/cronitor-cli-docker": {
@@ -153,7 +153,7 @@
     "Aerya/davos": {
       "fingerprint": "b83013959571973f95cea6cdba51809a17950c34d15db8a5fd3832e41860f6d1",
       "source": "openrouter",
-      "summary": "Davos est un outil d'automatisation de téléchargement FTP avec une interface web, écrit en Java, qui permet de scanner des serveurs FTP pour des fichiers spécifiques et de les télécharger automatiquement. Il offre des fonctionnalités comme la notification des téléchargements et la gestion des plannings via une interface graphique.",
+      "summary": "Outil d'automatisation de téléchargement FTP avec une interface web, écrit en Java, qui permet de scanner des serveurs FTP pour des fichiers spécifiques et de les télécharger automatiquement. Il offre des fonctionnalités comme la notification des téléchargements et la gestion des plannings via une interface graphique.",
       "updated_at": "2026-06-27T19:48:11+00:00"
     },
     "Aerya/ddns-updater-enhanced": {
@@ -177,7 +177,7 @@
     "Aerya/nexotv-enhanced": {
       "fingerprint": "b77de93e30a512525a20694acc2aea51327889892d0af13cc0c526c382ef6eb4",
       "source": "openrouter",
-      "summary": "NexoTV Enhanced est un addon Stremio pour IPTV, basé sur un fork de nexotv, offrant des chaînes TV en direct et des catalogues de films/séries configurables avec sélection de catégories. Il permet de mixer plusieurs sources, de masquer des chaînes et propose un enrichissement via TMDB.",
+      "summary": "Addon Stremio pour IPTV, basé sur un fork de nexotv, offrant des chaînes TV en direct et des catalogues de films/séries configurables avec sélection de catégories. Il permet de mixer plusieurs sources, de masquer des chaînes et propose un enrichissement via TMDB.",
       "updated_at": "2026-07-18T07:59:52+00:00"
     },
     "Aerya/qbit-orphan-web": {
