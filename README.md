@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2015/10/08/marketing-donnees-collectees-cash-investigation/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Marketing : données collectées (Cash Investigation)" /></a>
-  <a href="https://upandclear.org/2015/10/08/marketing-donnees-collectees-cash-investigation/"><b>Marketing : données collectées (Cash Investigation)</b></a><br/>
-  <sub>8 oct 2015</sub>
+  <a href="https://upandclear.org/2015/11/05/linux-sabnzbd-et-par2-multi-core/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2015/11/Sélection_0441-300x300.png" width="120" alt="Linux : SABnzbd et Par2 multi-core" /></a>
+  <a href="https://upandclear.org/2015/11/05/linux-sabnzbd-et-par2-multi-core/"><b>Linux : SABnzbd et Par2 multi-core</b></a><br/>
+  <sub>5 nov 2015</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -58,13 +58,13 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 ### Dernières mises à jour
 
 - ★ 101 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
-  Greffon pour Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
+  Fork de Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
 - ★ 42 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
   Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
 
 - ★ 1 · [**PowerWatch**](https://github.com/Aerya/PowerWatch)
-  PowerWatch surveille la consommation électrique de vos machines et centralise les relevés dans une interface simple.
+  Surveille la consommation électrique de vos machines et centralise les relevés dans une interface simple.
 
 - ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
   Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion via une API REST.
@@ -73,10 +73,10 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
 - ★ 6 · [**nexotv-enhanced**](https://github.com/Aerya/nexotv-enhanced)
-  NexoTV Enhanced est un addon Stremio pour IPTV, basé sur un fork de nexotv, offrant des chaînes TV en direct et des catalogues de films/séries configurables avec sélection de catégories. Il permet de mixer plusieurs sources, de masquer des chaînes et propose un enrichissement via TMDB.
+  Addon Stremio pour IPTV, basé sur un fork de nexotv, offrant des chaînes TV en direct et des catalogues de films/séries configurables avec sélection de catégories. Il permet de mixer plusieurs sources, de masquer des chaînes et propose un enrichissement via TMDB.
 
 - ★ 14 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
-  Gluetun Companion est une interface web pour gérer et automatiser les serveurs VPN WireGuard et OpenVPN dans Gluetun. Il offre des benchmarks, une sélection automatique de serveurs, la gestion des containers dépendants, et des fonctionnalités avancées pour le pilotage homelab.
+  Interface web pour gérer et automatiser les serveurs VPN WireGuard et OpenVPN dans Gluetun. Il offre des benchmarks, une sélection automatique de serveurs, la gestion des containers dépendants, et des fonctionnalités avancées pour le pilotage homelab.
 
 - ★ 2 · [**stremio-rss-catalog**](https://github.com/Aerya/stremio-rss-catalog)
   Addon Stremio qui génère des catalogues depuis des flux RSS, Prowlarr ou NZBHydra2. Il permet d'intégrer des sources personnalisées directement dans Stremio.
@@ -105,7 +105,7 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
   Serveur WireGuard en Docker pour utiliser son propre serveur DNS (AdGuard Home, Pi-hole…) depuis un smartphone, même en dehors du réseau local.
 
 - ★ 1 · [**PornScout**](https://github.com/Aerya/PornScout)
-  PornScout est un userscript pour Tampermonkey/Violentmonkey qui compare les releases torrent, recherche de meilleures versions sur divers trackers et les envoie vers des clients BitTorrent configurés. Il supporte plusieurs trackers et clients, avec des options de configuration avancées pour la qualité et l'envoi.
+  Userscript pour Tampermonkey/Violentmonkey qui compare les releases torrent, recherche de meilleures versions sur divers trackers et les envoie vers des clients BitTorrent configurés. Il supporte plusieurs trackers et clients, avec des options de configuration avancées pour la qualité et l'envoi.
 
 - [**github-discord-notifier**](https://github.com/Aerya/github-discord-notifier)
   Ce projet Python permet d'envoyer des notifications GitHub vers Discord via des webhooks, avec une interface web pour la configuration et une gestion sécurisée des accès.
@@ -117,7 +117,7 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
   Addon Stremio qui expose les requêtes Over, Jelly ou Seerr sous forme de catalogues. Il fait le lien entre l'écosystème Seerr/Radarr/Sonarr et Stremio.
 
 - [**davos**](https://github.com/Aerya/davos)
-  Davos est un outil d'automatisation de téléchargement FTP avec une interface web, écrit en Java, qui permet de scanner des serveurs FTP pour des fichiers spécifiques et de les télécharger automatiquement. Il offre des fonctionnalités comme la notification des téléchargements et la gestion des plannings via une interface graphique.
+  Outil d'automatisation de téléchargement FTP avec une interface web, écrit en Java, qui permet de scanner des serveurs FTP pour des fichiers spécifiques et de les télécharger automatiquement. Il offre des fonctionnalités comme la notification des téléchargements et la gestion des plannings via une interface graphique.
 
 - ★ 2 · [**ProxySpin**](https://github.com/Aerya/ProxySpin)
   Proxy HTTP rotatif et anonymisant basé sur Tor et des proxys publics. Il fournit aussi un panneau de contrôle web et une extension navigateur.
@@ -132,13 +132,13 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
   Ancien addon Stremio pour catalogues francophones. Le projet a évolué vers stremio-rss-catalog, qui le remplace pour les usages actuels.
 
 - [**correzeboostemploi**](https://github.com/Aerya/correzeboostemploi)
-  Ce projet Python surveille les offres d'emploi sur correzeboostemploi.fr, filtre les résultats selon des mots-clés bannis et envoie les nouvelles offres via un webhook Discord. Il est configurable via Docker Compose et s'exécute périodiquement.
+  Surveille les offres d'emploi sur correzeboostemploi.fr, filtre les résultats selon des mots-clés bannis et envoie les nouvelles offres via un webhook Discord. Il est configurable via Docker Compose et s'exécute périodiquement.
 
 - ★ 4 · [**LaCaleNormale**](https://github.com/Aerya/LaCaleNormale)
   Menus "normaux" pour LaCale
 
 - ★ 10 · [**Stremio-Stack**](https://github.com/Aerya/Stremio-Stack)
-  Projet public GitHub maintenu dans le cadre de mes outils et expérimentations personnelles.
+  [Non maintenu] Projet public GitHub dans le cadre de mes outils et expérimentations personnelles.
 
 - ★ 6 · [**DecypharrSeed**](https://github.com/Aerya/DecypharrSeed)
   Seeder automatique pour des torrents traités par Decypharr. Le projet n'est plus compatible avec les dernières versions de Decypharr.
