@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2015/11/05/linux-sabnzbd-et-par2-multi-core/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2015/11/Sélection_0441-300x300.png" width="120" alt="Linux : SABnzbd et Par2 multi-core" /></a>
-  <a href="https://upandclear.org/2015/11/05/linux-sabnzbd-et-par2-multi-core/"><b>Linux : SABnzbd et Par2 multi-core</b></a><br/>
-  <sub>5 nov 2015</sub>
+  <a href="https://upandclear.org/2026/08/11/rainbow-six-siege-r6s-sous-linux-et-windows-avec-liberator-chasse-aux-terroristes-et-multi-en-lan-sans-compte-jusquen-saison-y4s4-operation-shifting-tides-2020/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/08/images-300x300.jpeg" width="120" alt="Rainbow Six: Siege (R6S) sous Linux (et Windows) : avec Liberator, chasse aux terroristes et multi en LAN sans compte jusqu’en saison Y4S4 – Operation Shifting Tides (2020)" /></a>
+  <a href="https://upandclear.org/2026/08/11/rainbow-six-siege-r6s-sous-linux-et-windows-avec-liberator-chasse-aux-terroristes-et-multi-en-lan-sans-compte-jusquen-saison-y4s4-operation-shifting-tides-2020/"><b>Rainbow Six: Siege (R6S) sous Linux (et Windows) : avec Liberator, chasse aux terroristes et multi en LAN sans compte jusqu’en saison Y4S4 – Operation Shifting Tides (2020)</b></a><br/>
+  <sub>11 août 2026</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -56,12 +56,6 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 
 <!-- REPOS:START -->
 ### Dernières mises à jour
-
-- ★ 101 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
-  Fork de Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
-
-- ★ 42 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
-  Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
 
 - ★ 1 · [**PowerWatch**](https://github.com/Aerya/PowerWatch)
   Surveille la consommation électrique de vos machines et centralise les relevés dans une interface simple.
@@ -72,19 +66,28 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
+- ★ 102 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+  Fork de Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
+
+- ★ 1 · [**PornScout**](https://github.com/Aerya/PornScout)
+  PornScout est un userscript pour Tampermonkey/Violentmonkey qui compare les releases torrents, recherche de meilleures versions sur divers trackers et les envoie vers des clients BitTorrent configurés. Il supporte plusieurs trackers et clients, avec des options de configuration avancées pour la qualité et les tags.
+
+- ★ 43 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
+  Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
+
 - ★ 6 · [**nexotv-enhanced**](https://github.com/Aerya/nexotv-enhanced)
   Addon Stremio pour IPTV, basé sur un fork de nexotv, offrant des chaînes TV en direct et des catalogues de films/séries configurables avec sélection de catégories. Il permet de mixer plusieurs sources, de masquer des chaînes et propose un enrichissement via TMDB.
 
 - ★ 14 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
   Interface web pour gérer et automatiser les serveurs VPN WireGuard et OpenVPN dans Gluetun. Il offre des benchmarks, une sélection automatique de serveurs, la gestion des containers dépendants, et des fonctionnalités avancées pour le pilotage homelab.
 
-- ★ 2 · [**stremio-rss-catalog**](https://github.com/Aerya/stremio-rss-catalog)
-  Addon Stremio qui génère des catalogues depuis des flux RSS, Prowlarr ou NZBHydra2. Il permet d'intégrer des sources personnalisées directement dans Stremio.
-
 ---
 
 <details>
 <summary>Autres repos</summary>
+
+- ★ 2 · [**stremio-rss-catalog**](https://github.com/Aerya/stremio-rss-catalog)
+  Addon Stremio qui génère des catalogues depuis des flux RSS, Prowlarr ou NZBHydra2. Il permet d'intégrer des sources personnalisées directement dans Stremio.
 
 - [**MiniVid**](https://github.com/Aerya/MiniVid)
   Application pour indexer, lire, taguer et mettre en favoris des vidéos locales. Elle vise une gestion simple d'une bibliothèque vidéo personnelle.
@@ -103,9 +106,6 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 
 - [**HomeGuard**](https://github.com/Aerya/HomeGuard)
   Serveur WireGuard en Docker pour utiliser son propre serveur DNS (AdGuard Home, Pi-hole…) depuis un smartphone, même en dehors du réseau local.
-
-- ★ 1 · [**PornScout**](https://github.com/Aerya/PornScout)
-  Userscript pour Tampermonkey/Violentmonkey qui compare les releases torrent, recherche de meilleures versions sur divers trackers et les envoie vers des clients BitTorrent configurés. Il supporte plusieurs trackers et clients, avec des options de configuration avancées pour la qualité et l'envoi.
 
 - [**github-discord-notifier**](https://github.com/Aerya/github-discord-notifier)
   Ce projet Python permet d'envoyer des notifications GitHub vers Discord via des webhooks, avec une interface web pour la configuration et une gestion sécurisée des accès.
