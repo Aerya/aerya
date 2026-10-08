@@ -29,7 +29,7 @@ INCLUDED_REPOS = {
     name.strip()
     for name in os.getenv(
         "INCLUDED_REPOS",
-        "Tracker-Dashboard/tracker-dashboard,Aerya/davos",
+        "Tracker-Dashboard/tracker-dashboard,Aerya/davos,Aerya/PowerWatch",
     ).split(",")
     if name.strip()
 }
