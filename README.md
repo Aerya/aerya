@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2016/04/03/jackett-votre-moteur-de-recherche-bittorrent-personnalise/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2016/04/Sélection_008-300x300.png" width="120" alt="Jackett : votre moteur de recherche BitTorrent personnalisé" /></a>
-  <a href="https://upandclear.org/2016/04/03/jackett-votre-moteur-de-recherche-bittorrent-personnalise/"><b>Jackett : votre moteur de recherche BitTorrent personnalisé</b></a><br/>
-  <sub>3 avr 2016</sub>
+  <a href="https://upandclear.org/2025/08/27/personnaliser-les-affiches-et-collections-de-plex-avec-kometa/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/08/a-sleek-futuristic-digital-control-hub-glowing-in-1756267981-300x300.jpg" width="120" alt="Personnaliser les affiches et collections de Plex avec Kometa" /></a>
+  <a href="https://upandclear.org/2025/08/27/personnaliser-les-affiches-et-collections-de-plex-avec-kometa/"><b>Personnaliser les affiches et collections de Plex avec Kometa</b></a><br/>
+  <sub>27 août 2025</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -60,11 +60,11 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - ★ 102 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Fork de Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
-- ★ 1 · [**PowerWatch**](https://github.com/Aerya/PowerWatch)
-  Surveille la consommation électrique de vos machines et centralise les relevés dans une interface simple.
-
 - ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
   Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion via une API REST.
+
+- ★ 1 · [**PowerWatch**](https://github.com/Aerya/PowerWatch)
+  Surveille la consommation électrique de vos machines et centralise les relevés dans une interface simple.
 
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
