@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2026/01/27/dockhand-gestionnaire-docker-leger-et-puissant/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/01/dockhand22-300x300.png" width="120" alt="Dockhand : gestionnaire Docker léger et puissant" /></a>
-  <a href="https://upandclear.org/2026/01/27/dockhand-gestionnaire-docker-leger-et-puissant/"><b>Dockhand : gestionnaire Docker léger et puissant</b></a><br/>
-  <sub>27 jan 2026</sub>
+  <a href="https://upandclear.org/2015/09/16/synology-installer-les-paquets-synocommunity/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2015/09/Sélection_1003-300x300.png" width="120" alt="Synology : installer les paquets SynoCommunity" /></a>
+  <a href="https://upandclear.org/2015/09/16/synology-installer-les-paquets-synocommunity/"><b>Synology : installer les paquets SynoCommunity</b></a><br/>
+  <sub>16 sep 2015</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,73 +57,103 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
-- ★ 2 · [**PowerWatch**](https://github.com/Aerya/PowerWatch)
-  Surveille la consommation électrique de vos machines et centralise les relevés dans une interface simple.
-
 - ★ 104 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Fork de Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
-- ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
-  Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion via une API REST.
+- ★ 3 · [**PowerWatch**](https://github.com/Aerya/PowerWatch)
+  Surveille la consommation électrique de vos machines et centralise les relevés dans une interface simple.
 
-- [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
-  Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
+- [**yggtorrent-bulk-downloader**](https://github.com/Aerya/yggtorrent-bulk-downloader)
+  UserScript pour télécharger les .torrent d'une page
 
-- ★ 43 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
-  Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
+- ★ 2 · [**stremio-rss-catalog**](https://github.com/Aerya/stremio-rss-catalog)
+  Addon Stremio qui génère des catalogues depuis des flux RSS, Prowlarr ou NZBHydra2. Il permet d'intégrer des sources personnalisées directement dans Stremio.
 
-- ★ 1 · [**PornScout**](https://github.com/Aerya/PornScout)
-  PornScout est un userscript pour Tampermonkey/Violentmonkey qui compare les releases torrents, recherche de meilleures versions sur divers trackers et les envoie vers des clients BitTorrent configurés. Il supporte plusieurs trackers et clients, avec des options de configuration avancées pour la qualité et les tags.
+- [**ruTorrent-vs-local-storage-cleaner**](https://github.com/Aerya/ruTorrent-vs-local-storage-cleaner)
+  Projet public GitHub maintenu dans le cadre de mes outils et expérimentations personnelles.
+
+- [**qbit-orphan-web**](https://github.com/Aerya/qbit-orphan-web)
+  qbit-orphan-web est une interface web Docker légère pour identifier et supprimer les fichiers orphelins de clients BitTorrent, avec des fonctionnalités d'automatisation et de notification. Elle supporte qBittorrent et rTorrent, et permet de gérer les fichiers présents sur le stockage mais non liés à un client configuré.
 
 - ★ 6 · [**nexotv-enhanced**](https://github.com/Aerya/nexotv-enhanced)
   Addon Stremio pour IPTV, basé sur un fork de nexotv, offrant des chaînes TV en direct et des catalogues de films/séries configurables avec sélection de catégories. Il permet de mixer plusieurs sources, de masquer des chaînes et propose un enrichissement via TMDB.
 
-- ★ 14 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
-  Interface web pour gérer et automatiser les serveurs VPN WireGuard et OpenVPN dans Gluetun. Il offre des benchmarks, une sélection automatique de serveurs, la gestion des containers dépendants, et des fonctionnalités avancées pour le pilotage homelab.
+- [**monitorss-delivery-watchdog**](https://github.com/Aerya/monitorss-delivery-watchdog)
+  Ce service Python, MonitoRSS Delivery Watchdog, reprend les livraisons Discord bloquées de MonitoRSS en réessayant les envois échoués. Il gère les articles indisponibles ou en attente prolongée pour assurer la livraison.
 
 ---
 
 <details>
 <summary>Autres repos</summary>
 
-- ★ 2 · [**stremio-rss-catalog**](https://github.com/Aerya/stremio-rss-catalog)
-  Addon Stremio qui génère des catalogues depuis des flux RSS, Prowlarr ou NZBHydra2. Il permet d'intégrer des sources personnalisées directement dans Stremio.
+- [**github-discord-notifier**](https://github.com/Aerya/github-discord-notifier)
+  Ce projet Python permet d'envoyer des notifications GitHub vers Discord via des webhooks, avec une interface web pour la configuration et une gestion sécurisée des accès.
 
-- [**MiniVid**](https://github.com/Aerya/MiniVid)
-  Application pour indexer, lire, taguer et mettre en favoris des vidéos locales. Elle vise une gestion simple d'une bibliothèque vidéo personnelle.
-
-- [**qbit-orphan-web**](https://github.com/Aerya/qbit-orphan-web)
-  qbit-orphan-web est une interface web Docker légère pour identifier et supprimer les fichiers orphelins de clients BitTorrent, avec des fonctionnalités d'automatisation et de notification. Elle supporte qBittorrent et rTorrent, et permet de gérer les fichiers présents sur le stockage mais non liés à un client configuré.
+- ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
+  Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion via une API REST.
 
 - [**cronitor-cli-docker**](https://github.com/Aerya/cronitor-cli-docker)
   Image Docker non officielle pour cronitorio/cronitor-cli, construite automatiquement. Pratique pour utiliser le CLI Cronitor dans des stacks conteneurisées.
 
+- [**correzeboostemploi**](https://github.com/Aerya/correzeboostemploi)
+  Surveille les offres d'emploi sur correzeboostemploi.fr, filtre les résultats selon des mots-clés bannis et envoie les nouvelles offres via un webhook Discord. Il est configurable via Docker Compose et s'exécute périodiquement.
+
 - [**claudecodeui-docker**](https://github.com/Aerya/claudecodeui-docker)
   Image Docker GHCR personnelle pour CloudCLI et Claude Code UI. Le dépôt automatise le packaging afin de déployer l'interface plus facilement.
-
-- [**PHPSysInfo-Docker**](https://github.com/Aerya/PHPSysInfo-Docker)
-  Conteneur Docker pour phpSysInfo, qui affiche les informations système et matérielles d'un hôte dans une interface web.
-
-- [**HomeGuard**](https://github.com/Aerya/HomeGuard)
-  Serveur WireGuard en Docker pour utiliser son propre serveur DNS (AdGuard Home, Pi-hole…) depuis un smartphone, même en dehors du réseau local.
-
-- [**github-discord-notifier**](https://github.com/Aerya/github-discord-notifier)
-  Ce projet Python permet d'envoyer des notifications GitHub vers Discord via des webhooks, avec une interface web pour la configuration et une gestion sécurisée des accès.
 
 - [**Stremosaic**](https://github.com/Aerya/Stremosaic)
   Stremosaic est un addon Stremio qui agrège des catalogues de diverses sources (TMDB, AniList, Bingebase, etc.) avec une interface web en français et des fonctionnalités de sécurité avancées. Il permet de créer des catalogues personnalisés et de les partager via un marketplace.
 
+- ★ 10 · [**Stremio-Stack**](https://github.com/Aerya/Stremio-Stack)
+  [Non maintenu] Projet public GitHub dans le cadre de mes outils et expérimentations personnelles.
+
 - ★ 5 · [**Stremio-Seerr-Catalog**](https://github.com/Aerya/Stremio-Seerr-Catalog)
   Addon Stremio qui expose les requêtes Over, Jelly ou Seerr sous forme de catalogues. Il fait le lien entre l'écosystème Seerr/Radarr/Sonarr et Stremio.
 
-- [**davos**](https://github.com/Aerya/davos)
-  Outil d'automatisation de téléchargement FTP avec une interface web, écrit en Java, qui permet de scanner des serveurs FTP pour des fichiers spécifiques et de les télécharger automatiquement. Il offre des fonctionnalités comme la notification des téléchargements et la gestion des plannings via une interface graphique.
+- [**Recpitulatif-Discord-post-installation-pour-SSDv2**](https://github.com/Aerya/Recpitulatif-Discord-post-installation-pour-SSDv2)
+  Projet public GitHub maintenu dans le cadre de mes outils et expérimentations personnelles.
 
 - ★ 2 · [**ProxySpin**](https://github.com/Aerya/ProxySpin)
   Proxy HTTP rotatif et anonymisant basé sur Tor et des proxys publics. Il fournit aussi un panneau de contrôle web et une extension navigateur.
 
-- [**monitorss-delivery-watchdog**](https://github.com/Aerya/monitorss-delivery-watchdog)
-  Ce service Python, MonitoRSS Delivery Watchdog, reprend les livraisons Discord bloquées de MonitoRSS en réessayant les envois échoués. Il gère les articles indisponibles ou en attente prolongée pour assurer la livraison.
+- ★ 1 · [**PornScout**](https://github.com/Aerya/PornScout)
+  PornScout est un userscript pour Tampermonkey/Violentmonkey qui compare les releases torrents, recherche de meilleures versions sur divers trackers et les envoie vers des clients BitTorrent configurés. Il supporte plusieurs trackers et clients, avec des options de configuration avancées pour la qualité et les tags.
+
+- [**Planet-Warez-Markdown-menu**](https://github.com/Aerya/Planet-Warez-Markdown-menu)
+  Menu Markdown rapide pour Plaanet-Warez
+
+- [**PHPSysInfo-Docker**](https://github.com/Aerya/PHPSysInfo-Docker)
+  Conteneur Docker pour phpSysInfo, qui affiche les informations système et matérielles d'un hôte dans une interface web.
+
+- [**MiniVid**](https://github.com/Aerya/MiniVid)
+  Application pour indexer, lire, taguer et mettre en favoris des vidéos locales. Elle vise une gestion simple d'une bibliothèque vidéo personnelle.
+
+- ★ 4 · [**LaCaleNormale**](https://github.com/Aerya/LaCaleNormale)
+  Menus "normaux" pour LaCale
+
+- [**HomeGuard**](https://github.com/Aerya/HomeGuard)
+  Serveur WireGuard en Docker pour utiliser son propre serveur DNS (AdGuard Home, Pi-hole…) depuis un smartphone, même en dehors du réseau local.
+
+- ★ 14 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
+  Interface web pour gérer et automatiser les serveurs VPN WireGuard et OpenVPN dans Gluetun. Il offre des benchmarks, une sélection automatique de serveurs, la gestion des containers dépendants, et des fonctionnalités avancées pour le pilotage homelab.
+
+- ★ 1 · [**Docker-MOHAA-server**](https://github.com/Aerya/Docker-MOHAA-server)
+  Docker MOHAA server including volume to add contents
+
+- ★ 2 · [**BitTorrent-trackers-minimal-rules**](https://github.com/Aerya/BitTorrent-trackers-minimal-rules)
+  Minimal ratio/seedtime rules for some P2P trackers
+
+- [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
+  Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
+
+- ★ 1 · [**0xConstant1-stremio-addon-manager**](https://github.com/Aerya/0xConstant1-stremio-addon-manager)
+  Projet public GitHub maintenu dans le cadre de mes outils et expérimentations personnelles.
+
+- ★ 43 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
+  Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
+
+- [**davos**](https://github.com/Aerya/davos)
+  Outil d'automatisation de téléchargement FTP avec une interface web, écrit en Java, qui permet de scanner des serveurs FTP pour des fichiers spécifiques et de les télécharger automatiquement. Il offre des fonctionnalités comme la notification des téléchargements et la gestion des plannings via une interface graphique.
 
 - [**Stremio-French-Stream-Docker**](https://github.com/Aerya/Stremio-French-Stream-Docker)
   Packaging Docker autour de Stremio French Stream pour simplifier son déploiement. Le dépôt sert à lancer le service dans un environnement conteneurisé.
@@ -131,41 +161,11 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - [**UseFlow-FR**](https://github.com/Aerya/UseFlow-FR)
   Ancien addon Stremio pour catalogues francophones. Le projet a évolué vers stremio-rss-catalog, qui le remplace pour les usages actuels.
 
-- [**correzeboostemploi**](https://github.com/Aerya/correzeboostemploi)
-  Surveille les offres d'emploi sur correzeboostemploi.fr, filtre les résultats selon des mots-clés bannis et envoie les nouvelles offres via un webhook Discord. Il est configurable via Docker Compose et s'exécute périodiquement.
-
-- ★ 4 · [**LaCaleNormale**](https://github.com/Aerya/LaCaleNormale)
-  Menus "normaux" pour LaCale
-
-- ★ 10 · [**Stremio-Stack**](https://github.com/Aerya/Stremio-Stack)
-  [Non maintenu] Projet public GitHub dans le cadre de mes outils et expérimentations personnelles.
-
 - ★ 6 · [**DecypharrSeed**](https://github.com/Aerya/DecypharrSeed)
   Seeder automatique pour des torrents traités par Decypharr. Le projet n'est plus compatible avec les dernières versions de Decypharr.
 
-- ★ 1 · [**0xConstant1-stremio-addon-manager**](https://github.com/Aerya/0xConstant1-stremio-addon-manager)
-  Projet public GitHub maintenu dans le cadre de mes outils et expérimentations personnelles.
-
-- [**ruTorrent-vs-local-storage-cleaner**](https://github.com/Aerya/ruTorrent-vs-local-storage-cleaner)
-  Projet public GitHub maintenu dans le cadre de mes outils et expérimentations personnelles.
-
-- ★ 2 · [**BitTorrent-trackers-minimal-rules**](https://github.com/Aerya/BitTorrent-trackers-minimal-rules)
-  Minimal ratio/seedtime rules for some P2P trackers
-
-- [**yggtorrent-bulk-downloader**](https://github.com/Aerya/yggtorrent-bulk-downloader)
-  UserScript pour télécharger les .torrent d'une page
-
 - ★ 1 · [**Mode-Affiches**](https://github.com/Aerya/Mode-Affiches)
   Mode Affiches pour un indexeur privé
-
-- [**Recpitulatif-Discord-post-installation-pour-SSDv2**](https://github.com/Aerya/Recpitulatif-Discord-post-installation-pour-SSDv2)
-  Projet public GitHub maintenu dans le cadre de mes outils et expérimentations personnelles.
-
-- [**Planet-Warez-Markdown-menu**](https://github.com/Aerya/Planet-Warez-Markdown-menu)
-  Menu Markdown rapide pour Plaanet-Warez
-
-- ★ 1 · [**Docker-MOHAA-server**](https://github.com/Aerya/Docker-MOHAA-server)
-  Docker MOHAA server including volume to add contents
 
 
 </details>
