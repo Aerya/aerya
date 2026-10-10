@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2026/07/26/ultra-cc-et-bittorrent-empecher-larret-automatique-du-seed-torrents-stalled-bloques/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/07/1-1-300x300.png" width="120" alt="Ultra.cc et BitTorrent : empêcher l’arrêt automatique du seed (torrents stalled/bloqués)" /></a>
-  <a href="https://upandclear.org/2026/07/26/ultra-cc-et-bittorrent-empecher-larret-automatique-du-seed-torrents-stalled-bloques/"><b>Ultra.cc et BitTorrent : empêcher l’arrêt automatique du seed (torrents stalled/bloqués)</b></a><br/>
-  <sub>26 juil 2026</sub>
+  <a href="https://upandclear.org/2017/08/22/rambox-une-seule-interface-pour-irc-messenger-slack-protonmail-twitter-outlook-gmail/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2017/08/Rambox-4_003-1024x532-300x300.png" width="120" alt="Rambox : une seule interface pour IRC, Messenger, Slack, ProtonMail, Twitter, Outlook, Gmail…" /></a>
+  <a href="https://upandclear.org/2017/08/22/rambox-une-seule-interface-pour-irc-messenger-slack-protonmail-twitter-outlook-gmail/"><b>Rambox : une seule interface pour IRC, Messenger, Slack, ProtonMail, Twitter, Outlook, Gmail…</b></a><br/>
+  <sub>22 août 2017</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,20 +57,20 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
-- ★ 103 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+- ★ 104 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Fork de Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
-
-- ★ 43 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
-  Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
 
 - ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
   Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion via une API REST.
 
-- ★ 2 · [**PowerWatch**](https://github.com/Aerya/PowerWatch)
-  Surveille la consommation électrique de vos machines et centralise les relevés dans une interface simple.
-
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
+
+- ★ 43 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
+  Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
+
+- ★ 2 · [**PowerWatch**](https://github.com/Aerya/PowerWatch)
+  Surveille la consommation électrique de vos machines et centralise les relevés dans une interface simple.
 
 - ★ 1 · [**PornScout**](https://github.com/Aerya/PornScout)
   PornScout est un userscript pour Tampermonkey/Violentmonkey qui compare les releases torrents, recherche de meilleures versions sur divers trackers et les envoie vers des clients BitTorrent configurés. Il supporte plusieurs trackers et clients, avec des options de configuration avancées pour la qualité et les tags.
