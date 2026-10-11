@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2021/06/24/client-e-mail-mailsping-ex-nylas-n1/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2021/06/2021-06-23_19-42-300x300.png" width="120" alt="Client e-mail Mailspring (ex Nylas N1)" /></a>
-  <a href="https://upandclear.org/2021/06/24/client-e-mail-mailsping-ex-nylas-n1/"><b>Client e-mail Mailspring (ex Nylas N1)</b></a><br/>
-  <sub>24 jun 2021</sub>
+  <a href="https://upandclear.org/2025/01/13/plex-pas-de-son-sous-windows/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/01/plex-media-center-windows-audio-codec-pack-300x300.jpg" width="120" alt="Plex : pas de son sous Windows ?" /></a>
+  <a href="https://upandclear.org/2025/01/13/plex-pas-de-son-sous-windows/"><b>Plex : pas de son sous Windows ?</b></a><br/>
+  <sub>13 jan 2025</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,6 +57,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
+- ★ 105 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+  Fork de Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
+
 - ★ 3 · [**PowerWatch**](https://github.com/Aerya/PowerWatch)
   Surveille la consommation électrique de vos machines et centralise les relevés dans une interface simple.
 
@@ -65,9 +68,6 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
-
-- ★ 105 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
-  Fork de Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
 - [**yggtorrent-bulk-downloader**](https://github.com/Aerya/yggtorrent-bulk-downloader)
   UserScript pour télécharger les .torrent d'une page
