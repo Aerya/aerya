@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2021/11/08/monter-son-serveur-vps-wireguard-et-lutiliser-avec-un-client-docker-kill-switch-proxy/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2021/11/2021-11-08-14_50_12-Cloud-Panel-300x300.png" width="120" alt="Monter son serveur VPS Wireguard et l’utiliser avec un client Docker + kill switch + proxy" /></a>
-  <a href="https://upandclear.org/2021/11/08/monter-son-serveur-vps-wireguard-et-lutiliser-avec-un-client-docker-kill-switch-proxy/"><b>Monter son serveur VPS Wireguard et l’utiliser avec un client Docker + kill switch + proxy</b></a><br/>
-  <sub>8 nov 2021</sub>
+  <a href="https://upandclear.org/2021/06/24/client-e-mail-mailsping-ex-nylas-n1/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2021/06/2021-06-23_19-42-300x300.png" width="120" alt="Client e-mail Mailspring (ex Nylas N1)" /></a>
+  <a href="https://upandclear.org/2021/06/24/client-e-mail-mailsping-ex-nylas-n1/"><b>Client e-mail Mailspring (ex Nylas N1)</b></a><br/>
+  <sub>24 jun 2021</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
