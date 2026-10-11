@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2015/09/16/synology-installer-les-paquets-synocommunity/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2015/09/Sélection_1003-300x300.png" width="120" alt="Synology : installer les paquets SynoCommunity" /></a>
-  <a href="https://upandclear.org/2015/09/16/synology-installer-les-paquets-synocommunity/"><b>Synology : installer les paquets SynoCommunity</b></a><br/>
-  <sub>16 sep 2015</sub>
+  <a href="https://upandclear.org/2021/11/08/monter-son-serveur-vps-wireguard-et-lutiliser-avec-un-client-docker-kill-switch-proxy/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2021/11/2021-11-08-14_50_12-Cloud-Panel-300x300.png" width="120" alt="Monter son serveur VPS Wireguard et l’utiliser avec un client Docker + kill switch + proxy" /></a>
+  <a href="https://upandclear.org/2021/11/08/monter-son-serveur-vps-wireguard-et-lutiliser-avec-un-client-docker-kill-switch-proxy/"><b>Monter son serveur VPS Wireguard et l’utiliser avec un client Docker + kill switch + proxy</b></a><br/>
+  <sub>8 nov 2021</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,11 +57,17 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
-- ★ 104 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
-  Fork de Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
-
 - ★ 3 · [**PowerWatch**](https://github.com/Aerya/PowerWatch)
   Surveille la consommation électrique de vos machines et centralise les relevés dans une interface simple.
+
+- ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
+  Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion via une API REST.
+
+- [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
+  Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
+
+- ★ 105 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+  Fork de Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
 - [**yggtorrent-bulk-downloader**](https://github.com/Aerya/yggtorrent-bulk-downloader)
   UserScript pour télécharger les .torrent d'une page
@@ -75,22 +81,19 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - [**qbit-orphan-web**](https://github.com/Aerya/qbit-orphan-web)
   qbit-orphan-web est une interface web Docker légère pour identifier et supprimer les fichiers orphelins de clients BitTorrent, avec des fonctionnalités d'automatisation et de notification. Elle supporte qBittorrent et rTorrent, et permet de gérer les fichiers présents sur le stockage mais non liés à un client configuré.
 
+---
+
+<details>
+<summary>Autres repos</summary>
+
 - ★ 6 · [**nexotv-enhanced**](https://github.com/Aerya/nexotv-enhanced)
   Addon Stremio pour IPTV, basé sur un fork de nexotv, offrant des chaînes TV en direct et des catalogues de films/séries configurables avec sélection de catégories. Il permet de mixer plusieurs sources, de masquer des chaînes et propose un enrichissement via TMDB.
 
 - [**monitorss-delivery-watchdog**](https://github.com/Aerya/monitorss-delivery-watchdog)
   Ce service Python, MonitoRSS Delivery Watchdog, reprend les livraisons Discord bloquées de MonitoRSS en réessayant les envois échoués. Il gère les articles indisponibles ou en attente prolongée pour assurer la livraison.
 
----
-
-<details>
-<summary>Autres repos</summary>
-
 - [**github-discord-notifier**](https://github.com/Aerya/github-discord-notifier)
   Ce projet Python permet d'envoyer des notifications GitHub vers Discord via des webhooks, avec une interface web pour la configuration et une gestion sécurisée des accès.
-
-- ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
-  Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion via une API REST.
 
 - [**cronitor-cli-docker**](https://github.com/Aerya/cronitor-cli-docker)
   Image Docker non officielle pour cronitorio/cronitor-cli, construite automatiquement. Pratique pour utiliser le CLI Cronitor dans des stacks conteneurisées.
@@ -142,9 +145,6 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 
 - ★ 2 · [**BitTorrent-trackers-minimal-rules**](https://github.com/Aerya/BitTorrent-trackers-minimal-rules)
   Minimal ratio/seedtime rules for some P2P trackers
-
-- [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
-  Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
 - ★ 1 · [**0xConstant1-stremio-addon-manager**](https://github.com/Aerya/0xConstant1-stremio-addon-manager)
   Projet public GitHub maintenu dans le cadre de mes outils et expérimentations personnelles.
