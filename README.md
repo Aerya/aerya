@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2021/04/28/farmer-cultiver-du-chia-xch-windows-gui-linux-cli/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2021/04/2021-04-28-13_05_34-Window-300x300.png" width="120" alt="[MàJ1] Farmer/cultiver du CHIA (XCH) Windows GUI/Linux CLI" /></a>
-  <a href="https://upandclear.org/2021/04/28/farmer-cultiver-du-chia-xch-windows-gui-linux-cli/"><b>[MàJ1] Farmer/cultiver du CHIA (XCH) Windows GUI/Linux CLI</b></a><br/>
-  <sub>28 avr 2021</sub>
+  <a href="https://upandclear.org/2017/01/26/client-openvpn-android-complet/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2017/01/Screenshot_2017-01-26-18-25-16-576x1024-300x300.jpeg" width="120" alt="Client OpenVPN Android complet" /></a>
+  <a href="https://upandclear.org/2017/01/26/client-openvpn-android-complet/"><b>Client OpenVPN Android complet</b></a><br/>
+  <sub>26 jan 2017</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -56,6 +56,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 
 <!-- REPOS:START -->
 ### Dernières mises à jour
+
+- ★ 43 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
+  Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
 
 - ★ 2 · [**stremio-rss-catalog**](https://github.com/Aerya/stremio-rss-catalog)
   Addon Stremio qui génère des catalogues depuis des flux RSS, Prowlarr ou NZBHydra2. Il permet d'intégrer des sources personnalisées directement dans Stremio.
@@ -78,19 +81,16 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - [**MiniVid**](https://github.com/Aerya/MiniVid)
   Application pour indexer, lire, taguer et mettre en favoris des vidéos locales. Elle vise une gestion simple d'une bibliothèque vidéo personnelle.
 
-- [**cronitor-cli-docker**](https://github.com/Aerya/cronitor-cli-docker)
-  Image Docker non officielle pour cronitorio/cronitor-cli, construite automatiquement. Pratique pour utiliser le CLI Cronitor dans des stacks conteneurisées.
-
 ---
 
 <details>
 <summary>Autres repos</summary>
 
-- ★ 106 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
-  Fork de Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
+- [**cronitor-cli-docker**](https://github.com/Aerya/cronitor-cli-docker)
+  Image Docker non officielle pour cronitorio/cronitor-cli, construite automatiquement. Pratique pour utiliser le CLI Cronitor dans des stacks conteneurisées.
 
-- ★ 43 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
-  Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
+- ★ 107 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+  Fork de Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
 - [**HomeGuard**](https://github.com/Aerya/HomeGuard)
   Serveur WireGuard en Docker pour utiliser son propre serveur DNS (AdGuard Home, Pi-hole…) depuis un smartphone, même en dehors du réseau local.
