@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2016/02/17/keyboard-tinter-2-visualisez-vos-frappes/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2016/02/h-300x300.jpg" width="120" alt="Keyboard Tinter 2 : visualisez vos frappes" /></a>
-  <a href="https://upandclear.org/2016/02/17/keyboard-tinter-2-visualisez-vos-frappes/"><b>Keyboard Tinter 2 : visualisez vos frappes</b></a><br/>
-  <sub>17 fév 2016</sub>
+  <a href="https://upandclear.org/2015/08/23/nouvel-indice-de-la-liberte-humaine-la-france-classee-33eme/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Nouvel indice de la liberté humaine : la France classée 33ème !" /></a>
+  <a href="https://upandclear.org/2015/08/23/nouvel-indice-de-la-liberte-humaine-la-france-classee-33eme/"><b>Nouvel indice de la liberté humaine : la France classée 33ème !</b></a><br/>
+  <sub>23 août 2015</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -56,6 +56,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 
 <!-- REPOS:START -->
 ### Dernières mises à jour
+
+- ★ 107 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+  Fork de Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
 - ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
   Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion via une API REST.
@@ -78,22 +81,19 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - [**PHPSysInfo-Docker**](https://github.com/Aerya/PHPSysInfo-Docker)
   Conteneur Docker pour phpSysInfo, qui affiche les informations système et matérielles d'un hôte dans une interface web.
 
-- [**claudecodeui-docker**](https://github.com/Aerya/claudecodeui-docker)
-  Image Docker GHCR personnelle pour CloudCLI et Claude Code UI. Le dépôt automatise le packaging afin de déployer l'interface plus facilement.
-
 ---
 
 <details>
 <summary>Autres repos</summary>
+
+- [**claudecodeui-docker**](https://github.com/Aerya/claudecodeui-docker)
+  Image Docker GHCR personnelle pour CloudCLI et Claude Code UI. Le dépôt automatise le packaging afin de déployer l'interface plus facilement.
 
 - [**MiniVid**](https://github.com/Aerya/MiniVid)
   Application pour indexer, lire, taguer et mettre en favoris des vidéos locales. Elle vise une gestion simple d'une bibliothèque vidéo personnelle.
 
 - [**cronitor-cli-docker**](https://github.com/Aerya/cronitor-cli-docker)
   Image Docker non officielle pour cronitorio/cronitor-cli, construite automatiquement. Pratique pour utiliser le CLI Cronitor dans des stacks conteneurisées.
-
-- ★ 107 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
-  Fork de Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
 - [**HomeGuard**](https://github.com/Aerya/HomeGuard)
   Serveur WireGuard en Docker pour utiliser son propre serveur DNS (AdGuard Home, Pi-hole…) depuis un smartphone, même en dehors du réseau local.
