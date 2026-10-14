@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2015/08/23/nouvel-indice-de-la-liberte-humaine-la-france-classee-33eme/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Nouvel indice de la liberté humaine : la France classée 33ème !" /></a>
-  <a href="https://upandclear.org/2015/08/23/nouvel-indice-de-la-liberte-humaine-la-france-classee-33eme/"><b>Nouvel indice de la liberté humaine : la France classée 33ème !</b></a><br/>
-  <sub>23 août 2015</sub>
+  <a href="https://upandclear.org/2020/10/15/utilisation-basique-dun-montage-rclone/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2020/10/2020-10-15_12-15-300x300.png" width="120" alt="Utilisation basique d’un montage rClone" /></a>
+  <a href="https://upandclear.org/2020/10/15/utilisation-basique-dun-montage-rclone/"><b>Utilisation basique d’un montage rClone</b></a><br/>
+  <sub>15 oct 2020</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,7 +57,7 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
-- ★ 107 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+- ★ 108 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Fork de Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
 - ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
