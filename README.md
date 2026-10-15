@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2025/01/27/windows-11-ajouter-7zip-ou-toute-autre-application-au-menu-contextuel/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/01/7zip-windows-11-context-menu-300x300.jpg" width="120" alt="Windows 11 : ajouter 7zip ou toute autre application au menu contextuel" /></a>
-  <a href="https://upandclear.org/2025/01/27/windows-11-ajouter-7zip-ou-toute-autre-application-au-menu-contextuel/"><b>Windows 11 : ajouter 7zip ou toute autre application au menu contextuel</b></a><br/>
-  <sub>27 jan 2025</sub>
+  <a href="https://upandclear.org/2015/10/31/huawei-mate7-8-cores-2go-ram-dual-sim-sdcard-nfc-4g-6-pouces/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2015/10/Wiko-HighWay-Star-4G-300x300.jpg" width="120" alt="Huawei Mate7 : 8 cores, 2Go RAM, dual-SIM, SDcard, NFC, 4G, 6 pouces" /></a>
+  <a href="https://upandclear.org/2015/10/31/huawei-mate7-8-cores-2go-ram-dual-sim-sdcard-nfc-4g-6-pouces/"><b>Huawei Mate7 : 8 cores, 2Go RAM, dual-SIM, SDcard, NFC, 4G, 6 pouces</b></a><br/>
+  <sub>31 oct 2015</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -63,7 +63,7 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
-- ★ 118 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+- ★ 120 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Fork de Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
 - ★ 43 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
