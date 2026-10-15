@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2020/10/15/utilisation-basique-dun-montage-rclone/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2020/10/2020-10-15_12-15-300x300.png" width="120" alt="Utilisation basique d’un montage rClone" /></a>
-  <a href="https://upandclear.org/2020/10/15/utilisation-basique-dun-montage-rclone/"><b>Utilisation basique d’un montage rClone</b></a><br/>
-  <sub>15 oct 2020</sub>
+  <a href="https://upandclear.org/2025/01/27/windows-11-ajouter-7zip-ou-toute-autre-application-au-menu-contextuel/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/01/7zip-windows-11-context-menu-300x300.jpg" width="120" alt="Windows 11 : ajouter 7zip ou toute autre application au menu contextuel" /></a>
+  <a href="https://upandclear.org/2025/01/27/windows-11-ajouter-7zip-ou-toute-autre-application-au-menu-contextuel/"><b>Windows 11 : ajouter 7zip ou toute autre application au menu contextuel</b></a><br/>
+  <sub>27 jan 2025</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,14 +57,14 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
-- ★ 108 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
-  Fork de Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
-
 - ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
   Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion via une API REST.
 
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
+
+- ★ 118 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+  Fork de Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
 - ★ 43 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
   Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
