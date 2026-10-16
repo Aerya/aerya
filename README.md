@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2015/08/23/il-est-possible-damplifier-une-attaque-ddos-avec-bittorrent/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Il est possible d’amplifier une attaque DDoS avec Bittorrent" /></a>
-  <a href="https://upandclear.org/2015/08/23/il-est-possible-damplifier-une-attaque-ddos-avec-bittorrent/"><b>Il est possible d’amplifier une attaque DDoS avec Bittorrent</b></a><br/>
-  <sub>23 août 2015</sub>
+  <a href="https://upandclear.org/2026/06/27/ddns-updater-enhanced-gerer-des-ddns-simplement-via-webui/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/old-mailboxes-on-a-wooden-construction-stockpack-pexels-300x300.jpg" width="120" alt="DDNS-Updater Enhanced : gérer des DDNS simplement via WebUI" /></a>
+  <a href="https://upandclear.org/2026/06/27/ddns-updater-enhanced-gerer-des-ddns-simplement-via-webui/"><b>DDNS-Updater Enhanced : gérer des DDNS simplement via WebUI</b></a><br/>
+  <sub>27 jun 2026</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,14 +57,20 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
+- ★ 122 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+  Fork de Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
+
+- ★ 4 · [**PowerWatch**](https://github.com/Aerya/PowerWatch)
+  Surveille la consommation électrique de vos machines et centralise les relevés dans une interface simple.
+
 - ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
   Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion via une API REST.
 
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
-- ★ 120 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
-  Fork de Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
+- ★ 15 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
+  Gluetun Companion est une interface web pour gérer et automatiser les serveurs VPN WireGuard et OpenVPN dans Gluetun. Il permet le benchmark des serveurs, la sélection automatique, la gestion des conteneurs dépendants, le port forwarding et la synchronisation avec des clients torrent.
 
 - ★ 43 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
   Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
@@ -72,19 +78,16 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - ★ 2 · [**stremio-rss-catalog**](https://github.com/Aerya/stremio-rss-catalog)
   Addon Stremio qui génère des catalogues depuis des flux RSS, Prowlarr ou NZBHydra2. Il permet d'intégrer des sources personnalisées directement dans Stremio.
 
-- ★ 15 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
-  Interface web pour gérer et automatiser les serveurs VPN WireGuard et OpenVPN dans Gluetun. Il offre des benchmarks, une sélection automatique de serveurs, la gestion des containers dépendants, et des fonctionnalités avancées pour le pilotage homelab.
-
 - ★ 6 · [**nexotv-enhanced**](https://github.com/Aerya/nexotv-enhanced)
   Addon Stremio pour IPTV, basé sur un fork de nexotv, offrant des chaînes TV en direct et des catalogues de films/séries configurables avec sélection de catégories. Il permet de mixer plusieurs sources, de masquer des chaînes et propose un enrichissement via TMDB.
-
-- [**PHPSysInfo-Docker**](https://github.com/Aerya/PHPSysInfo-Docker)
-  Conteneur Docker pour phpSysInfo, qui affiche les informations système et matérielles d'un hôte dans une interface web.
 
 ---
 
 <details>
 <summary>Autres repos</summary>
+
+- [**PHPSysInfo-Docker**](https://github.com/Aerya/PHPSysInfo-Docker)
+  Conteneur Docker pour phpSysInfo, qui affiche les informations système et matérielles d'un hôte dans une interface web.
 
 - [**claudecodeui-docker**](https://github.com/Aerya/claudecodeui-docker)
   Image Docker GHCR personnelle pour CloudCLI et Claude Code UI. Le dépôt automatise le packaging afin de déployer l'interface plus facilement.
@@ -97,9 +100,6 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 
 - [**HomeGuard**](https://github.com/Aerya/HomeGuard)
   Serveur WireGuard en Docker pour utiliser son propre serveur DNS (AdGuard Home, Pi-hole…) depuis un smartphone, même en dehors du réseau local.
-
-- ★ 3 · [**PowerWatch**](https://github.com/Aerya/PowerWatch)
-  Surveille la consommation électrique de vos machines et centralise les relevés dans une interface simple.
 
 - [**yggtorrent-bulk-downloader**](https://github.com/Aerya/yggtorrent-bulk-downloader)
   UserScript pour télécharger les .torrent d'une page
