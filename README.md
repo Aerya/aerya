@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2016/11/06/le-desert-numerique-ou-presque/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2016/11/Speedtest-05.10.16-300x149.png" width="120" alt="Le désert numérique… Ou presque" /></a>
-  <a href="https://upandclear.org/2016/11/06/le-desert-numerique-ou-presque/"><b>Le désert numérique… Ou presque</b></a><br/>
-  <sub>6 nov 2016</sub>
+  <a href="https://upandclear.org/2017/01/01/rclone-write-supporte/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="rClone : write supporté !" /></a>
+  <a href="https://upandclear.org/2017/01/01/rclone-write-supporte/"><b>rClone : write supporté !</b></a><br/>
+  <sub>1 jan 2017</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -60,7 +60,7 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - ★ 124 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Fork de Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
-- ★ 4 · [**PowerWatch**](https://github.com/Aerya/PowerWatch)
+- ★ 5 · [**PowerWatch**](https://github.com/Aerya/PowerWatch)
   Surveille la consommation électrique de vos machines et centralise les relevés dans une interface simple.
 
 - ★ 5 · [**Stremio-Seerr-Catalog**](https://github.com/Aerya/Stremio-Seerr-Catalog)
