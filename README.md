@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2026/06/27/ddns-updater-enhanced-gerer-des-ddns-simplement-via-webui/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/old-mailboxes-on-a-wooden-construction-stockpack-pexels-300x300.jpg" width="120" alt="DDNS-Updater Enhanced : gérer des DDNS simplement via WebUI" /></a>
-  <a href="https://upandclear.org/2026/06/27/ddns-updater-enhanced-gerer-des-ddns-simplement-via-webui/"><b>DDNS-Updater Enhanced : gérer des DDNS simplement via WebUI</b></a><br/>
-  <sub>27 jun 2026</sub>
+  <a href="https://upandclear.org/2016/11/06/le-desert-numerique-ou-presque/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2016/11/Speedtest-05.10.16-300x149.png" width="120" alt="Le désert numérique… Ou presque" /></a>
+  <a href="https://upandclear.org/2016/11/06/le-desert-numerique-ou-presque/"><b>Le désert numérique… Ou presque</b></a><br/>
+  <sub>6 nov 2016</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,11 +57,14 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
-- ★ 122 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+- ★ 124 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Fork de Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
 - ★ 4 · [**PowerWatch**](https://github.com/Aerya/PowerWatch)
   Surveille la consommation électrique de vos machines et centralise les relevés dans une interface simple.
+
+- ★ 5 · [**Stremio-Seerr-Catalog**](https://github.com/Aerya/Stremio-Seerr-Catalog)
+  Addon Stremio qui expose les requêtes Over, Jelly ou Seerr sous forme de catalogues. Il fait le lien entre l'écosystème Seerr/Radarr/Sonarr et Stremio.
 
 - ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
   Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion via une API REST.
@@ -78,13 +81,13 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - ★ 2 · [**stremio-rss-catalog**](https://github.com/Aerya/stremio-rss-catalog)
   Addon Stremio qui génère des catalogues depuis des flux RSS, Prowlarr ou NZBHydra2. Il permet d'intégrer des sources personnalisées directement dans Stremio.
 
-- ★ 6 · [**nexotv-enhanced**](https://github.com/Aerya/nexotv-enhanced)
-  Addon Stremio pour IPTV, basé sur un fork de nexotv, offrant des chaînes TV en direct et des catalogues de films/séries configurables avec sélection de catégories. Il permet de mixer plusieurs sources, de masquer des chaînes et propose un enrichissement via TMDB.
-
 ---
 
 <details>
 <summary>Autres repos</summary>
+
+- ★ 6 · [**nexotv-enhanced**](https://github.com/Aerya/nexotv-enhanced)
+  Addon Stremio pour IPTV, basé sur un fork de nexotv, offrant des chaînes TV en direct et des catalogues de films/séries configurables avec sélection de catégories. Il permet de mixer plusieurs sources, de masquer des chaînes et propose un enrichissement via TMDB.
 
 - [**PHPSysInfo-Docker**](https://github.com/Aerya/PHPSysInfo-Docker)
   Conteneur Docker pour phpSysInfo, qui affiche les informations système et matérielles d'un hôte dans une interface web.
@@ -124,9 +127,6 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 
 - ★ 10 · [**Stremio-Stack**](https://github.com/Aerya/Stremio-Stack)
   [Non maintenu] Projet public GitHub dans le cadre de mes outils et expérimentations personnelles.
-
-- ★ 5 · [**Stremio-Seerr-Catalog**](https://github.com/Aerya/Stremio-Seerr-Catalog)
-  Addon Stremio qui expose les requêtes Over, Jelly ou Seerr sous forme de catalogues. Il fait le lien entre l'écosystème Seerr/Radarr/Sonarr et Stremio.
 
 - [**Recpitulatif-Discord-post-installation-pour-SSDv2**](https://github.com/Aerya/Recpitulatif-Discord-post-installation-pour-SSDv2)
   Projet public GitHub maintenu dans le cadre de mes outils et expérimentations personnelles.
