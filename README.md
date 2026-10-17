@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2015/09/04/piratage-orangewebsite/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Piratage OrangeWebsite" /></a>
-  <a href="https://upandclear.org/2015/09/04/piratage-orangewebsite/"><b>Piratage OrangeWebsite</b></a><br/>
-  <sub>4 sep 2015</sub>
+  <a href="https://upandclear.org/2024/12/10/armcord-devient-legcord-client-alternatif-discord/"><img align="left" src="https://upandclear.org/wp-content/uploads/2024/12/discord-client-open-source-300x300.jpg" width="120" alt="Armcord devient Legcord (client alternatif Discord)" /></a>
+  <a href="https://upandclear.org/2024/12/10/armcord-devient-legcord-client-alternatif-discord/"><b>Armcord devient Legcord (client alternatif Discord)</b></a><br/>
+  <sub>10 déc 2024</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
