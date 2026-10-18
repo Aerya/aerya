@@ -14,6 +14,13 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Les derniers
 
 <p>
+  <a href="https://upandclear.org/2026/10/18/shield-controller-une-interface-web-pour-gerer-la-nvidia-shield/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/10/8-300x300.png" width="72" alt="Shield Controller : une interface web pour gérer la Nvidia Shield" /></a>
+  <a href="https://upandclear.org/2026/10/18/shield-controller-une-interface-web-pour-gerer-la-nvidia-shield/"><b>Shield Controller : une interface web pour gérer la Nvidia Shield</b></a><br/>
+  <sub>18 oct 2026</sub>
+</p>
+<br clear="left"/>
+
+<p>
   <a href="https://upandclear.org/2026/10/05/powerwatch-surveiller-la-consommation-electrique-de-ses-machines/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/10/entete-300x300.png" width="72" alt="PowerWatch : surveiller la consommation électrique de ses machines" /></a>
   <a href="https://upandclear.org/2026/10/05/powerwatch-surveiller-la-consommation-electrique-de-ses-machines/"><b>PowerWatch : surveiller la consommation électrique de ses machines</b></a><br/>
   <sub>5 oct 2026</sub>
@@ -34,20 +41,13 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 </p>
 <br clear="left"/>
 
-<p>
-  <a href="https://upandclear.org/2026/08/30/analyseur-de-jeux-ou-applications-rss/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/08/3-5-300x300.png" width="72" alt="Analyseur de jeux (ou applications) RSS" /></a>
-  <a href="https://upandclear.org/2026/08/30/analyseur-de-jeux-ou-applications-rss/"><b>Analyseur de jeux (ou applications) RSS</b></a><br/>
-  <sub>30 août 2026</sub>
-</p>
-<br clear="left"/>
-
 
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2024/12/10/armcord-devient-legcord-client-alternatif-discord/"><img align="left" src="https://upandclear.org/wp-content/uploads/2024/12/discord-client-open-source-300x300.jpg" width="120" alt="Armcord devient Legcord (client alternatif Discord)" /></a>
-  <a href="https://upandclear.org/2024/12/10/armcord-devient-legcord-client-alternatif-discord/"><b>Armcord devient Legcord (client alternatif Discord)</b></a><br/>
-  <sub>10 déc 2024</sub>
+  <a href="https://upandclear.org/2021/06/09/plex-library-cleaner-webui/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2021/06/2021-06-09-09_14_13-Plex-Library-Cleaner-300x300.png" width="120" alt="Plex-Library-Cleaner : WebUI" /></a>
+  <a href="https://upandclear.org/2021/06/09/plex-library-cleaner-webui/"><b>Plex-Library-Cleaner : WebUI</b></a><br/>
+  <sub>9 jun 2021</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,8 +57,8 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
-- [**MiniVid**](https://github.com/Aerya/MiniVid)
-  Application pour indexer, lire, taguer et mettre en favoris des vidéos locales. Elle vise une gestion simple d'une bibliothèque vidéo personnelle.
+- [**Shield-Controller**](https://github.com/Aerya/Shield-Controller)
+  Shield Controller permet de gérer votre NVIDIA Shield / Android TV depuis un navigateur web, offrant un contrôle à distance, la gestion des applications et des informations système détaillées.
 
 - ★ 125 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Fork de Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
@@ -69,22 +69,28 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
+- [**github-discord-notifier**](https://github.com/Aerya/github-discord-notifier)
+  Ce projet Python permet d'envoyer des notifications GitHub vers Discord via des webhooks, avec une interface web pour la configuration et une gestion sécurisée des accès.
+
 - ★ 6 · [**PowerWatch**](https://github.com/Aerya/PowerWatch)
   Surveille la consommation électrique de vos machines et centralise les relevés dans une interface simple.
 
+- [**MiniVid**](https://github.com/Aerya/MiniVid)
+  Application pour indexer, lire, taguer et mettre en favoris des vidéos locales. Elle vise une gestion simple d'une bibliothèque vidéo personnelle.
+
 - ★ 43 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
   Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
+
+---
+
+<details>
+<summary>Autres repos</summary>
 
 - ★ 5 · [**Stremio-Seerr-Catalog**](https://github.com/Aerya/Stremio-Seerr-Catalog)
   Addon Stremio qui expose les requêtes Over, Jelly ou Seerr sous forme de catalogues. Il fait le lien entre l'écosystème Seerr/Radarr/Sonarr et Stremio.
 
 - ★ 15 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
   Gluetun Companion est une interface web pour gérer et automatiser les serveurs VPN WireGuard et OpenVPN dans Gluetun. Il permet le benchmark des serveurs, la sélection automatique, la gestion des conteneurs dépendants, le port forwarding et la synchronisation avec des clients torrent.
-
----
-
-<details>
-<summary>Autres repos</summary>
 
 - ★ 2 · [**stremio-rss-catalog**](https://github.com/Aerya/stremio-rss-catalog)
   Addon Stremio qui génère des catalogues depuis des flux RSS, Prowlarr ou NZBHydra2. Il permet d'intégrer des sources personnalisées directement dans Stremio.
@@ -115,9 +121,6 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 
 - [**monitorss-delivery-watchdog**](https://github.com/Aerya/monitorss-delivery-watchdog)
   Ce service Python, MonitoRSS Delivery Watchdog, reprend les livraisons Discord bloquées de MonitoRSS en réessayant les envois échoués. Il gère les articles indisponibles ou en attente prolongée pour assurer la livraison.
-
-- [**github-discord-notifier**](https://github.com/Aerya/github-discord-notifier)
-  Ce projet Python permet d'envoyer des notifications GitHub vers Discord via des webhooks, avec une interface web pour la configuration et une gestion sécurisée des accès.
 
 - [**correzeboostemploi**](https://github.com/Aerya/correzeboostemploi)
   Surveille les offres d'emploi sur correzeboostemploi.fr, filtre les résultats selon des mots-clés bannis et envoie les nouvelles offres via un webhook Discord. Il est configurable via Docker Compose et s'exécute périodiquement.
