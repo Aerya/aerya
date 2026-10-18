@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2021/09/03/plex-web-telecharger-un-contenu-sans-en-avoir-le-droit/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Plex Web : télécharger un contenu sans en avoir le droit" /></a>
-  <a href="https://upandclear.org/2021/09/03/plex-web-telecharger-un-contenu-sans-en-avoir-le-droit/"><b>Plex Web : télécharger un contenu sans en avoir le droit</b></a><br/>
-  <sub>3 sep 2021</sub>
+  <a href="https://upandclear.org/2019/03/10/ovh-sys-activer-ligpu-transcodage-plex-jellyfin/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="OVH/SYS : utiliser l’iGPU (transcodage Plex/Jellyfin)" /></a>
+  <a href="https://upandclear.org/2019/03/10/ovh-sys-activer-ligpu-transcodage-plex-jellyfin/"><b>OVH/SYS : utiliser l’iGPU (transcodage Plex/Jellyfin)</b></a><br/>
+  <sub>10 mar 2019</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -63,7 +63,7 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - ★ 1 · [**Shield-Controller**](https://github.com/Aerya/Shield-Controller)
   Shield Controller permet de gérer votre NVIDIA Shield / Android TV depuis un navigateur web, offrant un contrôle à distance, la gestion des applications et des informations système détaillées.
 
-- ★ 126 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+- ★ 127 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Fork de Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
 - ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
