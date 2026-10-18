@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2021/06/09/plex-library-cleaner-webui/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2021/06/2021-06-09-09_14_13-Plex-Library-Cleaner-300x300.png" width="120" alt="Plex-Library-Cleaner : WebUI" /></a>
-  <a href="https://upandclear.org/2021/06/09/plex-library-cleaner-webui/"><b>Plex-Library-Cleaner : WebUI</b></a><br/>
-  <sub>9 jun 2021</sub>
+  <a href="https://upandclear.org/2021/09/03/plex-web-telecharger-un-contenu-sans-en-avoir-le-droit/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Plex Web : télécharger un contenu sans en avoir le droit" /></a>
+  <a href="https://upandclear.org/2021/09/03/plex-web-telecharger-un-contenu-sans-en-avoir-le-droit/"><b>Plex Web : télécharger un contenu sans en avoir le droit</b></a><br/>
+  <sub>3 sep 2021</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,10 +57,13 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
-- [**Shield-Controller**](https://github.com/Aerya/Shield-Controller)
+- ★ 6 · [**PowerWatch**](https://github.com/Aerya/PowerWatch)
+  Surveille la consommation électrique de vos machines et centralise les relevés dans une interface simple.
+
+- ★ 1 · [**Shield-Controller**](https://github.com/Aerya/Shield-Controller)
   Shield Controller permet de gérer votre NVIDIA Shield / Android TV depuis un navigateur web, offrant un contrôle à distance, la gestion des applications et des informations système détaillées.
 
-- ★ 125 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+- ★ 126 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Fork de Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
 - ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
@@ -71,9 +74,6 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 
 - [**github-discord-notifier**](https://github.com/Aerya/github-discord-notifier)
   Ce projet Python permet d'envoyer des notifications GitHub vers Discord via des webhooks, avec une interface web pour la configuration et une gestion sécurisée des accès.
-
-- ★ 6 · [**PowerWatch**](https://github.com/Aerya/PowerWatch)
-  Surveille la consommation électrique de vos machines et centralise les relevés dans une interface simple.
 
 - [**MiniVid**](https://github.com/Aerya/MiniVid)
   Application pour indexer, lire, taguer et mettre en favoris des vidéos locales. Elle vise une gestion simple d'une bibliothèque vidéo personnelle.
