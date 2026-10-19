@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2019/09/17/script-pour-faire-correspondre-interfaces-reseaux-dockers/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Script pour faire correspondre interfaces réseaux &amp; Dockers" /></a>
-  <a href="https://upandclear.org/2019/09/17/script-pour-faire-correspondre-interfaces-reseaux-dockers/"><b>Script pour faire correspondre interfaces réseaux &amp; Dockers</b></a><br/>
-  <sub>17 sep 2019</sub>
+  <a href="https://upandclear.org/2022/02/11/filebrowser-explorateur-web-leger/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/2022/02/filebrowser-300x300.png" width="120" alt="Filebrowser : explorateur Web léger" /></a>
+  <a href="https://upandclear.org/2022/02/11/filebrowser-explorateur-web-leger/"><b>Filebrowser : explorateur Web léger</b></a><br/>
+  <sub>11 fév 2022</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -56,6 +56,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 
 <!-- REPOS:START -->
 ### Dernières mises à jour
+
+- ★ 1 · [**Shield-Controller**](https://github.com/Aerya/Shield-Controller)
+  Shield Controller permet de gérer votre NVIDIA Shield / Android TV depuis un navigateur web, offrant un contrôle à distance, la gestion des applications et des informations système détaillées.
 
 - ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
   Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion via une API REST.
@@ -72,19 +75,19 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - ★ 2 · [**stremio-rss-catalog**](https://github.com/Aerya/stremio-rss-catalog)
   Addon Stremio qui génère des catalogues depuis des flux RSS, Prowlarr ou NZBHydra2. Il permet d'intégrer des sources personnalisées directement dans Stremio.
 
-- ★ 128 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+- ★ 129 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Fork de Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
 - ★ 6 · [**nexotv-enhanced**](https://github.com/Aerya/nexotv-enhanced)
   Addon Stremio pour IPTV, basé sur un fork de nexotv, offrant des chaînes TV en direct et des catalogues de films/séries configurables avec sélection de catégories. Il permet de mixer plusieurs sources, de masquer des chaînes et propose un enrichissement via TMDB.
 
-- [**cronitor-cli-docker**](https://github.com/Aerya/cronitor-cli-docker)
-  Image Docker non officielle pour cronitorio/cronitor-cli, construite automatiquement. Pratique pour utiliser le CLI Cronitor dans des stacks conteneurisées.
-
 ---
 
 <details>
 <summary>Autres repos</summary>
+
+- [**cronitor-cli-docker**](https://github.com/Aerya/cronitor-cli-docker)
+  Image Docker non officielle pour cronitorio/cronitor-cli, construite automatiquement. Pratique pour utiliser le CLI Cronitor dans des stacks conteneurisées.
 
 - [**PHPSysInfo-Docker**](https://github.com/Aerya/PHPSysInfo-Docker)
   Conteneur Docker pour phpSysInfo, qui affiche les informations système et matérielles d'un hôte dans une interface web.
@@ -100,9 +103,6 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 
 - ★ 6 · [**PowerWatch**](https://github.com/Aerya/PowerWatch)
   Surveille la consommation électrique de vos machines et centralise les relevés dans une interface simple.
-
-- ★ 1 · [**Shield-Controller**](https://github.com/Aerya/Shield-Controller)
-  Shield Controller permet de gérer votre NVIDIA Shield / Android TV depuis un navigateur web, offrant un contrôle à distance, la gestion des applications et des informations système détaillées.
 
 - [**github-discord-notifier**](https://github.com/Aerya/github-discord-notifier)
   Ce projet Python permet d'envoyer des notifications GitHub vers Discord via des webhooks, avec une interface web pour la configuration et une gestion sécurisée des accès.
