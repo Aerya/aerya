@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2016/06/23/oups/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Oups…" /></a>
-  <a href="https://upandclear.org/2016/06/23/oups/"><b>Oups…</b></a><br/>
-  <sub>23 jun 2016</sub>
+  <a href="https://upandclear.org/2026/01/03/seerrcatalog-laddon-over-jelly-seerr-pour-stremio/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/01/seerrcatalog9-1-300x300.jpg" width="120" alt="SeerrCatalog : l’addon Over/Jelly/Seerr pour Stremio" /></a>
+  <a href="https://upandclear.org/2026/01/03/seerrcatalog-laddon-over-jelly-seerr-pour-stremio/"><b>SeerrCatalog : l’addon Over/Jelly/Seerr pour Stremio</b></a><br/>
+  <sub>3 jan 2026</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
