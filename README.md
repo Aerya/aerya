@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2015/09/17/mettre-en-place-un-bouncer-irc-znc-avec-ou-sans-tor-un-peu-de-securite/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2015/09/xrcVkgn-300x300.png" width="120" alt="Mettre en place un bouncer IRC (ZNC) avec ou sans Tor + un peu de sécurité" /></a>
-  <a href="https://upandclear.org/2015/09/17/mettre-en-place-un-bouncer-irc-znc-avec-ou-sans-tor-un-peu-de-securite/"><b>Mettre en place un bouncer IRC (ZNC) avec ou sans Tor + un peu de sécurité</b></a><br/>
-  <sub>17 sep 2015</sub>
+  <a href="https://upandclear.org/2017/04/04/atomic-toolkit-script-de-seedbox-a-la-carte-sickrage-couch-watcher-kodi-deluge-plex/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2017/04/002-2-300x300.png" width="120" alt="AtoMiC-ToolKit : script de seedbox à la carte (sickrage, couch, watcher, kodi, deluge, plex…)" /></a>
+  <a href="https://upandclear.org/2017/04/04/atomic-toolkit-script-de-seedbox-a-la-carte-sickrage-couch-watcher-kodi-deluge-plex/"><b>AtoMiC-ToolKit : script de seedbox à la carte (sickrage, couch, watcher, kodi, deluge, plex…)</b></a><br/>
+  <sub>4 avr 2017</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
