@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2026/01/03/seerrcatalog-laddon-over-jelly-seerr-pour-stremio/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/01/seerrcatalog9-1-300x300.jpg" width="120" alt="SeerrCatalog : l’addon Over/Jelly/Seerr pour Stremio" /></a>
-  <a href="https://upandclear.org/2026/01/03/seerrcatalog-laddon-over-jelly-seerr-pour-stremio/"><b>SeerrCatalog : l’addon Over/Jelly/Seerr pour Stremio</b></a><br/>
-  <sub>3 jan 2026</sub>
+  <a href="https://upandclear.org/2025/10/25/placeholdarr-ne-telechargez-que-ce-vous-regardez/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/10/chatgpt-image-25-oct.-2025-06_27_47-300x300.jpg" width="120" alt="PlaceholdARR : ne téléchargez que ce que vous regardez" /></a>
+  <a href="https://upandclear.org/2025/10/25/placeholdarr-ne-telechargez-que-ce-vous-regardez/"><b>PlaceholdARR : ne téléchargez que ce que vous regardez</b></a><br/>
+  <sub>25 oct 2025</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -63,7 +63,7 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
-- ★ 130 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+- ★ 131 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Fork de Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
 - ★ 1 · [**Shield-Controller**](https://github.com/Aerya/Shield-Controller)
