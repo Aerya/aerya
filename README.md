@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2017/04/04/atomic-toolkit-script-de-seedbox-a-la-carte-sickrage-couch-watcher-kodi-deluge-plex/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2017/04/002-2-300x300.png" width="120" alt="AtoMiC-ToolKit : script de seedbox à la carte (sickrage, couch, watcher, kodi, deluge, plex…)" /></a>
-  <a href="https://upandclear.org/2017/04/04/atomic-toolkit-script-de-seedbox-a-la-carte-sickrage-couch-watcher-kodi-deluge-plex/"><b>AtoMiC-ToolKit : script de seedbox à la carte (sickrage, couch, watcher, kodi, deluge, plex…)</b></a><br/>
-  <sub>4 avr 2017</sub>
+  <a href="https://upandclear.org/2025/10/25/pulse-monitoring-docker-et-proxmox/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/10/chatgpt-image-25-oct.-2025-07_39_47-300x300.jpg" width="120" alt="Pulse : monitoring Docker (et Proxmox)" /></a>
+  <a href="https://upandclear.org/2025/10/25/pulse-monitoring-docker-et-proxmox/"><b>Pulse : monitoring Docker (et Proxmox)</b></a><br/>
+  <sub>25 oct 2025</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -63,7 +63,7 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
-- ★ 131 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+- ★ 133 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Fork de Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
 - ★ 1 · [**Shield-Controller**](https://github.com/Aerya/Shield-Controller)
