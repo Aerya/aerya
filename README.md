@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2017/07/21/briar-messagerie-android-decentralisee-chiffree-e2e-et-anonyme-p2p-tor-voire-plus-si-affinites/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Briar : messagerie Android décentralisée, chiffrée (E2E) et anonyme (P2P-Tor), voire plus si affinités" /></a>
-  <a href="https://upandclear.org/2017/07/21/briar-messagerie-android-decentralisee-chiffree-e2e-et-anonyme-p2p-tor-voire-plus-si-affinites/"><b>Briar : messagerie Android décentralisée, chiffrée (E2E) et anonyme (P2P-Tor), voire plus si affinités</b></a><br/>
-  <sub>21 juil 2017</sub>
+  <a href="https://upandclear.org/2017/01/12/amazon-cloud-chiffre-rclone-retours-dexperience/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2017/01/001-300x300.png" width="120" alt="Amazon Cloud chiffré, rClone : retours d’expérience" /></a>
+  <a href="https://upandclear.org/2017/01/12/amazon-cloud-chiffre-rclone-retours-dexperience/"><b>Amazon Cloud chiffré, rClone : retours d’expérience</b></a><br/>
+  <sub>12 jan 2017</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,34 +57,40 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
-- ★ 140 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+- [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
+  Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
+
+- ★ 142 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Fork de Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
+
+- ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
+  Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion via une API REST.
 
 - ★ 6 · [**nexotv-enhanced**](https://github.com/Aerya/nexotv-enhanced)
   NexoTV Enhanced est un addon Stremio pour IPTV, fork de joaosavi/nexotv, offrant des chaînes TV en direct, des catalogues de films et séries, et des options de configuration avancées. Il inclut la gestion multi-source, la sélection de catégories, l'enrichissement TMDB et des sauvegardes de configuration.
 
-- ★ 5 · [**Stremio-Seerr-Catalog**](https://github.com/Aerya/Stremio-Seerr-Catalog)
-  Addon Stremio qui expose les requêtes Over, Jelly ou Seerr sous forme de catalogues. Il fait le lien entre l'écosystème Seerr/Radarr/Sonarr et Stremio.
+- ★ 2 · [**ProxySpin**](https://github.com/Aerya/ProxySpin)
+  Proxy HTTP rotatif et anonymisant basé sur Tor et des proxys publics. Il fournit aussi un panneau de contrôle web et une extension navigateur.
 
 - ★ 1 · [**Shield-Controller**](https://github.com/Aerya/Shield-Controller)
   Shield Controller permet de gérer votre NVIDIA Shield / Android TV depuis un navigateur web, offrant des fonctionnalités comme le contrôle à distance, la gestion des applications et l'installation d'APK. Il est basé sur le projet ws-scrcpy-web et peut être déployé via Docker.
 
-- ★ 2 · [**ProxySpin**](https://github.com/Aerya/ProxySpin)
-  Proxy HTTP rotatif et anonymisant basé sur Tor et des proxys publics. Il fournit aussi un panneau de contrôle web et une extension navigateur.
+- ★ 5 · [**Stremio-Seerr-Catalog**](https://github.com/Aerya/Stremio-Seerr-Catalog)
+  Addon Stremio qui expose les requêtes Over, Jelly ou Seerr sous forme de catalogues. Il fait le lien entre l'écosystème Seerr/Radarr/Sonarr et Stremio.
 
 - [**davos**](https://github.com/Aerya/davos)
   Davos est un outil d'automatisation des téléchargements FTP avec une interface web pour Linux. Il permet de configurer des flux de fichiers, de gérer des plannings de téléchargement et d'envoyer des notifications.
+
+---
+
+<details>
+<summary>Autres repos</summary>
 
 - [**qbit-orphan-web**](https://github.com/Aerya/qbit-orphan-web)
   qbit-orphan-web est une interface web Docker pour identifier et supprimer les fichiers orphelins de clients BitTorrent, avec des fonctionnalités d'automatisation et de notification.
 
 - [**correzeboostemploi**](https://github.com/Aerya/correzeboostemploi)
   Ce projet Python surveille automatiquement les offres d'emploi sur correzeboostemploi.fr et envoie les nouvelles annonces sur Discord, avec des options de filtrage et de planification.
-
----
-
-<details>
-<summary>Autres repos</summary>
 
 - [**github-discord-notifier**](https://github.com/Aerya/github-discord-notifier)
   Ce projet Python, "github-discord-notifier", permet d'envoyer des notifications d'événements GitHub vers Discord via des webhooks, avec une interface web pour la configuration. Il assure la sécurité des communications et des données sensibles.
@@ -103,12 +109,6 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 
 - ★ 2 · [**stremio-rss-catalog**](https://github.com/Aerya/stremio-rss-catalog)
   Addon Stremio qui génère des catalogues depuis des flux RSS, Prowlarr ou NZBHydra2. Il permet d'intégrer des sources personnalisées directement dans Stremio.
-
-- ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
-  Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion via une API REST.
-
-- [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
-  Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
 - [**MiniVid**](https://github.com/Aerya/MiniVid)
   Application pour indexer, lire, taguer et mettre en favoris des vidéos locales. Elle vise une gestion simple d'une bibliothèque vidéo personnelle.
