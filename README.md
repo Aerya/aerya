@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2017/01/12/amazon-cloud-chiffre-rclone-retours-dexperience/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2017/01/001-300x300.png" width="120" alt="Amazon Cloud chiffré, rClone : retours d’expérience" /></a>
-  <a href="https://upandclear.org/2017/01/12/amazon-cloud-chiffre-rclone-retours-dexperience/"><b>Amazon Cloud chiffré, rClone : retours d’expérience</b></a><br/>
-  <sub>12 jan 2017</sub>
+  <a href="https://upandclear.org/2020/02/06/google-drive-recuperer-le-contenu-de-la-poubelle-des-to/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Google Drive : récupérer le contenu de la poubelle (des To…)" /></a>
+  <a href="https://upandclear.org/2020/02/06/google-drive-recuperer-le-contenu-de-la-poubelle-des-to/"><b>Google Drive : récupérer le contenu de la poubelle (des To…)</b></a><br/>
+  <sub>6 fév 2020</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,11 +57,14 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
+- ★ 43 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
+  Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
+
+- ★ 143 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+  Fork de Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
+
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
-
-- ★ 142 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
-  Fork de Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
 - ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
   Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion via une API REST.
@@ -78,13 +81,13 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - ★ 5 · [**Stremio-Seerr-Catalog**](https://github.com/Aerya/Stremio-Seerr-Catalog)
   Addon Stremio qui expose les requêtes Over, Jelly ou Seerr sous forme de catalogues. Il fait le lien entre l'écosystème Seerr/Radarr/Sonarr et Stremio.
 
-- [**davos**](https://github.com/Aerya/davos)
-  Davos est un outil d'automatisation des téléchargements FTP avec une interface web pour Linux. Il permet de configurer des flux de fichiers, de gérer des plannings de téléchargement et d'envoyer des notifications.
-
 ---
 
 <details>
 <summary>Autres repos</summary>
+
+- [**davos**](https://github.com/Aerya/davos)
+  Davos est un outil d'automatisation des téléchargements FTP avec une interface web pour Linux. Il permet de configurer des flux de fichiers, de gérer des plannings de téléchargement et d'envoyer des notifications.
 
 - [**qbit-orphan-web**](https://github.com/Aerya/qbit-orphan-web)
   qbit-orphan-web est une interface web Docker pour identifier et supprimer les fichiers orphelins de clients BitTorrent, avec des fonctionnalités d'automatisation et de notification.
@@ -98,14 +101,11 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - [**Stremosaic**](https://github.com/Aerya/Stremosaic)
   Stremosaic est un addon Stremio qui permet de créer des catalogues personnalisés à partir de multiples sources comme TMDB, AniList, et Bingebase. Il offre une interface web en français et des fonctionnalités de sécurité robustes pour protéger les configurations et les données.
 
-- ★ 6 · [**PowerWatch**](https://github.com/Aerya/PowerWatch)
+- ★ 7 · [**PowerWatch**](https://github.com/Aerya/PowerWatch)
   Surveille la consommation électrique de vos machines et centralise les relevés dans une interface simple.
 
 - ★ 15 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
   Gluetun Companion est une interface web en Python pour gérer le container Gluetun, permettant le benchmark, la sélection automatique et la gestion des serveurs VPN WireGuard/OpenVPN, ainsi que des containers dépendants. Il offre des fonctionnalités avancées comme le port forwarding, les notifications et une API REST.
-
-- ★ 43 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
-  Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
 
 - ★ 2 · [**stremio-rss-catalog**](https://github.com/Aerya/stremio-rss-catalog)
   Addon Stremio qui génère des catalogues depuis des flux RSS, Prowlarr ou NZBHydra2. Il permet d'intégrer des sources personnalisées directement dans Stremio.
