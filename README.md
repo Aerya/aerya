@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2017/08/03/erreur-sql-innodb-unable-to-lock-ibdata1-error-11/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Erreur SQL InnoDB: Unable to lock ./ibdata1 error: 11" /></a>
-  <a href="https://upandclear.org/2017/08/03/erreur-sql-innodb-unable-to-lock-ibdata1-error-11/"><b>Erreur SQL InnoDB: Unable to lock ./ibdata1 error: 11</b></a><br/>
-  <sub>3 août 2017</sub>
+  <a href="https://upandclear.org/2025/11/22/mon-setup-maison-iphone-pour-limiter-les-publicites-et-traqueurs-listes/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/11/chatgpt-image-22-nov.-2025-10_54_38-300x300.jpg" width="120" alt="Mon setup maison/iPhone pour limiter les publicités et traqueurs (+ listes)" /></a>
+  <a href="https://upandclear.org/2025/11/22/mon-setup-maison-iphone-pour-limiter-les-publicites-et-traqueurs-listes/"><b>Mon setup maison/iPhone pour limiter les publicités et traqueurs (+ listes)</b></a><br/>
+  <sub>22 nov 2025</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,14 +57,20 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
+- ★ 145 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+  Fork de Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
+
+- [**MiniVid**](https://github.com/Aerya/MiniVid)
+  Application pour indexer, lire, taguer et mettre en favoris des vidéos locales. Elle vise une gestion simple d'une bibliothèque vidéo personnelle.
+
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
+- ★ 1 · [**Shield-Controller**](https://github.com/Aerya/Shield-Controller)
+  Shield Controller permet de gérer votre NVIDIA Shield / Android TV depuis un navigateur web, offrant des fonctionnalités comme le contrôle à distance, la gestion des applications et des informations système détaillées. Il est basé sur le projet ws-scrcpy-web et peut être auto-hébergé avec Docker.
+
 - ★ 43 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
   Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
-
-- ★ 144 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
-  Fork de Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
 - ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
   Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion via une API REST.
@@ -75,16 +81,13 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - ★ 2 · [**ProxySpin**](https://github.com/Aerya/ProxySpin)
   Proxy HTTP rotatif et anonymisant basé sur Tor et des proxys publics. Il fournit aussi un panneau de contrôle web et une extension navigateur.
 
-- ★ 1 · [**Shield-Controller**](https://github.com/Aerya/Shield-Controller)
-  Shield Controller permet de gérer votre NVIDIA Shield / Android TV depuis un navigateur web, offrant des fonctionnalités comme le contrôle à distance, la gestion des applications et l'installation d'APK. Il est basé sur le projet ws-scrcpy-web et peut être déployé via Docker.
-
-- ★ 5 · [**Stremio-Seerr-Catalog**](https://github.com/Aerya/Stremio-Seerr-Catalog)
-  Addon Stremio qui expose les requêtes Over, Jelly ou Seerr sous forme de catalogues. Il fait le lien entre l'écosystème Seerr/Radarr/Sonarr et Stremio.
-
 ---
 
 <details>
 <summary>Autres repos</summary>
+
+- ★ 5 · [**Stremio-Seerr-Catalog**](https://github.com/Aerya/Stremio-Seerr-Catalog)
+  Addon Stremio qui expose les requêtes Over, Jelly ou Seerr sous forme de catalogues. Il fait le lien entre l'écosystème Seerr/Radarr/Sonarr et Stremio.
 
 - [**davos**](https://github.com/Aerya/davos)
   Davos est un outil d'automatisation des téléchargements FTP avec une interface web pour Linux. Il permet de configurer des flux de fichiers, de gérer des plannings de téléchargement et d'envoyer des notifications.
@@ -109,9 +112,6 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 
 - ★ 2 · [**stremio-rss-catalog**](https://github.com/Aerya/stremio-rss-catalog)
   Addon Stremio qui génère des catalogues depuis des flux RSS, Prowlarr ou NZBHydra2. Il permet d'intégrer des sources personnalisées directement dans Stremio.
-
-- [**MiniVid**](https://github.com/Aerya/MiniVid)
-  Application pour indexer, lire, taguer et mettre en favoris des vidéos locales. Elle vise une gestion simple d'une bibliothèque vidéo personnelle.
 
 - [**cronitor-cli-docker**](https://github.com/Aerya/cronitor-cli-docker)
   Image Docker non officielle pour cronitorio/cronitor-cli, construite automatiquement. Pratique pour utiliser le CLI Cronitor dans des stacks conteneurisées.
