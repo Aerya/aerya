@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2015/10/11/openvpn-authentification-par-userpwd-et-non-certificat-pour-simplifier-lutilisation-sur-nas-synology/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="OpenVPN : authentification par user:pwd et non certificat pour simplifier l’utilisation sur NAS Synology" /></a>
-  <a href="https://upandclear.org/2015/10/11/openvpn-authentification-par-userpwd-et-non-certificat-pour-simplifier-lutilisation-sur-nas-synology/"><b>OpenVPN : authentification par user:pwd et non certificat pour simplifier l’utilisation sur NAS Synology</b></a><br/>
-  <sub>11 oct 2015</sub>
+  <a href="https://upandclear.org/2026/01/26/decypharr-alldebrid-no-debrid-clients-available-or-no-slots-found-script-de-nettoyage-de-magnets-par-bouby/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/01/adbogue-300x300.png" width="120" alt="Decypharr &amp; AllDebrid : No debrid clients available or no slots found + script de nettoyage de magnets par Bouby" /></a>
+  <a href="https://upandclear.org/2026/01/26/decypharr-alldebrid-no-debrid-clients-available-or-no-slots-found-script-de-nettoyage-de-magnets-par-bouby/"><b>Decypharr &amp; AllDebrid : No debrid clients available or no slots found + script de nettoyage de magnets par Bouby</b></a><br/>
+  <sub>26 jan 2026</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
