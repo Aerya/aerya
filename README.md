@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2021/11/29/stocker-via-rclone-sur-des-teamdrives-dun-compte-gmail-partie-3-les-scripts-rclone/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/2021/11/Sans-titre-3-300x300.png" width="120" alt="Stocker via rClone sur des Teamdrives d’un compte Gmail – Partie 3 : les scripts rClone" /></a>
-  <a href="https://upandclear.org/2021/11/29/stocker-via-rclone-sur-des-teamdrives-dun-compte-gmail-partie-3-les-scripts-rclone/"><b>Stocker via rClone sur des Teamdrives d’un compte Gmail – Partie 3 : les scripts rClone</b></a><br/>
-  <sub>29 nov 2021</sub>
+  <a href="https://upandclear.org/2015/11/05/linux-sabnzbd-et-par2-multi-core/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2015/11/Sélection_0441-300x300.png" width="120" alt="Linux : SABnzbd et Par2 multi-core" /></a>
+  <a href="https://upandclear.org/2015/11/05/linux-sabnzbd-et-par2-multi-core/"><b>Linux : SABnzbd et Par2 multi-core</b></a><br/>
+  <sub>5 nov 2015</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -56,6 +56,12 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 
 <!-- REPOS:START -->
 ### Dernières mises à jour
+
+- ★ 43 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
+  Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
+
+- ★ 1 · [**Shield-Controller**](https://github.com/Aerya/Shield-Controller)
+  Shield Controller permet de gérer votre NVIDIA Shield / Android TV depuis un navigateur web, offrant des fonctionnalités comme le contrôle à distance, la gestion des applications et des informations système détaillées. Il est basé sur le projet ws-scrcpy-web et peut être auto-hébergé avec Docker.
 
 - ★ 145 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Fork de Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
@@ -69,22 +75,19 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - ★ 15 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
   Gluetun Companion est une interface web en Python pour gérer le container Gluetun, offrant des benchmarks VPN, une sélection automatique de serveurs, la gestion des containers dépendants, et des notifications. Il est compatible avec WireGuard et OpenVPN, et supporte plusieurs fournisseurs VPN comme AirVPN et ProtonVPN.
 
-- ★ 43 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
-  Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
-
 - ★ 2 · [**stremio-rss-catalog**](https://github.com/Aerya/stremio-rss-catalog)
   Addon Stremio qui génère des catalogues depuis des flux RSS, Prowlarr ou NZBHydra2. Il permet d'intégrer des sources personnalisées directement dans Stremio.
 
 - ★ 2 · [**ProxySpin**](https://github.com/Aerya/ProxySpin)
   Proxy HTTP rotatif et anonymisant basé sur Tor et des proxys publics. Il fournit aussi un panneau de contrôle web et une extension navigateur.
 
-- ★ 6 · [**nexotv-enhanced**](https://github.com/Aerya/nexotv-enhanced)
-  NexoTV Enhanced est un addon Stremio pour IPTV, fork de joaosavi/nexotv, offrant des chaînes TV en direct, des catalogues de films et séries, et des options de configuration avancées. Il inclut la gestion multi-source, la sélection de catégories, l'enrichissement TMDB et des sauvegardes de configuration.
-
 ---
 
 <details>
 <summary>Autres repos</summary>
+
+- ★ 6 · [**nexotv-enhanced**](https://github.com/Aerya/nexotv-enhanced)
+  NexoTV Enhanced est un addon Stremio pour IPTV, fork de joaosavi/nexotv, offrant des chaînes TV en direct, des catalogues de films et séries, et des options de configuration avancées. Il inclut la gestion multi-source, la sélection de catégories, l'enrichissement TMDB et des sauvegardes de configuration.
 
 - ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
   Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion via une API REST.
@@ -100,9 +103,6 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 
 - [**HomeGuard**](https://github.com/Aerya/HomeGuard)
   Serveur WireGuard en Docker pour utiliser son propre serveur DNS (AdGuard Home, Pi-hole…) depuis un smartphone, même en dehors du réseau local.
-
-- ★ 1 · [**Shield-Controller**](https://github.com/Aerya/Shield-Controller)
-  Shield Controller permet de gérer votre NVIDIA Shield / Android TV depuis un navigateur web, offrant des fonctionnalités comme le contrôle à distance, la gestion des applications et des informations système détaillées. Il est basé sur le projet ws-scrcpy-web et peut être auto-hébergé avec Docker.
 
 - ★ 5 · [**Stremio-Seerr-Catalog**](https://github.com/Aerya/Stremio-Seerr-Catalog)
   Addon Stremio qui expose les requêtes Over, Jelly ou Seerr sous forme de catalogues. Il fait le lien entre l'écosystème Seerr/Radarr/Sonarr et Stremio.
