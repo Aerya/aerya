@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2016/06/23/oups/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Oups…" /></a>
-  <a href="https://upandclear.org/2016/06/23/oups/"><b>Oups…</b></a><br/>
-  <sub>23 jun 2016</sub>
+  <a href="https://upandclear.org/2020/02/06/google-drive-recuperer-le-contenu-de-la-poubelle-des-to/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Google Drive : récupérer le contenu de la poubelle (des To…)" /></a>
+  <a href="https://upandclear.org/2020/02/06/google-drive-recuperer-le-contenu-de-la-poubelle-des-to/"><b>Google Drive : récupérer le contenu de la poubelle (des To…)</b></a><br/>
+  <sub>6 fév 2020</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -63,7 +63,7 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
-- ★ 145 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+- ★ 146 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Fork de Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
 - [**MiniVid**](https://github.com/Aerya/MiniVid)
