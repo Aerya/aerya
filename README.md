@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2016/11/24/transmission-changer-la-webui/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2016/11/Cap04-1-300x300.png" width="120" alt="Transmission : changer la WebUI" /></a>
-  <a href="https://upandclear.org/2016/11/24/transmission-changer-la-webui/"><b>Transmission : changer la WebUI</b></a><br/>
-  <sub>24 nov 2016</sub>
+  <a href="https://upandclear.org/2026/08/30/github-discord-notifier-notifications-github-vers-discord-avec-webui/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/08/6-2-300x300.png" width="120" alt="GitHub Discord Notifier : notifications GitHub vers Discord, avec WebUI." /></a>
+  <a href="https://upandclear.org/2026/08/30/github-discord-notifier-notifications-github-vers-discord-avec-webui/"><b>GitHub Discord Notifier : notifications GitHub vers Discord, avec WebUI.</b></a><br/>
+  <sub>30 août 2026</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
