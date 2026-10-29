@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2026/08/30/github-discord-notifier-notifications-github-vers-discord-avec-webui/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/08/6-2-300x300.png" width="120" alt="GitHub Discord Notifier : notifications GitHub vers Discord, avec WebUI." /></a>
-  <a href="https://upandclear.org/2026/08/30/github-discord-notifier-notifications-github-vers-discord-avec-webui/"><b>GitHub Discord Notifier : notifications GitHub vers Discord, avec WebUI.</b></a><br/>
-  <sub>30 août 2026</sub>
+  <a href="https://upandclear.org/2015/09/17/automatisation-du-dl-via-rss-sur-c2-b5torrent/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2015/09/1436882147-300x300.png" width="120" alt="Automatisation du DL via RSS sur µTorrent" /></a>
+  <a href="https://upandclear.org/2015/09/17/automatisation-du-dl-via-rss-sur-c2-b5torrent/"><b>Automatisation du DL via RSS sur µTorrent</b></a><br/>
+  <sub>17 sep 2015</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -60,11 +60,11 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
-- ★ 147 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+- ★ 148 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Fork de Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
 - ★ 1 · [**Shield-Controller**](https://github.com/Aerya/Shield-Controller)
-  Shield Controller permet de gérer votre NVIDIA Shield / Android TV depuis un navigateur, offrant des fonctionnalités telles que le contrôle à distance, l'installation d'APK, la gestion des applications et l'exploration de fichiers. Il inclut également des outils de diagnostic et de configuration avancés, avec une mise à jour récente des certificats TLS.
+  Shield Controller permet de gérer votre NVIDIA Shield / Android TV depuis un navigateur, offrant des fonctionnalités telles que le contrôle à distance, l'installation d'APK, la gestion des applications et l'accès aux informations système. Il inclut également un explorateur de fichiers, un terminal ADB et des options d'optimisation.
 
 - [**MiniVid**](https://github.com/Aerya/MiniVid)
   Application pour indexer, lire, taguer et mettre en favoris des vidéos locales. Elle vise une gestion simple d'une bibliothèque vidéo personnelle.
