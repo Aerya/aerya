@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2015/09/17/automatisation-du-dl-via-rss-sur-c2-b5torrent/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2015/09/1436882147-300x300.png" width="120" alt="Automatisation du DL via RSS sur µTorrent" /></a>
-  <a href="https://upandclear.org/2015/09/17/automatisation-du-dl-via-rss-sur-c2-b5torrent/"><b>Automatisation du DL via RSS sur µTorrent</b></a><br/>
-  <sub>17 sep 2015</sub>
+  <a href="https://upandclear.org/2015/08/24/voici-a-quoi-ressemble-linternet-dun-hyper-prudent/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Voici à quoi ressemble l’Internet d’un hyper prudent" /></a>
+  <a href="https://upandclear.org/2015/08/24/voici-a-quoi-ressemble-linternet-dun-hyper-prudent/"><b>Voici à quoi ressemble l’Internet d’un hyper prudent</b></a><br/>
+  <sub>24 août 2015</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -56,6 +56,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 
 <!-- REPOS:START -->
 ### Dernières mises à jour
+
+- ★ 7 · [**PowerWatch**](https://github.com/Aerya/PowerWatch)
+  Surveille la consommation électrique de vos machines et centralise les relevés dans une interface simple.
 
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
@@ -78,13 +81,13 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - ★ 2 · [**stremio-rss-catalog**](https://github.com/Aerya/stremio-rss-catalog)
   Addon Stremio qui génère des catalogues depuis des flux RSS, Prowlarr ou NZBHydra2. Il permet d'intégrer des sources personnalisées directement dans Stremio.
 
-- ★ 2 · [**ProxySpin**](https://github.com/Aerya/ProxySpin)
-  Proxy HTTP rotatif et anonymisant basé sur Tor et des proxys publics. Il fournit aussi un panneau de contrôle web et une extension navigateur.
-
 ---
 
 <details>
 <summary>Autres repos</summary>
+
+- ★ 2 · [**ProxySpin**](https://github.com/Aerya/ProxySpin)
+  Proxy HTTP rotatif et anonymisant basé sur Tor et des proxys publics. Il fournit aussi un panneau de contrôle web et une extension navigateur.
 
 - ★ 6 · [**nexotv-enhanced**](https://github.com/Aerya/nexotv-enhanced)
   NexoTV Enhanced est un addon Stremio pour IPTV, fork de joaosavi/nexotv, offrant des chaînes TV en direct, des catalogues de films et séries, et des options de configuration avancées. Il inclut la gestion multi-source, la sélection de catégories, l'enrichissement TMDB et des sauvegardes de configuration.
@@ -121,9 +124,6 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 
 - [**Stremosaic**](https://github.com/Aerya/Stremosaic)
   Stremosaic est un addon Stremio qui permet de créer des catalogues personnalisés à partir de multiples sources comme TMDB, AniList, et Bingebase. Il offre une interface web en français et des fonctionnalités de sécurité robustes pour protéger les configurations et les données.
-
-- ★ 7 · [**PowerWatch**](https://github.com/Aerya/PowerWatch)
-  Surveille la consommation électrique de vos machines et centralise les relevés dans une interface simple.
 
 - [**yggtorrent-bulk-downloader**](https://github.com/Aerya/yggtorrent-bulk-downloader)
   UserScript pour télécharger les .torrent d'une page
