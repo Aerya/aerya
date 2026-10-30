@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2015/09/14/usenet-comment-ca-marche/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2015/09/usenet-300x300.png" width="120" alt="Usenet : comment ça marche ?" /></a>
-  <a href="https://upandclear.org/2015/09/14/usenet-comment-ca-marche/"><b>Usenet : comment ça marche ?</b></a><br/>
-  <sub>14 sep 2015</sub>
+  <a href="https://upandclear.org/2021/01/02/ferdi-whatsapp-telegram-discord-hangouts-etc-au-meme-endroit/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2021/01/2021-01-02-00_06_21-Ferdi-Rocket.Chat-300x300.png" width="120" alt="Ferdi : WhatsApp, Telegram, Discord, Hangouts etc au même endroit et auto-hébergé" /></a>
+  <a href="https://upandclear.org/2021/01/02/ferdi-whatsapp-telegram-discord-hangouts-etc-au-meme-endroit/"><b>Ferdi : WhatsApp, Telegram, Discord, Hangouts etc au même endroit et auto-hébergé</b></a><br/>
+  <sub>2 jan 2021</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -60,7 +60,7 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
-- ★ 149 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+- ★ 150 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Fork de Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
 - ★ 7 · [**PowerWatch**](https://github.com/Aerya/PowerWatch)
