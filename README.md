@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2015/08/24/voici-a-quoi-ressemble-linternet-dun-hyper-prudent/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Voici à quoi ressemble l’Internet d’un hyper prudent" /></a>
-  <a href="https://upandclear.org/2015/08/24/voici-a-quoi-ressemble-linternet-dun-hyper-prudent/"><b>Voici à quoi ressemble l’Internet d’un hyper prudent</b></a><br/>
-  <sub>24 août 2015</sub>
+  <a href="https://upandclear.org/2015/09/14/usenet-comment-ca-marche/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2015/09/usenet-300x300.png" width="120" alt="Usenet : comment ça marche ?" /></a>
+  <a href="https://upandclear.org/2015/09/14/usenet-comment-ca-marche/"><b>Usenet : comment ça marche ?</b></a><br/>
+  <sub>14 sep 2015</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,14 +57,14 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
-- ★ 7 · [**PowerWatch**](https://github.com/Aerya/PowerWatch)
-  Surveille la consommation électrique de vos machines et centralise les relevés dans une interface simple.
-
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
-- ★ 148 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+- ★ 149 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Fork de Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
+
+- ★ 7 · [**PowerWatch**](https://github.com/Aerya/PowerWatch)
+  Surveille la consommation électrique de vos machines et centralise les relevés dans une interface simple.
 
 - ★ 1 · [**Shield-Controller**](https://github.com/Aerya/Shield-Controller)
   Shield Controller permet de gérer votre NVIDIA Shield / Android TV depuis un navigateur, offrant des fonctionnalités telles que le contrôle à distance, l'installation d'APK, la gestion des applications et l'accès aux informations système. Il inclut également un explorateur de fichiers, un terminal ADB et des options d'optimisation.
