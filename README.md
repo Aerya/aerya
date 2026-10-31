@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2021/01/02/ferdi-whatsapp-telegram-discord-hangouts-etc-au-meme-endroit/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2021/01/2021-01-02-00_06_21-Ferdi-Rocket.Chat-300x300.png" width="120" alt="Ferdi : WhatsApp, Telegram, Discord, Hangouts etc au même endroit et auto-hébergé" /></a>
-  <a href="https://upandclear.org/2021/01/02/ferdi-whatsapp-telegram-discord-hangouts-etc-au-meme-endroit/"><b>Ferdi : WhatsApp, Telegram, Discord, Hangouts etc au même endroit et auto-hébergé</b></a><br/>
-  <sub>2 jan 2021</sub>
+  <a href="https://upandclear.org/2020/10/18/sonarr-radarr-lidarr-autosearch-browser-extension/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2020/10/2020-10-18_15-29-1024x368-300x300.png" width="120" alt="sonarr-radarr-lidarr-autosearch-browser-extension" /></a>
+  <a href="https://upandclear.org/2020/10/18/sonarr-radarr-lidarr-autosearch-browser-extension/"><b>sonarr-radarr-lidarr-autosearch-browser-extension</b></a><br/>
+  <sub>18 oct 2020</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
