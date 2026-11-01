@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2025/12/24/qui-le-manager-dinstances-qbittorrent-cross-seeding-recherche-rss-par-lequipe-dautobrr/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/12/qui-300x300.png" width="120" alt="qui : le manager d’instances qBittorrent, cross-seeding, recherche, RSS par l’équipe d’Autobrr" /></a>
-  <a href="https://upandclear.org/2025/12/24/qui-le-manager-dinstances-qbittorrent-cross-seeding-recherche-rss-par-lequipe-dautobrr/"><b>qui : le manager d’instances qBittorrent, cross-seeding, recherche, RSS par l’équipe d’Autobrr</b></a><br/>
-  <sub>24 déc 2025</sub>
+  <a href="https://upandclear.org/2018/02/26/vpn-wireguard-sur-samsung-galaxy-s8-android-8-oreo-roote/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="VPN Wireguard sur Samsung Galaxy S8 Android 8 Oreo (rooté)" /></a>
+  <a href="https://upandclear.org/2018/02/26/vpn-wireguard-sur-samsung-galaxy-s8-android-8-oreo-roote/"><b>VPN Wireguard sur Samsung Galaxy S8 Android 8 Oreo (rooté)</b></a><br/>
+  <sub>26 fév 2018</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
