@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2015/11/26/upandclear-sur-tor-onion/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Upandclear sur Tor (.onion)" /></a>
-  <a href="https://upandclear.org/2015/11/26/upandclear-sur-tor-onion/"><b>Upandclear sur Tor (.onion)</b></a><br/>
-  <sub>26 nov 2015</sub>
+  <a href="https://upandclear.org/2025/12/24/qui-le-manager-dinstances-qbittorrent-cross-seeding-recherche-rss-par-lequipe-dautobrr/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/12/qui-300x300.png" width="120" alt="qui : le manager d’instances qBittorrent, cross-seeding, recherche, RSS par l’équipe d’Autobrr" /></a>
+  <a href="https://upandclear.org/2025/12/24/qui-le-manager-dinstances-qbittorrent-cross-seeding-recherche-rss-par-lequipe-dautobrr/"><b>qui : le manager d’instances qBittorrent, cross-seeding, recherche, RSS par l’équipe d’Autobrr</b></a><br/>
+  <sub>24 déc 2025</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -63,17 +63,17 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - ★ 150 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Fork de Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
+- ★ 43 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
+  Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
+
+- ★ 1 · [**Shield-Controller**](https://github.com/Aerya/Shield-Controller)
+  Shield Controller permet de gérer votre NVIDIA Shield / Android TV depuis un navigateur web, offrant des fonctionnalités telles que le contrôle à distance, l'installation d'APK, la gestion des applications et l'accès aux informations système.
+
 - ★ 7 · [**PowerWatch**](https://github.com/Aerya/PowerWatch)
   Surveille la consommation électrique de vos machines et centralise les relevés dans une interface simple.
 
-- ★ 1 · [**Shield-Controller**](https://github.com/Aerya/Shield-Controller)
-  Shield Controller permet de gérer votre NVIDIA Shield / Android TV depuis un navigateur, offrant des fonctionnalités telles que le contrôle à distance, l'installation d'APK, la gestion des applications et l'accès aux informations système. Il inclut également un explorateur de fichiers, un terminal ADB et des options d'optimisation.
-
 - [**MiniVid**](https://github.com/Aerya/MiniVid)
   Application pour indexer, lire, taguer et mettre en favoris des vidéos locales. Elle vise une gestion simple d'une bibliothèque vidéo personnelle.
-
-- ★ 43 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
-  Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
 
 - ★ 15 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
   Gluetun Companion est une interface web en Python pour gérer le container Gluetun, offrant des benchmarks VPN, une sélection automatique de serveurs, la gestion des containers dépendants, et des notifications. Il est compatible avec WireGuard et OpenVPN, et supporte plusieurs fournisseurs VPN comme AirVPN et ProtonVPN.
