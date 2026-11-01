@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2018/02/26/vpn-wireguard-sur-samsung-galaxy-s8-android-8-oreo-roote/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="VPN Wireguard sur Samsung Galaxy S8 Android 8 Oreo (rooté)" /></a>
-  <a href="https://upandclear.org/2018/02/26/vpn-wireguard-sur-samsung-galaxy-s8-android-8-oreo-roote/"><b>VPN Wireguard sur Samsung Galaxy S8 Android 8 Oreo (rooté)</b></a><br/>
-  <sub>26 fév 2018</sub>
+  <a href="https://upandclear.org/2016/03/15/russie-bitcoin-prison-pour-bientot/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Russie + BitCoin = Prison. Pour bientôt ?" /></a>
+  <a href="https://upandclear.org/2016/03/15/russie-bitcoin-prison-pour-bientot/"><b>Russie + BitCoin = Prison. Pour bientôt ?</b></a><br/>
+  <sub>15 mar 2016</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
