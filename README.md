@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2015/09/15/usenet-utiliser-un-moteur-de-recherche-nzbclub/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2015/09/Sélection_1051-300x300.png" width="120" alt="Usenet : Utiliser un moteur de recherche (NZBclub)" /></a>
-  <a href="https://upandclear.org/2015/09/15/usenet-utiliser-un-moteur-de-recherche-nzbclub/"><b>Usenet : Utiliser un moteur de recherche (NZBclub)</b></a><br/>
-  <sub>15 sep 2015</sub>
+  <a href="https://upandclear.org/2021/11/28/stocker-via-rclone-sur-des-teamdrives-dun-compte-gratuit-gmail-preambule/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/2021/11/Sans-titre-1-300x300.png" width="120" alt="Stocker via rClone sur des Teamdrives d’un compte Gmail – Préambule" /></a>
+  <a href="https://upandclear.org/2021/11/28/stocker-via-rclone-sur-des-teamdrives-dun-compte-gratuit-gmail-preambule/"><b>Stocker via rClone sur des Teamdrives d’un compte Gmail – Préambule</b></a><br/>
+  <sub>28 nov 2021</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,11 +57,14 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
-- [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
-  Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
-
 - ★ 151 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Fork de Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
+
+- ★ 3 · [**stremio-rss-catalog**](https://github.com/Aerya/stremio-rss-catalog)
+  Addon Stremio qui génère des catalogues depuis des flux RSS, Prowlarr ou NZBHydra2. Il permet d'intégrer des sources personnalisées directement dans Stremio.
+
+- [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
+  Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
 - ★ 1 · [**Shield-Controller**](https://github.com/Aerya/Shield-Controller)
   Shield Controller permet de gérer votre NVIDIA Shield / Android TV depuis un navigateur, offrant des fonctionnalités telles que le contrôle à distance, la gestion des applications et des informations système détaillées.
@@ -71,9 +74,6 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 
 - ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
   Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion via une API REST.
-
-- ★ 3 · [**stremio-rss-catalog**](https://github.com/Aerya/stremio-rss-catalog)
-  Addon Stremio qui génère des catalogues depuis des flux RSS, Prowlarr ou NZBHydra2. Il permet d'intégrer des sources personnalisées directement dans Stremio.
 
 - ★ 15 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
   Gluetun Companion est une interface web en Python pour gérer le container Gluetun, offrant des benchmarks VPN, une sélection automatique de serveurs, la gestion des containers dépendants, et des notifications. Il est compatible avec WireGuard et OpenVPN, et supporte plusieurs fournisseurs VPN comme AirVPN et ProtonVPN.
