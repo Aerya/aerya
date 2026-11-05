@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2025/11/04/testflight-status-checker-etre-alerte-des-ouvertures-de-beta-dapplications-pour-apple-sur-testflight/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/11/upandclear-org-1762247042-300x300.jpg" width="120" alt="TestFlight Status Checker : être alerté des ouvertures de bêta d’applications pour Apple sur TestFlight" /></a>
-  <a href="https://upandclear.org/2025/11/04/testflight-status-checker-etre-alerte-des-ouvertures-de-beta-dapplications-pour-apple-sur-testflight/"><b>TestFlight Status Checker : être alerté des ouvertures de bêta d’applications pour Apple sur TestFlight</b></a><br/>
-  <sub>4 nov 2025</sub>
+  <a href="https://upandclear.org/2026/04/03/proxyspin-proxy-rotatif-anonymisant-base-sur-tor-avec-support-optionnel-de-proxies-socks4-socks5-interface-web-et-extension-navigateur/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/04/person-in-yellow-hoodie-stockpack-pexels-300x300.jpg" width="120" alt="ProxySpin : proxy rotatif anonymisant basé sur Tor, avec support optionnel de proxies SOCKS4/SOCKS5 — interface web et extension navigateur" /></a>
+  <a href="https://upandclear.org/2026/04/03/proxyspin-proxy-rotatif-anonymisant-base-sur-tor-avec-support-optionnel-de-proxies-socks4-socks5-interface-web-et-extension-navigateur/"><b>ProxySpin : proxy rotatif anonymisant basé sur Tor, avec support optionnel de proxies SOCKS4/SOCKS5 — interface web et extension navigateur</b></a><br/>
+  <sub>3 avr 2026</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
