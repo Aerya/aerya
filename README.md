@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2026/04/03/proxyspin-proxy-rotatif-anonymisant-base-sur-tor-avec-support-optionnel-de-proxies-socks4-socks5-interface-web-et-extension-navigateur/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/04/person-in-yellow-hoodie-stockpack-pexels-300x300.jpg" width="120" alt="ProxySpin : proxy rotatif anonymisant basé sur Tor, avec support optionnel de proxies SOCKS4/SOCKS5 — interface web et extension navigateur" /></a>
-  <a href="https://upandclear.org/2026/04/03/proxyspin-proxy-rotatif-anonymisant-base-sur-tor-avec-support-optionnel-de-proxies-socks4-socks5-interface-web-et-extension-navigateur/"><b>ProxySpin : proxy rotatif anonymisant basé sur Tor, avec support optionnel de proxies SOCKS4/SOCKS5 — interface web et extension navigateur</b></a><br/>
-  <sub>3 avr 2026</sub>
+  <a href="https://upandclear.org/2015/11/27/faille-vpn-possible-hack-de-lip-utilisateur/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Faille VPN : possible hack de l’IP utilisateur" /></a>
+  <a href="https://upandclear.org/2015/11/27/faille-vpn-possible-hack-de-lip-utilisateur/"><b>Faille VPN : possible hack de l’IP utilisateur</b></a><br/>
+  <sub>27 nov 2015</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,11 +57,11 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
-- ★ 153 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
-  Fork de Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
-
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
+
+- ★ 153 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+  Fork de Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
 - ★ 3 · [**stremio-rss-catalog**](https://github.com/Aerya/stremio-rss-catalog)
   Addon Stremio qui génère des catalogues depuis des flux RSS, Prowlarr ou NZBHydra2. Il permet d'intégrer des sources personnalisées directement dans Stremio.
