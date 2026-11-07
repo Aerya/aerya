@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2016/08/22/vnstat-monitoring-reseau-trafic-synologylinux/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2016/08/Sélection_003-1-300x300.png" width="120" alt="VNstat : Monitoring réseau (trafic) Synology/Linux" /></a>
-  <a href="https://upandclear.org/2016/08/22/vnstat-monitoring-reseau-trafic-synologylinux/"><b>VNstat : Monitoring réseau (trafic) Synology/Linux</b></a><br/>
-  <sub>22 août 2016</sub>
+  <a href="https://upandclear.org/2024/06/22/sshwifty-webui-ssh-et-telnet/"><img align="left" src="https://upandclear.org/wp-content/uploads/2024/06/6672746e64fbf-300x300.jpg" width="120" alt="SSHwifty : WebUI SSH et TELNET" /></a>
+  <a href="https://upandclear.org/2024/06/22/sshwifty-webui-ssh-et-telnet/"><b>SSHwifty : WebUI SSH et TELNET</b></a><br/>
+  <sub>22 jun 2024</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -63,7 +63,7 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
-- ★ 153 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+- ★ 154 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Fork de Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
 - ★ 3 · [**stremio-rss-catalog**](https://github.com/Aerya/stremio-rss-catalog)
