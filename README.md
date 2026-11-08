@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2016/08/31/utiliser-keepass-gestionnaire-gratuit-de-mots-de-passe/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2016/08/KeePass_003-300x300.png" width="120" alt="Utiliser KeePass : gestionnaire gratuit de mots de passe" /></a>
-  <a href="https://upandclear.org/2016/08/31/utiliser-keepass-gestionnaire-gratuit-de-mots-de-passe/"><b>Utiliser KeePass : gestionnaire gratuit de mots de passe</b></a><br/>
-  <sub>31 août 2016</sub>
+  <a href="https://upandclear.org/2025/12/24/qui-le-manager-dinstances-qbittorrent-cross-seeding-recherche-rss-par-lequipe-dautobrr/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/12/qui-300x300.png" width="120" alt="qui : le manager d’instances qBittorrent, cross-seeding, recherche, RSS par l’équipe d’Autobrr" /></a>
+  <a href="https://upandclear.org/2025/12/24/qui-le-manager-dinstances-qbittorrent-cross-seeding-recherche-rss-par-lequipe-dautobrr/"><b>qui : le manager d’instances qBittorrent, cross-seeding, recherche, RSS par l’équipe d’Autobrr</b></a><br/>
+  <sub>24 déc 2025</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -56,6 +56,12 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 
 <!-- REPOS:START -->
 ### Dernières mises à jour
+
+- [**Accent**](https://github.com/Aerya/Accent)
+  Accent est un fork d'Ether (Go) qui ajoute un catalogue orienté français, des bibliothèques personnalisées et une bibliothèque musicale partagée entre applications. Il enrichit Ether avec des fonctionnalités pour les films, séries et la musique, tout en conservant les bases du projet original.
+
+- [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
+  Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
 - ★ 5 · [**Stremio-Seerr-Catalog**](https://github.com/Aerya/Stremio-Seerr-Catalog)
   Addon Stremio qui expose les requêtes Over, Jelly ou Seerr sous forme de catalogues. Il fait le lien entre l'écosystème Seerr/Radarr/Sonarr et Stremio.
@@ -66,9 +72,6 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
   Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion via une API REST.
 
-- [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
-  Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
-
 - ★ 154 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Fork de Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
@@ -78,13 +81,13 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - ★ 1 · [**Shield-Controller**](https://github.com/Aerya/Shield-Controller)
   Shield Controller permet de gérer votre NVIDIA Shield / Android TV depuis un navigateur, offrant des fonctionnalités telles que le contrôle à distance, la gestion des applications et des informations système détaillées.
 
-- ★ 15 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
-  Gluetun Companion est une interface web en Python pour gérer le container Gluetun, offrant des benchmarks VPN, une sélection automatique de serveurs, la gestion des containers dépendants, et des notifications. Il est compatible avec WireGuard et OpenVPN, et supporte plusieurs fournisseurs VPN comme AirVPN et ProtonVPN.
-
 ---
 
 <details>
 <summary>Autres repos</summary>
+
+- ★ 15 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
+  Gluetun Companion est une interface web en Python pour gérer le container Gluetun, offrant des benchmarks VPN, une sélection automatique de serveurs, la gestion des containers dépendants, et des notifications. Il est compatible avec WireGuard et OpenVPN, et supporte plusieurs fournisseurs VPN comme AirVPN et ProtonVPN.
 
 - ★ 6 · [**nexotv-enhanced**](https://github.com/Aerya/nexotv-enhanced)
   NexoTV Enhanced est un addon Stremio pour IPTV, fork de joaosavi/nexotv, offrant des chaînes TV en direct, des catalogues de films et séries, et des options de configuration avancées. Il inclut la gestion multi-source, la sélection de catégories, l'enrichissement TMDB et des sauvegardes de configuration.
