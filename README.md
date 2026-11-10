@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2019/03/10/ovh-sys-activer-ligpu-transcodage-plex-jellyfin/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="OVH/SYS : utiliser l’iGPU (transcodage Plex/Jellyfin)" /></a>
-  <a href="https://upandclear.org/2019/03/10/ovh-sys-activer-ligpu-transcodage-plex-jellyfin/"><b>OVH/SYS : utiliser l’iGPU (transcodage Plex/Jellyfin)</b></a><br/>
-  <sub>10 mar 2019</sub>
+  <a href="https://upandclear.org/2025/08/27/swaparr-degager-les-torrents-bloques-des-arrs-stalled/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/08/68747470733a2f2f692e696d6775722e636f6d2f484d434447624f2e706e673f733d313238-300x300.png" width="120" alt="Swaparr : dégager les Torrents bloqués des *arrs (stalled)" /></a>
+  <a href="https://upandclear.org/2025/08/27/swaparr-degager-les-torrents-bloques-des-arrs-stalled/"><b>Swaparr : dégager les Torrents bloqués des *arrs (stalled)</b></a><br/>
+  <sub>27 août 2025</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -58,36 +58,36 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 ### Dernières mises à jour
 
 - ★ 1 · [**Ether-Remix**](https://github.com/Aerya/Ether-Remix)
-  Ether-Remix est une version enrichie d'Ether, axée sur le contenu français, avec des bibliothèques personnalisées et le streaming musical. Il ajoute des fonctionnalités pour le filtrage des contenus, la recherche anticipée de sources, un tableau de bord dédié, et l'intégration de la musique via des API comme Deezer et Subsonic.
+  Ether-Remix est un fork du projet Ether, enrichi d'un catalogue français, de bibliothèques personnalisées et du streaming musical, tout en conservant les fonctionnalités originales. Il permet de gérer films, séries, animés, musique et playlists depuis diverses sources et applications.
 
 - ★ 5 · [**Stremio-Seerr-Catalog**](https://github.com/Aerya/Stremio-Seerr-Catalog)
   Addon Stremio qui expose les requêtes Over, Jelly ou Seerr sous forme de catalogues. Il fait le lien entre l'écosystème Seerr/Radarr/Sonarr et Stremio.
 
-- ★ 154 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+- ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
+  Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion via une API REST.
+
+- ★ 15 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
+  Gluetun Companion est une interface web pour gérer le container VPN Gluetun, offrant le benchmark automatique des serveurs, la sélection selon l'usage, la gestion des containers dépendants et des fonctionnalités avancées comme le port forwarding. Le projet est en bêta, principalement testé avec AirVPN, et recherche des retours sur d'autres fournisseurs et configurations.
+
+- [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
+  Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
+
+- ★ 155 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Fork de Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
 - ★ 1 · [**Shield-Controller**](https://github.com/Aerya/Shield-Controller)
   Shield Controller permet de gérer votre NVIDIA Shield / Android TV depuis un navigateur, offrant des fonctionnalités telles que le contrôle à distance, la gestion des applications et des informations système détaillées.
 
-- ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
-  Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion via une API REST.
-
-- [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
-  Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
-
 - ★ 44 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
   Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
-
-- ★ 4 · [**stremio-rss-catalog**](https://github.com/Aerya/stremio-rss-catalog)
-  Addon Stremio qui génère des catalogues depuis des flux RSS, Prowlarr ou NZBHydra2. Il permet d'intégrer des sources personnalisées directement dans Stremio.
 
 ---
 
 <details>
 <summary>Autres repos</summary>
 
-- ★ 15 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
-  Gluetun Companion est une interface web en Python pour gérer le container Gluetun, offrant des benchmarks VPN, une sélection automatique de serveurs, la gestion des containers dépendants, et des notifications. Il est compatible avec WireGuard et OpenVPN, et supporte plusieurs fournisseurs VPN comme AirVPN et ProtonVPN.
+- ★ 4 · [**stremio-rss-catalog**](https://github.com/Aerya/stremio-rss-catalog)
+  Addon Stremio qui génère des catalogues depuis des flux RSS, Prowlarr ou NZBHydra2. Il permet d'intégrer des sources personnalisées directement dans Stremio.
 
 - ★ 6 · [**nexotv-enhanced**](https://github.com/Aerya/nexotv-enhanced)
   NexoTV Enhanced est un addon Stremio pour IPTV, fork de joaosavi/nexotv, offrant des chaînes TV en direct, des catalogues de films et séries, et des options de configuration avancées. Il inclut la gestion multi-source, la sélection de catégories, l'enrichissement TMDB et des sauvegardes de configuration.
