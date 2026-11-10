@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2025/08/27/swaparr-degager-les-torrents-bloques-des-arrs-stalled/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/08/68747470733a2f2f692e696d6775722e636f6d2f484d434447624f2e706e673f733d313238-300x300.png" width="120" alt="Swaparr : dégager les Torrents bloqués des *arrs (stalled)" /></a>
-  <a href="https://upandclear.org/2025/08/27/swaparr-degager-les-torrents-bloques-des-arrs-stalled/"><b>Swaparr : dégager les Torrents bloqués des *arrs (stalled)</b></a><br/>
-  <sub>27 août 2025</sub>
+  <a href="https://upandclear.org/2017/01/21/installation-de-plex-plexpy-plexrequest-plexcomicreader-organizr-twitchmod/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2017/01/001-6-300x300.png" width="120" alt="Installation de Plex, PlexPy, PlexRequest, PlexComicReader, Organizr, TwitchMod" /></a>
+  <a href="https://upandclear.org/2017/01/21/installation-de-plex-plexpy-plexrequest-plexcomicreader-organizr-twitchmod/"><b>Installation de Plex, PlexPy, PlexRequest, PlexComicReader, Organizr, TwitchMod</b></a><br/>
+  <sub>21 jan 2017</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -58,10 +58,13 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 ### Dernières mises à jour
 
 - ★ 1 · [**Ether-Remix**](https://github.com/Aerya/Ether-Remix)
-  Ether-Remix est un fork du projet Ether, enrichi d'un catalogue français, de bibliothèques personnalisées et du streaming musical, tout en conservant les fonctionnalités originales. Il permet de gérer films, séries, animés, musique et playlists depuis diverses sources et applications.
+  Ether-Remix est un fork de Ether, enrichi d'un catalogue français, de bibliothèques personnalisées et du streaming musical. Il conserve les fonctionnalités d'origine tout en ajoutant des options de personnalisation pour les films, séries, animés et la musique.
 
 - ★ 5 · [**Stremio-Seerr-Catalog**](https://github.com/Aerya/Stremio-Seerr-Catalog)
   Addon Stremio qui expose les requêtes Over, Jelly ou Seerr sous forme de catalogues. Il fait le lien entre l'écosystème Seerr/Radarr/Sonarr et Stremio.
+
+- [**scrob-arvio**](https://github.com/Aerya/scrob-arvio)
+  Ce fork de Scrob ajoute l'historique Bingebase automatique, le suivi des envois, les mises à jour officielles automatiques et la migration des anciennes installations. ARVIO est maintenant intégré à Scrob officiel.
 
 - ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
   Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion via une API REST.
@@ -78,13 +81,13 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - ★ 1 · [**Shield-Controller**](https://github.com/Aerya/Shield-Controller)
   Shield Controller permet de gérer votre NVIDIA Shield / Android TV depuis un navigateur, offrant des fonctionnalités telles que le contrôle à distance, la gestion des applications et des informations système détaillées.
 
-- ★ 44 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
-  Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
-
 ---
 
 <details>
 <summary>Autres repos</summary>
+
+- ★ 44 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
+  Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
 
 - ★ 4 · [**stremio-rss-catalog**](https://github.com/Aerya/stremio-rss-catalog)
   Addon Stremio qui génère des catalogues depuis des flux RSS, Prowlarr ou NZBHydra2. Il permet d'intégrer des sources personnalisées directement dans Stremio.
