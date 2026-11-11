@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2016/05/25/vivaldi-un-navigateur-qui-monte/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2016/05/Vivaldi-300x300.png" width="120" alt="Vivaldi : un navigateur qui monte" /></a>
-  <a href="https://upandclear.org/2016/05/25/vivaldi-un-navigateur-qui-monte/"><b>Vivaldi : un navigateur qui monte</b></a><br/>
-  <sub>25 mai 2016</sub>
+  <a href="https://upandclear.org/2015/08/25/oppo-r7-plus-le-6-pouces-full-hd-snapdragon-615-3-go-de-ram-et-batterie-4100-mah-arrive/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Oppo R7 Plus : le 6 pouces Full HD, Snapdragon 615, 3 Go de RAM et batterie 4100 mAh arrive" /></a>
+  <a href="https://upandclear.org/2015/08/25/oppo-r7-plus-le-6-pouces-full-hd-snapdragon-615-3-go-de-ram-et-batterie-4100-mah-arrive/"><b>Oppo R7 Plus : le 6 pouces Full HD, Snapdragon 615, 3 Go de RAM et batterie 4100 mAh arrive</b></a><br/>
+  <sub>25 août 2015</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -66,7 +66,7 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - ★ 1 · [**Ether-Remix**](https://github.com/Aerya/Ether-Remix)
   Ether, enrichi d’un catalogue français, de bibliothèques personnalisées et du streaming musical.
 
-- ★ 155 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+- ★ 156 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Fork de Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
 - ★ 5 · [**Stremio-Seerr-Catalog**](https://github.com/Aerya/Stremio-Seerr-Catalog)
