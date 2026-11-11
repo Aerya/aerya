@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2017/01/21/installation-de-plex-plexpy-plexrequest-plexcomicreader-organizr-twitchmod/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2017/01/001-6-300x300.png" width="120" alt="Installation de Plex, PlexPy, PlexRequest, PlexComicReader, Organizr, TwitchMod" /></a>
-  <a href="https://upandclear.org/2017/01/21/installation-de-plex-plexpy-plexrequest-plexcomicreader-organizr-twitchmod/"><b>Installation de Plex, PlexPy, PlexRequest, PlexComicReader, Organizr, TwitchMod</b></a><br/>
-  <sub>21 jan 2017</sub>
+  <a href="https://upandclear.org/2016/05/25/vivaldi-un-navigateur-qui-monte/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2016/05/Vivaldi-300x300.png" width="120" alt="Vivaldi : un navigateur qui monte" /></a>
+  <a href="https://upandclear.org/2016/05/25/vivaldi-un-navigateur-qui-monte/"><b>Vivaldi : un navigateur qui monte</b></a><br/>
+  <sub>25 mai 2016</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,8 +57,17 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
+- ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
+  Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion via une API REST.
+
+- [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
+  Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
+
 - ★ 1 · [**Ether-Remix**](https://github.com/Aerya/Ether-Remix)
-  Ether-Remix est un fork de Ether, enrichi d'un catalogue français, de bibliothèques personnalisées et du streaming musical. Il conserve les fonctionnalités d'origine tout en ajoutant des options de personnalisation pour les films, séries, animés et la musique.
+  Ether, enrichi d’un catalogue français, de bibliothèques personnalisées et du streaming musical.
+
+- ★ 155 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+  Fork de Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
 - ★ 5 · [**Stremio-Seerr-Catalog**](https://github.com/Aerya/Stremio-Seerr-Catalog)
   Addon Stremio qui expose les requêtes Over, Jelly ou Seerr sous forme de catalogues. Il fait le lien entre l'écosystème Seerr/Radarr/Sonarr et Stremio.
@@ -66,17 +75,8 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - [**scrob-arvio**](https://github.com/Aerya/scrob-arvio)
   Ce fork de Scrob ajoute l'historique Bingebase automatique, le suivi des envois, les mises à jour officielles automatiques et la migration des anciennes installations. ARVIO est maintenant intégré à Scrob officiel.
 
-- ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
-  Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion via une API REST.
-
 - ★ 15 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
   Gluetun Companion est une interface web pour gérer le container VPN Gluetun, offrant le benchmark automatique des serveurs, la sélection selon l'usage, la gestion des containers dépendants et des fonctionnalités avancées comme le port forwarding. Le projet est en bêta, principalement testé avec AirVPN, et recherche des retours sur d'autres fournisseurs et configurations.
-
-- [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
-  Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
-
-- ★ 155 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
-  Fork de Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
 - ★ 1 · [**Shield-Controller**](https://github.com/Aerya/Shield-Controller)
   Shield Controller permet de gérer votre NVIDIA Shield / Android TV depuis un navigateur, offrant des fonctionnalités telles que le contrôle à distance, la gestion des applications et des informations système détaillées.
@@ -89,7 +89,7 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - ★ 44 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
   Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
 
-- ★ 4 · [**stremio-rss-catalog**](https://github.com/Aerya/stremio-rss-catalog)
+- ★ 5 · [**stremio-rss-catalog**](https://github.com/Aerya/stremio-rss-catalog)
   Addon Stremio qui génère des catalogues depuis des flux RSS, Prowlarr ou NZBHydra2. Il permet d'intégrer des sources personnalisées directement dans Stremio.
 
 - ★ 6 · [**nexotv-enhanced**](https://github.com/Aerya/nexotv-enhanced)
