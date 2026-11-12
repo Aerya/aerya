@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2015/08/25/oppo-r7-plus-le-6-pouces-full-hd-snapdragon-615-3-go-de-ram-et-batterie-4100-mah-arrive/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Oppo R7 Plus : le 6 pouces Full HD, Snapdragon 615, 3 Go de RAM et batterie 4100 mAh arrive" /></a>
-  <a href="https://upandclear.org/2015/08/25/oppo-r7-plus-le-6-pouces-full-hd-snapdragon-615-3-go-de-ram-et-batterie-4100-mah-arrive/"><b>Oppo R7 Plus : le 6 pouces Full HD, Snapdragon 615, 3 Go de RAM et batterie 4100 mAh arrive</b></a><br/>
-  <sub>25 août 2015</sub>
+  <a href="https://upandclear.org/2015/10/30/tor-messenger-un-de-plus-de-trop-ou-futur-incontournable-tour-dhorizon-rapide-du-marche-test/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2015/10/Sélection_034-300x300.png" width="120" alt="Tor Messenger : un de plus, de trop ou futur incontournable ? Tour d’horizon rapide du marché + test" /></a>
+  <a href="https://upandclear.org/2015/10/30/tor-messenger-un-de-plus-de-trop-ou-futur-incontournable-tour-dhorizon-rapide-du-marche-test/"><b>Tor Messenger : un de plus, de trop ou futur incontournable ? Tour d’horizon rapide du marché + test</b></a><br/>
+  <sub>30 oct 2015</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -63,11 +63,14 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
+- ★ 157 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+  Fork de Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
+
+- ★ 44 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
+  Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
+
 - ★ 1 · [**Ether-Remix**](https://github.com/Aerya/Ether-Remix)
   Ether, enrichi d’un catalogue français, de bibliothèques personnalisées et du streaming musical.
-
-- ★ 156 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
-  Fork de Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
 - ★ 5 · [**Stremio-Seerr-Catalog**](https://github.com/Aerya/Stremio-Seerr-Catalog)
   Addon Stremio qui expose les requêtes Over, Jelly ou Seerr sous forme de catalogues. Il fait le lien entre l'écosystème Seerr/Radarr/Sonarr et Stremio.
@@ -78,16 +81,13 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - ★ 15 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
   Gluetun Companion est une interface web pour gérer le container VPN Gluetun, offrant le benchmark automatique des serveurs, la sélection selon l'usage, la gestion des containers dépendants et des fonctionnalités avancées comme le port forwarding. Le projet est en bêta, principalement testé avec AirVPN, et recherche des retours sur d'autres fournisseurs et configurations.
 
-- ★ 1 · [**Shield-Controller**](https://github.com/Aerya/Shield-Controller)
-  Shield Controller permet de gérer votre NVIDIA Shield / Android TV depuis un navigateur, offrant des fonctionnalités telles que le contrôle à distance, la gestion des applications et des informations système détaillées.
-
 ---
 
 <details>
 <summary>Autres repos</summary>
 
-- ★ 44 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
-  Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
+- ★ 1 · [**Shield-Controller**](https://github.com/Aerya/Shield-Controller)
+  Shield Controller permet de gérer votre NVIDIA Shield / Android TV depuis un navigateur, offrant des fonctionnalités telles que le contrôle à distance, la gestion des applications et des informations système détaillées.
 
 - ★ 5 · [**stremio-rss-catalog**](https://github.com/Aerya/stremio-rss-catalog)
   Addon Stremio qui génère des catalogues depuis des flux RSS, Prowlarr ou NZBHydra2. Il permet d'intégrer des sources personnalisées directement dans Stremio.
@@ -113,7 +113,7 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - [**HomeGuard**](https://github.com/Aerya/HomeGuard)
   Serveur WireGuard en Docker pour utiliser son propre serveur DNS (AdGuard Home, Pi-hole…) depuis un smartphone, même en dehors du réseau local.
 
-- ★ 7 · [**PowerWatch**](https://github.com/Aerya/PowerWatch)
+- ★ 8 · [**PowerWatch**](https://github.com/Aerya/PowerWatch)
   Surveille la consommation électrique de vos machines et centralise les relevés dans une interface simple.
 
 - [**davos**](https://github.com/Aerya/davos)
