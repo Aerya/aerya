@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2015/10/30/tor-messenger-un-de-plus-de-trop-ou-futur-incontournable-tour-dhorizon-rapide-du-marche-test/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2015/10/Sélection_034-300x300.png" width="120" alt="Tor Messenger : un de plus, de trop ou futur incontournable ? Tour d’horizon rapide du marché + test" /></a>
-  <a href="https://upandclear.org/2015/10/30/tor-messenger-un-de-plus-de-trop-ou-futur-incontournable-tour-dhorizon-rapide-du-marche-test/"><b>Tor Messenger : un de plus, de trop ou futur incontournable ? Tour d’horizon rapide du marché + test</b></a><br/>
-  <sub>30 oct 2015</sub>
+  <a href="https://upandclear.org/2016/01/15/spideroak-cloud-chiffre-cote-client/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2016/01/SpiderOakONE_020-300x300.png" width="120" alt="SpiderOak : cloud chiffré (côté client)" /></a>
+  <a href="https://upandclear.org/2016/01/15/spideroak-cloud-chiffre-cote-client/"><b>SpiderOak : cloud chiffré (côté client)</b></a><br/>
+  <sub>15 jan 2016</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,6 +57,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
+- ★ 44 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
+  Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
+
 - ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
   Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion via une API REST.
 
@@ -65,9 +68,6 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 
 - ★ 157 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Fork de Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
-
-- ★ 44 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
-  Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
 
 - ★ 1 · [**Ether-Remix**](https://github.com/Aerya/Ether-Remix)
   Ether, enrichi d’un catalogue français, de bibliothèques personnalisées et du streaming musical.
