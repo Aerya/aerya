@@ -14,6 +14,13 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Les derniers
 
 <p>
+  <a href="https://upandclear.org/2026/11/14/ether-remix-votre-mediatheque-vos-sources-vos-regles/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/11/18-300x300.png" width="72" alt="Ether-Remix : votre médiathèque, vos sources, vos règles" /></a>
+  <a href="https://upandclear.org/2026/11/14/ether-remix-votre-mediatheque-vos-sources-vos-regles/"><b>Ether-Remix : votre médiathèque, vos sources, vos règles</b></a><br/>
+  <sub>14 nov 2026</sub>
+</p>
+<br clear="left"/>
+
+<p>
   <a href="https://upandclear.org/2026/11/14/nginx-proxy-guard-le-nginx-proxy-manager-doppe-ddns-waf-sso-fail2ban-loadbalancing/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/11/screenshot-2026-11-14-at-11-31-46-maison---nginx-proxy-guard-300x300.png" width="72" alt="Nginx Proxy Guard : le Nginx Proxy Manager doppé (DDNS, WAF, SSO, Fail2Ban, LoadBalancing…)" /></a>
   <a href="https://upandclear.org/2026/11/14/nginx-proxy-guard-le-nginx-proxy-manager-doppe-ddns-waf-sso-fail2ban-loadbalancing/"><b>Nginx Proxy Guard : le Nginx Proxy Manager doppé (DDNS, WAF, SSO, Fail2Ban, LoadBalancing…)</b></a><br/>
   <sub>14 nov 2026</sub>
@@ -34,20 +41,13 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 </p>
 <br clear="left"/>
 
-<p>
-  <a href="https://upandclear.org/2026/10/05/powerwatch-surveiller-la-consommation-electrique-de-ses-machines/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/10/entete-300x300.png" width="72" alt="PowerWatch : surveiller la consommation électrique de ses machines" /></a>
-  <a href="https://upandclear.org/2026/10/05/powerwatch-surveiller-la-consommation-electrique-de-ses-machines/"><b>PowerWatch : surveiller la consommation électrique de ses machines</b></a><br/>
-  <sub>5 oct 2026</sub>
-</p>
-<br clear="left"/>
-
 
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2015/12/03/xprivacy-gerez-finement-les-permissions-de-vos-applications-android/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2015/12/application-300x300.png" width="120" alt="XPrivacy : gérez finement les permissions de vos applications Android" /></a>
-  <a href="https://upandclear.org/2015/12/03/xprivacy-gerez-finement-les-permissions-de-vos-applications-android/"><b>XPrivacy : gérez finement les permissions de vos applications Android</b></a><br/>
-  <sub>3 déc 2015</sub>
+  <a href="https://upandclear.org/2020/04/28/ma-stack-seedbox-du-moment/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Ma stack seedbox du moment" /></a>
+  <a href="https://upandclear.org/2020/04/28/ma-stack-seedbox-du-moment/"><b>Ma stack seedbox du moment</b></a><br/>
+  <sub>28 avr 2020</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,8 +57,11 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
-- ★ 1 · [**Ether-Remix**](https://github.com/Aerya/Ether-Remix)
-  Ether-Remix est un fork du serveur multimédia Ether, enrichi d'un catalogue français, de bibliothèques personnalisées et de fonctionnalités de streaming musical. Il s'adapte à diverses applications comme Plex, Jellyfin et Emby.
+- ★ 2 · [**Ether-Remix**](https://github.com/Aerya/Ether-Remix)
+  Ether-Remix est un fork d'Ether enrichi d'un catalogue français, de bibliothèques personnalisées et du streaming musical, tout en conservant les fonctionnalités originales de serveur multimédia à la demande. Il propose une intégration poussée avec diverses applications et sources de contenu, y compris les médias locaux et la musique.
+
+- ★ 44 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
+  Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
 
 - ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
   Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion via une API REST.
@@ -68,9 +71,6 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 
 - ★ 158 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Fork de Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
-
-- ★ 44 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
-  Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
 
 - ★ 5 · [**Stremio-Seerr-Catalog**](https://github.com/Aerya/Stremio-Seerr-Catalog)
   Addon Stremio qui expose les requêtes Over, Jelly ou Seerr sous forme de catalogues. Il fait le lien entre l'écosystème Seerr/Radarr/Sonarr et Stremio.
