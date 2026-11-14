@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2025/11/04/testflight-status-checker-etre-alerte-des-ouvertures-de-beta-dapplications-pour-apple-sur-testflight/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/11/upandclear-org-1762247042-300x300.jpg" width="120" alt="TestFlight Status Checker : être alerté des ouvertures de bêta d’applications pour Apple sur TestFlight" /></a>
-  <a href="https://upandclear.org/2025/11/04/testflight-status-checker-etre-alerte-des-ouvertures-de-beta-dapplications-pour-apple-sur-testflight/"><b>TestFlight Status Checker : être alerté des ouvertures de bêta d’applications pour Apple sur TestFlight</b></a><br/>
-  <sub>4 nov 2025</sub>
+  <a href="https://upandclear.org/2017/11/12/ombi-maintenant-compatible-avec-emby-server/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Ombi maintenant compatible avec Emby Server !" /></a>
+  <a href="https://upandclear.org/2017/11/12/ombi-maintenant-compatible-avec-emby-server/"><b>Ombi maintenant compatible avec Emby Server !</b></a><br/>
+  <sub>12 nov 2017</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,14 +57,14 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
+- ★ 44 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
+  Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
+
 - ★ 1 · [**Ether-Remix**](https://github.com/Aerya/Ether-Remix)
   Ether-Remix est un fork du serveur multimédia Ether, enrichi d'un catalogue français, de bibliothèques personnalisées et de fonctionnalités de streaming musical. Il s'adapte à diverses applications comme Plex, Jellyfin et Emby.
 
 - ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
   Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion via une API REST.
-
-- ★ 44 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
-  Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
 
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
