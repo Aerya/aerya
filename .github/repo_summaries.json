@@ -16,7 +16,7 @@
       "fingerprint": "41a82fdaa842f9c8fb6b1d96cc388e6cf8d443edaf7ac2bf7f978127842ab2c2",
       "source": "manual",
       "summary": "Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.",
-      "updated_at": "2026-11-14T00:15:19+00:00"
+      "updated_at": "2026-11-14T13:15:14+00:00"
     },
     "Aerya/BitTorrent-trackers-minimal-rules": {
       "fingerprint": "d3361742d51e29fe2892e952fa0d302b195e8b97801bb4c49a3da42d614df164",
@@ -28,7 +28,7 @@
       "fingerprint": "f461e173e11d3f609ec021848e3b616a66ed3463860f8b3ea275268837f63c72",
       "source": "manual",
       "summary": "Seeder automatique pour des torrents traités par Decypharr. Le projet n'est plus compatible avec les dernières versions de Decypharr.",
-      "updated_at": "2026-11-14T00:15:34+00:00"
+      "updated_at": "2026-11-14T13:15:31+00:00"
     },
     "Aerya/Docker-MOHAA-server": {
       "fingerprint": "64d8cb1e6893f0b32dcfeadfbfa0ceed1f152f39f61be0db3fc95d1b30d2eb7f",
@@ -37,22 +37,22 @@
       "updated_at": "2026-06-10T12:39:13+00:00"
     },
     "Aerya/Dockge-Enhanced": {
-      "fingerprint": "bd5c60adc7abb5282aa75dbe9689f8c3bb29e1a1b1b9ec8b387eae06996c3519",
+      "fingerprint": "297412d67b574a456eb6fb134cc36cee1efddf2047da03f3a22f9ebf4be3f6d1",
       "source": "manual",
       "summary": "Fork de Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.",
-      "updated_at": "2026-11-14T00:15:19+00:00"
+      "updated_at": "2026-11-14T13:15:14+00:00"
     },
     "Aerya/Ether-Remix": {
-      "fingerprint": "c67299080e592afa75085b844143436ddbe32efff12697ef8c66002d33e204f7",
+      "fingerprint": "318c393cf13f17de24534a4ca52dad5f1d27ef1d56f01d5b90d82a020c591007",
       "source": "openrouter",
       "summary": "Ether-Remix est un fork du serveur multimédia Ether, enrichi d'un catalogue français, de bibliothèques personnalisées et de fonctionnalités de streaming musical. Il s'adapte à diverses applications comme Plex, Jellyfin et Emby.",
-      "updated_at": "2026-11-14T00:15:18+00:00"
+      "updated_at": "2026-11-14T13:15:13+00:00"
     },
     "Aerya/Gluetun-Companion": {
-      "fingerprint": "8fedbc5629108f22c426de1a0a1043d2591e937d4602a917de0ba0297da60142",
+      "fingerprint": "fb6ec0284028d1318f94ee613c21914b0425f8743bddd0f6deebfb734af33c49",
       "source": "openrouter",
-      "summary": "Gluetun Companion est une interface web pour gérer le container VPN Gluetun, offrant le benchmark automatique des serveurs, la sélection selon l'usage, la gestion des containers dépendants et des fonctionnalités avancées comme le port forwarding. Le projet est en bêta, principalement testé avec AirVPN, et recherche des retours sur d'autres fournisseurs et configurations.",
-      "updated_at": "2026-11-10T14:37:25+00:00"
+      "summary": "Gluetun Companion est une interface web en Python pour gérer le container Gluetun, offrant des benchmarks VPN, une sélection automatique de serveurs, la gestion des containers dépendants et des notifications. Il est compatible avec WireGuard et OpenVPN, et supporte plusieurs fournisseurs VPN comme AirVPN et ProtonVPN.",
+      "updated_at": "2026-11-14T13:15:16+00:00"
     },
     "Aerya/HomeGuard": {
       "fingerprint": "481e871d4582ef4e6e16a01d0c5d19c804f0e65bfbd7d7cf008eaa41d1497adf",
@@ -70,7 +70,7 @@
       "fingerprint": "afc547822ecc6951d946877d44b45862de38c4989a4b819c0cc54e69802a0321",
       "source": "manual",
       "summary": "Application pour indexer, lire, taguer et mettre en favoris des vidéos locales. Elle vise une gestion simple d'une bibliothèque vidéo personnelle.",
-      "updated_at": "2026-11-14T00:15:24+00:00"
+      "updated_at": "2026-11-14T13:15:22+00:00"
     },
     "Aerya/Mode-Affiches": {
       "fingerprint": "8d79d8c98e67883d6e53cbf6238d55be49e97c1a2a52b6fd701277fd76f3fb2d",
@@ -82,7 +82,7 @@
       "fingerprint": "e2b06bc35631f3bb224442163beb189eb4eafb8f71efd8b4fc41c4fea40396a7",
       "source": "manual",
       "summary": "Conteneur Docker pour phpSysInfo, qui affiche les informations système et matérielles d'un hôte dans une interface web.",
-      "updated_at": "2026-11-14T00:15:24+00:00"
+      "updated_at": "2026-11-14T13:15:21+00:00"
     },
     "Aerya/Planet-Warez-Markdown-menu": {
       "fingerprint": "bb2524f0488404ad0e176955849f16eaed41a5f71be38091deaf136c4b803fb5",
@@ -100,13 +100,13 @@
       "fingerprint": "60ea635b66d710c4bd8e88d6cd06ee0bbdbe720389571fc3f7ce227a74016ee8",
       "source": "manual",
       "summary": "Surveille la consommation électrique de vos machines et centralise les relevés dans une interface simple.",
-      "updated_at": "2026-11-14T00:15:26+00:00"
+      "updated_at": "2026-11-14T13:15:23+00:00"
     },
     "Aerya/ProxySpin": {
       "fingerprint": "b6dc6f3dcb82c07039adfedf66e74a1fb397c514aedd7d07e32bac9fd7a49fe4",
       "source": "manual",
       "summary": "Proxy HTTP rotatif et anonymisant basé sur Tor et des proxys publics. Il fournit aussi un panneau de contrôle web et une extension navigateur.",
-      "updated_at": "2026-11-14T00:15:23+00:00"
+      "updated_at": "2026-11-14T13:15:20+00:00"
     },
     "Aerya/Recpitulatif-Discord-post-installation-pour-SSDv2": {
       "fingerprint": "258079c158277b23b6745ee658ebf4f8563c0da32e744916a032eb1b505debbd",
@@ -124,13 +124,13 @@
       "fingerprint": "7965ffab707408907305331d1212911724e06117f3db9ae15ae938f0dafb8d25",
       "source": "manual",
       "summary": "Packaging Docker autour de Stremio French Stream pour simplifier son déploiement. Le dépôt sert à lancer le service dans un environnement conteneurisé.",
-      "updated_at": "2026-11-14T00:15:33+00:00"
+      "updated_at": "2026-11-14T13:15:30+00:00"
     },
     "Aerya/Stremio-Seerr-Catalog": {
-      "fingerprint": "6cda7a0f1cb0883cadaefc0a1eadeb2f8bb8d41b153588f7911bc85485a6ff85",
+      "fingerprint": "4fae59d8653f62f9adc8fcc99b275853b97eba6ff420b84db449d2b4a55f0e6c",
       "source": "manual",
       "summary": "Addon Stremio qui expose les requêtes Over, Jelly ou Seerr sous forme de catalogues. Il fait le lien entre l'écosystème Seerr/Radarr/Sonarr et Stremio.",
-      "updated_at": "2026-11-14T00:15:20+00:00"
+      "updated_at": "2026-11-14T13:15:15+00:00"
     },
     "Aerya/Stremio-Stack": {
       "fingerprint": "ced08ff82fa892c694793f49c7be8eaebf4120735eb92c685d205c578e686e8c",
@@ -148,13 +148,13 @@
       "fingerprint": "56afcde80e2655e6a346aa4de7a91d76671ef172f3faa480ff40458dc766b0e8",
       "source": "manual",
       "summary": "Ancien addon Stremio pour catalogues francophones. Le projet a évolué vers stremio-rss-catalog, qui le remplace pour les usages actuels.",
-      "updated_at": "2026-11-14T00:15:34+00:00"
+      "updated_at": "2026-11-14T13:15:30+00:00"
     },
     "Aerya/claudecodeui-docker": {
       "fingerprint": "26c64ffe51b5aa44fddd3f4eb2551c5412a49cb2a08a28c5b405fa60ee13e0fe",
       "source": "manual",
       "summary": "Image Docker GHCR personnelle pour CloudCLI et Claude Code UI. Le dépôt automatise le packaging afin de déployer l'interface plus facilement.",
-      "updated_at": "2026-11-14T00:15:25+00:00"
+      "updated_at": "2026-11-14T13:15:22+00:00"
     },
     "Aerya/correzeboostemploi": {
       "fingerprint": "bb9109e5468e4f80240061b3309f65c84cf57d8e3bf4d9c2475e0400760175d0",
@@ -166,7 +166,7 @@
       "fingerprint": "ec7ada65d168d84bb82782f20e34ce52e1f892e4582878946b93ab73c3cec514",
       "source": "manual",
       "summary": "Image Docker non officielle pour cronitorio/cronitor-cli, construite automatiquement. Pratique pour utiliser le CLI Cronitor dans des stacks conteneurisées.",
-      "updated_at": "2026-11-14T00:15:23+00:00"
+      "updated_at": "2026-11-14T13:15:21+00:00"
     },
     "Aerya/davos": {
       "fingerprint": "fb6980e604d77b59c4251e43c4a2db6df603fcf1e569aff7a32ad6cf711738f9",
@@ -220,7 +220,7 @@
       "fingerprint": "2a7fa004f82b2f0d24d1a8f87fb1adfa2f85ee0434d63b481e9966286f1e3b8d",
       "source": "manual",
       "summary": "Addon Stremio qui génère des catalogues depuis des flux RSS, Prowlarr ou NZBHydra2. Il permet d'intégrer des sources personnalisées directement dans Stremio.",
-      "updated_at": "2026-11-14T00:15:22+00:00"
+      "updated_at": "2026-11-14T13:15:19+00:00"
     },
     "Aerya/yggtorrent-bulk-downloader": {
       "fingerprint": "b5185d1e12defe80d453befd1535c8aec8e957c6e4d1d0fee865019587084865",
@@ -229,10 +229,10 @@
       "updated_at": "2026-06-10T12:39:09+00:00"
     },
     "Tracker-Dashboard/tracker-dashboard": {
-      "fingerprint": "9d0c91b60aaf12ad8f3c3bcda8037df1096d8183d55eadbaf7efc6353c84f5cf",
+      "fingerprint": "05aa1a463d8100d5d37e1a88ac21aa5a631f5f9fac518399937d345c2f590c51",
       "source": "manual",
       "summary": "Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.",
-      "updated_at": "2026-11-14T00:15:16+00:00"
+      "updated_at": "2026-11-14T13:15:15+00:00"
     }
   },
   "version": 1

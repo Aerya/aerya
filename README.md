@@ -14,6 +14,13 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Les derniers
 
 <p>
+  <a href="https://upandclear.org/2026/11/14/nginx-proxy-guard-le-nginx-proxy-manager-doppe-ddns-waf-sso-fail2ban-loadbalancing/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/11/screenshot-2026-11-14-at-11-31-46-maison---nginx-proxy-guard-300x300.png" width="72" alt="Nginx Proxy Guard : le Nginx Proxy Manager doppé (DDNS, WAF, SSO, Fail2Ban, LoadBalancing…)" /></a>
+  <a href="https://upandclear.org/2026/11/14/nginx-proxy-guard-le-nginx-proxy-manager-doppe-ddns-waf-sso-fail2ban-loadbalancing/"><b>Nginx Proxy Guard : le Nginx Proxy Manager doppé (DDNS, WAF, SSO, Fail2Ban, LoadBalancing…)</b></a><br/>
+  <sub>14 nov 2026</sub>
+</p>
+<br clear="left"/>
+
+<p>
   <a href="https://upandclear.org/2026/11/08/ether-tout-tmdb-et-iptv-dans-un-serveur-plex-jellyfin-emby-emule-en-streaming-usenet-bittorrent-et-debrideurs/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/10/ether-02-catalogue-300x300.png" width="72" alt="Ether : tout TMDB (et IPTV) dans un serveur Plex/Jellyfin/Emby émulé, en streaming Usenet, BitTorrent et débrideurs" /></a>
   <a href="https://upandclear.org/2026/11/08/ether-tout-tmdb-et-iptv-dans-un-serveur-plex-jellyfin-emby-emule-en-streaming-usenet-bittorrent-et-debrideurs/"><b>Ether : tout TMDB (et IPTV) dans un serveur Plex/Jellyfin/Emby émulé, en streaming Usenet, BitTorrent et débrideurs</b></a><br/>
   <sub>8 nov 2026</sub>
@@ -34,20 +41,13 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 </p>
 <br clear="left"/>
 
-<p>
-  <a href="https://upandclear.org/2026/09/21/pornscout-userscript-bittorrent/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/09/pornscout2-300x300.png" width="72" alt="PornScout : comparer les releases et envoyer le meilleur torrent vers votre client BitTorrent" /></a>
-  <a href="https://upandclear.org/2026/09/21/pornscout-userscript-bittorrent/"><b>PornScout : comparer les releases et envoyer le meilleur torrent vers votre client BitTorrent</b></a><br/>
-  <sub>21 sep 2026</sub>
-</p>
-<br clear="left"/>
-
 
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2017/11/12/ombi-maintenant-compatible-avec-emby-server/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Ombi maintenant compatible avec Emby Server !" /></a>
-  <a href="https://upandclear.org/2017/11/12/ombi-maintenant-compatible-avec-emby-server/"><b>Ombi maintenant compatible avec Emby Server !</b></a><br/>
-  <sub>12 nov 2017</sub>
+  <a href="https://upandclear.org/2015/12/03/xprivacy-gerez-finement-les-permissions-de-vos-applications-android/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2015/12/application-300x300.png" width="120" alt="XPrivacy : gérez finement les permissions de vos applications Android" /></a>
+  <a href="https://upandclear.org/2015/12/03/xprivacy-gerez-finement-les-permissions-de-vos-applications-android/"><b>XPrivacy : gérez finement les permissions de vos applications Android</b></a><br/>
+  <sub>3 déc 2015</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -56,9 +56,6 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 
 <!-- REPOS:START -->
 ### Dernières mises à jour
-
-- ★ 44 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
-  Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
 
 - ★ 1 · [**Ether-Remix**](https://github.com/Aerya/Ether-Remix)
   Ether-Remix est un fork du serveur multimédia Ether, enrichi d'un catalogue français, de bibliothèques personnalisées et de fonctionnalités de streaming musical. Il s'adapte à diverses applications comme Plex, Jellyfin et Emby.
@@ -69,17 +66,20 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
-- ★ 157 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+- ★ 158 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Fork de Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
+
+- ★ 44 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
+  Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
 
 - ★ 5 · [**Stremio-Seerr-Catalog**](https://github.com/Aerya/Stremio-Seerr-Catalog)
   Addon Stremio qui expose les requêtes Over, Jelly ou Seerr sous forme de catalogues. Il fait le lien entre l'écosystème Seerr/Radarr/Sonarr et Stremio.
 
+- ★ 15 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
+  Gluetun Companion est une interface web en Python pour gérer le container Gluetun, offrant des benchmarks VPN, une sélection automatique de serveurs, la gestion des containers dépendants et des notifications. Il est compatible avec WireGuard et OpenVPN, et supporte plusieurs fournisseurs VPN comme AirVPN et ProtonVPN.
+
 - [**scrob-arvio**](https://github.com/Aerya/scrob-arvio)
   Ce fork de Scrob ajoute l'historique Bingebase automatique, le suivi des envois, les mises à jour officielles automatiques et la migration des anciennes installations. ARVIO est maintenant intégré à Scrob officiel.
-
-- ★ 15 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
-  Gluetun Companion est une interface web pour gérer le container VPN Gluetun, offrant le benchmark automatique des serveurs, la sélection selon l'usage, la gestion des containers dépendants et des fonctionnalités avancées comme le port forwarding. Le projet est en bêta, principalement testé avec AirVPN, et recherche des retours sur d'autres fournisseurs et configurations.
 
 ---
 
