@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2020/04/28/ma-stack-seedbox-du-moment/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Ma stack seedbox du moment" /></a>
-  <a href="https://upandclear.org/2020/04/28/ma-stack-seedbox-du-moment/"><b>Ma stack seedbox du moment</b></a><br/>
-  <sub>28 avr 2020</sub>
+  <a href="https://upandclear.org/2016/03/24/zataz-ou-lart-lol-decrire-sur-du-vent/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Zataz ou l’art (LOL) d’écrire sur du vent" /></a>
+  <a href="https://upandclear.org/2016/03/24/zataz-ou-lart-lol-decrire-sur-du-vent/"><b>Zataz ou l’art (LOL) d’écrire sur du vent</b></a><br/>
+  <sub>24 mar 2016</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,7 +57,10 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
-- ★ 2 · [**Ether-Remix**](https://github.com/Aerya/Ether-Remix)
+- [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
+  Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
+
+- ★ 3 · [**Ether-Remix**](https://github.com/Aerya/Ether-Remix)
   Ether-Remix est un fork d'Ether enrichi d'un catalogue français, de bibliothèques personnalisées et du streaming musical, tout en conservant les fonctionnalités originales de serveur multimédia à la demande. Il propose une intégration poussée avec diverses applications et sources de contenu, y compris les médias locaux et la musique.
 
 - ★ 44 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
@@ -65,9 +68,6 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 
 - ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
   Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion via une API REST.
-
-- [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
-  Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
 - ★ 158 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Fork de Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
