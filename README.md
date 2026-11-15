@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2026/01/08/remove-windows-ai-script-gui-pour-retirer-lia-de-windows-11-avec-sauvegarde/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/01/1-300x300.png" width="120" alt="Remove Windows Ai : script/GUI pour retirer l’IA de Windows 11 (avec sauvegarde)" /></a>
-  <a href="https://upandclear.org/2026/01/08/remove-windows-ai-script-gui-pour-retirer-lia-de-windows-11-avec-sauvegarde/"><b>Remove Windows Ai : script/GUI pour retirer l’IA de Windows 11 (avec sauvegarde)</b></a><br/>
-  <sub>8 jan 2026</sub>
+  <a href="https://upandclear.org/2016/03/05/port-knocking-cacher-son-port-ssh/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Port Knocking : cacher son port SSH" /></a>
+  <a href="https://upandclear.org/2016/03/05/port-knocking-cacher-son-port-ssh/"><b>Port Knocking : cacher son port SSH</b></a><br/>
+  <sub>5 mar 2016</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,17 +57,17 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
-- ★ 4 · [**Ether-Remix**](https://github.com/Aerya/Ether-Remix)
-  Ether-Remix est un fork de Ether, enrichi d'un catalogue français, de bibliothèques personnalisées et du streaming musical. Il intègre également le support de vos vidéos locales et de diverses sources de contenu.
+- ★ 5 · [**Ether-Remix**](https://github.com/Aerya/Ether-Remix)
+  Ether-Remix est un fork d'Ether qui ajoute un catalogue français, des bibliothèques personnalisées et le streaming musical. Il conserve les fonctionnalités d'Ether tout en enrichissant l'expérience utilisateur avec des contenus francophones et une gestion musicale intégrée.
+
+- ★ 15 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
+  Gluetun Companion est une interface web en Python pour gérer le container VPN Gluetun, offrant des benchmarks, une sélection automatique de serveurs, la gestion des containers dépendants et des notifications. Il est compatible avec WireGuard et OpenVPN, et supporte divers fournisseurs VPN comme AirVPN et ProtonVPN.
 
 - ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
   Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion via une API REST.
 
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
-
-- ★ 15 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
-  Gluetun Companion est une interface web en Python pour gérer le container Gluetun, offrant des benchmarks VPN, une sélection automatique de serveurs, la gestion des containers dépendants et des notifications. Il est compatible avec WireGuard et OpenVPN, et supporte plusieurs fournisseurs VPN comme AirVPN et ProtonVPN.
 
 - ★ 44 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
   Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
