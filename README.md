@@ -14,6 +14,13 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Les derniers
 
 <p>
+  <a href="https://upandclear.org/2026/11/16/seedstrem-laddon-stremio-pour-telecharger-seeder-des-torrents/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/11/2026-11-16_09-52-300x300.png" width="72" alt="SeedStrem : l’addon Stremio pour télécharger/seeder des torrents" /></a>
+  <a href="https://upandclear.org/2026/11/16/seedstrem-laddon-stremio-pour-telecharger-seeder-des-torrents/"><b>SeedStrem : l’addon Stremio pour télécharger/seeder des torrents</b></a><br/>
+  <sub>16 nov 2026</sub>
+</p>
+<br clear="left"/>
+
+<p>
   <a href="https://upandclear.org/2026/11/14/ether-remix-votre-mediatheque-vos-sources-vos-regles/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/11/18-300x300.png" width="72" alt="Ether-Remix : votre médiathèque, vos sources, vos règles" /></a>
   <a href="https://upandclear.org/2026/11/14/ether-remix-votre-mediatheque-vos-sources-vos-regles/"><b>Ether-Remix : votre médiathèque, vos sources, vos règles</b></a><br/>
   <sub>14 nov 2026</sub>
@@ -34,20 +41,13 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 </p>
 <br clear="left"/>
 
-<p>
-  <a href="https://upandclear.org/2026/10/18/shield-controller-une-interface-web-pour-gerer-la-nvidia-shield/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/10/8-300x300.png" width="72" alt="Shield Controller : une interface web pour gérer la Nvidia Shield" /></a>
-  <a href="https://upandclear.org/2026/10/18/shield-controller-une-interface-web-pour-gerer-la-nvidia-shield/"><b>Shield Controller : une interface web pour gérer la Nvidia Shield</b></a><br/>
-  <sub>18 oct 2026</sub>
-</p>
-<br clear="left"/>
-
 
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2016/03/05/port-knocking-cacher-son-port-ssh/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Port Knocking : cacher son port SSH" /></a>
-  <a href="https://upandclear.org/2016/03/05/port-knocking-cacher-son-port-ssh/"><b>Port Knocking : cacher son port SSH</b></a><br/>
-  <sub>5 mar 2016</sub>
+  <a href="https://upandclear.org/2015/09/29/hub-usb-pour-sataide-2-53-5/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2015/09/Sélection_1141-300x300.png" width="120" alt="Hub USB pour SATA/IDE 2.5″/3.5″" /></a>
+  <a href="https://upandclear.org/2015/09/29/hub-usb-pour-sataide-2-53-5/"><b>Hub USB pour SATA/IDE 2.5″/3.5″</b></a><br/>
+  <sub>29 sep 2015</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,11 +57,11 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
-- ★ 5 · [**Ether-Remix**](https://github.com/Aerya/Ether-Remix)
-  Ether-Remix est un fork d'Ether qui ajoute un catalogue français, des bibliothèques personnalisées et le streaming musical. Il conserve les fonctionnalités d'Ether tout en enrichissant l'expérience utilisateur avec des contenus francophones et une gestion musicale intégrée.
+- ★ 6 · [**Ether-Remix**](https://github.com/Aerya/Ether-Remix)
+  Ether, enrichi d’un catalogue français, de bibliothèques personnalisées et du streaming musical.
 
-- ★ 15 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
-  Gluetun Companion est une interface web en Python pour gérer le container VPN Gluetun, offrant des benchmarks, une sélection automatique de serveurs, la gestion des containers dépendants et des notifications. Il est compatible avec WireGuard et OpenVPN, et supporte divers fournisseurs VPN comme AirVPN et ProtonVPN.
+- [**scrob-arvio**](https://github.com/Aerya/scrob-arvio)
+  Ce fork de Scrob ajoute l'historique Bingebase automatique, le suivi des envois, les mises à jour officielles automatiques et la migration des anciennes installations. ARVIO est maintenant intégré à Scrob officiel.
 
 - ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
   Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion via une API REST.
@@ -72,28 +72,34 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - ★ 44 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
   Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
 
-- ★ 159 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+- [**npm-to-npg**](https://github.com/Aerya/npm-to-npg)
+  Ce script Python interactif migre les hôtes de Nginx Proxy Manager vers Nginx Proxy Guard, en supportant le français et l'anglais. Il gère les certificats et les configurations de base, mais ignore les configurations avancées.
+
+- ★ 16 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
+  Projet public GitHub maintenu dans le cadre de mes outils et expérimentations personnelles.
+
+- ★ 160 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Fork de Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
-
-- ★ 5 · [**Stremio-Seerr-Catalog**](https://github.com/Aerya/Stremio-Seerr-Catalog)
-  Addon Stremio qui expose les requêtes Over, Jelly ou Seerr sous forme de catalogues. Il fait le lien entre l'écosystème Seerr/Radarr/Sonarr et Stremio.
-
-- [**scrob-arvio**](https://github.com/Aerya/scrob-arvio)
-  Ce fork de Scrob ajoute l'historique Bingebase automatique, le suivi des envois, les mises à jour officielles automatiques et la migration des anciennes installations. ARVIO est maintenant intégré à Scrob officiel.
 
 ---
 
 <details>
 <summary>Autres repos</summary>
 
-- ★ 1 · [**Shield-Controller**](https://github.com/Aerya/Shield-Controller)
-  Shield Controller permet de gérer votre NVIDIA Shield / Android TV depuis un navigateur, offrant des fonctionnalités telles que le contrôle à distance, la gestion des applications et des informations système détaillées.
-
 - ★ 5 · [**stremio-rss-catalog**](https://github.com/Aerya/stremio-rss-catalog)
   Addon Stremio qui génère des catalogues depuis des flux RSS, Prowlarr ou NZBHydra2. Il permet d'intégrer des sources personnalisées directement dans Stremio.
 
 - ★ 6 · [**nexotv-enhanced**](https://github.com/Aerya/nexotv-enhanced)
   NexoTV Enhanced est un addon Stremio pour IPTV, fork de joaosavi/nexotv, offrant des chaînes TV en direct, des catalogues de films et séries, et des options de configuration avancées. Il inclut la gestion multi-source, la sélection de catégories, l'enrichissement TMDB et des sauvegardes de configuration.
+
+- ★ 5 · [**Stremio-Seerr-Catalog**](https://github.com/Aerya/Stremio-Seerr-Catalog)
+  Addon Stremio qui expose les requêtes Over, Jelly ou Seerr sous forme de catalogues. Il fait le lien entre l'écosystème Seerr/Radarr/Sonarr et Stremio.
+
+- [**MiniVid**](https://github.com/Aerya/MiniVid)
+  Application pour indexer, lire, taguer et mettre en favoris des vidéos locales. Elle vise une gestion simple d'une bibliothèque vidéo personnelle.
+
+- ★ 1 · [**Shield-Controller**](https://github.com/Aerya/Shield-Controller)
+  Shield Controller permet de gérer votre NVIDIA Shield / Android TV depuis un navigateur, offrant des fonctionnalités telles que le contrôle à distance, la gestion des applications et des informations système détaillées.
 
 - ★ 2 · [**ProxySpin**](https://github.com/Aerya/ProxySpin)
   Proxy HTTP rotatif et anonymisant basé sur Tor et des proxys publics. Il fournit aussi un panneau de contrôle web et une extension navigateur.
@@ -103,9 +109,6 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 
 - [**PHPSysInfo-Docker**](https://github.com/Aerya/PHPSysInfo-Docker)
   Conteneur Docker pour phpSysInfo, qui affiche les informations système et matérielles d'un hôte dans une interface web.
-
-- [**MiniVid**](https://github.com/Aerya/MiniVid)
-  Application pour indexer, lire, taguer et mettre en favoris des vidéos locales. Elle vise une gestion simple d'une bibliothèque vidéo personnelle.
 
 - [**claudecodeui-docker**](https://github.com/Aerya/claudecodeui-docker)
   Image Docker GHCR personnelle pour CloudCLI et Claude Code UI. Le dépôt automatise le packaging afin de déployer l'interface plus facilement.
