@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2015/09/29/hub-usb-pour-sataide-2-53-5/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2015/09/Sélection_1141-300x300.png" width="120" alt="Hub USB pour SATA/IDE 2.5″/3.5″" /></a>
-  <a href="https://upandclear.org/2015/09/29/hub-usb-pour-sataide-2-53-5/"><b>Hub USB pour SATA/IDE 2.5″/3.5″</b></a><br/>
-  <sub>29 sep 2015</sub>
+  <a href="https://upandclear.org/2015/11/26/migration-et-informations-sur-les-cookies/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="Migration et informations sur les cookies" /></a>
+  <a href="https://upandclear.org/2015/11/26/migration-et-informations-sur-les-cookies/"><b>Migration et informations sur les cookies</b></a><br/>
+  <sub>26 nov 2015</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -58,7 +58,7 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 ### Dernières mises à jour
 
 - ★ 6 · [**Ether-Remix**](https://github.com/Aerya/Ether-Remix)
-  Ether, enrichi d’un catalogue français, de bibliothèques personnalisées et du streaming musical.
+  Ether-Remix est un fork d'Ether, un serveur multimédia à la demande, enrichi d'un catalogue français, de bibliothèques personnalisées et du streaming musical. Il intègre des sources debrid/Usenet, des clients pour diverses applications (Plex, Jellyfin, Emby, etc.) et permet la gestion de vidéos locales et de playlists musicales.
 
 - [**scrob-arvio**](https://github.com/Aerya/scrob-arvio)
   Ce fork de Scrob ajoute l'historique Bingebase automatique, le suivi des envois, les mises à jour officielles automatiques et la migration des anciennes installations. ARVIO est maintenant intégré à Scrob officiel.
