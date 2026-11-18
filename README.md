@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2026/08/04/bingebase-et-scrob-alternatives-a-trakt-tv/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/08/10-300x300.png" width="120" alt="Bingebase et Scrob : alternatives à Trakt.tv" /></a>
-  <a href="https://upandclear.org/2026/08/04/bingebase-et-scrob-alternatives-a-trakt-tv/"><b>Bingebase et Scrob : alternatives à Trakt.tv</b></a><br/>
-  <sub>4 août 2026</sub>
+  <a href="https://upandclear.org/2015/09/03/la-vision-reductrice-et-clickbait-du-deepweb/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="La vision réductrice et clickbait du deepweb" /></a>
+  <a href="https://upandclear.org/2015/09/03/la-vision-reductrice-et-clickbait-du-deepweb/"><b>La vision réductrice et clickbait du deepweb</b></a><br/>
+  <sub>3 sep 2015</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
