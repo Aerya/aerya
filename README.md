@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2015/09/03/la-vision-reductrice-et-clickbait-du-deepweb/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/06/upandclear-generic-header-300x300.png" width="120" alt="La vision réductrice et clickbait du deepweb" /></a>
-  <a href="https://upandclear.org/2015/09/03/la-vision-reductrice-et-clickbait-du-deepweb/"><b>La vision réductrice et clickbait du deepweb</b></a><br/>
-  <sub>3 sep 2015</sub>
+  <a href="https://upandclear.org/2016/04/03/jackett-votre-moteur-de-recherche-bittorrent-personnalise/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2016/04/Sélection_008-300x300.png" width="120" alt="Jackett : votre moteur de recherche BitTorrent personnalisé" /></a>
+  <a href="https://upandclear.org/2016/04/03/jackett-votre-moteur-de-recherche-bittorrent-personnalise/"><b>Jackett : votre moteur de recherche BitTorrent personnalisé</b></a><br/>
+  <sub>3 avr 2016</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,34 +57,37 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
-- ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
-  Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion via une API REST.
-
-- [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
-  Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
-
-- ★ 7 · [**Ether-Remix**](https://github.com/Aerya/Ether-Remix)
-  Ether, enrichi d’un catalogue français, de bibliothèques personnalisées et du streaming musical.
-
 - ★ 160 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Fork de Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
-- [**scrob-arvio**](https://github.com/Aerya/scrob-arvio)
-  Ce fork de Scrob ajoute l'historique Bingebase automatique, le suivi des envois, les mises à jour officielles automatiques et la migration des anciennes installations. ARVIO est maintenant intégré à Scrob officiel.
+- ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
+  Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion via une API REST.
 
 - ★ 44 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
   Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
 
+- [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
+  Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
+
+- [**Planet-Warez-Markdown-menu**](https://github.com/Aerya/Planet-Warez-Markdown-menu)
+  Ce script JavaScript ajoute une barre d'outils Markdown avec prévisualisation en direct aux zones de texte, notamment pour Planet-Warez, et s'installe facilement via des gestionnaires de scripts.
+
+- ★ 7 · [**Ether-Remix**](https://github.com/Aerya/Ether-Remix)
+  Ether-Remix est un fork de Ether, axé sur un catalogue français, des bibliothèques personnalisées et le streaming musical. Il intègre des fonctionnalités pour gérer les vidéos locales, diverses sources de contenu et la musique, tout en s'adaptant aux applications existantes comme Plex ou Jellyfin.
+
+- [**scrob-arvio**](https://github.com/Aerya/scrob-arvio)
+  Ce fork de Scrob ajoute l'historique Bingebase automatique, le suivi des envois, les mises à jour officielles automatiques et la migration des anciennes installations. ARVIO est maintenant intégré à Scrob officiel.
+
 - [**npm-to-npg**](https://github.com/Aerya/npm-to-npg)
   Ce script Python interactif migre les hôtes de Nginx Proxy Manager vers Nginx Proxy Guard, en supportant le français et l'anglais. Il gère les certificats et les configurations de base, mais ignore les configurations avancées.
-
-- ★ 16 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
-  Projet public GitHub maintenu dans le cadre de mes outils et expérimentations personnelles.
 
 ---
 
 <details>
 <summary>Autres repos</summary>
+
+- ★ 16 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
+  Projet public GitHub maintenu dans le cadre de mes outils et expérimentations personnelles.
 
 - ★ 5 · [**stremio-rss-catalog**](https://github.com/Aerya/stremio-rss-catalog)
   Addon Stremio qui génère des catalogues depuis des flux RSS, Prowlarr ou NZBHydra2. Il permet d'intégrer des sources personnalisées directement dans Stremio.
@@ -151,9 +154,6 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 
 - ★ 1 · [**PornScout**](https://github.com/Aerya/PornScout)
   PornScout est un userscript pour Tampermonkey/Violentmonkey qui compare les releases torrents, recherche de meilleures versions sur divers trackers et les envoie vers des clients BitTorrent configurés. Il supporte plusieurs trackers et clients, avec des options de configuration avancées pour la qualité et les tags.
-
-- [**Planet-Warez-Markdown-menu**](https://github.com/Aerya/Planet-Warez-Markdown-menu)
-  Menu Markdown rapide pour Plaanet-Warez
 
 - ★ 4 · [**LaCaleNormale**](https://github.com/Aerya/LaCaleNormale)
   Menus "normaux" pour LaCale
