@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2016/04/03/jackett-votre-moteur-de-recherche-bittorrent-personnalise/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2016/04/Sélection_008-300x300.png" width="120" alt="Jackett : votre moteur de recherche BitTorrent personnalisé" /></a>
-  <a href="https://upandclear.org/2016/04/03/jackett-votre-moteur-de-recherche-bittorrent-personnalise/"><b>Jackett : votre moteur de recherche BitTorrent personnalisé</b></a><br/>
-  <sub>3 avr 2016</sub>
+  <a href="https://upandclear.org/2017/09/11/installer-facilement-des-applications-sur-linux-bureauserveur-sans-docker-flatpak-snap-appimage/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2017/09/screenshot-2-300x300.png" width="120" alt="Installer facilement des applications sur Linux (bureau/serveur) sans Docker : Flatpak, Snap, Appimage" /></a>
+  <a href="https://upandclear.org/2017/09/11/installer-facilement-des-applications-sur-linux-bureauserveur-sans-docker-flatpak-snap-appimage/"><b>Installer facilement des applications sur Linux (bureau/serveur) sans Docker : Flatpak, Snap, Appimage</b></a><br/>
+  <sub>11 sep 2017</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,7 +57,10 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
-- ★ 160 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+- [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
+  Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
+
+- ★ 161 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Fork de Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
 - ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
@@ -65,9 +68,6 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 
 - ★ 44 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
   Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
-
-- [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
-  Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
 - [**Planet-Warez-Markdown-menu**](https://github.com/Aerya/Planet-Warez-Markdown-menu)
   Ce script JavaScript ajoute une barre d'outils Markdown avec prévisualisation en direct aux zones de texte, notamment pour Planet-Warez, et s'installe facilement via des gestionnaires de scripts.
