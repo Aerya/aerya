@@ -14,30 +14,30 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Les derniers
 
 <p>
-  <a href="https://upandclear.org/2026/11/16/seedstrem-laddon-stremio-pour-telecharger-seeder-des-torrents/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/11/2026-11-16_09-52-300x300.png" width="72" alt="SeedStrem : l’addon Stremio pour télécharger/seeder des torrents" /></a>
+  <a href="https://upandclear.org/2026/11/19/typetype-un-youtube-auto-heberge-sans-pub-ni-pistage-et-gare-a-adguard/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/11/typetype-une-300x300.png" width="72" alt="TypeType : un YouTube auto-hébergé, sans pub ni pistage (et gare à AdGuard)" /></a>
+  <a href="https://upandclear.org/2026/11/19/typetype-un-youtube-auto-heberge-sans-pub-ni-pistage-et-gare-a-adguard/"><b>TypeType : un YouTube auto-hébergé, sans pub ni pistage (et gare à AdGuard)</b></a><br/>
+  <sub>19 nov 2026</sub>
+</p>
+<br clear="left"/>
+
+<p>
+  <a href="https://upandclear.org/2026/11/16/seedstrem-laddon-stremio-pour-telecharger-seeder-des-torrents/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/11/une-4498-300x300.jpg" width="72" alt="SeedStrem : l’addon Stremio pour télécharger/seeder des torrents" /></a>
   <a href="https://upandclear.org/2026/11/16/seedstrem-laddon-stremio-pour-telecharger-seeder-des-torrents/"><b>SeedStrem : l’addon Stremio pour télécharger/seeder des torrents</b></a><br/>
   <sub>16 nov 2026</sub>
 </p>
 <br clear="left"/>
 
 <p>
-  <a href="https://upandclear.org/2026/11/14/ether-remix-votre-mediatheque-vos-sources-vos-regles/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/11/18-300x300.png" width="72" alt="Ether-Remix : votre médiathèque, vos sources, vos règles" /></a>
+  <a href="https://upandclear.org/2026/11/14/ether-remix-votre-mediatheque-vos-sources-vos-regles/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/11/une-4472-300x300.jpg" width="72" alt="Ether-Remix : votre médiathèque, vos sources, vos règles" /></a>
   <a href="https://upandclear.org/2026/11/14/ether-remix-votre-mediatheque-vos-sources-vos-regles/"><b>Ether-Remix : votre médiathèque, vos sources, vos règles</b></a><br/>
   <sub>14 nov 2026</sub>
 </p>
 <br clear="left"/>
 
 <p>
-  <a href="https://upandclear.org/2026/11/14/nginx-proxy-guard-le-nginx-proxy-manager-doppe-ddns-waf-sso-fail2ban-loadbalancing/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/11/screenshot-2026-11-14-at-11-31-46-maison---nginx-proxy-guard-300x300.png" width="72" alt="Nginx Proxy Guard : le Nginx Proxy Manager doppé (DDNS, WAF, SSO, Fail2Ban, LoadBalancing…)" /></a>
+  <a href="https://upandclear.org/2026/11/14/nginx-proxy-guard-le-nginx-proxy-manager-doppe-ddns-waf-sso-fail2ban-loadbalancing/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/11/une-4458-300x300.jpg" width="72" alt="Nginx Proxy Guard : le Nginx Proxy Manager doppé (DDNS, WAF, SSO, Fail2Ban, LoadBalancing…)" /></a>
   <a href="https://upandclear.org/2026/11/14/nginx-proxy-guard-le-nginx-proxy-manager-doppe-ddns-waf-sso-fail2ban-loadbalancing/"><b>Nginx Proxy Guard : le Nginx Proxy Manager doppé (DDNS, WAF, SSO, Fail2Ban, LoadBalancing…)</b></a><br/>
   <sub>14 nov 2026</sub>
-</p>
-<br clear="left"/>
-
-<p>
-  <a href="https://upandclear.org/2026/11/08/ether-tout-tmdb-et-iptv-dans-un-serveur-plex-jellyfin-emby-emule-en-streaming-usenet-bittorrent-et-debrideurs/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/10/ether-02-catalogue-300x300.png" width="72" alt="Ether : tout TMDB (et IPTV) dans un serveur Plex/Jellyfin/Emby émulé, en streaming Usenet, BitTorrent et débrideurs" /></a>
-  <a href="https://upandclear.org/2026/11/08/ether-tout-tmdb-et-iptv-dans-un-serveur-plex-jellyfin-emby-emule-en-streaming-usenet-bittorrent-et-debrideurs/"><b>Ether : tout TMDB (et IPTV) dans un serveur Plex/Jellyfin/Emby émulé, en streaming Usenet, BitTorrent et débrideurs</b></a><br/>
-  <sub>8 nov 2026</sub>
 </p>
 <br clear="left"/>
 
@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2017/09/11/installer-facilement-des-applications-sur-linux-bureauserveur-sans-docker-flatpak-snap-appimage/"><img align="left" src="https://upandclear.org/wp-content/uploads/legacy-import/content/images/wordpress/2017/09/screenshot-2-300x300.png" width="120" alt="Installer facilement des applications sur Linux (bureau/serveur) sans Docker : Flatpak, Snap, Appimage" /></a>
-  <a href="https://upandclear.org/2017/09/11/installer-facilement-des-applications-sur-linux-bureauserveur-sans-docker-flatpak-snap-appimage/"><b>Installer facilement des applications sur Linux (bureau/serveur) sans Docker : Flatpak, Snap, Appimage</b></a><br/>
-  <sub>11 sep 2017</sub>
+  <a href="https://upandclear.org/2016/06/27/va-faire-tout-noir-soyoustart-so-you-shut-the-fuck-up/"><img align="left" src="https://upandclear.org/wp-content/uploads/2016/06/une-3574-300x300.jpg" width="120" alt="Va faire tout noir ! SoYouStart, So You Shut the fuck up (?)" /></a>
+  <a href="https://upandclear.org/2016/06/27/va-faire-tout-noir-soyoustart-so-you-shut-the-fuck-up/"><b>Va faire tout noir ! SoYouStart, So You Shut the fuck up (?)</b></a><br/>
+  <sub>27 jun 2016</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,23 +57,23 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
+- ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
+  Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion via une API REST.
+
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
-- ★ 161 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
-  Fork de Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
+- ★ 7 · [**Ether-Remix**](https://github.com/Aerya/Ether-Remix)
+  Ether-Remix est un serveur multimédia à la demande basé sur Ether, enrichi d'un catalogue français, de bibliothèques personnalisées et du streaming musical. Il permet de centraliser films, séries, animés et musique depuis diverses sources (locales, debrid, Usenet) et de les lire dans vos applications habituelles.
 
-- ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
-  Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion via une API REST.
+- ★ 163 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+  Fork de Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
 - ★ 44 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
   Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
 
 - [**Planet-Warez-Markdown-menu**](https://github.com/Aerya/Planet-Warez-Markdown-menu)
   Ce script JavaScript ajoute une barre d'outils Markdown avec prévisualisation en direct aux zones de texte, notamment pour Planet-Warez, et s'installe facilement via des gestionnaires de scripts.
-
-- ★ 7 · [**Ether-Remix**](https://github.com/Aerya/Ether-Remix)
-  Ether-Remix est un fork de Ether, axé sur un catalogue français, des bibliothèques personnalisées et le streaming musical. Il intègre des fonctionnalités pour gérer les vidéos locales, diverses sources de contenu et la musique, tout en s'adaptant aux applications existantes comme Plex ou Jellyfin.
 
 - [**scrob-arvio**](https://github.com/Aerya/scrob-arvio)
   Ce fork de Scrob ajoute l'historique Bingebase automatique, le suivi des envois, les mises à jour officielles automatiques et la migration des anciennes installations. ARVIO est maintenant intégré à Scrob officiel.
