@@ -14,6 +14,13 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Les derniers
 
 <p>
+  <a href="https://upandclear.org/2026/11/19/mediatracker-suivi-de-films-et-series-telechargement-ddl-via-alldebrid-aria2-et-ruche-dans-une-seule-app/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/11/mediatracker-une-300x300.png" width="72" alt="MediaTracker : suivi de films et séries, téléchargement (DDL via AllDebrid/aria2) et « ruche » dans une seule app" /></a>
+  <a href="https://upandclear.org/2026/11/19/mediatracker-suivi-de-films-et-series-telechargement-ddl-via-alldebrid-aria2-et-ruche-dans-une-seule-app/"><b>MediaTracker : suivi de films et séries, téléchargement (DDL via AllDebrid/aria2) et « ruche » dans une seule app</b></a><br/>
+  <sub>19 nov 2026</sub>
+</p>
+<br clear="left"/>
+
+<p>
   <a href="https://upandclear.org/2026/11/19/typetype-un-youtube-auto-heberge-sans-pub-ni-pistage-et-gare-a-adguard/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/11/typetype-une-300x300.png" width="72" alt="TypeType : un YouTube auto-hébergé, sans pub ni pistage (et gare à AdGuard)" /></a>
   <a href="https://upandclear.org/2026/11/19/typetype-un-youtube-auto-heberge-sans-pub-ni-pistage-et-gare-a-adguard/"><b>TypeType : un YouTube auto-hébergé, sans pub ni pistage (et gare à AdGuard)</b></a><br/>
   <sub>19 nov 2026</sub>
@@ -34,20 +41,13 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 </p>
 <br clear="left"/>
 
-<p>
-  <a href="https://upandclear.org/2026/11/14/nginx-proxy-guard-le-nginx-proxy-manager-doppe-ddns-waf-sso-fail2ban-loadbalancing/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/11/une-4458-300x300.jpg" width="72" alt="Nginx Proxy Guard : le Nginx Proxy Manager doppé (DDNS, WAF, SSO, Fail2Ban, LoadBalancing…)" /></a>
-  <a href="https://upandclear.org/2026/11/14/nginx-proxy-guard-le-nginx-proxy-manager-doppe-ddns-waf-sso-fail2ban-loadbalancing/"><b>Nginx Proxy Guard : le Nginx Proxy Manager doppé (DDNS, WAF, SSO, Fail2Ban, LoadBalancing…)</b></a><br/>
-  <sub>14 nov 2026</sub>
-</p>
-<br clear="left"/>
-
 
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2016/06/27/va-faire-tout-noir-soyoustart-so-you-shut-the-fuck-up/"><img align="left" src="https://upandclear.org/wp-content/uploads/2016/06/une-3574-300x300.jpg" width="120" alt="Va faire tout noir ! SoYouStart, So You Shut the fuck up (?)" /></a>
-  <a href="https://upandclear.org/2016/06/27/va-faire-tout-noir-soyoustart-so-you-shut-the-fuck-up/"><b>Va faire tout noir ! SoYouStart, So You Shut the fuck up (?)</b></a><br/>
-  <sub>27 jun 2016</sub>
+  <a href="https://upandclear.org/2016/09/29/script-simpliste-de-creation-de-torrent/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/11/upandclear-generique-300x300.jpg" width="120" alt="Script (simpliste) de création de .torrent" /></a>
+  <a href="https://upandclear.org/2016/09/29/script-simpliste-de-creation-de-torrent/"><b>Script (simpliste) de création de .torrent</b></a><br/>
+  <sub>29 sep 2016</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,17 +57,17 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
-- ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
-  Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion via une API REST.
-
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
-- ★ 7 · [**Ether-Remix**](https://github.com/Aerya/Ether-Remix)
-  Ether-Remix est un serveur multimédia à la demande basé sur Ether, enrichi d'un catalogue français, de bibliothèques personnalisées et du streaming musical. Il permet de centraliser films, séries, animés et musique depuis diverses sources (locales, debrid, Usenet) et de les lire dans vos applications habituelles.
+- ★ 8 · [**Ether-Remix**](https://github.com/Aerya/Ether-Remix)
+  Ether-Remix est un serveur multimédia à la demande, basé sur Ether, qui intègre un catalogue français, des bibliothèques personnalisées et le streaming musical. Il permet de centraliser vos sources locales et distantes pour une lecture fluide dans vos applications habituelles.
 
 - ★ 163 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Fork de Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
+
+- ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
+  Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion via une API REST.
 
 - ★ 44 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
   Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
