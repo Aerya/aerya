@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2025/08/27/swaparr-degager-les-torrents-bloques-des-arrs-stalled/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/11/upandclear-generique-300x300.jpg" width="120" alt="Swaparr : dégager les Torrents bloqués des *arrs (stalled)" /></a>
-  <a href="https://upandclear.org/2025/08/27/swaparr-degager-les-torrents-bloques-des-arrs-stalled/"><b>Swaparr : dégager les Torrents bloqués des *arrs (stalled)</b></a><br/>
-  <sub>27 août 2025</sub>
+  <a href="https://upandclear.org/2016/04/22/manage-this-portail-htpc-complet-ou-presque/"><img align="left" src="https://upandclear.org/wp-content/uploads/2016/04/une-3533-300x300.jpg" width="120" alt="Manage this : portail HTPC complet (ou presque)" /></a>
+  <a href="https://upandclear.org/2016/04/22/manage-this-portail-htpc-complet-ou-presque/"><b>Manage this : portail HTPC complet (ou presque)</b></a><br/>
+  <sub>22 avr 2016</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,16 +57,16 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
-- ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
-  Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion via une API REST.
-
 - ★ 8 · [**Ether-Remix**](https://github.com/Aerya/Ether-Remix)
   Ether-Remix est un serveur multimédia à la demande, basé sur Ether, qui intègre un catalogue français, des bibliothèques personnalisées et le streaming musical. Il permet de centraliser vos sources locales et distantes pour une lecture fluide dans vos applications habituelles.
+
+- ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
+  Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion via une API REST.
 
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
-- ★ 163 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+- ★ 164 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Fork de Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
 - ★ 44 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
