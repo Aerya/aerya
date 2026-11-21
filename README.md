@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2016/04/22/manage-this-portail-htpc-complet-ou-presque/"><img align="left" src="https://upandclear.org/wp-content/uploads/2016/04/une-3533-300x300.jpg" width="120" alt="Manage this : portail HTPC complet (ou presque)" /></a>
-  <a href="https://upandclear.org/2016/04/22/manage-this-portail-htpc-complet-ou-presque/"><b>Manage this : portail HTPC complet (ou presque)</b></a><br/>
-  <sub>22 avr 2016</sub>
+  <a href="https://upandclear.org/2016/03/21/dooms-back-bientot/"><img align="left" src="https://upandclear.org/wp-content/uploads/2016/03/une-3509-300x300.jpg" width="120" alt="Doom’s back (bientôt)" /></a>
+  <a href="https://upandclear.org/2016/03/21/dooms-back-bientot/"><b>Doom’s back (bientôt)</b></a><br/>
+  <sub>21 mar 2016</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,8 +57,8 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
-- ★ 8 · [**Ether-Remix**](https://github.com/Aerya/Ether-Remix)
-  Ether-Remix est un serveur multimédia à la demande, basé sur Ether, qui intègre un catalogue français, des bibliothèques personnalisées et le streaming musical. Il permet de centraliser vos sources locales et distantes pour une lecture fluide dans vos applications habituelles.
+- [**scrob-arvio**](https://github.com/Aerya/scrob-arvio)
+  Ce fork de Scrob ajoute l'historique Bingebase automatique, le suivi des envois, les mises à jour officielles automatiques et la migration des anciennes installations. ARVIO est maintenant intégré à Scrob officiel.
 
 - ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
   Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion via une API REST.
@@ -66,17 +66,17 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
-- ★ 164 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
-  Fork de Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
+- ★ 8 · [**Ether-Remix**](https://github.com/Aerya/Ether-Remix)
+  Ether-Remix est un serveur multimédia à la demande, basé sur Ether, qui agrège vos sources locales et distantes avec un catalogue orienté français, des bibliothèques personnalisées et un suivi par spectateur. Il prend en charge les films, séries, animés et la musique, s'adaptant aux applications existantes comme Plex ou Jellyfin.
 
 - ★ 44 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
   Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
 
+- ★ 164 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+  Fork de Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
+
 - [**Planet-Warez-Markdown-menu**](https://github.com/Aerya/Planet-Warez-Markdown-menu)
   Ce script JavaScript ajoute une barre d'outils Markdown avec prévisualisation en direct aux zones de texte, notamment pour Planet-Warez, et s'installe facilement via des gestionnaires de scripts.
-
-- [**scrob-arvio**](https://github.com/Aerya/scrob-arvio)
-  Ce fork de Scrob ajoute l'historique Bingebase automatique, le suivi des envois, les mises à jour officielles automatiques et la migration des anciennes installations. ARVIO est maintenant intégré à Scrob officiel.
 
 - [**npm-to-npg**](https://github.com/Aerya/npm-to-npg)
   Ce script Python interactif migre les hôtes de Nginx Proxy Manager vers Nginx Proxy Guard, en supportant le français et l'anglais. Il gère les certificats et les configurations de base, mais ignore les configurations avancées.
