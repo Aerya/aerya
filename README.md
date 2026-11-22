@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2016/04/09/deja-dup-backup-graphique-ultra-simple-et-chiffre-duplicity/"><img align="left" src="https://upandclear.org/wp-content/uploads/2016/04/une-3524-300x300.jpg" width="120" alt="Déjà-dup : backup graphique ultra simple et chiffré (duplicity)" /></a>
-  <a href="https://upandclear.org/2016/04/09/deja-dup-backup-graphique-ultra-simple-et-chiffre-duplicity/"><b>Déjà-dup : backup graphique ultra simple et chiffré (duplicity)</b></a><br/>
-  <sub>9 avr 2016</sub>
+  <a href="https://upandclear.org/2022/02/18/archlinux-remote-desktop-sur-proxmox-nomachine/"><img align="left" src="https://upandclear.org/wp-content/uploads/2022/02/une-3986-300x300.jpg" width="120" alt="Manjaro Archlinux remote desktop sur Proxmox (nomachine)" /></a>
+  <a href="https://upandclear.org/2022/02/18/archlinux-remote-desktop-sur-proxmox-nomachine/"><b>Manjaro Archlinux remote desktop sur Proxmox (nomachine)</b></a><br/>
+  <sub>18 fév 2022</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,20 +57,20 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
-- ★ 6 · [**stremio-rss-catalog**](https://github.com/Aerya/stremio-rss-catalog)
-  Addon Stremio qui génère des catalogues depuis des flux RSS, Prowlarr ou NZBHydra2. Il permet d'intégrer des sources personnalisées directement dans Stremio.
-
-- ★ 8 · [**Ether-Remix**](https://github.com/Aerya/Ether-Remix)
-  Ether-Remix est un serveur multimédia à la demande, basé sur Ether, qui enrichit le catalogue avec des sources françaises, des bibliothèques personnalisées et le streaming musical. Il intègre vos fichiers locaux et sources distantes pour une expérience unifiée.
-
-- [**scrob-arvio**](https://github.com/Aerya/scrob-arvio)
-  Ce fork de Scrob ajoute l'historique Bingebase automatique, le suivi des envois, les mises à jour officielles automatiques et la migration des anciennes installations. ARVIO est maintenant intégré à Scrob officiel.
-
 - ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
   Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion via une API REST.
 
+- ★ 8 · [**Ether-Remix**](https://github.com/Aerya/Ether-Remix)
+  Ether-Remix est un serveur multimédia à la demande, basé sur Ether, qui propose un catalogue orienté français, des bibliothèques personnalisées et le streaming musical. Il intègre vos sources distantes et fichiers locaux, avec un suivi par spectateur et une compatibilité avec diverses applications.
+
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
+
+- ★ 6 · [**stremio-rss-catalog**](https://github.com/Aerya/stremio-rss-catalog)
+  Addon Stremio qui génère des catalogues depuis des flux RSS, Prowlarr ou NZBHydra2. Il permet d'intégrer des sources personnalisées directement dans Stremio.
+
+- [**scrob-arvio**](https://github.com/Aerya/scrob-arvio)
+  Ce fork de Scrob ajoute l'historique Bingebase automatique, le suivi des envois, les mises à jour officielles automatiques et la migration des anciennes installations. ARVIO est maintenant intégré à Scrob officiel.
 
 - ★ 44 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
   Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
