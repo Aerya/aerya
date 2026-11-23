@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2015/08/23/livestreamer-twitch-sans-navigateur/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/11/upandclear-generique-300x300.jpg" width="120" alt="Livestreamer : Twitch sans navigateur" /></a>
-  <a href="https://upandclear.org/2015/08/23/livestreamer-twitch-sans-navigateur/"><b>Livestreamer : Twitch sans navigateur</b></a><br/>
-  <sub>23 août 2015</sub>
+  <a href="https://upandclear.org/2022/02/15/synchroniser-des-remotes-rclone/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/11/upandclear-generique-300x300.jpg" width="120" alt="Synchroniser des remotes rClone" /></a>
+  <a href="https://upandclear.org/2022/02/15/synchroniser-des-remotes-rclone/"><b>Synchroniser des remotes rClone</b></a><br/>
+  <sub>15 fév 2022</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,43 +57,49 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
-- ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
-  Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion via une API REST.
-
-- ★ 8 · [**Ether-Remix**](https://github.com/Aerya/Ether-Remix)
-  Ether-Remix est un serveur multimédia à la demande, basé sur Ether, qui propose un catalogue orienté français, des bibliothèques personnalisées et le streaming musical. Il intègre vos sources distantes et fichiers locaux, avec un suivi par spectateur et une compatibilité avec diverses applications.
-
-- [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
-  Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
-
-- ★ 6 · [**stremio-rss-catalog**](https://github.com/Aerya/stremio-rss-catalog)
-  Addon Stremio qui génère des catalogues depuis des flux RSS, Prowlarr ou NZBHydra2. Il permet d'intégrer des sources personnalisées directement dans Stremio.
+- ★ 44 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
+  Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
 
 - [**scrob-arvio**](https://github.com/Aerya/scrob-arvio)
   Ce fork de Scrob ajoute l'historique Bingebase automatique, le suivi des envois, les mises à jour officielles automatiques et la migration des anciennes installations. ARVIO est maintenant intégré à Scrob officiel.
 
-- ★ 44 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
-  Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
+- ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
+  Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion via une API REST.
+
+- ★ 1 · [**Shield-Controller**](https://github.com/Aerya/Shield-Controller)
+  Shield Controller permet de gérer votre NVIDIA Shield / Android TV depuis un navigateur, offrant des fonctionnalités telles que le contrôle à distance, la gestion des applications et des informations système détaillées.
+
+- [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
+  Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
+
+- ★ 8 · [**Ether-Remix**](https://github.com/Aerya/Ether-Remix)
+  Ether-Remix est un serveur multimédia à la demande basé sur Ether, enrichi d'un catalogue français, de bibliothèques personnalisées et du streaming musical. Il intègre vos sources locales et distantes, avec une orientation française pour les films, séries, animés et la musique.
+
+- ★ 16 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
+  Projet public GitHub maintenu dans le cadre de mes outils et expérimentations personnelles.
 
 - ★ 169 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Fork de Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
-
-- [**Planet-Warez-Markdown-menu**](https://github.com/Aerya/Planet-Warez-Markdown-menu)
-  Ce script JavaScript ajoute une barre d'outils Markdown avec prévisualisation en direct aux zones de texte, notamment pour Planet-Warez, et s'installe facilement via des gestionnaires de scripts.
 
 ---
 
 <details>
 <summary>Autres repos</summary>
 
-- [**npm-to-npg**](https://github.com/Aerya/npm-to-npg)
-  Ce script Python interactif migre les hôtes de Nginx Proxy Manager vers Nginx Proxy Guard, en supportant le français et l'anglais. Il gère les certificats et les configurations de base, mais ignore les configurations avancées.
-
-- ★ 16 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
-  Projet public GitHub maintenu dans le cadre de mes outils et expérimentations personnelles.
+- [**PHPSysInfo-Docker**](https://github.com/Aerya/PHPSysInfo-Docker)
+  Conteneur Docker pour phpSysInfo, qui affiche les informations système et matérielles d'un hôte dans une interface web.
 
 - ★ 6 · [**nexotv-enhanced**](https://github.com/Aerya/nexotv-enhanced)
   NexoTV Enhanced est un addon Stremio pour IPTV, fork de joaosavi/nexotv, offrant des chaînes TV en direct, des catalogues de films et séries, et des options de configuration avancées. Il inclut la gestion multi-source, la sélection de catégories, l'enrichissement TMDB et des sauvegardes de configuration.
+
+- ★ 6 · [**stremio-rss-catalog**](https://github.com/Aerya/stremio-rss-catalog)
+  Addon Stremio qui génère des catalogues depuis des flux RSS, Prowlarr ou NZBHydra2. Il permet d'intégrer des sources personnalisées directement dans Stremio.
+
+- [**Planet-Warez-Markdown-menu**](https://github.com/Aerya/Planet-Warez-Markdown-menu)
+  Ce script JavaScript ajoute une barre d'outils Markdown avec prévisualisation en direct aux zones de texte, notamment pour Planet-Warez, et s'installe facilement via des gestionnaires de scripts.
+
+- [**npm-to-npg**](https://github.com/Aerya/npm-to-npg)
+  Ce script Python interactif migre les hôtes de Nginx Proxy Manager vers Nginx Proxy Guard, en supportant le français et l'anglais. Il gère les certificats et les configurations de base, mais ignore les configurations avancées.
 
 - ★ 5 · [**Stremio-Seerr-Catalog**](https://github.com/Aerya/Stremio-Seerr-Catalog)
   Addon Stremio qui expose les requêtes Over, Jelly ou Seerr sous forme de catalogues. Il fait le lien entre l'écosystème Seerr/Radarr/Sonarr et Stremio.
@@ -101,17 +107,11 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - [**MiniVid**](https://github.com/Aerya/MiniVid)
   Application pour indexer, lire, taguer et mettre en favoris des vidéos locales. Elle vise une gestion simple d'une bibliothèque vidéo personnelle.
 
-- ★ 1 · [**Shield-Controller**](https://github.com/Aerya/Shield-Controller)
-  Shield Controller permet de gérer votre NVIDIA Shield / Android TV depuis un navigateur, offrant des fonctionnalités telles que le contrôle à distance, la gestion des applications et des informations système détaillées.
-
 - ★ 2 · [**ProxySpin**](https://github.com/Aerya/ProxySpin)
   Proxy HTTP rotatif et anonymisant basé sur Tor et des proxys publics. Il fournit aussi un panneau de contrôle web et une extension navigateur.
 
 - [**cronitor-cli-docker**](https://github.com/Aerya/cronitor-cli-docker)
   Image Docker non officielle pour cronitorio/cronitor-cli, construite automatiquement. Pratique pour utiliser le CLI Cronitor dans des stacks conteneurisées.
-
-- [**PHPSysInfo-Docker**](https://github.com/Aerya/PHPSysInfo-Docker)
-  Conteneur Docker pour phpSysInfo, qui affiche les informations système et matérielles d'un hôte dans une interface web.
 
 - [**claudecodeui-docker**](https://github.com/Aerya/claudecodeui-docker)
   Image Docker GHCR personnelle pour CloudCLI et Claude Code UI. Le dépôt automatise le packaging afin de déployer l'interface plus facilement.
