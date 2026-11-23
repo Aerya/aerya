@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2022/02/18/archlinux-remote-desktop-sur-proxmox-nomachine/"><img align="left" src="https://upandclear.org/wp-content/uploads/2022/02/une-3986-300x300.jpg" width="120" alt="Manjaro Archlinux remote desktop sur Proxmox (nomachine)" /></a>
-  <a href="https://upandclear.org/2022/02/18/archlinux-remote-desktop-sur-proxmox-nomachine/"><b>Manjaro Archlinux remote desktop sur Proxmox (nomachine)</b></a><br/>
-  <sub>18 fév 2022</sub>
+  <a href="https://upandclear.org/2015/08/23/livestreamer-twitch-sans-navigateur/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/11/upandclear-generique-300x300.jpg" width="120" alt="Livestreamer : Twitch sans navigateur" /></a>
+  <a href="https://upandclear.org/2015/08/23/livestreamer-twitch-sans-navigateur/"><b>Livestreamer : Twitch sans navigateur</b></a><br/>
+  <sub>23 août 2015</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -75,7 +75,7 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - ★ 44 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
   Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
 
-- ★ 165 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+- ★ 169 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Fork de Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
 - [**Planet-Warez-Markdown-menu**](https://github.com/Aerya/Planet-Warez-Markdown-menu)
