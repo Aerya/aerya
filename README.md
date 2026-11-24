@@ -14,6 +14,13 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Les derniers
 
 <p>
+  <a href="https://upandclear.org/2026/11/24/rolling-release-et-ia-mon-garuda-serait-il-plus-sur-que-mes-serveurs-debian/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/11/garuda-rolling-release-une-300x300.png" width="72" alt="Rolling release et IA : mon Garuda serait-il plus sûr que mes serveurs Debian ?" /></a>
+  <a href="https://upandclear.org/2026/11/24/rolling-release-et-ia-mon-garuda-serait-il-plus-sur-que-mes-serveurs-debian/"><b>Rolling release et IA : mon Garuda serait-il plus sûr que mes serveurs Debian ?</b></a><br/>
+  <sub>24 nov 2026</sub>
+</p>
+<br clear="left"/>
+
+<p>
   <a href="https://upandclear.org/2026/11/19/mediatracker-suivi-de-films-et-series-telechargement-ddl-via-alldebrid-aria2-et-ruche-dans-une-seule-app/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/11/mediatracker-une-300x300.png" width="72" alt="MediaTracker : suivi de films et séries, téléchargement (DDL via AllDebrid/aria2) et « ruche » dans une seule app" /></a>
   <a href="https://upandclear.org/2026/11/19/mediatracker-suivi-de-films-et-series-telechargement-ddl-via-alldebrid-aria2-et-ruche-dans-une-seule-app/"><b>MediaTracker : suivi de films et séries, téléchargement (DDL via AllDebrid/aria2) et « ruche » dans une seule app</b></a><br/>
   <sub>19 nov 2026</sub>
@@ -34,20 +41,13 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 </p>
 <br clear="left"/>
 
-<p>
-  <a href="https://upandclear.org/2026/11/14/ether-remix-votre-mediatheque-vos-sources-vos-regles/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/11/une-4472-300x300.jpg" width="72" alt="Ether-Remix : votre médiathèque, vos sources, vos règles" /></a>
-  <a href="https://upandclear.org/2026/11/14/ether-remix-votre-mediatheque-vos-sources-vos-regles/"><b>Ether-Remix : votre médiathèque, vos sources, vos règles</b></a><br/>
-  <sub>14 nov 2026</sub>
-</p>
-<br clear="left"/>
-
 
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2024/06/15/nzbget-notifications-discord/"><img align="left" src="https://upandclear.org/wp-content/uploads/2024/06/une-146-300x300.jpg" width="120" alt="NZBGet : notifications Discord" /></a>
-  <a href="https://upandclear.org/2024/06/15/nzbget-notifications-discord/"><b>NZBGet : notifications Discord</b></a><br/>
-  <sub>15 jun 2024</sub>
+  <a href="https://upandclear.org/2025/05/11/gamsgo-le-partage-de-comptes-netflix-d-crunchyroll-spotify-tidal-youtube-etc/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/05/une-618-300x300.jpg" width="120" alt="GamsGO : le partage de comptes Netflix, D+, Crunchyroll, Spotify, Tidal, YouTube etc" /></a>
+  <a href="https://upandclear.org/2025/05/11/gamsgo-le-partage-de-comptes-netflix-d-crunchyroll-spotify-tidal-youtube-etc/"><b>GamsGO : le partage de comptes Netflix, D+, Crunchyroll, Spotify, Tidal, YouTube etc</b></a><br/>
+  <sub>11 mai 2025</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -59,6 +59,12 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 
 - ★ 8 · [**Ether-Remix**](https://github.com/Remix-Media/Ether-Remix)
   Ether-Remix est un serveur multimédia à la demande basé sur Ether, enrichi d'un catalogue français, de bibliothèques personnalisées et du streaming musical. Il agrège vos sources distantes et fichiers locaux pour une lecture fluide dans vos applications habituelles.
+
+- [**remix-docker-mirror**](https://github.com/Aerya/remix-docker-mirror)
+  Ce dépôt maintient un miroir des images Docker de Remix pour assurer la compatibilité avec les installations existantes. Il synchronise les versions `latest` et courante vers un autre registre sans reconstruire les images.
+
+- ★ 169 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+  Fork de Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
 - ★ 44 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
   Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
@@ -75,16 +81,13 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
-- ★ 16 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
-  Projet public GitHub maintenu dans le cadre de mes outils et expérimentations personnelles.
-
-- ★ 169 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
-  Fork de Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
-
 ---
 
 <details>
 <summary>Autres repos</summary>
+
+- ★ 16 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
+  Projet public GitHub maintenu dans le cadre de mes outils et expérimentations personnelles.
 
 - [**PHPSysInfo-Docker**](https://github.com/Aerya/PHPSysInfo-Docker)
   Conteneur Docker pour phpSysInfo, qui affiche les informations système et matérielles d'un hôte dans une interface web.
