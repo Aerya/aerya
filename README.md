@@ -57,7 +57,7 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
-- ★ 8 · [**Ether-Remix**](https://github.com/Aerya/Ether-Remix)
+- ★ 8 · [**Ether-Remix**](https://github.com/Remix-Media/Ether-Remix)
   Ether-Remix est un serveur multimédia à la demande basé sur Ether, enrichi d'un catalogue français, de bibliothèques personnalisées et du streaming musical. Il agrège vos sources distantes et fichiers locaux pour une lecture fluide dans vos applications habituelles.
 
 - ★ 44 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)

@@ -42,12 +42,6 @@
       "summary": "Fork de Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.",
       "updated_at": "2026-11-24T04:13:57+00:00"
     },
-    "Aerya/Ether-Remix": {
-      "fingerprint": "5b1c310b574cc142a40d615a003aed388b1279eb50be1b8c2af7081d0c231123",
-      "source": "openrouter",
-      "summary": "Ether-Remix est un serveur multimédia à la demande basé sur Ether, enrichi d'un catalogue français, de bibliothèques personnalisées et du streaming musical. Il agrège vos sources distantes et fichiers locaux pour une lecture fluide dans vos applications habituelles.",
-      "updated_at": "2026-11-24T04:13:55+00:00"
-    },
     "Aerya/Gluetun-Companion": {
       "fingerprint": "fba29a1426c385775caf0dbe5f74111ba6bb9ceaa75992c9622948b3ba453dcf",
       "source": "github-description",
@@ -233,6 +227,12 @@
       "source": "github-description",
       "summary": "UserScript pour télécharger les .torrent d'une page",
       "updated_at": "2026-06-10T12:39:09+00:00"
+    },
+    "Remix-Media/Ether-Remix": {
+      "fingerprint": "5b1c310b574cc142a40d615a003aed388b1279eb50be1b8c2af7081d0c231123",
+      "source": "manual",
+      "summary": "Ether-Remix est un serveur multimédia à la demande basé sur Ether, enrichi d'un catalogue français, de bibliothèques personnalisées et du streaming musical. Il agrège vos sources distantes et fichiers locaux pour une lecture fluide dans vos applications habituelles.",
+      "updated_at": "2026-11-24T04:13:55+00:00"
     },
     "Tracker-Dashboard/tracker-dashboard": {
       "fingerprint": "1a289df400ee18715bc475afa85fb21a38325b025a68123fa137250bf3e0138f",
