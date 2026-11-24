@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2025/05/11/gamsgo-le-partage-de-comptes-netflix-d-crunchyroll-spotify-tidal-youtube-etc/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/05/une-618-300x300.jpg" width="120" alt="GamsGO : le partage de comptes Netflix, D+, Crunchyroll, Spotify, Tidal, YouTube etc" /></a>
-  <a href="https://upandclear.org/2025/05/11/gamsgo-le-partage-de-comptes-netflix-d-crunchyroll-spotify-tidal-youtube-etc/"><b>GamsGO : le partage de comptes Netflix, D+, Crunchyroll, Spotify, Tidal, YouTube etc</b></a><br/>
-  <sub>11 mai 2025</sub>
+  <a href="https://upandclear.org/2026/01/03/seerrcatalog-laddon-over-jelly-seerr-pour-stremio/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/01/une-2404-300x300.jpg" width="120" alt="SeerrCatalog : l’addon Over/Jelly/Seerr pour Stremio" /></a>
+  <a href="https://upandclear.org/2026/01/03/seerrcatalog-laddon-over-jelly-seerr-pour-stremio/"><b>SeerrCatalog : l’addon Over/Jelly/Seerr pour Stremio</b></a><br/>
+  <sub>3 jan 2026</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -59,6 +59,12 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 
 - ★ 8 · [**Ether-Remix**](https://github.com/Remix-Media/Ether-Remix)
   Ether-Remix est un serveur multimédia à la demande basé sur Ether, enrichi d'un catalogue français, de bibliothèques personnalisées et du streaming musical. Il agrège vos sources distantes et fichiers locaux pour une lecture fluide dans vos applications habituelles.
+
+- ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
+  Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion via une API REST.
+
+- [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
+  Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
 - [**remix-docker-mirror**](https://github.com/Aerya/remix-docker-mirror)
   Ce dépôt maintient un miroir des images Docker de Remix pour assurer la compatibilité avec les installations existantes. Il synchronise les versions `latest` et courante vers un autre registre sans reconstruire les images.
@@ -72,14 +78,8 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - [**scrob-arvio**](https://github.com/Aerya/scrob-arvio)
   Ce fork de Scrob ajoute l'historique Bingebase automatique, le suivi des envois, les mises à jour officielles automatiques et la migration des anciennes installations. ARVIO est maintenant intégré à Scrob officiel.
 
-- ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
-  Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion via une API REST.
-
 - ★ 1 · [**Shield-Controller**](https://github.com/Aerya/Shield-Controller)
   Shield Controller permet de gérer votre NVIDIA Shield / Android TV depuis un navigateur, offrant des fonctionnalités telles que le contrôle à distance, la gestion des applications et des informations système détaillées.
-
-- [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
-  Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
 ---
 
