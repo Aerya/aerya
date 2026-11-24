@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2022/02/15/synchroniser-des-remotes-rclone/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/11/upandclear-generique-300x300.jpg" width="120" alt="Synchroniser des remotes rClone" /></a>
-  <a href="https://upandclear.org/2022/02/15/synchroniser-des-remotes-rclone/"><b>Synchroniser des remotes rClone</b></a><br/>
-  <sub>15 fév 2022</sub>
+  <a href="https://upandclear.org/2024/06/15/nzbget-notifications-discord/"><img align="left" src="https://upandclear.org/wp-content/uploads/2024/06/une-146-300x300.jpg" width="120" alt="NZBGet : notifications Discord" /></a>
+  <a href="https://upandclear.org/2024/06/15/nzbget-notifications-discord/"><b>NZBGet : notifications Discord</b></a><br/>
+  <sub>15 jun 2024</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -56,6 +56,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 
 <!-- REPOS:START -->
 ### Dernières mises à jour
+
+- ★ 8 · [**Ether-Remix**](https://github.com/Aerya/Ether-Remix)
+  Ether-Remix est un serveur multimédia à la demande basé sur Ether, enrichi d'un catalogue français, de bibliothèques personnalisées et du streaming musical. Il agrège vos sources distantes et fichiers locaux pour une lecture fluide dans vos applications habituelles.
 
 - ★ 44 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
   Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
@@ -71,9 +74,6 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
-
-- ★ 8 · [**Ether-Remix**](https://github.com/Aerya/Ether-Remix)
-  Ether-Remix est un serveur multimédia à la demande basé sur Ether, enrichi d'un catalogue français, de bibliothèques personnalisées et du streaming musical. Il intègre vos sources locales et distantes, avec une orientation française pour les films, séries, animés et la musique.
 
 - ★ 16 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
   Projet public GitHub maintenu dans le cadre de mes outils et expérimentations personnelles.
