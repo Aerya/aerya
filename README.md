@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2021/12/12/ferdi-le-docker-a-change-attention-a-la-maj/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/11/upandclear-generique-300x300.jpg" width="120" alt="Ferdi: le Docker a changé, attention à la MàJ… (qui va foirer)" /></a>
-  <a href="https://upandclear.org/2021/12/12/ferdi-le-docker-a-change-attention-a-la-maj/"><b>Ferdi: le Docker a changé, attention à la MàJ… (qui va foirer)</b></a><br/>
-  <sub>12 déc 2021</sub>
+  <a href="https://upandclear.org/2015/10/02/adblock-revend-bien-les-donnees-clients/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/11/upandclear-generique-300x300.jpg" width="120" alt="AdBlock revend bien les données clients" /></a>
+  <a href="https://upandclear.org/2015/10/02/adblock-revend-bien-les-donnees-clients/"><b>AdBlock revend bien les données clients</b></a><br/>
+  <sub>2 oct 2015</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,20 +57,20 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
-- ★ 8 · [**Ether-Remix**](https://github.com/Remix-Media/Ether-Remix)
-  Ether-Remix est un serveur multimédia à la demande basé sur Ether, enrichi d'un catalogue français, de bibliothèques personnalisées et du streaming musical. Il agrège vos sources distantes et fichiers locaux pour une lecture fluide dans vos applications habituelles.
-
 - ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
   Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion via une API REST.
 
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
+- ★ 8 · [**Ether-Remix**](https://github.com/Remix-Media/Ether-Remix)
+  Ether-Remix est un serveur multimédia à la demande basé sur Ether, enrichi d'un catalogue français, de bibliothèques personnalisées et du streaming musical. Il agrège vos sources distantes et fichiers locaux pour une lecture fluide dans vos applications habituelles.
+
+- ★ 171 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+  Fork de Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
+
 - [**remix-docker-mirror**](https://github.com/Aerya/remix-docker-mirror)
   Ce dépôt maintient un miroir des images Docker de Remix pour assurer la compatibilité avec les installations existantes. Il synchronise les versions `latest` et courante vers un autre registre sans reconstruire les images.
-
-- ★ 169 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
-  Fork de Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
 - ★ 44 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
   Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
