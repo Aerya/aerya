@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2017/09/07/ubooquity-2-x-le-lancer-sur-linux-et-synology/"><img align="left" src="https://upandclear.org/wp-content/uploads/2017/09/une-3759-300x300.jpg" width="120" alt="Ubooquity 2.x : le lancer sur Linux et Synology" /></a>
-  <a href="https://upandclear.org/2017/09/07/ubooquity-2-x-le-lancer-sur-linux-et-synology/"><b>Ubooquity 2.x : le lancer sur Linux et Synology</b></a><br/>
-  <sub>7 sep 2017</sub>
+  <a href="https://upandclear.org/2016/06/26/scp-ssh-booster-la-vitesse-de-transfert/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/11/upandclear-generique-300x300.jpg" width="120" alt="SCP (SSH) : booster la vitesse de transfert" /></a>
+  <a href="https://upandclear.org/2016/06/26/scp-ssh-booster-la-vitesse-de-transfert/"><b>SCP (SSH) : booster la vitesse de transfert</b></a><br/>
+  <sub>26 jun 2016</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,14 +57,14 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
+- ★ 8 · [**Ether-Remix**](https://github.com/Remix-Media/Ether-Remix)
+  Ether-Remix est un serveur multimédia à la demande basé sur Ether, enrichi d'un catalogue français, de bibliothèques personnalisées et du streaming musical. Il agrège vos sources distantes et fichiers locaux pour une lecture fluide dans vos applications habituelles.
+
 - ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
   Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion via une API REST.
 
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
-
-- ★ 8 · [**Ether-Remix**](https://github.com/Remix-Media/Ether-Remix)
-  Ether-Remix est un serveur multimédia à la demande basé sur Ether, enrichi d'un catalogue français, de bibliothèques personnalisées et du streaming musical. Il agrège vos sources distantes et fichiers locaux pour une lecture fluide dans vos applications habituelles.
 
 - ★ 171 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Fork de Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
