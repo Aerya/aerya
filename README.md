@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2015/10/02/adblock-revend-bien-les-donnees-clients/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/11/upandclear-generique-300x300.jpg" width="120" alt="AdBlock revend bien les données clients" /></a>
-  <a href="https://upandclear.org/2015/10/02/adblock-revend-bien-les-donnees-clients/"><b>AdBlock revend bien les données clients</b></a><br/>
-  <sub>2 oct 2015</sub>
+  <a href="https://upandclear.org/2017/09/07/ubooquity-2-x-le-lancer-sur-linux-et-synology/"><img align="left" src="https://upandclear.org/wp-content/uploads/2017/09/une-3759-300x300.jpg" width="120" alt="Ubooquity 2.x : le lancer sur Linux et Synology" /></a>
+  <a href="https://upandclear.org/2017/09/07/ubooquity-2-x-le-lancer-sur-linux-et-synology/"><b>Ubooquity 2.x : le lancer sur Linux et Synology</b></a><br/>
+  <sub>7 sep 2017</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
