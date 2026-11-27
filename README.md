@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2016/06/26/scp-ssh-booster-la-vitesse-de-transfert/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/11/upandclear-generique-300x300.jpg" width="120" alt="SCP (SSH) : booster la vitesse de transfert" /></a>
-  <a href="https://upandclear.org/2016/06/26/scp-ssh-booster-la-vitesse-de-transfert/"><b>SCP (SSH) : booster la vitesse de transfert</b></a><br/>
-  <sub>26 jun 2016</sub>
+  <a href="https://upandclear.org/2026/08/04/bingebase-et-scrob-alternatives-a-trakt-tv/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/08/une-4262-300x300.jpg" width="120" alt="Bingebase et Scrob : alternatives à Trakt.tv" /></a>
+  <a href="https://upandclear.org/2026/08/04/bingebase-et-scrob-alternatives-a-trakt-tv/"><b>Bingebase et Scrob : alternatives à Trakt.tv</b></a><br/>
+  <sub>4 août 2026</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
