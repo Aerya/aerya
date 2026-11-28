@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2025/12/09/truenas-ce-le-gestionnaire-de-stockage-basique-et-simple/"><img align="left" src="https://upandclear.org/wp-content/uploads/2025/12/une-2327-300x300.jpg" width="120" alt="TrueNAS CE : le gestionnaire de stockage basique et simple" /></a>
-  <a href="https://upandclear.org/2025/12/09/truenas-ce-le-gestionnaire-de-stockage-basique-et-simple/"><b>TrueNAS CE : le gestionnaire de stockage basique et simple</b></a><br/>
-  <sub>9 déc 2025</sub>
+  <a href="https://upandclear.org/2026/10/05/powerwatch-surveiller-la-consommation-electrique-de-ses-machines/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/10/une-4410-300x300.jpg" width="120" alt="PowerWatch : surveiller la consommation électrique de ses machines" /></a>
+  <a href="https://upandclear.org/2026/10/05/powerwatch-surveiller-la-consommation-electrique-de-ses-machines/"><b>PowerWatch : surveiller la consommation électrique de ses machines</b></a><br/>
+  <sub>5 oct 2026</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -57,6 +57,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 <!-- REPOS:START -->
 ### Dernières mises à jour
 
+- ★ 8 · [**Ether-Remix**](https://github.com/Remix-Media/Ether-Remix)
+  Ether-Remix est un serveur multimédia à la demande basé sur Ether, enrichi d'un catalogue français, de bibliothèques personnalisées et du streaming musical. Il agrège vos sources distantes et fichiers locaux pour une lecture fluide dans vos applications habituelles.
+
 - ★ 171 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
   Fork de Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
 
@@ -65,9 +68,6 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
-
-- ★ 8 · [**Ether-Remix**](https://github.com/Remix-Media/Ether-Remix)
-  Ether-Remix est un serveur multimédia à la demande basé sur Ether, enrichi d'un catalogue français, de bibliothèques personnalisées et du streaming musical. Il agrège vos sources distantes et fichiers locaux pour une lecture fluide dans vos applications habituelles.
 
 - ★ 16 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
   Gluetun Companion est une interface web Python pour gérer le container Gluetun, permettant de piloter automatiquement les serveurs VPN WireGuard/OpenVPN, de les benchmark, de gérer les containers dépendants et d'offrir des fonctionnalités avancées comme le port forwarding et les notifications. Le projet est en bêta, principalement testé avec AirVPN, et recherche des retours sur d'autres fournisseurs et configurations
