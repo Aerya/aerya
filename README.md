@@ -45,9 +45,9 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 #### Au hasard du blog
 
 <p>
-  <a href="https://upandclear.org/2026/10/05/powerwatch-surveiller-la-consommation-electrique-de-ses-machines/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/10/une-4410-300x300.jpg" width="120" alt="PowerWatch : surveiller la consommation électrique de ses machines" /></a>
-  <a href="https://upandclear.org/2026/10/05/powerwatch-surveiller-la-consommation-electrique-de-ses-machines/"><b>PowerWatch : surveiller la consommation électrique de ses machines</b></a><br/>
-  <sub>5 oct 2026</sub>
+  <a href="https://upandclear.org/2022/01/21/android-12-snow-cone-pour-samsung-galaxy-note-9/"><img align="left" src="https://upandclear.org/wp-content/uploads/2026/11/upandclear-generique-300x300.jpg" width="120" alt="Android 12 « Snow Cone » pour Samsung Galaxy Note 9" /></a>
+  <a href="https://upandclear.org/2022/01/21/android-12-snow-cone-pour-samsung-galaxy-note-9/"><b>Android 12 « Snow Cone » pour Samsung Galaxy Note 9</b></a><br/>
+  <sub>21 jan 2022</sub>
 </p>
 <br clear="left"/>
 <!-- BLOG:END -->
@@ -60,23 +60,23 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - ★ 8 · [**Ether-Remix**](https://github.com/Remix-Media/Ether-Remix)
   Ether-Remix est un serveur multimédia à la demande basé sur Ether, enrichi d'un catalogue français, de bibliothèques personnalisées et du streaming musical. Il agrège vos sources distantes et fichiers locaux pour une lecture fluide dans vos applications habituelles.
 
-- ★ 171 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
-  Fork de Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
-
 - ★ 1 · [**ddns-updater-enhanced**](https://github.com/Aerya/ddns-updater-enhanced)
   Ce projet Go, DDNS Updater Enhanced, offre un outil de mise à jour DNS dynamique avec une interface web complète pour gérer les entrées. Il prend en charge plus de 50 fournisseurs DNS et permet la gestion via une API REST.
 
 - [**AdGuardFilters-pour-iOS**](https://github.com/Aerya/AdGuardFilters-pour-iOS)
   Filtres AdGuard optimisés pour iOS, destinés à renforcer le blocage sur mobile. Le dépôt sert de source maintenue pour appliquer ces règles facilement.
 
+- ★ 174 · [**Dockge-Enhanced**](https://github.com/Aerya/Dockge-Enhanced)
+  Fork de Dockge qui ajoute surveillance d'images, scans Trivy, sauvegardes Restic et suivi des ressources Docker. Pensé pour centraliser la maintenance d'un homelab.
+
+- ★ 44 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
+  Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
+
 - ★ 16 · [**Gluetun-Companion**](https://github.com/Aerya/Gluetun-Companion)
   Gluetun Companion est une interface web Python pour gérer le container Gluetun, permettant de piloter automatiquement les serveurs VPN WireGuard/OpenVPN, de les benchmark, de gérer les containers dépendants et d'offrir des fonctionnalités avancées comme le port forwarding et les notifications. Le projet est en bêta, principalement testé avec AirVPN, et recherche des retours sur d'autres fournisseurs et configurations
 
 - [**remix-docker-mirror**](https://github.com/Aerya/remix-docker-mirror)
   Ce dépôt maintient un miroir des images Docker de Remix pour assurer la compatibilité avec les installations existantes. Il synchronise les versions `latest` et courante vers un autre registre sans reconstruire les images.
-
-- ★ 44 · [**tracker-dashboard**](https://github.com/Tracker-Dashboard/tracker-dashboard)
-  Tableau de bord qui regroupe les statistiques importantes de trackers au même endroit. Il évite d'ouvrir chaque service séparément pour suivre l'activité.
 
 - [**scrob-arvio**](https://github.com/Aerya/scrob-arvio)
   Ce fork de Scrob ajoute l'historique Bingebase automatique, le suivi des envois, les mises à jour officielles automatiques et la migration des anciennes installations. ARVIO est maintenant intégré à Scrob officiel.
@@ -92,10 +92,10 @@ J'écris aussi sur tout ça sur **[upandclear.org](https://upandclear.org)**.
 - [**PHPSysInfo-Docker**](https://github.com/Aerya/PHPSysInfo-Docker)
   Conteneur Docker pour phpSysInfo, qui affiche les informations système et matérielles d'un hôte dans une interface web.
 
-- ★ 6 · [**nexotv-enhanced**](https://github.com/Aerya/nexotv-enhanced)
+- ★ 5 · [**nexotv-enhanced**](https://github.com/Aerya/nexotv-enhanced)
   NexoTV Enhanced est un addon Stremio pour IPTV, fork de joaosavi/nexotv, offrant des chaînes TV en direct, des catalogues de films et séries, et des options de configuration avancées. Il inclut la gestion multi-source, la sélection de catégories, l'enrichissement TMDB et des sauvegardes de configuration.
 
-- ★ 6 · [**stremio-rss-catalog**](https://github.com/Aerya/stremio-rss-catalog)
+- ★ 5 · [**stremio-rss-catalog**](https://github.com/Aerya/stremio-rss-catalog)
   Addon Stremio qui génère des catalogues depuis des flux RSS, Prowlarr ou NZBHydra2. Il permet d'intégrer des sources personnalisées directement dans Stremio.
 
 - [**Planet-Warez-Markdown-menu**](https://github.com/Aerya/Planet-Warez-Markdown-menu)
